@@ -1,0 +1,967 @@
+<title>Calliandra calothyrsus - Production and use: A Field Manual</title>
+Editor:
+Mark H. Powell
+Forest, Farm, and
+Community Tree Network
+© Winrock International Institute for Agricultural Development, 1997
+All rights reserved. No part of this publication may be reproduced without written permission from the copyright owner.
+Powell, M. H., editor.
+Calliandra calothyrsus production and use: A field manual
+Published by Winrock International and the Taiwan Forestry Research Institute with financial support from the Council of Agriculture, Taiwan, Republic of China. Published in cooperation with the Agency for Forestry Research and Development, Ministry of Forestry, Republic of Indonesia; the Forestry Research Program on behalf of the Overseas Development Administration, United Kingdom; and the United States Department of Agriculture, Forest Service, Tropical Forestry Program.
+Winrock International
+Forest, Farm, and Community Tree Network (FACT Net)
+38 Winrock Drive
+Morrilton, Arkansas 72110-9370, USA
+Telephone: 1-501-727-5435
+Facsimile: 1-501-727-5417
+E-mail: forestry@msmail.winrock.org
+Taiwan Forestry Research Institute
+53 Nan-Hai Road
+Taipei, Taiwan
+Telephone: 886-2-381-7107
+Facsimile: 886-2-314-2234
+Council of Agriculture, Executive Yuan
+37 Nan-Hai Road
+Taipei, Taiwan, Republic of China
+The Forest, Farm, and Community Tree Network is an international organization of 2,000 community groups, development workers, tree breeders, scientists and farmers. Through research, extension and communications activities, FACT Net provides the skills and resources necessary to introduce, improve, and manage multipurpose trees for economic and environmental benefits. FACT Net is a program of the Winrock International Institute for Agricultural Development, a non-profit organization in the United States of America.
+Photographs on front cover (clockwise from upper left): D. J. Maqueen, M. H. Powell, M. H. Shelton, and J. M. Roshetko
+Graphics by Mark H. Powell
+<section>Preface</section>
+The genus Calliandra contains 132 species. Most are endemic to the Americas, but a few species are endemic to the South Asian subcontinent or Africa, including Madagascar. Most species are shrubs or small trees, although a few are large trees or herbs. Native to Central America and Mexico, Calliandra calothyrsus is the most widely used species in the genus. In 1936, Indonesian foresters planted C. calothyrsus in screening trials to evaluate its potential as a shade tree for coffee plantations. Although the species proved unsuitable for this use in Indonesia, farmers on Java have planted C. calothyrsus widely for fuelwood production and land reclamation. It is also planted for green manure, animal fodder, bee forage, and pulpwood.
+The successful use of C. calothyrsus in Indonesia has stimulated global interest in the genus, and trials are in progress in countries throughout the tropics to evaluate Calliandra species and their potential uses in agroforestry systems. Through its international Calliandra network, the Oxford Forestry Institute (OFI) is taking a lead role in the investigation of genetic variation within the genus. OFI has sent Calliandra seed to researchers in 120 countries for the establishment of species and provenance trials and seed-production activities.
+In January 1996, Winrock International, the Indonesian Ministry of Forestry's Agency for Forestry Research and Development, and the Forestry Research Program on behalf of the Overseas Development Administration (UK) held an international workshop to discuss recent and current research and development activities focusing on the genus Calliandra. In addition to the workshop organizers, the United States Department of Agriculture, Forest Service, Tropical Forestry Program (USDA/FS/TFP), the Taiwan Forestry Research Institute and Council of Agriculture, and the Rockefeller Brothers Fund provided financial support for the workshop, in-kind support, or support for individual participants.
+The workshop took place from 23 to 27 January 1996 in Bogor, Indonesia. The objectives were to:
+o Report and exchange information on Calliandra production in a variety of sites and under a variety of management conditions
+o Explore the potential of Calliandra species for use in small farming systems
+Thirty-nine participants from 14 countries shared their research and observations. Winrock International has published selected papers presented at the workshop in a proceedings volume.
+During the workshop, working groups summarized current knowledge on Calliandra botany and ecology. They also prepared summaries on seed collection and production, establishment methods, uses, and fodder-production systems, focusing on C. calothyrsus. The summaries were used to prepare this field manual on C. calothyrsus production and use. Copies of the workshop publications, the field manual and the proceedings volume, are available from Winrock International.
+Winrock International's Forest, Farm, and Community Tree Network (FACT Net), which helped organize this workshop, was formerly known as the Nitrogen Fixing Tree Association (NFTA). Since 1982, NFTA/FACT Net has cosponsored 20 international workshops on important nitrogen fixing tree (NFT) species and on other agroforestry topics. These workshops have been instrumental in demonstrating the value and promoting the use of many NFT species. The Calliandra workshop was the last in a series of five funded in large part with a grant from the USDA/FS/TFP. Previous workshops in the series focused on the genus Dalbergia, NFTs for acid soils, Albizia and Paraserianthes species, and NFTs for fodder production. We believe that this series of workshops has expanded knowledge of NFT species and has provided foresters, development workers, and farmers with useful information.
+Mark H. Powell and James M. Roshetho, Winrock International
+<section>Acknowledgments</section>
+My sincere thanks go to the institutions and individuals who made the international Calliandra workshop a success. Members of the workshop steering committee were: Ngaloken Gintings, Mohamid Rosid, Dedeh, Syamsudin, Hayati Yusuf, and Agus Sukardi of the Agency for Forestry Research and Development, Ministry of Forestry of the Republic of Indonesia; Alan Pottinger of the Oxford Forestry Institute; and Dale Evans of the University of Hawaii. A special thanks go to Dr. Gintings and his staff for their hospitality and kindness, and to Dr. Hsu-Ho Chung of the Taiwan Forestry Research Institute for arranging the printing and distribution of this field manual.
+Winrock International and the Agency for Forestry Research and Development, Ministry of Forestry of the Republic of Indonesia gratefully acknowledge financial support for the workshop provided by:
+o United States Department of Agriculture, Forest Service, Tropical Forestry Program (USDA/FS/TFP)
+o Forestry Research Program on behalf of the Overseas Development Administration, United Kingdom
+o Taiwan Forestry Research Institute and Council of Agriculture
+o Rockefeller Brothers Fund
+In addition to providing financial support for the workshop, the USDA/FS/TFP provided support for the publication of this field manual. The Taiwan Forestry Research Institute arranged printing and distribution, with financial support from the Taiwan Council of Agriculture.
+A special thanks also go to the authors of the individual chapters in this field manual. They worked diligently both during and after the workshop to make this manual as complete and accurate as possible. In addition to the authors listed at the beginning of each chapter, Steve Krecik, Junus Kartasubrata, Brian Palmer, Duncan Macqueen, Joanne Chamberlain, and Bahiru Duguma provided valuable comments on Chapter 3.
+Sidney B. Westley edited the text, and Jim Roshetko provided technical assistance. Doris Cook keyed in text. Diane Michels proofread the final draft. Again, my sincere thanks to all these individuals and institutions.
+Mark H. Powell, Editor
+<section>1. Botany and Ecology</section>
+Duncan Macqueen
+The genus Calliandra belongs to the family Leguminosae, subfamily Mimosoideae and tribe Ingae. Calliandra is a large genus with about 132 species from North and South America, 9 species from Madagascar, 2 species from Africa and 2 species from the Indian subcontinent. The center of diversity of the genus is in the state of Bahia, Brazil. There is a secondary center of diversity in southern Mexico and Guatemala. Many of these species are mostly shrubs or small trees, although occasionally they are herbs or larger trees (for example the species C. stipulaceae grows to 25 m). Most of the species do not have spines, although there are rare exceptions such as C. umbrosa from India.
+Many species of Calliandra are found in humid lowland forest, often along river banks or in the forest understory. Some species, however, are found in montane vegetation (for example C. hirsuta), while others are found in arid scrub (for example C. californica).
+Despite the broad range of localities and habitats in which Calliandra species occur, there are a number of features which make the genus easy to identify. The leaves of all species have a main axis from which secondary axes branch in pairs opposite one another. Pairs of leaflets are arranged along the secondary axes. On the leaves of some species there are only two secondary axes with a single pair of leaflets on each. On the leaves of other species there are numerous pairs of secondary axes and numerous pairs of leaflets. Uniquely, in a single Calliandra species, C. hymenaeodes leaflets branch off one central axis.
+The flowers of all Calliandra species occur in clusters or semispherical heads. In some species these clusters are arranged in staggered groups towards the end of a flowering axis. The latter type of arrangement is called a raceme. The flowers themselves are almost always cup-shaped with five small petals arranged regularly. Many long white or red filaments extend beyond the floral cup. They are always joined into a tube at the base and are at least twice as long as the flower itself. Sometimes within the group of flowers in a head only the central few produce nectar and are functional. In these cases the outer flowers simple help to attract pollinators. In some species a small percentage of the flowers only have the male pollen producing parts, and these flowers are interspersed with bisexual flowers.
+Calliandra flowers open at night and are usually pollinated by bats or moths which drink the nectar produced in the base of the floral cup. In the single species C. schultzei the flower petals are arranged irregularly and the principle pollinator is a species of hummingbird.
+The fruit of all Calliandra species are straight (or slightly curved), flattened pods with raised margins. The pods split explosively from the tip to release seed. This particular mechanism of seed dispersal is found in only a few other genera, and in those genera it is always associated with very different floral structures. Appendix D gives morphological and seedling keys to the identification of some Calliandra species.
+Calliandra calothyrsus
+Distribution
+The species C. calothyrsus is unique within the genus in terms of its wide international use as an agroforestry multipurpose tree. It occurs naturally in Mexico and Central America from the state of Colima. Mexico. down to the north coast of central
+Panama. In 1936 seed was sent from south Guatemala to Java in Indonesia. This seed was most probably collected from the Guatemalan provenance 'Santa Maria de Jesus'. By 1974, village based trials had been set up to assess the species suitability for the reforestation of eroded land around villages. C. calothyrsus proved well suited to a range of agroforestry systems and was promoted by the Indonesian state forestry sector for widespread planting. From Java it was introduced to many other Indonesian islands. Its popularity soon generated interest elsewhere and seed was sent to many countries in Africa, Asia and even back to Central America.
+At the same time, in the early 1980s, the Costa Rican institute, CATIE, made a collection of seed from a limited number of provenances in Guatemala, Costa Rica and Honduras for trials in Central America.
+In 1990 the Oxford Forestry Institute began a range wide collection of seed which was completed in 1993. The collection included 50 provenances from the eight countries within the species range. The seed was then sent out to 32 countries for the purpose of species and provenance evaluation. Consequently, populations of the species now exist in South America, Africa, Asia and Oceania and it can truly be said to have a pan-tropical distribution.
+Botany
+Calliandra calothyrsus is a small branching tree growing to a maximum height of 12 m and to a maximum basal stem diameter of 20 cm. The stems have red or pale gray bark covered in small, pale, oval lenticels. Towards the tip the stems tend to be ridged, and in trees with red-brown bark the final stem portion may be tinged with red coloring. Beneath the stem, the root system consists of several deep tap roots and a maze of finer roots which extend outwards just beneath the soil surface. In the presence of the correct rhizobia and mycorrhiza, nodules and fungal associations form. In some populations the species has been shown to develop from root suckers so that an apparent clump of bushes may in fact be one single individual.
+The species has soft leaves divided into many straight leaflets. The leaves may reach 20 cm long and 15 cm wide and they fold against the stem at night. The leaf stalks are ridged with a groove on the upper surface, but they do not have glands between the pairs of secondary axes.
+In the native range flowering occurs throughout the year, but it tends to peak between July and March. The inflorescence develops in a terminal position. Several clusters of flowers develop around nodes up the axis. The flowers mature from the base to the tip over a period of many months. The flowers open for a single night with showy filaments which are usually white at the very base and red at the tip (although they may exceptionally be pink). By the next day, the filaments have wilted and unfertilized flowers drop.
+Pods take between two and four months to develop and when mature they may be 14 cm long and almost 2 cm wide. They are straight and mid-brown in color, and they contain 8-12 ovules which may develop into flattened oval seeds. The surface of mature seed is mottled brown and black, and it has a distinct marking in the shape of a horse shoe on both flattened surfaces. Mature seed reach 8 mm in length and are hard when pressed with a finger nail. In the native range, seed set peeks between the months of November and April. As the pods dry, tensions are created in the thickened pod margins which cause an explosive splitting from the tip. Seeds are ejected with a spinning motion and may fly up to 10 m.
+The seedling develops with the two fleshy cotyledons above the ground. The first leaf has only a single axis from which leaflets develop, but subsequent leaves are divided into secondary axes.
+The species has a number of common names in its local range, the most frequently used being 'cabello de angel' (meaning 'angel's hair') and 'barbe sol' (meaning 'the suns beard'). In Indonesia the species is referred to as 'Calliandra merah' (meaning 'red Calliandra').
+Taxonomy
+In Mexico and Central America, C. calothyrsus is one of seven naturally occurring species within a section of the genus called 'series Racemosae'. The name Racemosae indicates that these species have an elongated flowering axis (up to 40 cm long). The leaves of these seven species are also distinctive since many pairs of secondary axes branch off the primary leaf axis, and each secondary axis has many pairs of small leaflets (less than 2 cm long and 0.5 cm wide). In South America there are many similar looking species, but they either do not have such long flowering axes, or they have fewer divisions of the leaves.
+Calliandra calothyrsus can be distinguished from species of similar appearance by a unique combination of features. The species almost straight leaflets do not tend to overlap and they do not have a glossy upper surface. The leaves are soft and tend to fold when a leafy branch is cut. The small stipules (found in pairs at the base of the leaf stalk) are long and thin rather than oval, with a leafy texture when green. They almost always fall off on older stems. The stems, flowers and pods are almost always without hairs. The flower petals are delicate, smooth and green or pale yellow in color (rarely being tinged with red). The petals are never thick or woody and are never covered in hairs of any length or color.
+Ecology
+Calliandra calothyrsus occurs naturally along river banks, but will rapidly colonize any area of disturbed vegetation (for example roadsides). It is not particularly tolerant of shade and may soon be out-competed in secondary vegetation. It inhabits a range of sites within Mexico and Central America from sea level to an altitude of 1860 m. It primarily occurs in areas with a mean annual rainfall of between 1000 and 4000 mm, although exceptional populations occur in areas with only 800 mm annual rainfall. It principally occurs in areas with 2-4 months dry season (with less than 50 mm rainfall per month). On occasions, however, specimens have been found in areas with a dry season as long as 6 months. It occupies areas with a mean annual minimum temperature of 18-22° C. It is not frost tolerant. Within its natural distribution it occurs on a variety of soils and appears to be tolerant of slightly acid soils with pH values around 4.5. It does not tolerate soils with poor
+drainage which are regularly inundated.
+Morphological variation
+There is considerable morphological variation between different populations of C. calothyrsus. Certain geographical patterns present themselves, but the presence of numerous exceptions to these patterns has meant that no subspecies or varieties have yet been designated. Three particular trends of variation can be described.
+Along the Pacific coast to the north of the isthmus of Tehuantepec in Mexico and in Central Honduras and Nicaragua there is a tendency for the species to have whiter bark, flowers with more white at the base of the filaments and sparse short hairs on slightly smaller pods. The areas in which this trend is found tend to be the drier portions of the species range.
+In southern Mexico, Central Guatemala, Belize and northern Honduras there tend to be populations with red-brown bark, red flower filaments, and larger pods without any hairs. The trees in these populations tend to be taller in the native range, and occur in some of the wetter areas of the species natural distribution.
+Finally, in similarly wet areas of Costa Rica and Panama populations tend to have leaves with more pairs of secondary axes.
+<section>2. Seed Collection and Production</section>
+Joanne R. Chamberlain, Alan J. Poffinger, and Rajesh Rajaselvam
+Flowering and fruiting characteristics
+In many areas, Calliandra calothyrsus can flower throughout the year, but the species usually has a peak flowering period three months before the onset of the dry season. Buds are held on a racemose inflorescence and open sequentially from the base to the apex of the inflorescence. Each flower opens at approximately 1600 furs, remains receptive for one night only, and wilts the following day. An individual inflorescence can flower for 90 to 120 days. Calliandra calothyrsus is andromonecious, which means that the plant produces both hermaphrodite (bisexual) and staminate (functionally male) flowers. The staminate flowers lack the female parts (ovary, style, and stigma) and can never produce fruits. After the flowers are fertilized, mature fruits and seeds develop in approximately 90 days. The plant always produces more flowers than fruits: fruit-to-flower ratios of 1:20 are common.
+Pollination
+Calliandra calothyrsus is outcrossing and has a low tolerance of selfing The species is pollinated by bats (Chiroptera) and hawkmoths (Sphingidae). The most efficient pollinators are small, nectivorous bats in the subfamilies Glossophaginae (New World fruit bats) and Macroglossinae (Old World fruit bats), although larger, primarily fruit-eating bats are also efficient pollinators of the species. Bats pollinate C. calothyrsus by hovering over the flower for a second or two. They insert their long tongues into the base of the flower and drink the nectar. Sometimes, larger fruit-eating bats land on the inflorescence, which bends under the weight of the bat allowing access to the nectar. In Honduras, a small nectivorous bat, Glossophaga sp., has a very small foraging range (less than 600 m), but other, frugivorous bats can travel much greater distances (up to 50 km) for food.
+Seed production
+In its native range, C. calothyrsus generally forms small scattered populations within river systems and areas of disturbance. There is a great deal of variation in seed production, both between populations and within populations, from year to year. This variation may have a genetic basis (i.e. some populations are genetically better seed producers than others), or it may result from environmental factors such as climatic conditions or pollinator type. Calliandra calothyrsus produces less seed that several other multipurpose-tree species, such as Leucaena spp. or Gliricidia sepium, and is known as a shy seed-producer both in its native range and when planted as an exotic species.
+Seed collection, processing, and storage
+When collecting C. calothyrsus seed in the native range or from naturalized stands, pods should be sampled from trees spaced evenly and widely across a population. To prevent selecting seed from closely related individuals, sampling more than one tree in a patch of dense C. calothyrsus should be avoided. Pods should be collected from all positions in the crown. The pods of C. calothyrsus are dark brown and dry when ready for collection, and contain an average of five to eight seeds per pod. An individual tree may possess branches with pods at all stages of maturity, hence ripe pods can be collected from the same tree over a period of four to six weeks.
+The pods dehisce explosively and can scatter the mature seeds several meters from the tree. Seed can be collected by placing matting below and around trees that have mature pods and removing the dehisced seed from the matting on a daily basis. Alternatively, the mature pods can be hand-picked from the tree and left to dry in the sun under netting to extract the seed. Seed can also be extracted by hand but must be dry and hard to ensure good germination and viability. Once collected and extracted, the seed should be stored in sealed containers in a refrigerator at 4°C. Stored in this manner, C. calothyrsus seed can retain its viability for at least five years. If the seed is going to be planted soon after collection, it should be stored in sacks in a cool dry place and protected from pests such as rats or mice.
+Seed orchards
+To date, large quantities of Calliandra calothyrsus seed have only been collected from natural populations or naturalized stands. Seed orchards are currently being established in the native range and elsewhere in order to produce large quantities of seed with known and desirable traits, such as good wood production or forage quality. These seed orchards have not yet reached a productive stage, however.
+Seed orchards should be planted in an isolated site to reduce the risk of pollination from other, unselected sources and should be managed to produce frequent, abundant, and easily harvested seed crops. Although there has been little research on the best method of establishing C. calothyrsus seed orchards, it is possible to make some suggestions:
+1. The seed orchard should be located on a uniform site that is accessible and secure.
+2. It should be located away from other C. calothyrsus trees to make sure that the orchard trees are not contaminated by pollen from outside.
+3. One of two types of seed orchard can be established: (a) Seed is collected from individual trees and kept separate in "families." Seed or seedlings from these families are planted, and their identities are maintained. The performance of each family can be measured and ranked, and less-desirable families can be removed; (b) Seed is collected from individual trees and bulked, and seed or seedlings are planted from the bulk seedlot. The second type of seed orchard is simpler to establish and maintain than the first, and the seed crop will have a broader genetic base.
+4. The seed orchard can have a number of possible designs, but the pollinators require good access to the flowers to allow abundant seed production. Possible designs might include planting at a very wide spacing, such as 3 x 3 m, or planting in widely spaced rows, such as 2 x 4 m.
+5. Coppicing or pollarding can be used as a management technique to improve seed production and ease of collection.
+6. Early flowering in the seed orchard will not necessarily guarantee good seed yields in the first year, but seed production can be expected to improve with time.
+<section>3. Establishment</section>
+James M. Roshetko, Didier Lesueur, and JeanMichel Sarrailh
+Calliandra calothyrsus is adapted to a wide range of environments. When planting this species, however, it is important to use a provenance (seed source) that is known to perform well in an environment similar to that of the planting site. Additionally, the selected provenance should provide needed services or products such as control of soil erosion, overstory shade, and fuelwood, fodder, or seed production. Identifying the best provenance for a site will usually result in increased tree survival, growth, and productivity.
+Propagation
+Seed selection. Seed of C. calothyrsus is more delicate than seed of most other leguminous tree species. Some seedlots may germinate well during testing, yet produce weak seedlings that perform poorly in the nursery or field. To ensure high quality, only collect seed that is fully mature. Only purchase seed from reliable sources. At a minimum, sources should provide documentation on where the seed was collected, the number of trees the seed was collected from, and the date of collection. To maintain seed quality, always store seed under optimum conditions--in sealed containers in a refrigerator at 4°C.
+Seed treatment. Simple seed treatment can overcome the protective function of the seed coat and encourage good germination. Cutting or scraping a small hole through the seed coat, called "nicking," is recommended for small quantities of seed. A knife, nail-cutter, or file can be used for this procedure. To avoid damaging the seed embryo, cut the seed coat opposite the micropyle or hilum. After nicking, soak seed in cool water for 12 to 24 hours before sowing. The nicking treatment is not practical for large quantities of seed. Instead, soak seed in cool water for a minimum of 24 hours. With either treatment, seed should be sown immediately.
+Soaking seed in hot water for 2 to 5 minutes and then in cool water for 12 to 24 hours usually produces good results. However, soaking in very hot water may damage the seed. Test the hot-water treatment on small samples for different lengths of time before treating large quantities of seed. Mechanical scarification machines (similar to grist mills or threshers) have been used to scarify large quantities of seed quickly, but this method is inconsistent and sometimes damages the seed.
+Inoculation with Rhizobium. Like many other legumes, C. calothyrsus can form a symbiotic relationship with the soil bacterium, Rhizobium spp. The trees provide the rhizobia with carbohydrates for energy, and the rhizobia convert atmospheric nitrogen from the soil into a form that the trees can use. This process, called nitrogen fixation, occurs in nodules that develop on the roots of the trees.
+There are many strains of Rhizobium in different soils around the world, but only some strains form a symbiotic relationship with C. calothyrsus that leads to effective nitrogen fixation. It is easy to determine whether the rhizobial strains that occur naturally in your soil are fixing nitrogen. Simply check the roots of C. calothyrsus trees for nodulation. Nodules should be abundant, and when you cut them open they should be red or pink inside. If root nodules are green, brown, or black, they are not fixing nitrogen.
+In areas where C. calothyrsus is native or has been naturalized for some time, the soil may well contain rhizobia of the appropriate strains. If C. calothyrsus is not common to the area, however, or if the site is degraded, there may not be enough of the correct rhizobia in the soil to stimulate nitrogen fixation. In such situations, it is best to treat seed or seedlings with a selected strain of rhizobia to stimulate maximum nitrogen fixation. This process is called inoculation.
+For C. calothyrsus, the Nitrogen Fixation by Tropical Agricultural Legumes (NifTAL) Center in Hawaii recommends a mixture of rhizobial strains that are also compatible with Gliricidia septum and Leucaena leucocephala. If rhizobial strains are present in the soil, however, they may compete with introduced strains. Where indigenous rhizobia are present, trials should be conducted to compare tree growth in the presence of indigenous and introduced strains. The best-performing strains can then be chosen for inoculation.
+The material used to inoculate seed or seedlings is produced by isolating rhizobia from the root nodules of healthy trees, growing them in a laboratory, and mixing them with peat. The peat-based inoculant, which is manufactured and distributed by several government agencies and private commercial firms, contains 1,000 times the number of rhizobia normally found in the soil. Because rhizobial inoculants are inexpensive and the potential benefits are great, inoculation is recommended under most circumstances.
+Rhizobium inoculants are available from the suppliers listed in Appendix A. When ordering inoculants, you should specify the C. calothyrsus provenance you are planting and the environmental characteristics of the planting site, such as average annual rainfall, maximum and minimum temperature, elevation, soil type, and soil pH. This information will help the supplier select the best available strain.
+When using or storing a rhizobial inoculant, remember that the bacteria it contains are alive. They are sensitive to heat, drying out, freezing, and exposure to direct sunlight. If not used immediately, the inoculant should be tightly sealed and stored in a moist, cool, dark place. It should not be frozen. Follow the application and storage instructions provided by the supplier.
+The rhizobial inoculant should be applied directly to C. calothyrsus seeds immediately before planting. Just after soaking the seeds, cover them with a sticker solution to make sure that the inoculant adheres to them. The NifTAL Center (Keyser 1990) recommends placing seeds in a plastic bag or bucket and covering them with a solution of gum arabic, sugar, or vegetable oil. Either dissolve 40 g of gum arable in 100 ml of hot water and allow it to cool, or dissolve 1 part sugar in 9 parts water. Combine 2 ml of one of these mixtures, or 2 ml of vegetable oil, with 100 g of seeds, and shake or stir the mixture vigorously until the seeds are evenly coated. Then add 5 mg of inoculant and shake or stir again until the seeds are well coated. Allow the inoculated seeds to dry for 10 minutes to eliminate any stickiness, and sow immediately. Do not store inoculated seeds--the rhizobia will die.
+Seedlings can also be inoculated in the nursery. Mix inoculant in cool water, and irrigate the seedlings with the suspension. Keep the mixture well stirred or shaken, and irrigate until all the inoculant is washed into the root zone. One 50 g bag of inoculant is enough to inoculate 10,000 seedlings.
+Alternatively, seedlings can be inoculated with alginate beads. These are produced in a laboratory and contain pure cultures of select Rhizobium strains. Before application, the beads must be rehydrated for 10 hours in a 0.1 M phosphate buffer of pH 7.4. Five grams of beads require I liter of buffer. If phosphate solution is not available, rehydrate 5 g of beads for 24 hours in I liter of water. Apply the solution to seedlings at a rate of 16 g per nursery bag.
+Diem and others (1989) provide detailed information on the production of alginate beads. Somasegaran and Hoben (1985) provide information on the production of peat-based inoculants. General information on nitrogen fixation is available in Postgate (1987) and Roskoski (1989).
+Inoculation with mycorrhizae. Calliandra calothyrsus also forms an important symbiotic relationship with vesiculararbuscular mycorrhizae (VAM). These are immobile fungi that live in the organic layer of the soil. By growing in filaments out from a tree's roots, the mycorrhizae increase the tree's root area and thus improve access to soil moisture and nutrients. This relationship is especially important in arid environments and in soils low in nutrients such as acidic, phosphorous-deficient soils. The best way to insure that C. calothyrsus benefits from the VAM symbiosis is to inoculate trees with the appropriate mycorrhizae.
+The most common method of VAM inoculation is to take soil from the organic layer beneath a healthy C. calothyrsus tree and mix it with nursery soil at a rate of 5 to 10 percent by volume. This method is practical for most small-scale farm or community nurseries. The main disadvantage is that soil pathogens may be introduced into the nursery. Treating the soil with chemicals or hot water to kill pathogens is not recommended because the treatment will also kill the mycorrhizae.
+Establishing a VAM "production bed" in the tree nursery is another method of inoculation. The first step is to collect soil from under a healthy C. calothyrsus tree. Place the soil in a nursery bed and sow Calliandra seeds at a spacing of 5 x 5 cm. The seedling roots and associated mycorrhizae will grow throughout the production bed. Once this occurs, dig up the soil along with the roots, chop the mixture finely, and combine it with nursery soil at a rate of 5 to 10 percent by volume. This method is more expensive and labor intensive than the first, and it has the same disadvantage of possibly introducing soil pathogens into the nursery. Nevertheless, if a large number of seedlings are to be grown for several consecutive years, the construction and management of a VAM production bed may a worthwhile investment.
+To avoid the risk of introducing soil pathogens, you may prefer to order a VAM inoculant from one of the suppliers listed in Appendix A. As with rhizobial inoculants, you should specify the C. calothyrsus provenance you are planting and the environmental characteristics of the planting site. Although little information is available on the specificity between C. calothyrsus and particular strains of VAM fungi, commercial inoculants are now available that are claimed to be effective with most tropical legumes.
+When using or storing a VAM inoculant, remember that it contains live fungi, which are sensitive to heat, drying out, freezing, and exposure to direct sunlight. If not used immediately, the inoculant should be tightly sealed and stored in a moist, cool, dark place. It should not be frozen. Follow the application and storage instructions provided by the supplier. More information on VAM inoculation is available in Castellano and Molina (1989), Ferguson and Woodhead (1982), and Malajczuk and others (undated).
+Nursery Production. In the nursery, treated and inoculated seeds should be sown directly into plastic bags. These may vary in size from 5 x 15 cm to 15 x 25 cm when pressed flat. They should always contain drainage holes at their base. The choice of bag is determined by the desired seedling size: if large seedlings are desired, use large bags. Large seedlings compete well in the field and need less care after planting than small seedlings. Small seedlings, on the other hand, are easier and less expensive to grow and to transport.
+Fill nursery bags with a fertile nursery mixture several days before seeds are treated and inoculated. A good-quality nursery mixture is three parts soil, one part sand, and one part compost. These components should be thoroughly mixed. The compost should be completely decomposed--uncomposted manure may spread harmful pathogens. The soil mixture should have a pH of 5.5 to 7.5. Fill bags with the mixture, and pack gently to close all air pockets. To promote settling, irrigate the soil until water drains from the holes at the base of the bag. Inoculate the soil with a VAM inoculant.
+Sow seeds that have been treated to stimulate germination and inoculated with rhizobia to a depth equal to their width. The planting hole can be filled with the nursery mixture or clean sand. Water bags daily. Germination will occur in 4 to 10 days. When seeds are of good quality and you expect high germination, sow one seed per bag. When you anticipate low germination, sow two seeds per bag. If both seeds germinate, transplant one to an empty bag. Weak or malformed germinants should be discarded.
+Depending on local environmental conditions, you should water seedlings once or twice a day. Water should penetrate to the bottom of the bags and drain freely. The soil surface should be dry before watering again. Provide germinants and young seedlings with 50 percent shade during their first month or half the period of their stay in the nursery. After this, gradually reduce shade to harden-off seedlings before transplanting. In most areas, seedlings will be ready for transplanting after 6 to 12 weeks in the nursery. Seedling height may vary from 15 to 50 cm. Evans (1982), Jackson (1989), and Liegel and Venator ( 1987) provide more information on nursery-management techniques.
+Direct Sowing. Calliandra calothyrsus may be established by sowing seeds directly into the planting site. However, seedlings produced in this way are more susceptible to climatic extremes than are seedlings grown in a nursery. For this reason, seeds used for direct sowing must be of the highest quality. They should be treated and inoculated as in the nursery and planted to a depth equal to their width. The spacing between seeds will be determined by the management objective. In most areas, seeds are sown by hand. However, in Australia and New Caledonia where labor costs are high, C. calothyrsus seeds are commonly sown by a mechanical "band seeder." If using such equipment, do not soak seeds during pretreatment because swollen seeds will jam the machine.
+Young germinants and seedlings are slow growing and vulnerable to competition from other plants. For this reason, it is important to prepare the site thoroughly before sowing. You should kill or remove all competing vegetation, including roots, within 40 to 50 cm of sowing positions. This can be accomplished by manual, mechanical, or chemical means. Continue controlling competing vegetation until trees are well established. You can also improve tree establishment and growth by loosening the soil at the planting site. Soil cultivation is particularly beneficial on heavy soils with poor water infiltration.
+Stump sprouts. Calliandra calothyrsus can be successfully propagated by stump sprouts made from seedlings or wildlings. Make cuttings from seedlings that are 4 to 12 months old. Stumps made from older seedlings often show poor growth and vigor. Only healthy, straight seedlings should be selected. They may be as tall as I meter with root collar diameters of 1 to 2 cm. Remove seedlings from the nursery or forest soil. Cut their stems at 10 to 30 cm above the root collar, and remove all remaining foliage. Cut their taproots at 10 to 20 cm below the root collar. Survival is greatest when stumps are planted immediately, but they may be stored for up to one week in a place that is cool, dry, and shady. Stumps should be planted so their root collar is flush with the soil surface. Because stumps are vulnerable to desiccation, they should be planted at the beginning of the rainy season.
+Vegetative propagation. Calliandra calothyrsus can be propagated vegetatively from young, succulent seedlings or root sprouts. Prepare an air-tight propagation box, called a "polypropagator," by lining the bottom and sides with a polyethylene sheet, and adding a bottom layer of gravel, a second layer of fine gravel, and a third layer of sand, topped with a uniform mixture of sand and sawdust. Each layer should be 3 to 5 cm deep. An airtight poly-propagator loses very little moisture, but you will need to water the planting medium to maintain a relative humidity of 80 percent.
+Harvest stems from young seedlings or root sprouts early in the morning, and transfer them immediately to the propagation area. Succulent stems are very sensitive to desiccation--delays of more than I to 2 hours will result in high mortality. Cut stems into small pieces, 5 to 7 cm long, each containing two to three leaflets. Place cuttings in the poly-propagator at a spacing of 5 x 5 cm to 10 x 10 cm. Keep them in the poly-propagator for one month, and mistspray them every 2 to 3 days with water. Then transplant cuttings into plastic nursery bags, provide them with shade for one week, and gradually expose them to full sunlight. After transplanting cuttings into bags, you should maintained them for at least two months in the nursery before planting them in the field. Longman (1993) describes this propagation method in detail.
+Although simple and useful, this method adds a month to seedling production schedules, requires additional work, and is not widely known. In most areas, its use is not warranted. However, once superior provenances and land-races of C. calothyrsus are identified, this propagation method may be a suitable for treeimprovement projects. It may also be useful in areas where C. calothyrsus seed production is limited.
+Transplanting
+Transplant seedlings at the beginning of the rainy season into pits prepared two to four weeks ahead of time. Dig pits at least 25 cm wide and 25 cm deep, cultivate the soil finely, and return it to the pit. Just before planting, slit each plastic nursery bag down one side, and remove the seedling carefully without disturbing the ball of soil around its roots. If roots are encircling the soil ball, cut them on two sides of the ball with a sharp, clean knife. This will keep the roots from growing in a ball after transplanting.
+Place each seedling in the middle of a planting pit. The top of the soil ball should be level with the soil surface. Gently pack the loose soil around the seedling so it is perfectly straight. If soil moisture evaporation is a problem, cover the soil surface around the seedling with mulch. Be sure, however, that the mulch does not contain weed seeds.
+Tree management
+Regardless of how they are established, all young C. calothyrsus seedlings demonstrate slow initial growth. During this period, they are very vulnerable to competition from other plants for sunlight, moisture, and soil nutrients. Fast-growing pasture grasses, such as Bothriochloa petusa (silver grass), Bracharia mutica (pare grass), and Panicum maximum (guinea grass), have dense root systems in the upper soil layers and are particularly competitive with young seedlings. Such competition must be controlled if C. calothyrsus seedlings are to grow well. In general, all vegetation within 40 to 50 cm of the seedlings should be removed every one to three months. Weed control may be necessary for 6 to 12 months or until the seedlings dominate competing vegetation.
+In arid conditions, however, neighboring vegetation may actually protect C. calothyrsus seedlings from sun and wind. Lowgrowing ground cover may also protect the soil surface from desiccation. Under such conditions, removing neighboring vegetation may increase seedling mortality and decrease growth. This situation has been observed on shallow, infertile soils in Jamaica.
+Studies have shown that phosphorus fertilizers can improve C. calothyrsus growth and promote nitrogen fixation with symbiotic Rhizobium. Although precise fertilization regimes have not yet been determined, in New Caledonia the standard recommendation is to apply 100 kg of 32-16 phosphoruspotassium fertilizer per hectare.
+<section>4. Uses</section>
+Hoang Xuan Ty, Endang Hernawan, M. de S. Liyanage, Mapatoba Sila, Hikmat Ramdan, A. Ng. Gintings, Yayat Hidayat, Adji Setijoprodjo, Ralph Roothaert, Rodrigo Arias, and Duncan Macqueen
+Calliandra calothyrsus is a popular multipurpose tree because it is easy to establish, grows quickly, and resprouts after repeated harvests. In many parts of Indonesia, these trees are planted for fuelwood and livestock fodder, for soil conservation and improvement, and as a nurse tree for other species. Producing flowers throughout the year, C. calothyrsus is also an important species for honey production. The successful use of this species in Indonesia has stimulated wider interest, and trials are currently underway in other countries to evaluate the potential of C. calothyrsus, particularly for soil improvement and livestock fodder. The use of C. calothyrsus in animal production systems is discussed separately in Chapter 5.
+Fuel and pulpwood
+More than 30,000 hectares of C. calothyrsus fuelwood plantations have been established on private and public lands in Java, Indonesia. The dense wood (specific gravity of 0.5 to 0.8) dries rapidly and burns well, producing about 4,600 kcal of heat per kg of dry wood and 7,200 kcal of heat per kg of charcoal. For fuelwood production, C. calothyrsus is usually planted at a spacing of 1 x 1 m or 1 x 2 m. To encourage rapid resprouting, trees should be cut to a height of 30 to 50 cm at the end of the dry season. Annual fuelwood yields range from 5 to 20 m^3/ha from one-year-old plantations and 30 to 65 m^3/ha from 20-year-old plantations (NAS 1983).
+In the Pintulung Valley of South Sulawesi, Indonesia, C. calothyrsus plantations are a major source of fuelwood for homebased production of palm sugar (Arenga pennata). Farmers prefer Calliandra fuelwood because it burns hotter then other woods end thus less time is required to prepare the palm extract. Calliandra calothyrsus wood is also burned to smoke sheet rubber, dry copra, and heat brick and tile ovens.
+A paper company in West Java, Indonesia, mixes pulp of C. calothyrsus with pulp of Paraserianthes falcataria and Leucaena leucocephala. With a cellulose content of 44 to 51 percent, C. calothyrsus is a suitable component for paper pulp (NAS 1983), but its low density and folding endurance limit its usefulness. It can provide a filler, but should comprise no more than 10 percent of total pulp. When planting C. calothyrsus for pulpwood production, a 2 x 2 m spacing (2,500 trees/ha) is recommended.
+Bee forage
+Calliandra calothyrsus is becoming an important source of forage for honey bees in Indonesia. Honey production increased from 650 tons in 1989 to 1,300 tons in 1994, and Indonesian farmers currently manage about 50,000 hives. Under farm management, it is estimated that bees can produce 1 ton of honey a year from 1 ha of C. calothyrsus forage (Sila, 1996).
+An interesting secondary benefit from the introduction of C. calothyrsus for honey production has been improved pollination of coffee trees. In Indonesia's Pintulung Valley, growers traditionally harvested coffee only once a year. With the establishment of C. calothyrsus plantations and the resultant increase in bee populations, farmers now harvest coffee two to three times a year (Sila, 1996).
+Intercropping
+In Sri Lanka, C. calothyrsus has been planted in coconut plantations to reduce weed growth, conserve soil moisture, and improve soil structure and fertility. For maximum biomass production, the Calliandra is planted at a density of 2,500 trees/ha and pruned at four-month intervals to a height of I m above the ground. The trees grow well under mature coconut planted at a density of approximately 160 trees/ha. The Calliandra produces about 5 tons/ha dry matter, which provides the annual nitrogen requirement of the coconut trees--30 kg of green manure is spread around each coconut tree. In addition to providing nitrogen, the C. calothyrsus leaves decompose slowly and make a good mulch for conserving soil moisture and suppressing weed growth during the dry season (Liyanage and Abeysoma, 1996).
+Farmers plant C. calothyrsus as a nurse tree in coffee plantations in South Sulawesi, Indonesia, and also in some areas of Guatemala and Costa Rica. As plantations mature in Guatemala and Costa Rica, farmers replace C. calothyrsus with larger shade trees such as Inga, Gliricidia, and Erythrina species. In Sri Lanka, farmers have expressed an interest in using C. calothyrsus as a medium-sized shade tree in tea plantations.
+In West Java, Indonesia, farmers plant C. calothyrsus as a nurse tree in plantations of high-value timber trees such as Agathis loranthifolia an d Tectona, Swietenia, and Pinus species. The C. calothyrsus is planted along contour lines in dense rows between rows of the main timber species. The rows of nurse trees are usually spaced at 2.5 to 3 m from the timber trees, depending on the slope. The Calliandra trees are pruned regularly, and the pruning material is returned to the soil as green manure and mulch. The nurse trees suppress weed growth, prevent soil erosion, and add fertility to the soil.
+Calliandra calothyrsus also has good potential for intercropping with food plants such as maize, rice, or groundnuts. Preliminary results from hedgerow-intercropping trials indicate that the trees should be planted at a 2.5 m spacing within rows and pruned to a height of 0.5 m. The biomass should be incorporated into the soil before planting the food crop. Rows of C. calothyrsus may have to be pruned once or twice more during the growing season to reduce competition for light and soil moisture. Pruning frequency depends on the rate of tree growth, the availability of soil moisture, and the height of the food crop (Satjapradja and Sukandi, 1981).
+Farmers in Indonesia interplant C. calothyrsus and other shrubs with food crops on hillsides (slopes less than 45 percent) in contour rows 1.5 m to 2 m apart. The hedgerows are pruned for mulch during the dry season and green manure during the wet season.
+Planted fallows
+In southern Cameroon, C. calathyrsus has proven to be an excellent species for enhancing the fertility of acid soils. Trees planted at a spacing of I x I m (10,000 trees/ha) and managed as a rotational fallow can increase the yield of subsequent food crops 1.5- to 2-fold compared with yields following natural fallows of the same duration (Duguma, 1996). Trees are cut to ground level during the cropping phase and allowed to grow during the fallow phase.
+Preliminary trials in Vietnam indicate that fallow periods can be reduced from 10-15 years to 4-5 years without reducing soil fertility by replacing natural fallows with C. calothyrsus. In this improved-fallow system, farmers plant 5,000 to 10,000 Calliandra seedlings/ha during the last crop rotation (Ty, 1996).
+Erosion and landslide control
+Calliandra calothyrsus is planted on steep hillsides in South Sulawesi, Indonesia, to control soil erosion and prevent landslides. The species works well for this purpose because trees can be direct seeded, they grow quickly, and they continue to produce coppice regrowth after repeated harvests. Planted on hillsides along the contour, the trees capture the top soil and eventually form natural terraces.
+Rehabilitation of Imperata grasslands
+In North Sumatra and South Sulawesi, Indonesia, C. calothyrsus has been used successfully to rehabilitate unproductive acid soils infested with alang-alang (Imperata cylindrica). These areas have been transformed into productive grazing lands for sheep and goats.
+Intensive weeding is required to establish C. calothyrsus plantations under these difficult conditions. Trees are planted at a spacing of 5 x 5 m and the alang is weeded from a circular area of 60 cm diameter around each seedling until the crown cover of the trees begins to close, usually one to two years after planting. As the tree crowns grow together, the amount of sunlight reaching the understory is reduced, and the alang-alang disappears (Sila, 1996).
+<section>5. Fodder Production</section>
+Rob Paterson, Brian Palmer, Max Shelton, Roger Merkel, Tatang M. Ibrahim, Rodrigo Arias, Kahsay Berhe, and A. N. F. Perera
+Although the genus Calliandra includes a number of species that may have potential value for animal production, assessment of Calliandra as livestock fodder has been limited to a single species--C. calothyrsus. Under favorable conditions, C. calothyrsus grows rapidly and can play a useful role in a number of animal-production systems.
+Fodder characteristics
+Like many other tree and shrub fodders, C. calothyrsus is rich in protein, but relatively poor in metabolizable energy. The edible fraction normally contains 20 to 25 percent crude protein, which makes it appropriate for use as a protein supplement for animals that are kept on a basal diet of grass or other poor-quality roughage. Its use should be limited, however, to a maximum of about 30 percent of the total diet on a dry-matter basis because higher levels are not fully utilized.
+Estimates of digestibility vary widely, ranging from 30 to 60 percent or more. Oven-dried samples usually give poor digestibility levels, whereas fresh samples are normally at the higher end of the range. Sun-dried and freeze-dried samples tend to be intermediate between these extremes.
+Although information is limited, animal production appears to show some correlation with laboratory results on digestibility: fresh C. calothyrsus fodder has given good liveweight gains in growing animals and good milk production in lactating cows, but dried fodder has given poor production levels. For this reason, C. calothyrsus should be fed fresh: conservation of leaf meal is not recommended. The leaves are known to contain high levels of tannins (twice as high as Leucaena, for example), and this may account for the fodder's low digestibility.
+No matter how good a fodder looks in the laboratory, it is of no benefit to livestock if it is not eaten. Most experience shows that C. calothyrsus is well accepted by both large and small ruminants, particularly after a short period of adaptation. In some instances, however, cattle have been reluctant to eat it. Differences in fodder acceptability may be related to provenance, environment, or to an interaction between the two.
+Alternatively, as with many tree fodders, it may simply be that animals require an adaptation period to become accustomed to the fodder before it can be used successfully as one component in a normal feeding regime. Further research is needed in this area. Meanwhile, it is advisable to screen a range of provenances when introducing C. calothyrsus as livestock fodder, not only for agronomic characteristics but also for acceptability. Certainly, provenance evaluation should precede any large-scale extension program to promote establishment of the trees on farms.
+Although C. calothyrsus has proven quite resistant to pests and diseases in most areas where it has been tested, there is always a potential danger in placing too much reliance on a single species, or worse a single provenance of a species. For this reason, it is recommended that farmers plant C. calothyrsus along with other useful fodder species, such as Leucaena leucocephala and Sesbania sesban. Each tree has different strengths and weaknesses, and farmers will benefit from planting a variety of complementary species.
+Animal feeding regimes
+Two principal production systems can be used to raise livestock with C. calothyrsus as a feed supplement: a cut-and-carry system or direct grazing. Although the conservation of C. calothyrsus as leaf meal is not recommended, a deferred-feeding technique can be used with either system that involves accumulating leaves on the tree during the growing season and harvesting these in the dry season when the quality and quantity of the basal diet fall to low levels.
+Under a cut-and-carry system, trees are grown to a convenient height with judicious pruning. The regrowth is then cut periodically and fed to livestock kept elsewhere on the farm. When the fodder is lush and growing rapidly, animals will consume the soft green stems up to a diameter of about I cm. When plant growth is slower, however, the stems become lignified at a smaller diameter, and livestock may limit their consumption to stems of about 0.4 cm or less. After the animals have consumed the leaves and small stems (edible fraction), the remaining sticks can be dried for use as cooking fuel. Trees are cut no lower than 30 cm above ground, but otherwise cutting frequency is more important than cutting height to ensure maximum tree productivity. To optimize the fodder's nutritive value, trees should be cut when they carry about 100 cm of regrowth. At this stage, the edible fraction is about 50 to 60 percent of total biomass. Under most conditions, such a cutting regime allows
+four to six cuts per year.
+There is little information about the use of C. calothyrsus in direct-grazing systems. The wood is fairly brittle, and branches may be broken during browsing. Furthermore, if the animals chew the bark from the trunks, the trees may die. Nevertheless, positive results have been reported in North Queensland, Australia from continuous direct grazing over a two-year period (Palmer and Cooksley, personal communication). Calliandra calothyrsus was direct seeded into an established pasture of Brachiaria decumbens. The planted rows were 2 m apart with 50 cm between trees within rows. The stocking rate was 5 animals per hectare. The C. calothyrsus appeared to benefit from high stocking rates that prevented the trees from growing too tall. The trial site has a mean annual rainfall of 3399 mm, soil pH of 5.3 and aluminum saturation of 11%. While it would be a mistake to place too much reliance on a single experience, several trials have shown that C. calothyrsus can tolerate frequent
+and severe defoliation. It therefore seems likely that direct grazing may be possible, although further work is required to identify optimal utilization systems (Palmer and Ibrahim 1996).
+Calliandra calothyrsus may also play a useful role in the production of non-ruminant livestock. Although there is little information on productivity levels, there are reports from Vietnam that C. calothyrsus is used for feeding fish in small ponds. The fodder can also be fed to rabbits in limited quantities as part of a mixed diet, and the addition of small amounts of leaf meal to the diets of laying hens (up to 5 percent on an as-fed basis) will produce a strong color in the egg yolks without any negative effects on egg yields or feed-conversion ratios (Paterson et al. 1996).
+Fodder production systems
+Volunteer stands. In Indonesia, where C. calothyrsus has been naturalized, trees are now found as volunteers in woodlands, along roadways, and in other sites. Farmers collect the foliage and use it to feed their livestock. Under such conditions, tree productivity varies widely depending on plant populations, soil fertility, cutting frequency, and other factors.
+Linear plantings. Calliandra calothyrsus may be planted in single or multiple rows along farm boundaries or on contour bunds, terrace risers, or similar sites. In many instances, theses niches can be utilized for tree production without causing any adverse effects on adjacent crops. Within rows, trees are usually spaced 40 to 50 cm apart. Yields vary widely depending on climate, soil fertility, and other factors. At one site in sub-Saharan Africa, trees that were more than two years old produced annual yields of edible forage in the range 3 to 5 kg dry matter per meter of row (Paterson et al. 1996).
+Block plantings. When grown in blocks, C. calothyrsus is usually planted at a spacing of I x I m or 2 x 0.5 m, although these distances may be adjusted to permit the use of machinery. Annual dry-matter yields of edible forage are frequently in the range of 3 to 8 t/ha.
+<section>6. Pests and Diseases</section>
+Eric Boa
+Calliandra species do not appear to suffer serious damage from pests or diseases, either in their native range or in areas where they have been introduced. This suggests that farmers and local communities will be able to expand their use of these trees with little risk of pest or disease problems.
+This general observation calls for a word of caution, however. There has been very little systematic study of pests or diseases in Calliandra species. Field observations have been limited and sporadic, and proper scientific assessment has been rare. This reflects the marked absence of suitably trained tree disease specialists in many developing countries. Given our incomplete knowledge of present pest and disease problems, we have a weak basis on which to calculate future risk--particularly in view of increased plantings and the widespread use of improved varieties.
+Table 1 summarizes the information available on fungal diseases, Table 2 summarizes information on insect pests, and Table 3 gives information on other disease conditions, mostly resulting from unknown causes. These tables draw on two recent lists of pests and diseases affecting members of the genus. The first major attempt at a comprehensive listing appeared in Lenné (1990). In 1992 and 1993, Jill Lenné and 1 conducted field surveys of pests and diseases in natural populations of Calliandra spp., Leucaena spp., and Gliricidia septum, work supported by the Forestry Research Programme of the UK Overseas Development Administration. Within Calliandra we concentrated principally on C. calothyrsus.
+The final report of this project contains detailed observations of diseased specimens, selected colour photographs, and an assessment of the economic and quarantine significance of the diseases observed. For copies, contact me at the address given above. The results were later included in a general publication covering diseases of nitrogen fixing trees in developing countries (Boa and Lenné, 1994), which has also been consulted for this account of Calliandra pests and diseases. I have also searched the CAB International TREE CD, a compilation of all the abstracts published in Forestry Abstracts from 1939 to the end of 1995.
+Smith and Vanden Berg (1992) have prepared a useful booklet with excellent colour photographs of leaves showing symptoms of idiopathic conditions and nutrient deficiencies. These are not specifically referred to in this account.
+Suggestions for diagnosis
+One problem for farmers or community workers introducing or expanding the use of Calliandra species is that symptoms such as dieback, loss of leaves, and general failure to thrive are nonspecific. Such symptoms may occur as the result of adverse growth conditions related to climatic conditions, water availability or the tree site, and are not necessarily indicative of pest attack. Carefully observe the distribution of leaf drop and dieback within the crown since this will give an initial indication of the possibility of pest attack.
+Other symptoms of pest attack are less equivocal. Rapid wilting, for example, results in a distinctive "burnt" appearance of the foliage. Canker development and leaf spots are also reliable indicators of pest attack. The presence of large numbers of insects may provide clear evidence of what is causing observed damage. There is a tendency to assume that large and visible insects are pest organisms, but you need to be aware that insect pests are not always readily found in association with the damage they cause.
+Tree management practices can make diagnosis difficult because of the removal of diseased parts. Branches and foliage may be cut because they are diseased or showing poor growth, but removal more usually occurs to meet routine needs for tree material. In my experience, farmers have a poor awareness of tree diseases. Seasonality of growth and variation in the appearance of foliage and extent of leaf cover is another important factor in assessing the health of trees. Foliage and crowns generally usually appear much less healthy at the end of a dry season than during periods of active growth. Accurate assessment of tree health thus relies on a familiarity by observers of routine tree management practices and seasonality of growth. This emphasises the need to monitor trees at different times of the year and to discuss tree health issues with farmers.
+The range of pest organisms listed in Table 1 suggests that the most common symptom is leaf damage of some sort. A number of rust fungi have been observed on Calliandra, although none has been recorded causing significant damage. These fungi have a typically powdery appearance, occurring as small raised dots, usually on the underside of leaves. They may be inconspicuous and thus easily missed. There is no evidence that they cause damage to stems and other parts of the tree.
+In some areas intensive coppicing of C. calothyrsus is associated with increased damage by Corticium salmonicolor, or 'pink disease', a widespread pathogen attacking many woody hosts; the stumps are also attacked by Xylaria sp.
+Dieback has been observed in association with fungal attack, but there are only two examples of a root rot and the only one other example of pink disease. This causes a general blight and may also result in limited canker formation. There are no recorded wilts affecting Calliandra and no evidence of either viral or bacterial diseases. Minor leaf damage often results from inconsequential insect feeding: this is usually revealed as a series of specks on the upper leaf surface.
+Assistance with diagnosis
+It is always best to ask a local pathologist or entomologist to help diagnose a tree disease problem, but the International Mycological Institute operates a disease diagnosis and fungal identification service for situations where trained specialists are not available locally. Readers are encouraged to send their questions on disease problems, along with samples, to the author--Eric Boa, Tree Health Specialist, at the International Mycological Institute, Bakeham Lane, Egham, Surrey TW20 9TY, U.K (e.boa@cabi.org). Examination of diseased material is undertaken for a modest fee. Reduced charges apply to many developing countries and charges may be waved, depending on the country and institute requesting assistance. Further information is available from the author. Advice can also be given on identification of insect and nematode pests through services available from other CAB International scientific institutes.
+When sending plant material for diagnosis, leaf samples are best pressed lightly to ensure that the leaves dry quickly and to preserve any fungal structures. Note that Calliandra leaflets or pinnae start to curl almost immediately after branches are cut, at least for C. calothyrsus and C. houstoniana, so have suitable pressing facilities readily on hand. Branches that are dying or show evidence of localized necrosis should be sampled at the junction between healthy and diseased tissue. Never wrap samples in polythene or plastic bags because samples will rot. Small insects can be preserved in 75 percent alcohol in sealed tubes. Insect larvae are less useful than adults for identification purposes.
+Make sure that you provide detailed notes concerning the condition of the tree and where it is growing, and give each sample a unique code or number. In addition to specimens, photographs of symptoms are extremely useful.
+Table 1. Fungal diseases of Calliandra spp.
+Information is from Boa and Lenné (1994) unless otherwise stated.
+Disease
+Fungus species
+Host species
+Occurrence
+Symptoms and notes
+Black mildew
+Asteridiella sp.
+C. calothyrsus
+Belize, Mexico
+Minor pathogen; black pustules commonly seen on upper surface of leaves
+C. houstoniana
+(probably widespread in Central America)
+Dieback
+Nectria ochroleuca
+C. surinamensis
+Sierra Leone
+Dieback
+Nectria rigidiuscula
+C. surinamensis
+Sierra Leone
+Dieback
+Thyronectria pseudotrichia
+Calliandra sp.
+General blight
+Corticium
+C. calothyrsus
+Papua New
+("pink disease")
+salmonicolor
+C. surinamensis
+Guinea
+Leaf drop and dieback
+Camptomeris calliandrae
+C. calothyrsus
+Honduras, Costa Rica
+Associated with moderate to severe damage on C. calothyrsus in Honduras; forms powdery pustules on lower surface of leaves, superficially resembling rust, but spores easily distinguished; no information on disease in Cost Rica, but could be more widespread
+C. surinamensis
+Leaf mould
+Cladosporium sp.
+C. surinamensis
+Costa Rica
+Unlikely to be associated with any primary damage to foliage
+Leaf spot
+Cercospora sp.
+Calliandra sp.
+USA
+Leaf spot
+Helminthosporium sp.
+Calliandra sp.
+USA
+Pod scab
+Sphaceloma sp.
+C. houstoniana
+Mexico
+Produces rust coloured pock marks on pods that could easily be overlooked or confused with insect damage; only seen at one site in Palenque, but probably under-recorded; major disease on other legumes; occurrence on pods raises quarantines issues
+Leaf spot
+Helminthosporium sp.
+Calliandra sp.
+USA
+Pod scab
+Sphaceloma sp.
+C. houstoniana
+Mexico
+Produces rust colouredpock marks on pods that could easily be overlooked or confused with insect damage; only seen at one site in Palenque, but probably under-recorded; major disease on other legumes; occurrence on pods raises quarantines issues
+Root rot
+Ammillaria mellea subsp. africana
+C. calothyrsus
+Kenya
+Limited outbreak of root disease at cooler high altitude sites; also affected Jacaranda mimosolia and Grevillea robusta; trees were killed (Paterson & Mwangi, 1996)
+Root rot
+Ammillaria tabescens
+Calliandra sp.
+USA
+Rust
+Ravenelia affinis
+Calliandra sp.
+Brazil
+Rust
+Ravenelia armata
+Calliandra sp.
+Brazil
+Rust
+Ravenelia bizonata
+Calliandra sp.
+Guatemala
+Rust
+Ravenelia dieteliana
+Calliandra sp.
+Brazil, Taiwan
+Rust
+Ravenelia echinata
+Calliandra sp.
+Ecuador, Mexico
+Rust
+Ravenelia echinata
+C. calothyrsus
+Costa Rica, Guatemala, Mexico, South America
+Pustules inconspicuous; var. ectypa not associated with any notable damage to foliage in Guatemala; no information from other countries
+Rust
+Ravenelia lagerheimiana
+Calliandra sp.
+Mexico
+Rust
+Ravenelia mexicana
+C. houstoniana
+Guatemala,
+C. jazepzukii
+Mexico
+Inconspicuous pustules; not associated with any significant damage
+Rust
+Ravenelia pazschkeana
+Calliandra sp.
+Brazil
+Rust
+Ravenelia reticulate
+C. humilis
+Mexico
+Rust
+Ravenelia spp.
+Calliandra sp.
+Honduras,
+C. houstoniana
+Guatemala
+Sample from C. houstoniana in Guatemala associated with significant leaf loss and general blight; difficult to identify Ravenelia species when teliospores absent
+Rust
+Ravenelia texensis
+Calliandra sp.,
+USA
+C. humilis var. reticulata
+Rust
+Ravenelia texensis var. texensis
+C. humilis
+Mexico, USA
+Rust
+Uredo longipedis
+Calliandra sp.
+Brazil
+Rust
+Uredo quichensis
+C. conzatti
+Guatemala
+Sooty mould
+Periopsis fusispora
+C. tweediei
+Trinidad
+Unlikely to be associated with any primary damage to foliage
+Stem blight
+Phomopsis sp.
+C. tweediei
+Cuba
+Stump rot
+Xylaria sp.
+C. calothyrsus
+Table 2. Insect pests of Calliandra spp.
+Insect species
+Host species
+Occurrence
+Symptoms and notes
+References
+Leucopholis irrorata
+C. calothyrsus
+Philippines
+Scarabid beetle recorded from a growth plot in uriago del Sur
+Braza (1991)
+MyIIocerus viridanus
+Calliandra sp.
+India
+Common teak defoliator also noted on other herbs and trees; capable of causing significant defoliation
+Mukhtar-Ahmed & Ahmed (1989)
+Pachnoda ephippiata
+C. calothyrsus
+Kenya
+Rose flower beetle; infestation aggravated by prolonged dry spells
+Kaudia (1990)
+Sabyadrassus malabaricus
+C. calothyrsus
+India
+Teak sapling borer also attacks other young trees
+Nair (1982)
+Spittlebug ("salivazo")
+C. calothyrsus
+Central America
+Unidentified cercopid (plan/hopper); no specific information
+Hilje et al. (1991)
+Stator sordidus
+C. calothyrsus
+Nicaragua
+Bruchid beetle; attacks seeds
+Johnson & Lewis (1993)
+Stator limbatus
+C. calothyrsus
+Nicaragua
+Bruchid beetle; attacks seeds
+Johnson & Lewis (1993)
+Stemborer
+C. calothyrsus
+Philippines
+Noted as resembling Hypsipyla robusta (mahogany shoot borer)
+Luego (1989)
+Tetraleurodes acaciae
+Calliandra sp.
+USA
+Acacia whitefly; no information on damage; probably found only on ornamental Calliandra
+Johnson & Lyon (1994)
+Tussock moth
+C. calothyrsus
+Philippines
+Unidentified Iymantrid also recorded from growth plot in Suriago del Sur
+Braza (1991)
+Umbonia crassicomis
+C. calothyrsus Calliandra sp
+Guatemala, Central America, USA
+Distinctive thorn bug with red tip to prominent spine; no specific information given on damage to tree; Boa noted in Guatemala; probably widespread though rarely causing significant damage
+Hilje et al. (1991),. Johnson& Lyon (1994)
+Table 3. Other disease conditions of Calliandra spp.
+Condition
+Host species
+Occurrence
+Symptoms and notes
+References
+Parasitic plant(Struthanthus quercicola)
+C. calothyrsus
+Central America
+No information
+Hilje et al. (1991)
+Leaf and stem galls
+C. calothyrsus
+Honduras, Guatemala
+Frequently seen but more of biological curiosity then disease significance; presumed to have an insect cause but no association positively identified
+Boa and Lenné(1993)
+Flower blight
+C. calothyrsus C. jazepzukii
+Dieback of floral stalk; flowers appear to die prematurely and become covered in secondary black mould; gummosis seen occasionally
+Boa and Lenné(1993)
+Seed rot
+Seeds die in pod; similar to bacterial pod rot in Leucaena (caused by Pseudomonas fluorescens) but no bacterial association proven
+Boa and Lenné(1993)
+<section>Seed and inoculant suppliers</section>
+This list of seed and inoculant suppliers is intended to provide a first reference. Prices may vary depending on the particular import/export requirements of each country. They also change frequently. We suggest that you contact a supplier and provide a description of your site, a list of the species you require, and how you intend to use the seeds. The supplier can then send you detailed information about seed and inoculant availability and prices. Sources are listed alphabetically by country.
+Seed
+M. L. Farrar Pty., Ltd.
+P.O. Box 1046
+Bomaderry, N.S.W. 2541, Australia
+Tel: (61) 44-217-966
+Fax: (61) 44-210-051
+Banco Latinoamericano de Semillas Forestales
+CATIE 7170-137
+Turrialba, Costa Rica
+Tel: (506) 556-1933
+Fax: (506) 556-1533
+Centro de Mejoramiento Genético y Banco de Semillas Forestales
+Km 79 Carretera Managua-Leon
+Aptdo. 630
+Leon, Nicaragua
+Tel: (505) 0311-6579/5803
+Fax: (505) 0311-3711/6578
+International Institute of Rural
+Reconstruction
+Plant Genetic Resources Conservation
+Program
+Appropriate Technology Unit
+Silang, Cavite 4118, Philippines
+Tel: (63) 2-58-2659
+Fax: (63) 2-522-2494
+National Tree Seed Programme
+P.O. Box 373
+Morogoro, Tanzania
+Tel: (255) 56-3912 or 56-3093
+Fax: (255) 56-3275 or 51-46312
+Henry Doubleday Research Association
+Ryton Organic Gardens
+Ryton- on-Dunsmore
+Coventry CV8 3LG, U.K.
+Tel: (44) 1-203-303-517
+Fax: (44) 1-203-639-229
+E-mail: pharris @ hdra.demon.co.uk
+Oxford Forestry Institute
+South Parks Road
+Oxford OX1I U.K.
+Tel: (44) 1-865-275131
+Fax: (44) 1-865-275074
+Agroforester TM Tropical Seeds
+P.O. Box 428
+Holualoa, Hawaii 96725, U.S.A.
+Tel: (1) 808-324-4427
+Fax: (1) 808-324-4129
+E-mail: agroforester@igc.org
+ECHO
+17430 Durrance Road
+North Fort Myers, Florida 33917-2239, U.S.A.
+Tel: (1) 941-543-3246
+Fax: (1) 941-543-5317
+E-mail: 74172.370@compuserve.com
+Rhizobium inoculants
+CIRAD-Forêt
+Laboratoire BSFT/Programme Agroforesterie
+Campus de Baillarguet
+B.P. 5035
+F-34032 Montpellier Cedex, France
+Tel: (33) 67-61-5800 (posse 4252)
+Fax: (33) 67-59-3755 (3733)
+CSIRO
+Cunningham Laboratory
+Carmody Road
+St Lucia, Queensland 4067, Australia
+Tel: (61) 7-3377-0209
+Fax: (61) 7-3371-3946
+Dr. Peter Dart
+Department of Agriculture
+University of Queensland
+Brisbane, Queensland 4072, Australia
+Tel: (61) 7-3365-2867
+Fax: (61) 7-3365-1177
+AgroForester TM Tropical Seeds
+P.O. Box 428
+Holualoa, Hawaii 96725, U.S.A.
+Tel: (1) 808-324-4427
+Fax: (1) 808-324-4129
+E-mail: agroforester@igc.org
+Lipha Tech (Nitrogen Inoculants)
+3101 West Custer Avenue
+Milwaukee, Wisconsin 53217, U.S.A.
+Tel: (1) 414-462-7600
+Fax: (1) 414-462-7186
+Mycorrhizae inoculants
+Bioscientific, Inc.
+4405 South Litchfield Road
+Avondale, Arizona 85323, U.S.A.
+Tel: (1) 800-872-2461
+Fax: (1) 602-925-0506
+Plant Health Care, Inc.
+440 William Pitt Way
+Pittsburgh, Pennsylvania, 15238, U.S.A.
+Tel: (1) 412-826-5488
+Fax: (1) 412-826-5445
+Premier Enterprises, Ltd.
+326 Main Street
+Red Hill, Pennsylvania 18076, U.S.A.
+Tel: (1) 800-424-2554
+Fax: (1) 215-679-6430
+Tree of Life Nursery
+P.O. Box 736
+San Juan Capistrano, California 92693,
+U.S.A.
+Tel: (1) 714-728-0685
+Fax: (1) 714-728-0509
+<section>Authors</section>
+Mr. Rodrigo Arias
+Director Técnico, Unidad Productión Animal
+Instituto de Ciencia y Tecnologia Agricolas
+Km 21.5 Carretera hacia Amatitlán
+Bárcenas, Villa Nueva, Guatemala
+Tel: (502) 9-312007/312009
+Fax: (502) 9-312002
+Dr. Eric Boa
+Tree Health Specialist
+International Mycological Institute
+Bakeham Lane
+Egham, Surrey TW20 9TY, U.K.
+Tel: (44) 1-784-470111
+Fax: (44) 1-784-470909
+E-mail: e.boa@cabi.org
+Dr. Joanne Chamberlain
+Oxford Forestry Institute
+South Parks Road
+Oxford OX1 3RB, U.K.
+Tel: (44) 1-865-275131
+Fax: (44) 1865-275074
+E-mail: jo.chamberlain@plant- sciences.oxford.ac.uk
+Dr. A. Ng. Gintings
+National Coordinator
+Forestry and Nature Conservation Research and Development Centre
+P.O. Box 165 Bogor 16001, Indonesia
+Tel: (62) 251-325111
+Fax: (62) 251-325111/315222
+Mr. Endang Hernawan
+Forest Faculty
+Winaya Mukti University
+Jl. Winaya Mukti No. 1
+Bandung, Indonesia
+Tel: (62) 22-798260
+Fax: (62) 22-798260
+Mr. Yayat Hidayat, Ir.
+Forest Faculty
+Winaya Mukti University
+Jl. Winaya Mukti No. I
+Bandung, Indonesia
+Tel: (62) 22-798260
+Fax: (62) 22-798260
+Dr. Hoang Xuan Ty
+Director, Research Center for Forest
+Ecology and Environment
+Forest Science Institute of Vietnam
+Chem, Tu Liem
+Hanoi, Vietnam
+Tel: (84) 43-347434
+Fax: (84) 43-45722
+Dr. Tatang M. Ibrahim
+Small Ruminant CRSP
+P.O. Box 1
+Galang 20585, North Sumatra, Indonesia
+Tel: (62) 61-958013
+Fax: (62) 61-958270
+E-mail: rcmerkel@idola.net.id
+Mr. Kahsay Berhe
+International Livestock Research Institute
+P.O. Box 5689
+Addis Ababa, Ethiopia
+Tel: (251) 1-61-32-15
+Fax: (251) 1 -61 - 18-92
+Email: ilri.ethiopia@cgnet.com
+Dr. Didier Lesueur
+Research Scientist
+CIRAD-Forêt, Maison de la Technologie
+B.P. 5035, F-34032
+Montpellier Cedex 1, France
+Tel: (33) 67-615766
+Fax: (33) 67-616560
+Dr. M. De S. Liyanage
+Director, Coconut Research Institute
+Lunuwila N.W.P., Sri Lanka
+Tel: (94) 30-3795/5300
+Fax: (94) 31 -7195
+Mr. Duncan Macqueen
+39 Norreys Avenue
+Oxford OX1 4ST, U.K.
+Tel: (44) 1-865-721502
+Fax: (44) 1-865275074
+E-mail: duncan.macqueen@plantsciences.ox.ac.uk
+Mr. Roger Merkel
+Resident Project Scientist
+Small Ruminant CRSP
+P.O. Box 1
+Galang 20585, North Sumatra, Indonesia
+Tel: (62) 61 -958013
+Fax: (62) 61-958270
+E-mail: rcmerkel@idola.net.id
+Dr. Brian Palmer
+Principal Research Scientist
+CSIRO, Davies Laboratories
+P.M.B., P.O. Aitkenvale
+Queensland 04814, Australia
+Tel: (61) 77-538528
+Fax: (61) 77-538600
+E-mail: brian.palmer@tvl.tcp.csiro.au
+Dr. Rob Paterson
+13 Damar Gardens
+Henley on Thames
+OXON RG9 1HX, U.K.
+Tel: (44) 1-491-571712
+Fax: (44) 1-634-883888
+Dr. A. N. F. Perera
+Deptartment of Animal Science
+Faculty of Agriculture
+University of Peradeniya
+Peradeniya, Sri Lanka
+Tel: (94) 8-88239188354188375188657
+Fax: (94) 8-88041/88151/32572
+E-mail: postmast@pgia.pdn.ac.lk
+Mr. Alan Pottinger
+Oxford Forestry Institute
+South Parks Road
+Oxford OX1 3RB, U.K.
+Tel: (44) 1-865-275131
+Fax: (44) 1865-275074
+E-mail: Alan.Pottinger@plantsciences.oxford.ac.uk
+Mr. Mark H. Powell
+Program Officer
+Winrock International
+38 Winrock Drive
+Morrilton, Arkansas 72110, U.S.A.
+Tel: (1) 501-727-5435
+Fax: (1) 501-727-5417
+E-mail: mhp@msmail.winrock.org
+E-mail: mhp@msmail.winrock.org
+Mr. Rajesh Rajaselvam
+UP-OFI Link, Faculty of Agriculture
+University of Peradeniya
+Peradeniya, Sri Lanka
+Tel: (94) 8-88375/88354
+E-mail: rajesh@agri.pdn.ac.lk
+Mr. Hikmat Ramden, Ir.
+Forest Faculty, Winaya Mukti University
+Jl. Winaya Mukti No. 1
+Bandung, Indonesia
+Tel: (62) 22-798260
+Fax: (62) 22-798260
+Mr. Ralph Roothaert
+Researcher, ICRAF/KARI
+Kari-RRC
+P.O. Box 27
+Embu, Kenya
+Tel: (254) 161-20116/20100/20873
+Fax: (254) 161-30064
+E-mail: icraf-embu@cgnet.com
+Mr. James M. Roshetko
+Program Officer
+Winrock International
+38 Winrock Drive
+Morrilton, Arkansas 72110, U.S.A.
+Tel: (1) 501-727-5435
+Fax: (1) 501 -727-5417
+E-mail: jmr@msmail.winrock.org
+Mr. Jean-Michel Sarrailh
+Officer in Charge, CIRAD-Forêt/NC
+Departement Forêt
+Centre de Cooperation Internationale en
+Recherche Agronome pour le
+Développement
+P.O. Box 10001
+Noumea 98805, New Caledonia
+Tel: (687) 284105
+Mr. Adji Setijoprodjo
+Secretary, Board of Trustees
+Yayasan Sumberdaya and Lingkungan Untuk
+Pelestarian Pembangunan
+YSLPP - Desa Kekait, Kecamatan Gunung Sri
+Mataram NTB
+Indonesia
+Tel: (62) 364-31273
+Dr. H. Max Shelton
+Deptartment of Agriculture
+University of Queensland
+Queensland 4072, Australia
+Tel: (61) 7-3365-2541
+Fax: (61)7-3365-1188/1177
+E-mail: m.shelton@mailbox.uq.oz.au
+Dr. Mapatoba Sila
+Honey Bee Researcher
+Universitas Hasanuddin
+Lembaga Penelitian Kampus Unhas Tamalaurea
+Jl Perintis Kemerdekaan Km. 10
+U. Pandang, Indonesia
+Tel: (62) 751 -510200
+Fax: (62) 751 -510088
+<section>Selected References</section>
+Botany and ecology
+Chang B., and H. Martinez. 1984. Germplasm resources of Calliandra calothyrsus Meissn. in Central America and Panama. Forest Genetic Resources Information 13:54-58.
+Macqueen, D. J. 1993a. Calliandra series Racemosae: Taxonomic information, OFI seed collections, trial design. Oxford Forestry Institute. Oxford, UK.
+Maqueen, D. J. 1996. Calliandra taxonomy and distribution, with particular reference to the Racemosoe. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue), Winrock International. Morrilton, Arkansas, USA. p. 1-17.
+Soedarsono, R., A. G. Gintings, and I. Samsoedin. 1996. Historical introduction of Calliandra in Indonesia. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 18-25.
+Seed collection and production
+Bawa, K. S., and C. J. Webb. 1984. Flower, fruit, and seed abortion in tropical forest trees: Implications for the evolution of paternal and maternal reproductive patterns. American Journal of Botany 71 :736-751.
+Boland, D. S., and B. Owor. 1996. Some aspects of floral biology and seed production in exotic Calliandra calothyrsus at Maseno, Kenya. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 49-61.
+Chamberlain, J. R., and A. J. Pottinger. 1995. Genetic improvement of Calliandra calothyrsus. In D. O. Evans and L. T. Szott, eds. Nitrogen fixing trees for acid soils. Nitrogen Fixing Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 250-257.
+Chamberlain, J. R., and R. J. Rajaselvam. 1996a. Calliandra seed production--a problem or not? In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 29-33.
+Chamberlain, J. R., and R. J. Rajaselvam. 1996b. Calliandra calothyrsus pollinator behavior and seed production. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 34-40.
+Macqueen, D. J. 1992. Calliandra calothyrsus: implications of plant taxonomy, ecology, and biology for seed collection. Commonwealth Forestry Review 71 :20-34.
+Macqueen, D. J. 1993a. Calliandra series Racemosoe: Taxonomic information, OFI seed collections, trial design. Oxford Forestry Institute. Oxford, UK.
+Macqueen, D. J. 1993b. Exploration and collection of Calliandra calothyrsus. Final Report, ODA Research Scheme R.4585. Oxford Forestry Institute. Oxford, UK.
+NAS (National Academy of Sciences). 1983. Calliandra: A versatile small tree for the humid tropics. National Academy Press. Washington, D.C..
+Rajaselvam, R. J., H. P. M. Gunasena, and J. R. Chamberlain. 1996. Reproductive biology of Calliandra calothyrsus in relation to its seed production in Sri Lanka. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 41-48.
+Establishment
+Briscoe, C.B. 1989. Field trials manual for multipurpose tree species. Multipurpose tree species network research series; manual no. 3. Winrock International. Bangkok, Thailand.
+Castellano, M. A., and R. Molina. 1989. Mycorrhizae. In T. D. Landis, R. W. Tinus, S. E. McDonald, and J. P. Barnett, eds. The container tree nursery manual. Volume 5. USDA Forest Service. Washington, D.C.. p. 101-167.
+Diem, H. G., K. Ben Khalifa, M. Neyra, and Y. R. Dommergues. 1989. Recent advances in the inoculant technology with special emphasis on plant symbiotic microorganisms. In U. Leone, G. Rinaldi, and R. Vanore, eds. Proceedings of the Workshop on Advanced Technologies for Increased Agricultural Production: Actual situation, future prospects, and concrete possibilities of application in developing countries. CNR-USG. Rome. p. 196 209.
+Evans, J. 1982. Plantation forestry in the tropics. Oxford University Press. New York, USA.
+Ferguson, J. J., and S. H. Woodhead. 1982. Production of endomycorrhizal inoculum. A: Increase and maintenance of vesicular-arbuscular mycorrhizal fungi. In N. C. Schenck, ed. Methods and principles of mycorrhizal research. American Phytopathological Society. St. Paul, Minnesota, USA. p. 47-54.
+Jackson, J. K. 1989. Manual of afforestation in Nepal. Kathmandu: Nepal-UK Forestry Research Project, Forest Research Division, Department of Forestry and Plant Research.
+Keyser, H. 1990. Inoculating tree legume seed and seedlings with rhizobia Nitrogen Fixation by Tropical Agricultural Legumes (NifTAL) Center. Paia, Hawaii, USA.
+Liegel, L. H., and C. R. Venator. 1987. A technical guide for forest nursery management in the Caribbean and Latin America General Technical Report S0-67. USDA Forest Service, Southern Forest Experiment Station. New Orleans, Louisiana, USA.
+Longman, K. A. 1993. Rooting cuttings of tropical trees. Commonwealth Science Council. London, UK.
+Malajczuk, N., N. Jones, and C. Neely. Undated. The importance of Mycorrhiza to forest trees. Land Resources Series No. 2. World Bank, Asia Technical Department. Washington, D.C..
+Postgate, J. R. 1987. Nitrogen fixation. Institute of Biology, Studies in Biology. Second edition. Edward Arnold. London, UK.
+Roshetko, J. M., D. O. Lantagne, M. A. Gold, B. Morikawa, and S. Krecik. 1996. Recommendations for establishing and managing Calliandra calothyrsus as a fodder resource in Jamaica. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports. (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 168-179.
+Roskoski, J. P. 1989. Biological nitrogen fixation: Commonly asked questions and answers. Nitrogen Fixation by Tropical Agricultural Legumes (NifTAL) Center. Paia, Hawaii, USA.
+Shrestha, K.B., L.B.S. Tuladhar, and P.K. Tyystjarvi. 1980. Manual on nursery and plantation practices for community forestry development. HMG/UNDP/FAO Community Forestry Development Project. Nepal. 80 p.
+Somasegaran, P., and H. J. Hoben. 1985. Methods in legume-Rhizobium technology. Nitrogen Fixation in Tropical Agricultural Legumes (NifTAL) Center. Paia, Hawaii, USA.
+Uses
+Arias, R. A., and D. J. Maqueen. 1996. Traditional uses and potential of the genus Calliandra in Mexico and Central America. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 108-114.
+Baggio, A. X., and J. Heuveldop. 1984. Initial performance of Calliandra calothyrsus Meissner in live fences for the production of biomass. Agroforestry Systems 2: 19-29.
+Duguma, B., and J. Tonye. 1994. Screening of multipurpose trees and shrub species for agroforestry in the humid lowlands of Cameroon. Forest Ecology and Management 64:135-143.
+Duguma, B., and M. Mollet. 1996. Provenance evaluation of Calliandra calothyrsusin the humid lowlands of Cameroon. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 147- 163.
+Gichuru, M. P., and B. T. Kang. 1989. Calliandra calothyrsus Meissner in an alley cropping system with sequentially cropped maize and cowpea in southeastern Nigeria. Agroforestry Systems 9:191-203.
+Kartasubrata, J. 1996. Culture and uses of Calliandra calothyrsus in Indonesia. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 101-07.
+Liyanage, M. de S., and H. A. Abeysoma. 1996. Management and utilization of Calliandra calothyrsus in coconut plantations. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 137-143.
+NAS (National Academy of Sciences). 1983. Calliandra: A versatile small tree for the humid tropics. National Academy Press. Washington, D.C..
+Rosecrance, R. C., S. Rogers, and M. Tofinga. 1992. Effects of alley cropped Calliandra calothyrsus and Gliricidia septum hedges on weed growth, soil properties, and taro yields in Western Samoa. Agroforestry Systems 19:57-66.
+Sarrailh, J. M., C. Corniaux, L. Desvals, and S. Lebel. 1996. Calliandra, a panacea for New Caledonia? In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 115-119.
+Satjapradja, O., and T. Sukandi. 1981. Agroforestry with red calliandra. Indonesian Agricultural Research and Development Journal (3)3: 85-88.
+Setijoprodjo, A. 1996. Calliandra calothyrsus hedgerows in a land conservation project in Indonesia. In D. O. Evans, ed. International Workshop on the Genus Calliandra Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p.144-146.
+Sila, A. M. 1996. Calliandra for community development in Sulawesi. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p.13436.
+Wiersum, K. F., and I. K. Rica. 1992. Calliandra calothyrsus Meissn. In L. It Mannetje and R. M. Jones, eds. Plant resources of South-East Asia. Volume 4: Forages. PROSEA. Bogor, Indonesia. p. 68-70.
+Ty, H. X. 1996. Adaptability trials with Calliandra calothyrsusin Vietnam. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 120126.
+Fodder production
+Ahn, J. H., B. M. Robinson, R. Elliot, R. C. Gutteridge, and C. W. Ford. 1989. Quality assessment of tropical browse legumes: Tannin content and protein degradation. Animal Feed Science and Technology 27:147-156.
+Akyeampong, E., and K. Muzinga. 1994. Cutting management of Calliandra calothyrsus in the wet season to maximize dry season fodder production in the central highlands of Burundi. Agroforestry Systems 27(2): 101 -105.
+Barry, T. N., and C. S. W. Reid. 1984. Nutritional effects attributable to condensed tannins, cyanogenic glycosides, and oestrogenic compounds in New Zealand. In R. F. Barnes, R. W. Brougham, and D. J. Minson, eds. Forage legumes for energy effect: Animal production. United States Department of Agriculture. Beltsville, Maryland.
+D'Mello, J. P. F. 1995. Leguminous leaf meals in non-ruminant nutrition. In J. P. F. D'Mello and C. Devendra, eds. Tropical legumes in animal nutrition. CAB International. Wallingford, UK.
+Kaitho, R. J., S. Tamminga, and J. Bruchem. 1993. Rumen degradation and in-vivo digestibility of dried Calliandra calothyrsus leaves. Animal Feed Science and Technology 43:19-30.
+Kashay, B., and Mohamed Saleem. 1996. The potential of Calliandra calothyrsus as a fodder tree on acidic Nitosols of the southern, western, and southwestern highlands of Ethiopia. In D. O. Evans, ed. International Workshop on the Genus Calliandra Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 234-244.
+Lowry, J. B., and B. Macklin. 1989. Calliandra calothyrsus--An Indonesian favorite goes pantropic. NFT Highlight 88-02. Nitrogen Fixing Tree Association. Waimanalo, Hawaii, USA. 2p.
+Mangan, J. L. 1988. Nutritional effects of tannins in animal feeds. Nutrition Research Reviews 1 :209-231.
+McLeod, M. N. 1974. Plant-tannins: Their role in forage quality. Nutrition Abstracts and Reviews 11 :803-815.
+Merkel, R. C., K. R. Pond, J. C. Burns, and D. S. Fisher. 1996. Condensed tanins in Calliandra calothyrsus and their effects on feeding value. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports. (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 222-233.
+Morikawa, R. T., D. O. Lantagne, M. A. Gold, S. G. Krecik, and J. M. Roshetko. 1995. Management of Calliandra calothyrsus for fodder production in Jamaica. Tropical Grasslands 29: 236-240.
+Narvaez, N., and C. Lascano. 1989. Digestibilidad in vitro de especies forrajeras tropicales. 2: Factores asociados con su determinación. Pasturas Tropicales I 1:13-18.
+Niang, A., E. Styger, and A. Gahamanyi. 1992. Fodder potential of grass and shrub combination on contour bunds in Rwerere. In D. Hoekstra and J. Beniest, eds. Summary proceedings: East and Central African AFRENA Workshop. AFRENA Report No. 58. International Center for Research in Agroforestry. Nairobi, Kenya, Africa.
+Norton, B. W. 1994. The nutritive value of tree legumes. In R. C. Gutteridge and H. M. Shelton, eds. Forage tree legumes in tropical agriculture. CAB International. Wallingford, UK. p. 177-191
+Palmer, B., R. A. Bray, T. M. Ibrahim, and M. G. Fulloon. 1989. Shrub legumes for acid soils. In E. T. Craswell and E. Pushparajah, eds. Management of acid soils in the humid tropics of Asia. ACIAR Monograph No. 13. Australian Centre for International Agricultural Research. Canberra. p. 36-43.
+Palmer, B., and T. A. Ibrahim. 1996. Calliandra calothyrsus forage for the tropics: A current assessment. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 183-194.
+Palmer, B., D. J. Macqueen, and R. C. Gutteridge. 1994. Calliandra calothyrsus: A multipurpose tree legume for humid locations. In R. C. Gutteridge and H. M. Shelton, eds. Forage tree legumes in tropical agriculture. CAB International. Wallingford, UK. p. 65-74.
+Palmer, B., and A. C. Schlink. 1992. The effect of drying on the intake and rate of digestion of the shrub legume Calliandra calothyrsus. Tropical Grasslands 26:89-93.
+Paterson, R. T., G. A. Proverbs, and J. M. Keoghan. 1987. The management and use of fodder banks. Caribbean Agricultural Research and Development Institute. Barbados.
+Paterson, R. T., R. L. Roothaert, O. Z. Nyaata, E. Akyeampong, and L. Hove. 1996. Experience with Calliandra calothyrsus as a feed for livestock in Africa. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 195-209.
+Perera, A. N. F., and E. R. K. Perera. 1996. Use of Calliandra calothyrsus leaf meal as a substitute for coconut oil meal for ruminants. In D. O. Evans, ed. International Workshop on the Genus Calliandra Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 245-250.
+Perera, A. N. F., E. R. K. Perera, and H. P. M. Gunasena. 1996. Nutritive value and degradation characteristics of Calliandra calothyrsus provenances In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports. (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 251-259.
+Shelton, H. M., B. W. Norton, B. F. Mullen, R. C. Gutteridge, and P. J. Dart. 1996. Utilization and nutritive value of Calliandra calothyrsus for forage: A review of research at the University of Queensland. In D. O. Evans, ed. International Workshop on the Genus Calliandra. Forest, Farm, and Community Tree Research Reports (Special issue). Winrock International. Morrilton, Arkansas, USA. p. 210-221.
+Sumata, I.-K., M. Ali, and E. Wina. 1994. The effect of supplementation of calliandra (Calliandra calothyrsus) leaves on reproductive performance of Javanese fat-tailed sheep. Ilmu den Peternakan 7(2): 13-16.
+Veen, W. van den 1993. Economic analysis of fodder trees for dairy cows on farms in Western Kenya M.Sc. thesis, Wageningen Agricultural University, Wageningen, Netherlands.
+Veen, W. van der, and R. Swinkels. 1993. Fodder trees: A profitable option for a higher milk production. West Kenya Agroforestry Newsletter 4(July 1993).
+Wina, E., B. Tangendjaja, and E. Tamtomo. 1993. The effect of drying on the digestibility of Calliandra calothyrsus. Ilmu den Peternakan 6(1): 32-36.
+Pests and diseases
+Boa, E. R. 1995. A guide to the identification of diseases and pests of neem (Azadirachta indica). RAP Publication 1995/41. Food and Agriculture Organization of the United Nations. Bangkok.
+Boa, E. R., and J. M. Lenné. 1993. Pilot assessment of diseases of important woody legumes in Central America and Mexico. Project R4852, Final Report. Natural Resources Institute. Chatham, UK.
+Boa, E. R., and J. Lenné. 1994. Diseases of nitrogen fixing trees in developing countries: An annotated list. Natural Resources Institute. Chatham, UK.
+Boa, E. R., and J. M. Lenné. 1996. Diseases and insect pests. In J. L. Stewart, G. E. Allison, and A. J. Simons, eds. Gliricidia septum: Genetic resources for farmers. Oxford Forestry Institute. Oxford, UK. p. 73-76.
+Braza, R. D. 1991. Insects damaging Calliandra calothyrsus in the Philippines. Nitrogen Fixing Tree Research Reports 9:38-39.
+Browne, F. G. 1968. Pest and diseases of forest plantation trees. Clarendon Press. Oxford, UK.
+Hilje, L., C. Araya, and F. Scorza. 1991. Plagas y enfermedades forestales en America Central: Guía de campo. Centro Agronómico Tropical de Investigación y Enseñanza. Turrialba, Costa Rica.
+Johnson, C. D., and G. P. Lewis. 1993. New host records for Stator sordidus and Stator limbatus (Coleoptera: Bruchidae) with comments on bruchid feeding guilds. Coleopterists Bulletin 47:246248.
+Johnson, W. T., and H. H. Lyon. 1994. Insects that feed on trees and shrubs. Cornell University Press. Ithaca, New York.
+Kaudia, A. 1990. Report of an insect pest on Calliandra calothyrsus (Meissn.) in Kenya. Nitrogen Fixing Tree Research Reports 8:126.
+Lenné, J. M. 1990. A world list of fungal diseases of tropical pasture species. Phytopathological Paper No. 31. International Mycological Institute. Egham, UK.
+Lenné, J. M. 1992. Diseases of multipurpose woody legumes in the tropics: A review. Nitrogen Fixing Tree Research Reports 10:13-29.
+Luego, J. N. 1989. Contributed papers involving one NFT genus: Calliandra. Nitrogen Fixing Tree Research Reports 7:76.
+Mukhtar Ahmed. 1989. Feeding diversity of Myllocerus viridanus Fab. (Coleoptera: Curculionidae) from south India. Indian Forester 115:832-838.
+Nair, K. S. S. 1982. Seasonal incidence, host range, and control of the teak sapling borer, Sahyndrassus malabaricus. KFRI Research Report No. 16. Kerala Forest Research Institute. India. 36 p.
+Paterson, R. T., and L. M. Mwangi. 1996. Honey fungus in agroforestry. Agroforestry Today 8:19-20.
+Smith, F. W., and P. J. Vanden Berg. 1992. Foliar symptoms of the nutrient disorders in the tropical shrub legume Calliandra calothyrsus. Division of Tropical Crops and Pastures Technical Paper No. 31. Commonwealth Scientific and Industrial Research Organization. Canberra, Australia.
+<section>Morphological and seedling keys to the identification of species in the Racemosae.</section>
+Morphological Key
+1. Pinnae greater than 6-jugate. Calyx less than 5 mm long and cup shaped Pinnae 2-6 jugate. Calyx inflated, bilabiate, and membranaceous, greater than 10 mm long. Pods rigidly membranaceous, short pubescent, undulate. Often multiple stemmed shrub (1.5 4 m tall).
+7. C. physocalyx. Oaxaca-Guerrero, Mexico.
+2. Leaves dark lustrous green above, pale beneath, rigid. Leaflets falcately truncate, somewhat inequilateral, sharply acute, overlapping. Stipules oblanceolate Leaves pale-mid green above and slightly paler green beneath, without a lustrous sheen, soft and tending to fold upon collection. Leaflets acute, but not falcate or overlapping. Stipules lanceolate
+3. Stem and flowers white-cream incanous-velutinous. Flowers large, corolla greater than (13) 14 mm long. Pods always ligneous, canescent pilose. Stem and flowers ferruginous pubescent, rarely glabrescent. Corolla less than 14 mm long. Pods rigidly coriaceous, red pilose, velutinous or detachably hispid, very rarely white pubescent. Large shrub to small tree (1.5 6 m)
+3. C. houstoniana. Nicaragua-Chihuahua, Mexico.
+4. Leaves large (leaf rachis 12-25 cm long). Shrub, less than 1.5 m tall. Flowers on 1-5 well spaced nodes with long peduncle but short pedicel (0-4 mm)
+6.C. palmeri. Jalisco-Nayarit, Mexico.
+Leaves mid-sized (leaf rachis 8-12 cm long). Large shrub, greater than 1.5 m tall.
+Long peduncles and pedicels (2-8 mm)
+4. C. juzepczukii Chiapas-Oaxaca, Mexico.
+5. Corolla (6) 8-14 mm long. Pods either sub-ligneous or coriaceous and densely white, dark, or brown sericeous or short, red, pilose, and corrugated. Pinnae 10-26 jugate. Leaflets 0.5-1.4 mm wide. Stems and flowers white, dark, or ferruginous pubescent, rarely sparsely pubescent. Shrubs, few-branched, 1-6 m tall Corolla 6-8 mm long. Pods rigidly membranaceous 10-18 mm wide and glabrescent. Pinnae 4-19 jugate. Leaflets 0.8-2.5 mm wide. Stems and flowers glabrescent, rarely short white pilose. Small trees, 2-12 m tall
+2. C. calothyrsus. Panama-Colima, Mexico.
+6. Flowers borne on long peduncles (12-18mm) and long pedicels (5-8 mm). Flowers glabrescent or short pubescent. Pods 9-12 mm wide, short red pubescent, clearly corrugated in the intermarginal area. Large shrubs (2-6 m tall)
+5. C longepedicellata. Jalisco, Mexico.
+Flowers borne on medium length peduncles (5-12 mm) and short pedicels (1-2.5 mm). Flowers densely white, dark or ferruginous pilose. Pods 11-18 mm wide, white or dark sericeous. Small shrubs (1-2 (4) m tall)
+1. C. grandiflora. Honduras-Sonora, Mexico.
+Seedling key
+1. First leaf pinnate
+First leaf bipinnate
+2. Cotyledons phaneroepigeal
+Cotyledons cryptohypogeal or phanerogeal
+3. Stipules lanceolate
+Stipules ovate-oblanceolate. Cotyledons developing 0-1 cm above the ground. First leaves almost opposite, densely haired
+C. houstoniana. Nicaragua-Chihuahua, Mexico.
+4. Seedlings with cotyledons 1-3 cm above the ground. First leaves clearly alternate
+.C. calothyrsus. Panama-Colima, Mexico
+Seedlings with cotyledons 0-1 cm above the ground. First leaves opposite or scarcely alternate
+C. physocalyx. Oaxaca-Guerrero, Mexico
+5. Stipules ovate-oblanceolate. Cotyledons opening at ground level; epicotyl scarcely elongated
+C. juzepczukii. Chiapas-Oaxaca, Mexico.
+Stipules lanceolate. Cotyledons remain, at least partially beneath the ground; epicotyl 0.5-1.5 cm
+6. Cotyledons remain below ground. First leaf with 8-10 pairs of leaflets
+C. grandiflora. Honduras-Sonora, Mexico.
+Cotyledons open at ground level. First leaf with 10-15 pairs of leaflets
+C. longepedicellata. Jalisco, Mexico.
+7. Cotyledons opening at ground level, first leaves clearly alternate
+C. palmeri. Jalisco-Nayarit, Mexico.
+Cotyledons opening from close to ground level to 1 cm, first leaves opposite or nearly so...
+C. houstoniana. Nicaragua-Chihuahua, Mexico.
+Source: D.J. Macqueen (1996), p. 12-13.
+Glossary of technical botanical terms.
+Source: D.J. Macqueen (1993), p. 57
+Acropetally
+Developing towards the apex.
+Actinomorphic
+Parts radiating equally from the center.
+Anthesis
+Time of anther opening and pollen release.
+Acuminate
+Having a gradually diminishing point.
+Adaxial
+The side facing the main plant axis.
+Angulate
+Showing a determinate number of angles.
+Campanulate
+Bell-shaped.
+Canescent
+Growing grey.
+Capitate
+Pin-headed or growing in heads.
+Ciliate
+Fringed with hairs.
+Ciliolate
+Slightly fringed with hairs.
+Coriaceous
+Leathery.
+Eglandular
+Without glands.
+Foliaceous
+Leafy.
+Glabrous
+Without hairs.
+Hirsute
+Covered with long weak hairs.
+Hispid
+Covered with coarse rigid hairs or bristles.
+Jugate
+Joined (Paired).
+Lanceolate
+Sharply pointed or lance-like.
+Ligneous
+Woody.
+Membranous
+Thin and semi-transparent.
+Obovate
+Upside down egg-shaped.
+Ovate
+Egg-shaped.
+Paniculate
+With a branched conical inflorescence.
+Pedicel
+The stalk of a single flower.
+Peduncle
+The stalk of a flower cluster.
+Pentamerous
+With parts in fives.
+Petiole
+Leaf stalk.
+Pilose
+Hairy.
+Pleurogram
+The horse-shoe marking on the seed coat.
+Puberulent
+Slightly hairy.
+Rachilla
+A secondary axis.
+Rachis
+The main axis of a compound leaf.
+Rostrate
+Narrowed into a point or beak.
+Sericeous
+Covered with very fine hairs, silky to the touch.
+Sessile
+Without a stalk.
+Setose
+Bristly.
+Striate
+Striped.
+Sub-
+Less than
+Terete
+Round in cross-section.
+Trigonus
+Three angled.
+Umbelliform
+Shaped like the ribs on an umbrella.
+Verticillate
+Whorled.

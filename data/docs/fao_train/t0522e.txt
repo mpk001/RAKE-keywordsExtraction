@@ -1,0 +1,1442 @@
+<title>Agricultural engineering in development - Post-harvest operations and </title>
+<section>1</section>
+Preface
+"Every day, millions of individuals do not have enough to eat, and many of them simply do not eat at all".
+For a number of developing countries, cereals and grain legumes represent the basic element of the population's diet, especially for the lowest-income, generally rural, groups.
+In these countries, food self-sufficiency still remains an unachieved objective, and this is not always or only because of the inefficiency of the local production systems.
+The extent of post-harvest losses sometimes seriously limits the impact of the efforts made to increase food production; such losses decrease local availability of food, forcing national policy-makers to resort to massive imports of foodstuffs, thereby increasing their food dependency.
+The governments of developing countries, as well as a number of NGOs, bilateral and multilateral international cooperation agencies, and especially FAO, have been engaged for several years in projects aimed at the prevention of food losses.
+The experience acquired during these interventions has often demonstrated the need not only for improving production methods but also for making both farmers and concerned institutions aware of the problem of post-harvest losses.
+This publication is primarily addressed to members of the technical or administrative staffs of government services or assistance to development agencies working in field projects related to prevention of grain losses. It is a manual of basic information on post-harvest operations concerned with the principal foodstuffs of the developing countries: rice, maize, sorghum, beans, groundnut and sunflowers.
+As such, it will be useful to field staff (extension agents, rural leaders, development agents) who are participating in the implementation of projects aimed at improving post-harvest operations.
+It is also addressed to those working in the actual production of these food grains, and who, because of a regrettable interdisciplinary compartmentalization, have only a partial and generally insufficient understanding of post-harvest problems.
+Misdirected efforts over recent decades, largely aimed at improving yields rather than at post-harvest commodity enhancement, have led to some paradoxical situations. Indeed, even though the technical conditions for increasing production have all been met, the increase cannot take place because of post-harvest obstacles.
+For example, since the 1970s, in the Senegal River valley and in many irrigated areas which have been developed in West Africa, the objective of two annual harvests has not yet been achieved. One of the main causes of this delay is the fact that rice-threshing is done manually.
+Since there is only a small labour force available, this operation continues for several weeks, preventing the immediate planting of the land for a second crop. A bottleneck at this level therefore has direct repercussions on production itself.
+The introduction of small motorized threshing-machines, in such a situation, can not only reduce the cost of threshing but also stimulate production itself by fostering bi-annual harvests.
+This example clearly shows that production improvement must be matched by improvement in post-harvest operations and prevention of post-harvest losses.
+In this spirit, this manual can be of interest to all those who, in one way or another, are working in the field for the improvement of food production in developing countries.
+This publication should help to unify the criteria and to standardize the dissemination of knowledge about post-harvest technologies.
+It examines the total process from harvest to consumer, from determination of physiological maturity to marketing of products, which makes up the "post-harvest system".
+Technologically, it particularly covers operations of harvesting, drying, threshing/shelling, storage and transport of the principal cereals (maize, sorghum, rice), grain legumes (beans) and oilseeds (groundnuts, sunflower seeds).
+Experience or solutions resulting from the use of traditional methods, suitable technologies and mechanized systems are systematically presented.
+Taking into account the breadth of the subjects discussed and the general public to which this publication is addressed, we have endeavoured to take a simplified and concrete approach to the subjects, with minimal insistence on theoretical aspects, for which a rich and widely diffused bibliography already exists.
+<section>2</section>
+Introduction
+For those who make their living by working the land, it is a great satisfaction to be able to observe a field of maize, sorghum or beans that is about to be harvested.
+But what a disappointment it is to discover that often, after the harvest, a large part of the grain produced has been lost, or has so badly deteriorated that it is unfit to eat or to sell.
+What happened, and when? And above all, what can be done, after so much effort, so many hours devoted to field-work, to avoid post-harvest losses?
+Before attempting to answer these questions, it is a good idea to briefly summarize the series of operations which the grain undergoes after the harvest.
+<section>3</section>
+Grain and post-harvest systems
+Definition
+In the agrofood chain, harvesting is the stage between the phase of actual agricultural production and that of grain processing or, more broadly, treatment of the produce.
+Chart
+Whether it is done by hand or with the help of machines, the harvest should generally not take place until the produce has reached its optimal maturity.
+After the harvest, it may be necessary to pre-dry the produce before the subsequent threshing or shelling operation.
+The grain must be cleaned and dried, so that it can be stored or undergo further processing.
+Grain can be stored in bulk or in bags, on the farms where it was produced, in collection centres, or with storage agencies.
+Finally, the grain is sent from the warehouses to markets for sale to consumers, to smallscale food-processors, or to agrofood industries.
+The sequence and interactions of these operations contribute to the formation of a complex system called the post-harvest system.
+TECHNOLOGIES AND PHASES OF THE POST-HARVEST SYSTEM FOR GRAIN
+POST-HARVEST OPERATIONS TRADITIONAL TECHNOLOGIES INTERMEDTARY TECHNOLOGIES INDUSTRIAL TECHNOLOGIES
+Harvest Manual Manual and mechanized Mechanized
+Pre-drying Standing or in shocks Incribs or in shocks 
+Storage in the ear In traditional In cribs granaries 
+Threshing Manual Mechanized Mechanized
+Pre-cleaning Mechanized Mechanized
+Drying Natural Artificial Artificial
+Cleaning and sorting Winnowing in the wind Mechanized Mechanized
+Storage in grains In traditional granaries In bags or in bulk In bags or in bulk
+Processing Manual Mechanized Mechanized
+Cereals
+Rice
+A gramineous plant native to the tropical regions of Asia (China and Indochina), rice is the staple food of much of humanity.
+Ears of rice which have reached physiological maturity are cut and left in sheaves in the field to pre-dry.
+Then threshing is done manually or mechanically, to separate the paddy, that is the whole grain and its protective envelopes (hulls), from the straw.
+When rice is harvested with a combine-harvester, cutting and threshing are simultaneous.
+After threshing, the paddy often contains impurities (earth, stones, plant residues, etc.), and its moisture content is over 20 percent.
+To preserve or hull the paddy, it must be pre-cleaned, and the moisture content reduced to about 14 percent by drying.
+This can either be done naturally, by exposing the kernels to air and sun and turning them frequently; or artifically by a current of warm dry air in mechanical dryers.
+Once dried, the paddy is cleaned and then stored (in bags or in bulk) in warehouses or silos.
+The dried, cleaned paddy is ready to be milled, that is, to undergo the following treatments:
+* Hulling: the external envelopes of the grain (hulls) are removed manually (mortar and pestle) or by hullers (disc or roller type) to obtain brown rice;
+* Whitening: the outer layers (pericarp) and the germ of the kernel are eliminated by milling the brown rice by machine to produce "white rice".
+After sorting, the white rice may undergo other treatments - polishing or glazing (with a mixture of talc and glucose): the object is to enhance the product's commercial value and prolong its shelf-life.
+The rice is then ready to be packaged and marketed.
+After industrial milling, 100 kg of paddy yields about 60 kg of white rice, 10 kg of broken grains, 10 kg of bran and flour, and 20 kg of hulls.
+Because rice is highly nutritious, it is mainly used for human consumption.
+It is also used industrially in the production of alcohol, beer, starch, oil and other byproducts.
+By-products such as broken grains and flours are often used as animal feed.
+Rice-hulls are sometimes used as fuel and their ashes as fertilizer.
+Maize
+A cereal native to tropical zones of America, maize is one of the most widely cultivated gramineous plants in the world.
+Maize can be harvested either in ears or in grains. The ears can be harvested by hand or by a mechanical corn-picker. The harvested ears are stripped of their husks and then shelled manually or mechanically.
+In small-scale cultivation when the harvest takes place in the dry season, the ears (with or without husks) can be sun-dried, and then stored under cover.
+In industrial cultivation, on the other hand, the maize is harvested only by machines (cornsheller or combine harvester) capable of supplying grains ready for drying or for sale.
+At harvest time, particularly in the rainy season, grains of maize have too high a moisture content to keep well; therefore, before storage, the product must be dried, to lower the moisture rate to about 14 percent.
+Artificial drying of the grain, by dry heated air, is done by machines in the collection or storage or in the processing units (mills, cattle-feed factories etc.).
+The dried maize is cleaned, and then stored (in bags or in bulk) in warehouses or silos. The dried and cleaned maize is ready for sale or for further processing.
+For human consumption, maize can be eaten as fresh ears or in the form of cakes made from dough obtained by cooking the grain. The flour or semolina from husking and grinding can also be eaten.
+The processing industry also uses maize to produce oil and margarine, cattle-feed, beer, baby food, soap, glue and varnish.
+Grain sorghum
+Grain sorghum, also simply called sorghum (Guinea grass), is a graminaceous plant native to central and eastern Africa (Ethiopia, Sudan).
+At physiological maturity, the panicles of sorghum are cut and left to dry in the sun.
+The ears of grain thus obtained can be kept in traditional granaries or can directly undergo manual or mechanical threshing. Cutting and threshing can be carried out simultaneously by combine-harvesters, as with rice, but this is far less common in the tropics.
+In hot climates with little rainfall, the sorghum harvest can be delayed until the grain has completely dried in the field.
+If the grain has a moisture content higher than 13 percent, the product must be dried before it can be stored or treated.
+Once dried, the sorghum is cleaned, then stored (in bags or in bulk) in warehouses or silos.
+The dried and cleaned sorghum is ready for sale or for further processing.
+Like maize, sorghum can be eaten in the form of flour or semolina from husking, then grinding.
+The processing industry uses this cereal in the production of cattle-feed, beer, oils, glues or adhesives, etc.
+Grain legumes
+Bean
+A pulse native to tropical America, the bean is very widely cultivated for its high nutritional value, owing to the high protein content.
+The product can be harvested by hand, by pulling up or cutting down the plant, letting it pre-dry, and then threshing it manually or mechanically. Otherwise, a combine-harvester can be used.
+After threshing, the beans often contain impurities and have a moisture content higher than 20 percent. Before they can be stored, it is necessary to pre-dry them, and then to lower their moisture content to about 14 percent by natural or artificical drying.
+Traditional methods of storing grain legumes call for the use of jars, mud-walled cribs, or bottles, but the most satisfactory results are obtained by storing completely dry grain in air-tight containers (metal cans or drums, plastic bags, etc.).
+Commercial storage is in bags in warehouses. Beans thus produced are ready for sale or consumption.
+Oilseeds
+Groundnut
+The groundnut, native of tropical and subtropical America, is a pulse grown chiefly because its grains are rich in oil.
+The product is harvested by hand or machine, by pulling up the plant and allowing the shells to dry in the field for two or three days.
+Then, when the moisture content is below 15 percent, the shells can be separated from their stems by manual or mechanical threshing.
+In mechanized cultivation, these operations of pulling up and threshing can be done directly to fresh plants, with the help of special machines like grubber-threshers.
+After threshing, the groundnuts are pre-cleaned, then artificially dried.
+When the moisture content has fallen to 7-8 percent, unshelled groundnuts are ready to be stored in bulk in the open air (in pyramids known as "secco"), or in very dry and well-ventilated storerooms.
+After drying, one can proceed directly to the shelling and then the cleaning of the groundnuts.
+Once put into bags, the shelled groundnuts are stored in the open air or in warehouses.
+In the processing industries (oil-mills), the shelled kernels are increasingly stored in silos. In the oil-mill, the dried grains, shelled and cleaned, are ready for oil-extraction treatments.
+The oil is used for human consumption, as are the nuts themselves either whole (boiled in the fresh shell, grilled in the shell and either plain or salted, shelled and grilled or coated) or as peanut butter.
+Oil-mill by-products, especially groundnut cake, make an excellent raw material for animal feed.
+Sunflower
+A native plant of North America, the sunflower is grown mainly for the richness of oil in its seeds.
+The capitula (flowering heads) are harvested, by hand or machine, when the upper leaves of the plants are dry and the petals faded.
+If the moisture content of the harvested product is higher than 15 percent, the heads must be pre-dried in cribs before proceeding to manual or mechanical removal of the seeds.
+In mechanized cultivation, harvesting and removal of the seeds are carried out simultaneously by combine-harvesters.
+When the moisture content is below 9 percent, sunflower seeds can either be stored directly or undergo oil-extraction treatments. If the moisture content is higher, the seeds must be artifically dried.
+Given the excellent quality of the oil, sunflower seeds are used almost exclusively in oil-making.
+In addition to its nutritional use, sunflower oil is used as a raw material in making paint colours, soap, and lamp oil.
+The by-products of oil-making, especially feed cake, are an excellent livestock feed.
+<section>4</section>
+Post-harvest losses
+Definition
+The expression "post-harvest losses" means a measurable quantitative and qualitative loss in a given product.
+These losses can occur during any of the various phases of the post-harvest system.
+This definition must also take into account cases of product deterioration. However, rather than actual losses, it would be more accurate to call it restriction in the use of the product. As a matter of fact, grain partially damaged by insects, for example, may no longer be suitable either for human consumption or for sale. Where it was intended for those uses, losses in value have obviously occurred, even if the grain can be salvaged by using it for poultry feed.
+From an economic point of view, the sum of the losses in quantity and quality of the products inevitably means losses of money.
+In addition to direct economic losses, there are those resulting from poor management of post-harvest systems. They are evidenced by a lack of growth in production and in the income of the farmers.
+Post-harvest system and losses
+Seeds of poor quality, inadequate farming practices, or insect attacks in the field can provoke losses of products even before their harvest. But we are concerned here only with prevention of losses after the harvest.
+From the harvest onward, then, the grain undergoes a series of operations during the course of which quantitative and qualitative losses can occur.
+The sequence of these operations and the conditions in which they take place can, furthermore, create physical and biochemical phenomena that will bring about an alteration of the grain at later stages in the post-harvest system.
+A late harvest, for example, can bring about losses from attacks by birds and other pests.
+Insufficient drying of grain can cause losses from the development of moulds and insects.
+Threshing can cause losses from broken grains and encourage the development of insects.
+Poor storage conditions can bring about losses caused by the combined action of moulds, insects, rodents and other pests.
+Transport conditions or defective packaging of grain can lead to quantitative losses of product.
+Finally, in addition to these factors, there are others which can often be partly responsible for post-harvest losses, such as, for example: marketing practices, sectoral policies and other socio-economic aspects.
+NATURE AND PRINCIPAL CAUSES OF POST-HARVEST LOSSES
+NATURE DIRECT CAUSES INDIRECT CAUSES
+Premature harvest Inadequate:
+Poor maturation - capital
+Poor threshing - professionalism
+In weight Insufficient drying - equipment
+Insufficient cleaning - pesticides
+Bird attack - packaging
+In quality Rodent attack - transport
+Insect attack - organization
+Micro-organism attack Constraints:
+Biochemical change -social
+Economic Leakage and waste -economic
+Moisture content wrong -political
+for storage 
+Inadequate storage and
+transport techniques 
+It follows that if the question of post-harvest losses is to be tackled empirically, it is above all necessary to know, in each situation, the nature and number of manipulations the product undergoes, as well as the causes and incidence of losses during each stage in the process.
+As an example, the following table gives estimates of the quantitative losses of rice for each stage in the post-harvest system in Southeast Asia.
+STAGE LOSSES
+Min. Max.
+Harvest 1% 3 %
+Handling 2% 7%
+Threshing 2 % 6 %
+Drying 1% 5 %
+Storage 2 % 6 %
+Transport 2 % 10 %
+Total 10% 37%
+In many developing countries, overall post-harvest losses of cereals and grain legumes of about 10 to 15 percent are fairly common. In some regions of Africa and Latin America, higher rates are found: up to 50 percent of the quantities harvested.
+Up to now, we do not have really reliable data on the true level of post-harvest losses. There are many reasons for this information gap:
+* no universal mathematical methods exist for establishing a "model";
+* the extent of losses may fluctuate considerably depending on weather conditions (rainy season, etc.), varieties, locations, etc.;
+* many national institutions deal negligently and superficially with the question of post harvest losses, considering it marginal in relation to the problems of agricultural production;
+* it is difficult to make credible estimates of quantitative and qualitative losses, especially in situations where specific resources, strategies, and capabilities are all lacking;
+* the lack of adequate permanent national organizations makes it impossible to monitor the extent of post-harvest losses.
+Losses in weight
+A reduction of the physical substance of the product is evidenced by a loss in weight.
+Nevertheless, a distinction must be made between loss in weight and loss of product. The decrease of the moisture content brings about a lowering of weight, but this is not a food loss. On the contrary, an increase of weight by absorption of moisture, after rains on a stock in the open air, for example, can cause severe damage and thus considerable losses.
+Weight losses are due mainly to the prolonged action of pests (insects, birds, rodents), or to leakage of products (perforated bags, spillage during grain handling, etc.). They can occur at practically any stage of production, but especially during the harvest, storage, and transport or handling of
+Weight losses caused by pests are not apparent to the casual glance; an inexperienced buyer can thus be fooled. In order to recognize them, one should take an equal volume of clean and sound cereals, grind both samples, and weigh the flour obtained in each case. It will be observed that the damaged sample produces less flour.
+This method can also be useful for avoiding potential weight frauds, since it is easy to augment weight by dampening the grain or by adding foreign bodies like pebbles, earth or sweepings.
+In order to avoid any confusion, weight loss of dry matter should be stipulated.
+Losses in quality
+Criteria of quality vary widely and involve the exterior aspect, shape and size, as much as the smell and taste. In this regard, the cultural considerations with which diets and eating habits are imbued cannot be overlooked.
+A clean wholesome product is of primary importance in marketing. By taking a handful of grain from a bag, for example, a tradesman can quickly see if it gives off a floury dust and can therefore deduce whether or not it comes from an infestation by insects. Likewise, a bad smell can lead him to suspect rodent attacks, which can be confirmed by the presence of rat or mouse excrement or hairs.
+Losses in quality are thus evidenced by a decrease in the market value of the product.
+These losses are quantifiable only on condition that criteria or standards of quality have been previously established.
+On the basis of objective criteria, the quality of the products can be evaluated by fairly complicated tests, measurements and laboratory analyses.
+Many of the criteria adopted are based on evaluation of standards related to the physical condition of the grain and to its food, nutritive and germinative values.
+In various countries, quality ratings are based on the general principal according to which grain must be "wholesome, sound, of market quality and odourless".
+Implicit in this definition are the chief criteria for evaluating the quality of a given batch of grain; these include:
+* moisture content: suitable for the storage or further handling of the product;
+* colour: homogeneous and appropriate to the type of product under consideration;
+* odour: it must not hint that any biochemical change is going on;
+* cleanness: the number of impurities must conform to established standards of quality;
+* infestation: the absence of insects or other living organisms must be ascertained.
+Generally, multiple criteria combine to define the quality of the products, and they also take into account cultural aspects related to community eating habits. In Senegal, for example, broken rice is highly prized by consumers; for this reason, the degree of breakage, as a standard of rice quality, obviously has less importance than in other contexts.
+Losses in quality are mainly the result of mechanical constraints undergone by the product, the action of pests (insects, rodents) and micro-organisms (moulds), or the chemical changes produced within the grains under the effect of environmental conditions (temperature, humidity, duration of storage).
+These losses can occur at any stage of production, especially during
+Losses due to physical condition
+These depend on the physical condition of the grain during a given stage of the post-harvest system.
+The physical characteristics generally considered in evaluating the incidence of such losses are: shape and size of the grains, percentage of moisture, presence of impurities (foreign grains, grains that have germinated, are broken, deteriorated or damaged; pebbles, earth, plant residues, fragments of glass or metal, animal hairs or excrement, etc.), degree of infestation by insects or micro-organisms.
+Losses due to change in food qualities
+These losses, which are especially critical when the grains are intended for human consumption, result from alteration of the organoleptic features (aspect, taste, smell), from the degree of innocuity of the product (absence of toxic products such as toxins, pesticide residues, etc.), and from alteration in its content of vitamins, proteins, fats, glucides and other important nutrients.
+Losses due to change in germinative properties
+If marketable seeds are desired, the grain must not show altered germinative properties. These can be defined by the rate and percentage of germination, the vigour (stress resistance), the growth-rate of the seedlings and the absence of anomalies in the plants thus obtained.
+The alteration of these properties brings about production losses by decreasing the capability of the grain to germinate.
+Economic losses
+A reduction in the quantities or qualities of grain means a corresponding commercial loss that is evidenced as a loss of money.
+But beyond these direct economic losses, an evaluation of losses should also take account of some factors within the post-harvest system that can hamper the growth of production and of income. These include production systems, work schedules and methods, infrastructure, organization models, credit mechanisms etc. Some examples will illustrate this point.
+For example, adoption of mechanized or semi-mechanized systems for some operations (harvesting, threshing, drying, etc.) can cut working time while, at the same time, permitting an increase in production by reducing the labour required and exploiting the land to better advantage.
+Commercially, if the transport system is inadequate, the farmer may find it impossible to sell his products within the required time-limits and in the places where market prices are the most attractive. The fact of having to forgo a potential profit is beyond a doubt a loss of money.
+If a farmer is not able to store products in complete security in existing storage buildings, he may be obliged to sell his production immediately after the harvest, thus becoming unable to profit by market prices when they are at their best. Once again, missing a profit is an economic loss for the farmer.
+The consequences of such situations often go beyond individual losses of money: they affect production and the entire national economy.
+<section>5</section>
+The harvest
+Definition
+The harvest is the operation of gathering the useful part or parts of the plant.
+It is a voluntary intervention by man, carried out at the time when all the nutrients have been developed and when the edible parts have reached the degree of maturity appropriate to the treatments to follow.
+Physiological maturity
+In general, the harvest takes place 10 or 15 days after the grain has reached physiological maturity.
+At the time of maturity the grain has a specific moisture content and special physical characteristics.
+For the harvest to take place at the most propitious time, account must be taken not only of the length of the growing cycles (which differ according to the varieties), but also of the degree of maturity of the grain.
+The following table shows the degrees of moisture content considered appropriate for good harvest conditions and the characteristics permitting assurance of physiological maturity.
+GRAINS MOISTURE PHYSICAL CHARACTERISTICS
+Rice 22-28% The panicles bend with their own weight, yellowed hulls, full grains, neither too ripe (cracked), nor too green.
+Maize 23-28% Cobs almost dry, hard and glassy kernels resistant to scoring with the thumbnail, black dot in the caryopsis.
+Sorghum 20-25% Dried stems and leaves, hard grains resistant to the thumbnail, glassiness depending on variety.
+Beans 30-40% Pods ripe and yellow, shells dried, skins of kernels easily detached.
+Groundnuts 30-35% Leaves yellow, shells dried, skins of kemels easily detached.
+Sunflower 9-10% Upper leaves dry and flower faded.
+The harvest may, nevertheless, take place at a time when, because of varying weather conditions and even though it has reached physiological maturity, the grain has a moisture content higher or lower than shown above.
+Clearly, the higher the moisture content of the grain at harvest time, the greater the risks of losses from moulds, insects and germination. On the other hand, the longer the grain remains in the field (to further the drying of the product), the greater the risks of losses from spontaneous fall of grain, or from attacks by birds, rodents and other pests.
+Harvest operations
+Harvesting can be done by hand, with simple farming implements, or by mechanized systems.
+Choice of the degree of mechanization to adopt depends on the anticipated use of the machines.
+Choice of the machine must be justified by the estimate of the areas to be harvested annually and by a cost-benefit analysis.
+Harvesting rice
+This cereal is harvested only after the grain has reached maturity, and two or three weeks after draining the rice-field.
+Premature cutting of the rice keeps the grain from reaching maturity, and can cause serious losses in the quality of the product.
+Furthermore, it is important to accomplish the harvest while the moisture content of the grain is acceptable. Excess grain moisture can create big problems during the ensuing treatments, by fostering alteration of the final characteristics of the rice.
+On the other hand, too low a moisture content can cause the panicles to shatter at the time of cutting, leading to serious losses of product.
+Hand harvesting
+Harvesting by hand is done with a sickle or a scythe; the ears of rice are cut at about 2030 cm above the ground.
+After cutting, the ears of rice are left to dry on the stubble for two or three days.
+For guidance, about 80 to 160 man-hours per hectare are calculated as the average time required for manual harvesting of rice.
+In some tropical regions, it is still the custom today to harvest only the panicles, using a knife; in this case, the ears of rice are cut 30-50 cm below the panicles.
+By comparison with hand-harvesting with a sickle or scythe, this method requires about 175 percent more labour.
+Mechanized harvest
+Manual harvesting of rice, which is still relatively common, especially in tropical areas, is being increasingly replaced by mechanical harvesting with combine-harvesters. Combine harvesters are machines that do the cutting, threshing and pre-cleaning of the rice in one operation.
+Generally self-propelling, combine-harvesters have cutting apparatus, a threshing chamber composed of a revolving threshing drum (with teeth) and a stationary counter-thresher, and devices for cleaning the paddy.
+Construction of these machines is chiefly based on two designs: Japanese and western. Depending on their construction features (width of cutter), the work capacity of these machines can vary from two to 15 hours per hectare (h/ha).
+Some estimates indicate yields from these machines of 350 to 800 kg of paddy an hour (kg/h), with grain losses lower than 3 percent.
+Western combine-harvesters are large machines whose cutting bars may be four or five metres long.
+Depending on their construction features and the harvesting conditions (well-drained paddy-fields, sufficiently long plots, etc.) the work capacity of these machines can be as much as 1 to 1.5 h/ha, for an overall employment of labour of about 2.7-4.5 hours per hectare (h/ha).
+Use of combine-harvesters offers an economic advantage for harvests from a minimum of 70 hectares a year upward.
+In addition to combine-harvesters, side-delivery rakes (or wind-rowers) and binders are also used for harvesting rice.
+Wind-rowers are machines that cut and unload paddy only laterally.
+These machines, whose theoretical work capacity varies from 4 to 8 h/ha, have the disadvantage of requiring a big labour force (100 to 200 in/ha) for manual gathering and binding of the paddy.
+Binders are machines that simultaneously cut, bind and unload paddy. Equipped with a cutting bar and a gathering and binding device, these machines do good work even in harvesting lodged paddy (20°-30º angle to the ground).
+Depending on their construction features (adjustability of height, width of cutter), the work Capacity of these machines can vary from 5 to 20 h/ha, with grain losses lower than 2 percent.
+In any case, mechanical harvesting of rice presents some problems.
+For example, machines must frequently work on muddy ground offering poor traction. For this reason, combine-harvesters are generally equipped with tracks, rather than wheels, so that harvesting can be done even on very wet ground.
+At the time of the harvest, the rice panicles do not stand up straight but are bent downward. In order to avoid excessive losses, the machines must be placed so that the ears are cut about 30 cm above the ground: this obviously necessitates coping with large quantities of straw.
+The rice husks contain silica, which gives them a highly abrasive quality that provokes rapid wear on the moving parts of the machines.
+Harvesting maize
+Maize can be harvested when the process of nutrients uptake into the kernels (physiological maturity) is complete.
+This cereal can be harvested by hand (harvesting ears) or mechanically (harvesting ears or grains).
+Hand harvesting
+When maize reaches physiological maturity, the moisture content of the grains can be as high as 37-38 percent.
+For this reason, before proceeding to hand-harvest the ears, maize is often pre-dried standing in the field.
+The techniques generally used for this operation are:
+* leave the ears on the whole plant, just as it grew;
+* break the stalks of the plants or the ears so that their tips are pointing downward; this is a frequent practice in South America where it is called "doblado";
+* cut the tops of the plants to encourage exposure of the ears to the sun.
+Field pre-drying techniques are fairly widespread, but they entail great risks of product loss, especially if the varieties grown are particularly sensitive to unfavourable weather (rain, humidity, etc.) and pests (insects, birds, rodents, etc.).
+In addition, the time taken up by pre-drying in the fields decreases the possibilities for exploiting the land.
+To harvest maize by hand, the ears are pulled from the stalk of the plant and no tool is used.
+Indicatively, the average duration of a manual maize harvest varies from 120 to 200 man-hours ( 15-25 man-days) per hectare.
+Shucking the ears, that is, the removal of the husks covering the ears, may be done by hand or by machine at the same time as the harvest.
+If this operation is done by hand, it requires about 130 man-hours (about 16 man-days) per hectare.
+Hand harvesting of maize is considered practicable for crops of under 12 hectares, if climate and availability of labour permit.
+Mechanized harvesting
+Mechanized harvesting of maize is done with corn-pickers, corn-shellers or combine-harvesters.
+Still in use, but with decreasing frequency, are simple corn-snappers, which do only harvesting of ears.
+Corn-pickers are machines that simultaneously harvest and shuck ears. They are therefore equipped with picking devices, shucking tables and loading gear. Generally coupled to a trailer for transport of the ears picked, one- or two-row corn-pickers can be tractor-drawn, carried, or self-propelled.
+The work capacity of these machines varies from 1.6 to 3.45 h/ha, with 75 to 80 percent of the ears completely shucked, and total grain losses lower than 4.5 percent.
+Two operators - a driver and a worker - are generally necessary to run these machines. he use of one-row corn-pickers is economically advantageous for harvesting a minimum of 2530 hectares a year; for two-row machines the minimum harvest should be 30-60 hectares.
+Corn-shellers resemble corn-pickers but have a device for shelling and cleaning grains. These machines can thus simultaneously harvest, shuck and shell the ears and pre-clean the kernels.
+Sometimes coupled to a trailer for transport of the harvested grains, one- or two-row corn-shellers can be tractor-drawn or carried.
+The self-propelled type, capable of harvesting two, three, or four rows, is, however, the most widespread, since its performance is superior to that of the tractor-drawn models described above.
+The work capacity of these machines is comparable to that of corn-pickers, with grain-losses lower than 3 or 4 percent.
+Another machine that is capable of simultaneously harvesting, shucking, shelling, and cleaning maize is the combine-harvester.
+This machine is derived from a combine-harvester for wheat on which modifications have been made to the cutting apparatus and the threshing device.
+Although the work capacity of these machines depends on harvesting conditions and on the size and shape of the parcels, it can run from 0.8 to 1.2 h/ha for six-row machines processing the whole plant, and from 0.4 to 0.6 h/ha for six-row machines treating only the ears.
+Overall grain losses, usually caused by the cutting device, are rarely higher than 3 percent.
+Two operators are generally needed for these machines.
+The use of combine-harvesters, like that of corn-shellers, offers an economic advantage for harvests of a minimum of 40-75 hectares a year.
+Grain sorghum harvesting
+Sorghum is harvested, by hand or machine, when the grain is very ripe.
+Hand harvesting
+Hand harvesting is done by cutting the panicles of grain or the sorghum plants with machetes or sickles.
+When the ears of sorghum have been cut, they are allowed to pre-dry on the threshing-floor or in sheaves in the field.
+Indicatively, the average duration of a manual sorghum harvest varies from 120 to 160 man-hours (15-20 man-days) per hectare.
+Mechanized harvest
+When physiological maturity has been reached, sorghum can have a moisture content of about 35 percent. However, mechanized harvesting can be effective only when the moisture content is below 20-25 percent.
+Mechanized harvesting is done with combine-harvesters, equipped for cutting and threshing.
+These machines, whose work capacity varies from 0.8 to 1.5 h/ha, seem better adapted to the harvest of dwarf varieties, and preferably to those with sparse straw-development.
+Bean harvesting
+In order to obtain a dry product, beans are harvested by hand or machine when the pods very ripe but not yet open.
+Hand harvesting
+To harvest beans by hand, the plants are pulled up and allowed to pre-dry in the sun.
+This operation is often done early in the morning, while the dampness of the night minimizes the risk that the grains will pop out of the pods.
+In some countries, before the harvest, the plants are treated with chemical defoliants. This treatment is intended to hasten drying of the plants and reduce the quantity of plant matter to prevent its slowing up threshing operations.
+Indicatively, the average time spent cutting the plants by sickle runs from 80 to 100 man-hours (10 to 12.5 man-days) per hectare.
+Mechanized harvest
+Mechanized harvesting of beans is more common in countries with advanced technology, and is usually done with combine-harvesters designed for wheat but adapted for beans. These machines, whose work capacity varies from 0.9 to 1.1 h/ha, have the disadvantage of working efficiently only on rather extensive parcels of land that have been levelled and weeded, then planted with dwarf varieties whose plants stand erect and reach maturity simultaneously.
+Harvesting groundnuts
+Groundnut harvesting, by hand or machine, basically consists of the following operations:
+* lifting: cutting the tap-root at a depth of 6-15 cm underground, breaking up the earth around the base of the plant and lifting up the plant;
+* shaking: eliminating the remaining earth attached to the shells and preparing the plants for pre-drying or for drying;
+* threshing: separating the shells from the stems.
+It is very difficult, however, to recognize the most propitious time to harvest groundnuts. This is because there is no particular physical manifestation or feature that defines with total certainty the time when the plant has reached its physiological maturity.
+For the "Virginia" varieties, the best time for the harvest is indicated by the drying of the stems, the falling of the yellowed leaves, and the dark-brown colour of the insides of the shells.
+On the other hand, in the "non-dormant" varieties, groundnuts are ready for harvesting when 2 percent of the plants show germination.
+Too late a harvest will inevitably be paid for by product losses, since in pulling up the plants many shells will be left in the ground if it has already hardened.
+If, on the contrary, the harvest is too early, drying operations are more difficult and more urgent, and the quality of the end-product is compromised.
+Since rapid lowering of the moisture content to about 15 percent is essential, care must also be taken, after pulling up the plants, not to place or leave them in a pile while they are still green or wet with rain.
+Hand harvesting
+Hand harvesting is done with a tool that cuts the tap-root and lifts the plant.
+Once pulled out, the plant is shaken and freed of the residues of earth still attached to the shells, then left on the ground to dry.
+After two days at most, the groundnut plants are stacked or placed on drying racks to further the pre-drying, or drying, of the product.
+Indicatively, manual pulling up and stacking of the plants takes about 80 to 150 working hours per hectare.
+Animal-powered harvesting
+With draught traction, at harvest time, the groundnut plants are lifted by means of farm implements drawn by animals.
+Two people are needed for draught traction harvesting: one to drive the team and the other to pull up the plants.
+By using lifters instead of harvesting by hand, working time is usually reduced by about 20 hours per hectare.
+Mechanized harvest
+Many machines are available for harvesting groundnuts.
+The choice of machine depends on several factors: land features, varieties grown, local climatic conditions, proximity to drying installations and storage buildings, etc.
+Depending on the machine, then, groundnuts can be harvested by doing one operation at a time or several of the previously described operations simultaneously.
+Thus, there are lifters, lifter-shakers, and picker-threshers.
+Harvesting by tractors fitted with lifters is done with a system of frame-mounted blades that cut the tap-roots and lift up the plants.
+In addition to lifting, lifter-shakers uproot the plants and rid them of earth.
+If they are equipped also to lay the plants in windrows, these machines are called lifter-shaker-windrowers.
+Indicatively, mechanized pulling and windrowing of the plants requires about 4-6 working hours per hectare.
+Picker-threshers usually finish the work of the above machines, by gathering up the windrows for threshing.
+Sunflower harvesting
+Sunflower harvesting, by hand or machine, takes place when the upper leaves have started to dry and the flowers are faded.
+In some cases, especially when the fields are small, it is preferable to harvest the crop before maturity. This decreases the risk of losses from attacks by birds and other pests.
+Hand harvesting
+Manual harvesting is done by cutting off heads with a knife or clippers.
+If, at harvest time, the moisture content of the seeds is higher than 15 percent, the heads should be pre-dried before threshing.
+Mechanized harvest
+Mechanized harvesting of sunflowers is generally done with combine harvesters designed for wheat, but modified and equipped with a sunflower-picker head.
+The work capacity of these machines is about 0.9 h/ha.
+<section>6</section>
+Pre-drying
+Definition
+At harvest time, the cut portions of the plant may contain too much green plant matter, while the grain may not have reached a uniform degree of maturity and may have too high a moisture content.
+"Pre-drying" is the stage of the post-harvest system during which the harvested product is dried in order to undergo the next operation of threshing or shelling under the best possible conditions.
+Pre-drying operations
+In discussing harvest problems, we have mentioned some operations aimed at further pre-drying of products.
+It will be helpful, however, briefly to describe the most commonly used pre-drying methods, to which we shall return in the chapter on drying.
+Indeed, when distance from artificial drying installations justifies it, and if weather permits, pre-drying operations can be prolonged until they become actual drying operations; that is, until the degree of humidity has been so reduced that the product will keep well.
+For maize, the use of cribs permits not only pre-drying, or complete drying of the grains, but also storage of the ears.
+The duration of pre-drying is difficult to establish, because it is influenced by several factors.
+The weather, moisture content at harvest time, the threshing or shelling systems and machines used, the proximity of artificial drying installations, storage methods: these are only a few of the factors that must be taken into account when establishing the duration and the kind of pre-drying operations.
+Standing-crop pre-drying
+One of the simplest and most common methods, especially in favourable weather, consists of postponing the harvest.
+Once maturity has been reached, the products are allowed to pre-dry standing in the field, before harvesting them.
+As for maize, for instance, this method sometimes requires several weeks in the field after physiological maturity.
+When used for sorghum, sunflowers, and especially maize, this method is risky and has great disadvantages:
+* losses from natural falling of grain;
+* losses from attack by pests (rodents, birds, etc.);
+* losses from infestation (insects, moulds, etc.) that could have grave consequences during storage;
+* prolonged inactivity of fields and impossibility of using the land for a second crop.
+Pre-drying in piles
+This method of pre-drying, or drying, consists of placing the newly-harvested product piles, in the field or on an ad hoc drying-floor. Prolonged exposure to the air (in sun or shade) reduces the moisture content of the grains.
+The shape and size of these piles can vary according to the product to be pre-dried.
+For example, panicles of rice, once harvested, are gathered into sheaves. These sheaves of rice can be put into large buildings to dry in the shade.
+If weather permits and if sufficient covered spaces are not available, sheaves of rice can also be allowed to pre-dry in the field.
+To accomplish this, wooden drying racks can be built and sheaves of rice propped against them, taking care to shade the panicles from direct sunlight by using straw or other plant matter.
+Another system used for pre-drying rice and also groundnuts consists of building aerated "stacks".
+The groundnut shells must, however, be placed inside the stacks, so as to be protected from direct sunlight that would cause too-sudden high-temperature dessication.
+Pre-drying of groundnuts and sunflower seeds can also be accomplished using wooden drying racks on which to prop the groundnut plants or sunflower heads.
+As for bean plants, after they are pulled up they are exposed to the sun and aired in piles in the field.
+For sorghum, the ears are put into bunches or stacks, then left in the sun on drying-floors or on suitable trays with screened bottoms.
+Redampening of shells and grains during pre-drying must be prevented by protecting the piles from sudden rains or nocturnal humidity and dew.
+At the same time, in order to cut down the risks of infestation (moulds, etc.), direct contact of the shells and grains with the ground must be avoided.
+Pre-drying in cribs
+For maize, as well as for sunflowers, the disadvantages of standing-crop pre-drying can be alleviated by harvesting at maturity and placing the ears (or sunflower heads) to pre-dry in the naturally-ventilated cells called cribs.
+By permitting the natural circulation of air among the ears, cribs ensure a slow and progressive reduction in the moisture content of the grains, but too long a stay in cribs may bring about severe losses from insect infestation.
+Cribs, which are used both for drying and storage, can be used in damp climates, but more efficiently in dry climates.
+They are relatively inexpensive, since they can be built from local materials using traditional techniques.
+<section>7</section>
+Threshing and shelling
+Definition
+Threshing or shelling consists of separating the grains, or the shells in the case of groundnuts, from the portion of the plant that holds them.
+This separation, done by hand or machine, is obtained by threshing, by friction or by shaking the products; the difficulty of the process depends on the varieties grown, and on the moisture content and the degree of maturity of the grain.
+Threshing or shelling operations
+Threshing or shelling operations follow the harvest and whatever pre-drying of the crop is undertaken.
+These operations may be carried out in the field or on the farm, by hand or with the help of animals or machines.
+Depending on the influence of agronomic, economic and social factors, threshing or shelling is done in different ways:
+* threshing or shelling by hand, with simple tools;
+* threshing with the help of animals or vehicles;
+* mechanical threshing or shelling, with simple machines operated manually;
+* mechanical threshing or shelling, with motorized equipment.
+As we have observed above, the operations of harvesting and threshing or shelling can be carried out simultaneously, by combine-harvesters or picker-shellers.
+Whatever the system used, it is very important that threshing or shelling be done with care. Otherwise, these operations can cause breakage of the grains or protective husks thus reducing the product's quality and fostering subsequent losses from the action of insects and moulds.
+Transport of the product from the field to the threshing or shelling place must also be handled with special care, since it can bring about severe losses.
+Hand threshing
+One of the simplest systems for threshing rice is to pick up the sheaf of rice and strike the panicles against a hard surface.
+Another frequently-used method of threshing rice is to trample it underfoot.
+Threshing of rice, as well as of sorghum, beans and groundnuts, can be done by striking sheaves spread out on a threshing-floor with a flail or a stick.
+The threshing-floors on which the sheaves are spread must have a hard, clean surface.
+By using one of these methods of hand-threshing, a worker can obtain 15 to 40 kg of product per hour.
+Hand shelling
+The easiest traditional system for shelling maize is to press the thumbs on the grains in order to detach them from the ears.
+Another simple and common shelling method is to rub two ears of maize against each other.
+These methods require a lot of labour, however. It is calculated that a worker can hand-shell only a few kilograms an hour.
+Shelling of maize, as well as of sunflowers, can be more efficiently accomplished by striking a bag full of ears or heads with a stick.
+Maize and sunflowers can also be shelled by rubbing the ears or heads on a rough surface.
+Small tools, often made by local artisans, are sometimes used to hand-shell maize.
+With these tools, a worker can shell 8 to 15 kg of maize an hour.
+Threshing with animals or vehicles
+If draught animals are available and there are large quantities of rice, threshing can be done by driving the animals (harnessed, in that case, to threshing devices) over a layer of sheaves about 30 cm thick.
+This operation, which is also called "treading out", can equally well be accomplished with vehicles.
+This method of threshing rice is adopted in some Asian countries, using a tractor for power instead of draught animals.
+Paddy is obtained by running the tractor twice over sheaves of rice that are spread in layers on a circular threshing-floor 15-18 m in diameter. The sheaves must be turned over between the two passages of the tractor.
+If operations are alternated between two contiguous threshing-floors, yields of about 640 kg/in can be obtained.
+Threshing with hand-driven machines
+Machines driven by a manual device or a pedal are often used to improve yields and working conditions during threshing.
+By means of the handle or pedal, a big drum fitted with metal rings or teeth is made to rotate.
+The rice is threshed by hand-holding the sheaves and pressing the panicles against the rotating drum.
+The speed of the threshing-drum must be kept at about 300 revolutions per minute (rpm).
+The hand-held sheaves must all be of the same length with the panicles all laid in the same direction, and the grains must be very ripe and dry.
+The machine must be continuously and regularly fed, but without introducing excessive quantities of product.
+If the paddy obtained contains too many unthreshed panicles and plant residues, a second threshing must be followed by an effective cleaning of the product.
+Use of these threshing machines may require two or three workers.
+Depending on the type of machine, the skill of the workers and organization of the work, yields can be estimated at a maximum of 100 kg/in.
+Maize-shelling with hand-operated machines
+Manual shellers, which are relatively common and sometimes made by local artisans, permit easier and faster shelling of ears of maize.
+These come in several models, some of them equipped to take a motor; they are generally driven by a handle or a pedal.
+Use of manual shellers generally requires only one worker.
+With yields of from 14 to 100 kg/in, they are well-adapted to the needs of small-scale production.
+Threshing or shelling with motorized equipment
+In describing operations of threshing or shelling with motorized equipment, the principal reference will be to motorized threshing-machines.
+Although they are gradually being replaced by combine-harvesters, these machines still have an important place in the post-harvest production process, especially for their convertibility.
+By the simple replacement of a few accessories and the appropriate changes in settings, these machines can treat different kinds of grain (e.g. rice, maize, sorghum, beans, sunflowers, wheat, soybeans, etc.).
+Equipped with a rotating threshing-drum (with beaters or teeth) and a stationary counter-thresher, these machines often have devices to shake out the straw and to clean and bag the Brain.
+Whether self-propelled or tractor-drawn, these threshers are often mounted on rubbertyred wheels for easy movement to the field.
+The use of motorized threshers may require two or three workers.
+Yields depend on the type of machine, the nature and maturity of the grain, the skill of the workers and organization of the work, and they can vary from 100 to 5 000 kg/in.
+Just as a guide, the following table shows the principal technical features of the multipurpose BAMBA motorized thresher (Bourgoin-France).
+FEATURES GRAINS
+MAIZE RICE SORGHUM BEAN
+Threshing speed (rpm) 800 800 1200 600
+Yields (kg/h) 1500 to 2000 450 to 600 450 to 600 450 to 600
+<section>8</section>
+Drying
+Definition
+After threshing, the moisture content of most grain is too high for good conservation (13-14 percent).
+"Drying" is the phase of the post-harvest system during which the product is rapidly dried until it reaches the "safe-moisture" level.
+The aim of this dessication is to lower the moisture content in order to guarantee conditions favourable for storage or for further processing of the product.
+Drying permits a reduction of losses during storage from causes such as:
+* premature and unseasonable germination of the grain;
+* development of moulds;
+* proliferation of insects.
+Moisture content
+The moisture content of a product is a numerical value expressed in percentage. This is determined by the relationship between the weight of the water contained in a given sample of grain and the total weight of that sample:
+when:
+H% = the moisture content of the sample (in %);
+Wwater = weight of the sample's water (in kg);
+Wdm = weight of the sample's dry matter (in kg).
+Therefore, to say that paddy has a 25 percent moisture content means that in a sample of 100 g of raw product there are 25 g of water and 75 g of dry matter.
+Relative humidity
+Grains are "hydroscopic", meaning that in ambient air they can either give off or absorb water in the form of vapour.
+At a given temperature, however, the air cannot absorb unlimited quantities of water vapour.
+The air is said to be "saturated" when, unable to absorb water vapour at a given temperature, it has a relative humidity of 100 percent.
+The relative humidity of the air, expressed in percentage, is defined as the relationship between the weight of the water vapour contained in 1 kg of air and the weight of the water vapour contained in 1 kg of saturated air, at a given temperature:
+when:
+RH% = relative humidity of the air (in %).
+The following table shows the maximal weights of water vapour contained in 1 kg of air:
+Air temperature 0ºC 10ºC 20ºC 30ºC 40ºC
+Maximal water vapour weight (in g) 3.9 7.9 15.2 28.1 50.6
+Air temperature 50°C 60°C 70°C 80°C 90°C
+Maximal water vapour weight (in g) 89.5 158.5 289.7 580.0 1559
+Air containing a given amount of water vapour tends to become saturated if its temperature is lowered.
+On the contrary, if one wants to increase the "drying power" of this air (meaning its capacity for absorbing more water vapour), it is necessary to heat it.
+For example, air containing 15.2 g of water vapour per kg has a relative humidity of:
+Air-grain equilibrium
+For a certain category of products and for a given temperature, an equilibrium in the exchange of water vapour between the grain and the air is represented by the curve called "hydroscopic equilibrium curve".
+This curve shows, at a given temperature, the equilibrium between the moisture content of the grain (H%) and the relative humidity of the air (RH%).
+The following graph gives the air-maize equilibrium curves at three temperatures (15°C, 20°C, and 35°C).
+Air-maize equilibrium curve
+As can be easily observed:
+A) at 20°C, for a relative air humidity of 70 percent, equilibrium is reached when the moisture content of the grains of maize is 14 percent (point A);
+B) ventilated by air at 55 percent relative humidity, the grains of maize lose moisture, and reach equilibrium when their moisture content is 12 percent (point B);
+C) ventilated by air at 80 percent relative humidity, the grains of maize are rehumidified, and reach equilibrium when their moisture content is 16 percent (point C).
+Drying process
+Drying of products can thus be obtained by circulating air at varying degrees of heat through a mass of gram.
+As it moves, the air imparts heat to the grain, while absorbing the humidity of the outermost layers.
+Diagram of humidity exchanges between air and grain
+In terms of physics, the exchange of heat and humidity between the air and the product to be dried is seen in the following phenomena:
+* heating of the grain, accompanied by a cooling of the drying air;
+* reduction in the moisture content of the grain, accompanied by an increase in the relative humidity of the drying air. But this process does not take place uniformly.
+Indeed, the water present in the outer layers of grain evaporates much faster and more easily than that of the internal layers.
+Thus it is much harder to lower the moisture content of a product from 25 to 15 percent from 35 to 25 percent.
+It would be a mistake to think that this difficulty be overcome by rapid drying at high temperature. In fact, such drying conditions create internal tensions, producing tiny cracks that can lead to rupture of the grains during subsequent treatments.
+For drying grain, essentially two methods are used:
+* natural drying,
+* artificial drying.
+Both of them have advantages and disadvantages, and no ideal method exists that permits all needs to be met.
+Natural drying
+The natural drying method, which uses the techniques illustrated in the chapter on predrying, consists essentially of exposing the threshed products to the air (in sun or shade).
+To obtain the desired moisture content, the grain is spread in thin layers on a drying-floor, where it is exposed to the air (in sun or shade) for a maximum of 10-15 days.
+To encourage uniform drying, the grain must be stirred frequently, especially if it is in direct sunlight.
+Furthermore, for drying to be effective, the relative humidity of the ambient air must not be higher than 70 percent.
+For that reason, grain must not be exposed at night.
+In fact, by bringing about an increase in the relative humidity of the air, the cold of the night fosters rehumidification of the grain.
+For the same reasons, this method should not be used in humid regions or during the rainy season.
+It must be remembered that insufficient or excessively slow drying can bring about severe losses of product during storage from the self-generated heat of "green" grain.
+Finally, prolonged exposure of grain to atmospheric factors, and thus to pest attack (insects, rodents, birds) and micro-organisms (moulds), can also cause losses of product.
+Despite these drawbacks, natural drying is advantageous in the following situations:
+* when atmospheric conditions favour a reduction in moisture consent over a reasonably short time-span;
+* when the quantities of grain to be dried are modest;
+* when production organization and socio-economic conditions do not justify the cost of installing artifical drying equipment.
+Artificial drying
+The introduction of high-yielding crop varieties and the progressive mechanization of agriculture now make it possible to harvest large quantities of grain with a high moisture content in a short time.
+In humid tropical and subtropical zones, given unfavourable weather conditions at harvest time, it is often difficult to safeguard the quality of products.
+In order to satisfy the need for increasing agricultural production, it is therefore necessary to dry the products in relatively brief times, whatever the ambient conditions. Consequently, it is necessary to resort to artificial drying.
+This method consists of exposing the grain to a forced ventilation of air that is heated to a certain degree in special appliances called "dryers".
+Diagram of a static dryer: 1 Grain to be dried; 2 Hot, dry air; 3 Humid air.
+Artificial drying and dryers
+In its construction, the basic elements of a dryer are:
+* the body of the dryer, which contains the grain to be dried;
+* the hot air generator, which permits heating of the drying air;
+* the ventilator, which permits circulation of the drying air through the mass of grain.
+For artificial drying of grain, two types of dryer are used:
+* static or discontinuous dryers;
+* continuous dryers.
+The former are inexpensive and can treat only modest quantities of grain; thus they are better adapted to the needs of small- and medium-scale centres for the collection and processing of products.
+As for the latter, these are high-flow dryers that need a more complex infrastructure, complementary equipment and, above all, special planning and organizational They are therefore more appropriate for big centres, silos or warehouses, where very large quantities of product are treated.
+Drying and static dryers
+A current of hot air moves from bottom to top through a thick layer of grain.
+Drying of the mass of grain does not take place in a uniform fashion: as it moves from the bottom to the top, the drying air imparts heat to the grain and absorbs moisture, losing its "drying power" in the process. The lower layers will therefore dry more rapidly than the upper ones.
+During the drying process, the mass of grain is thus found to be divided into three areas:
+* area of dry grain,
+* drying area,
+* area of humid grain.
+The imaginary line separating the area of dry grain from the area undergoing drying is called the "drying front".
+Diagram of the drying process: 1 Humid grain; 2 Drying area; 3 Drying front: 4 Dry grain.
+In its slow movement from bottom to top, the drying front separates the already-dry grain from that which is undergoing or awaiting drying.
+The speed with which the drying front moves depends on the characteristics of the drying air (temperature, relative humidity) and of the grain mass to be dried (type, moisture content, thickness of the layer).
+When the drying is finished, the grain in the lower layers is in any case dryer than that in the upper layers.
+To keep this difference in moisture content within acceptable bounds, it is important that the hot air used be of suitable temperatures and flows.
+As an indication, let us say that a high temperature should entail a greater flow of air.
+To reduce the risks of heterogeneity of moisture content, but also to limit the costs of the operation, prolonged drying of too-thick layers of grain should be avoided.
+To obtain a more nearly homogeneous moisture content of the grain, it is possible to make provision for ventilation with air at ambient temperature, after the hot-air drying.
+The construction and use of the various types of cabin dryers and radially ventilated dryers are based on these principles of operation and on these precautions.
+In order to reduce still further the difference in moisture content of the grain, some dryers are equipped with special devices for stirring the grain during drying.
+This is the principle behind circular dryers, for example, as well as "in-bin drying" and successive-lot dryers.
+Drying and continuous dryers
+A continuous flow of grain is passed in a thin layer through a shaft traversed by a current of very hot air. In its movement, the mass of grain is constantly stirred.
+In this case, the mass of dried grain has a fairly uniform moisture content.
+The temperature of the drying air must be kept within certain limits so as not to alter the food characteristics and germinative properties of the grain (temperature refers to the air, not to the grain). In fact, the grain is not in the very hot air current long enough to reach very high temperatures.
+Diagram of a continuous dryer: 1 Grain to be dried; 2 Hot, dry air; 3 Humid air; 4 Dried grain.
+During the final phase of drying, however, when the innermost moisture needs to be extracted, there is a risk of briefly overheating the grain.
+It must also be remembered that rapid drying at a high temperature, as well as sudden cooling, can provoke cracking and breaking of the grains during milling.
+To minimize this disadvantage, drying is sometimes done by swiftly putting the grain several times into the current of very hot air.
+Between two of these passages, the grain is left at rest for several hours in order to homogenize the moisture content throughout the mass of grain.
+Another system used to reduce the risks of breakage consists of exposing the grain to the hot drying air until the grain moisture content is slightly (2-3 percent) higher than that desired, then letting it rest for a few hours before submitting it to ventilation by ambient air.
+The construction and use of various types of continuous dryers are based on these operating principles and precautions. There are vertical dryers (column, louvred, or baffle dryers) and horizontal or inclined dryers (in which the grain is moved by paddles or by conveyor belt, or on the cascade or mobile principle).
+Main technical features of dryers
+The most suitable choice and optimal use of a dryer depend on the relationship between certain technical features of the appliances and local production needs.
+The main technical features of dryers are:
+* evaporating power,
+* air renewal, or specific flow,
+* specific thermal consumption.
+Evaporating power
+In order to define the type of dryer needed, it must first be determined how much water per hour is to be eliminated during drying.
+This figure should completely reflect local needs for drying the products. It can be deduced through analysis of the data on annual and seasonal production.
+The technical feature that demonstrates a dryer's performance is its "evaporating power".
+Evaporating power indicates the quantity of water a dryer can extract from the mass of product to be dried in an hour. Its unit of measurement is the kilogram of water evaporated per hour (kg water/in).
+Although in their marketing literature manufacturers do not all explicitly show the evaporating power, it is the only feature by which the real performance of a dryer can be judged.
+Indeed, if the evaporating power and the quantity of water per quintal of product to be eliminated are known, the "dryer output" (the quantity of product dried in an hour) can be calculated.
+The unit of measurement of the dryer output is the quintal of product (wet or dry) per hour (q product/in).
+Instead of indicating the evaporating power, many manufacturers usually indicate "dryer output" as the appliance's feature.
+This indication is accurate only if it is specified for what initial and final degrees of humidity of the product this figure has been calculated, and if it stands in relation to the wet or dry product.
+Other manufacturers often give the evaporating power, or rather the "evaporation capacity" of a dryer, in "points/hour": "point" means the quantity of water eliminated when the humidity of a quintal of the product is lowered by 1 percent.
+Based on this notion of "point" of humidity, they claim to reduce the calculation of "dryer output" to a simple relationship between the evaporation capacity and the difference between the initial humidity of the product and its final humidity, after drying.
+It can be seen, however, that for the same unit quantity of wet product, varying quantities of water to be eliminated can correspond to a "point" of humidity, depending on the final humidity desired.
+Therefore, in order to show the true performance of the appliance, it is very important that manufacturers specify to what final product-moisture content the figure of the evaporation capacity of the dryer, expressed in points/hour, refers.
+Air-renewal output
+The "air-renewal" of a dryer, or its "specific flow", indicates the quantity of air per hour that passes through a cubic metre of product. Its unit of measurement is the cubic metre of air per cubic metre of product (m³/h/m³).
+This feature, which is closely linked to evaporating power, basically depends on the power of the ventilation device and the thickness of the layer of grain to be dried.
+High air-renewal (6 000 to 8 000 m³/h/m³) permits a shorter drying-time.
+In these conditions, however, higher dryer flow can increase energy consumption and, above all, can increase the risks of cracking and breakage of the grains by too rapid drying.
+On the other hand, more modest rates (2 000 to 4 000 m³/h/m³) permit better drying of the product but reduce the dryer flow rate.
+The air-renewal of a dryer must thus be selected by seeking the best possible compromise between these factors and the local production conditions.
+Specific thermal consumption
+The "specific thermal consumption" of a dryer indicates the quantity of heat necessary to eliminate a kilogram of water from the mass of product to be dried.
+This quantity of heat obviously includes both the heat used for heating (dryer, product) and evaporating the water, and the heat partly dispersed into the ambient air.
+The unit of measurement of specific thermal consumption is the millitherm per kilogram of water evaporated (mth/kg water evaporated).
+Discontinuous dryers generally have thermal consumption rates higher than 1 500 mth/kg water evaporated.
+On the other hand, continuous dryers have a thermal consumption rate of between 850 and 1 200 mth/kg.
+Manufacturers of dryers should always be explicitly asked to give the rate of thermal consumption.
+Other drying methods
+We have seen that natural drying is slow and entails great risks of loss of product.
+On the other hand, artificial drying is fairly costly (purchase of dryers, use of fuel often derived from petrol, etc.).
+To find a compromise solution to fulfil the needs of small rural communities, especially in humid tropical regions, a series of experiments was undertaken in the early 1970s aimed both at improving traditional methods of natural drying and at checking the validity of technological solutions that favoured the sun as a source of alternative energy.
+These experiments not only added to the existing knowledge about drying procedures but also led to the construction of many prototypes of solar dryers.
+With these appliances, drying of products is obtained:
+* by a greenhouse effect produced within a drying-box exposed directly to the sun;
+* by the circulation of heated air from solar captors;
+* by the combined action of these two phenomena.
+However, the relatively high costs of manufacture, a short life-span and variable performances have so far limited the adoption of solar dryers, particularly for drying grain.
+Diagram of a solar dryer: 1 Solar panel; 2 Hot, dry air; 3 Grain to be dried.
+<section>9</section>
+Storage
+Definition
+"Storage" means the phase of the post-harvest system during which the products are kept in such a way as to guarantee food security other than during periods of agricultural production.
+The main objectives of storage can be summed up as follows:
+* at the food level, to permit deferred use (on an annual and multi-annual basis) of the agricultural products harvested;
+* at the agricultural level, to ensure availability of seeds for the crop cycles to come;
+* at the agro-industrial level, to guarantee regular and continuous supplies of raw materials for processing industries;
+* at the marketing level, to balance the supply and demand of agricultural products, thereby stabilizing market prices.
+In order to attain these general objectives, it is obviously necessary to adopt measures aimed at preserving the quality and quantity of the stored products over time.
+Influences of environmental factors
+To conserve the quality of products over long-term storage, degradation processes must be slowed down or even stopped.
+Degradation of grains during storage depends principally on a combination of three factors:
+* temperature,
+* moisture,
+* oxygen content.
+During storage, as during other phases of the post-harvest system, the combined effects of these three factors can sometimes cause severe losses.
+Temperature and moisture
+Temperature and moisture are determining factors in accelerating or delaying the complex phenomena of the biochemical transformation (especially the "breathing" of the grain) that are at the origin of grain degradation.
+Furthermore, they have a direct influence on the speed of development of insects and microorganisms (moulds, yeasts and bacteria), and on the premature and unseasonal germination of grain.
+In the general diagram of conservation designed by Burges and Burrel, the relationship between temperature and moisture content is established in order to determine the area of influence of certain important degradation phenomena, such as: the development of insects and moulds, and the germination of grain.
+Diagram of cereal conservation
+It is easy to observe that the higher the temperature, the lower must be the moisture of the grain in order to ensure good conservation of the products.
+In view of their influence on the speed of development of these degradation phenomena, the temperature and moisture content of the grain condition the maximal duration of storage.
+DURATION OF WAREHOUSING (in days)
+TEMPERATURE
+MOISTURE 5°C 10°C 15°C 20°C 25°C 30°C
+As an example, the preceding table shows the recommended durations of warehousing, according to the temperature and moisture content of the grain.
+The temperature depends not only on climatic conditions but also on the biochemical changes that are produced inside a grain mass, provoking undesirable natural heating of the stored products.
+As for the moisture content of the stored grain, it depends on the relative humidity of the air, as shown in the air-grain equilibrium curves.
+With a relative air humidity below 65-70 percent, many grain-degradation phenomena are slowed down, if not completely blocked.
+In this sense, the "safeguard" moisture content is defined as that corresponding to an equilibrium with the air at 65-70 percent relative humidity.
+The following table shows the moisture content recommended for long-term storage in hot regions of various sorts of grain.
+GRAIN MOISTURE GRAIN MOISTURE
+Paddy 14.0% Sunflower 9.0%
+Rice 13.0% Wheat 13.0%
+Maize 13.0% Millet 16.0%
+Sorghum 12.5 % Coffee 13.0%
+Beans 15.0% Cocoa 7.0%
+Groundnut 7.0 % Copra 7.0 %
+Oxygen content
+Like grain, micro-organisms and insects are living organisms that need oxygen.
+Storage of grain in places that are low in oxygen causes the death of insects, cessation of development of micro-organisms, and blockage, or slowing down, of the biochemical phenomena of grain degradation. This favours the conservation of grain, but may affect its germinating power.
+Agents causing deterioration of stored grain
+The principal enemies of stored grain are micro-organisms, insects and rodents.
+Micro-organisms
+Micro-organisms (moulds, yeasts, bacteria) are biological agents present in the soil which, when transported by air or water, can contaminate products before, during and after the harvest.
+Their presence and growth cause severe changes in the nutritive value and the organoleptic features of grain (taste, smell, aspect).
+Furthermore, they are responsible for the alteration of important germinative properties of seeds (vigour and capacity to germinate) and, in the case of moulds, for the potential formation of dangerous poisons (mycotoxins).
+Impurities, and cracked or broken grains, foster the development of micro-organisms.
+Furthermore, temperature and humidity have a determining influence on the growth rate of these degradation agents.
+It has been observed that micro-organisms develop at temperatures between -8°C and +80°C, when the relative humidity of the air is over 65 percent.
+On the contrary, atmospheres that are low in oxygen help check the development of these degradation agents.
+Insects
+Insect infestations can occur either in the field, before the harvest, or in the places where products are stored.
+In some cases, these infestations are difficult to discern with the naked eye, since the damage is provoked by the larvae developing inside the grain.
+The insects most likely to infest stored products belong to the following families:
+* Coleoptera (damage by larvae and adult insects);
+* Lepidoptera (damage only by larvae).
+Insects can be responsible for significant losses of product. Furthermore, their biological activity (waste production, respiration, etc.) compromises the quality and commercial value of the stored grain and fosters the development of micro-organisms.
+Insects can live and reproduce at temperatures between +15°C and +35ºC.
+On the contrary, low humidity slows or even stops their development, and a low supply of oxygen rapidly kills them.
+Rodents
+Rodents invade and multiply in or near storage places, where they can find an abundance of food.
+They cause serious damage not only to stored products but also to packaging and even to storage buildings.
+The principal rodents, those most common and likely to attack stored products, belong to the following species:
+* black rat, also called roof rat (Rattus rattus),
+* brown or Norway rat, also called sewer rat (Rattus norvegicus),
+* mouse (Mus musculus).
+Prolonged attacks by these pests inevitably results in serious quantitative losses of stored products.
+To these losses must be added those arising from the decrease in quality of the foodstuffs, caused by the filth (excrement, secretions) rodents leave behind in the stored products.
+This contamination is as important from the marketing standpoint as it is for hygiene and health. Indeed, rodents are often the vectors of serious diseases (rabies, leptospirosis).
+Storage methods
+There are basically two methods of storage: in bags and in bulk.
+Bags can be stored either in the open air or in warehouses; bulk grain is stored in bins or silos of various capacities.
+The choice between these methods and the degree of technological sophistication of the storage buildings depend on many technical, economic and socio-cultural considerations.
+The traditional storage systems used by small farmers must also be mentioned. With their use of artisanal construction techniques and local materials, these are the systems that prevail in the rural communities of many developing countries.
+<section>a</section>
+Monitoring grain
+Definition
+Products to be stored may have characteristics that do not permit immediate warehousing. Excessive moisture content or the presence of insects and impurities can compromise long-term quality conservation of products.
+To ensure good technical and marketing management, it is important periodically to check the quantity and quality of the stored products. Before the actual storage operations, products should undergo appropriate checking in order to verify weight, the percentage of impurities and moisture content.
+During storage, the state of conservation of the products must be monitored. To this end, in addition to moisture content and the degree of insect infestation, the temperature of the grain will be periodically measured.
+Weighing
+Weighing first takes place when the products arrive at the storage centres. Depending on delivery conditions (products delivered in bags or in bulk, transport system, etc.), weighing can be done with simple mechanical scales or platform scales.
+Mechanical scales
+In relatively small storage centres, when the products are delivered in bags, weighing is done with simple mechanical scales.
+These scales can hold 200 kg, and so several bags of grain can be weighed at the same time.
+A storage centre must be equipped with enough scales to permit a year-round normal flow of products to the warehouse.
+In some cases, in order to shorten reception time, if the bags entering the warehouse are of a standard gross weight, partial weighing of batches can be done. The total weight is then obtained by multiplying the number of bags by the average weight of the bags weighed.
+Platform scales
+Platform scales permit the weighing of batches by weighing the loaded or unloaded vehicles as they enter and leave the storage centres.
+Because of their high cost and great load-bearing capacity, these weighing systems are advantageous only in big storage centres where products are delivered in bags or in bulk by vehicles.
+The use of platform scales requires minor construction. In particular, a pit must be dug and developed to hold the platform-scale mechanisms. This pit is generally 1.60 m deep; some special models of platform scale can be installed in pits only 90 cm deep.
+Some manufacturers have also provided an open-sky installation without a pit. In this case the platform scale is raised above the ground and so ramps must be built so the vehicles can have access to the platform.
+Finally, it must be remembered that the carrying capacity indicated by the manufacturers refers to the maximum weight the platform scale can hold. This weight includes both the weight of the transport vehicle and the weight of its load.
+Sampling
+When products arrive at the storage centres and during warehousing, it is important to check their quality and state of conservation.
+It is practically impossible to analyse all the batches. Therefore, a representative sample of the total product must be taken, from which the appropriate analyses can be made.
+To obtain a representative sample, several primary samples must be taken: once they have been gathered and mixed together in a clean receptacle, they constitute the global sample on which the necessary tests will be made.
+If the global sample is too big, it must be divided up to obtain a smaller, but still representative, sample.
+Methods of taking samples differ depending on whether products are delivered or stored in bags or in bulk.
+Sampling of grains delivered in bags
+For a given batch of grains, the number of bags from which samples must be taken depends on the total number of bags, as shown in the following table:
+COMPOSITION OF BATCH BAGS SAMPLED
+1 to 10 bags All bags
+10 to 100 bags 10 bags chosen at random
+More than 100 bags The square root of the total number of bags
+After the bags are selected, there are two ways of making up the global sample: by probing or by emptying the bags.
+Sampling by probing
+The primary samples are taken directly by introducing hollow probes into the selected bags (bag probes, probing rods, etc.).
+The samples should be of about 50 g per 100-kg bag and, in any case, sufficient for composition of a global sample of at least 500 g; after they are taken, the samples must be carefully mixed together.
+Sampling by emptying the bags
+The contents of each bag are stirred and spread in a layer 10 cm thick on a clean surface; a primary sample of about 1 kg is taken from each layer of grain; the various primary samples are then carefully mixed together to obtain the global
+Sampling of grains delivered in bulk
+A sampling of grains delivered in bulk can be obtained by taking primary samples either when the product is stationary (e.g. on a truck or a trailer), or when it is in motion (e.g. while a silo is being filled).
+Sampling of a stationary product
+A sampling of a stationary product is obtained by taking several samples inside the grain mass and mixing the resultant primary samples.
+To the extent possible, samples should be taken throughout the entire thickness of the layer of grain.
+Deep samples, obtained with special probes, are preferable to those taken on the surface with suction flasks or other small receptacles.
+The number of samples and the points at which they are taken depend on the total quantity of grain, as shown in the diagrams below.
+Number of samples: A 5 samples; B 8 samples; C 11 samples.
+For particularly heterogeneous batches, it is recommended that samples be taken of every five tonnes of product, with a minimum of 10 samples.
+Sampling of a moving product
+More reliable and exact than the technique of sampling of a stationary product, this technique consists of taking one or several samples at once from the mass of moving grain.
+The samples can normally be taken with simple tools (suction flasks, shovels, etc.) or by means of automatic samplers located in the ducts where the grain is circulating.
+Sample reduction
+If the global sample obtained is too big, methods must be used to obtain smaller, but still representative, samples.
+One of the simplest of these methods, although not a very precise one, is called the "cone" method.
+Sample seduction: cone method
+Smaller samples can be obtained by dividing the global sample that has been stirred and piled on a clean surface into two or four equal parts.
+Sample reduction can also be obtained by using special devices like the conical sampledivider, also called "Boerner divider", and the riffle divider, more often used for seeds.
+Determining the percentage of impurities
+Impurities are not only bad for the storage of products; they are an element in the very quality of these products.
+It is therefore important to determine the percentage of impurities in a batch of grain before storing it or trading it.
+Generally considered to be impurities are:
+* plant trash (straw, leaves),
+* mineral matter (earth, gravel),
+* assorted matter (bits of metal or string),
+* foreign grains,
+* unripe grains,
+* germinated grains,
+* broken grains,
+* damaged grains (by insects, rodents),
+* grains that have deteriorated or are mouldy or abnormally coloured.
+The percentage of impurities is determined on samples of relatively low weight (a few hundred grams).
+In practice, healthy grain is separated from impurities by visual sorting and sifting. Then the impurities are classified and weighed on a scale.
+The relationship, expressed in percentage, between the weight of the impurities and the weight of the sample gives the percentage of impurities in the batch of grain analysed.
+Measuring moisture content
+Determining the moisture content of grain is an operation of particular importance at all stages of the post-harvest system.
+Before the harvest, for example, it permits an estimation of the degree of maturity of the grain. After threshing, it is used for deciding on methods and durations of drying. Before processing of products, it shows whether the grain is in condition for treatment.
+At the time of marketing, it reveals the quantity of dry matter that is being bought, and thus permits establishment of the fair sales price (water does not have the same market value as grain).
+Before and during storage, it helps to determine warehousing conditions and to evaluate the state of conservation of grain.
+Empirical evaluations
+In the field, farmers are used to approximating the moisture content of grain by empirical evaluations.
+These methods, based on individual experience, do not give a true objective measurement, but estimate the degree of moisture by subjective sensory perception (touch, sight and smell) of some of the grain's characteristics.
+Thus some farmers are in the habit of nibbling grains, or scoring them with a thumbnail, or crushing them between their fingers, to evaluate their hardness and consistency and thereby to estimate their moisture content.
+Others rely on the good or bad smell that comes from a handful of grain; still others base their evaluations on the dull or sharp rattle produced by shaking a few grains in a metal box.
+Some assess the fluidity of the grain by trying to push an open hand into a fairly big grain mass contained in a bag or in a thick layer of bulk grain.
+Of all the empirical methods, perhaps the least approximate is the salt test. This consists of mixing a sample of grain in a glass receptacle with some dry ordinary kitchen salt.
+After the receptacle has been shaken several times, its walls are examined to see whether the salt has stuck to them.
+If the salt sticks to the walls, it means that the moisture content of the sample of grain is higher than about 15 percent.
+Although these empirical methods are employed mainly by farmers, they ought to be progressively replaced by the use of instruments that permit a true measurement of the moisture content of grain.
+The use of empirical methods in storage centres or during commercial transactions should be emphatically opposed.
+Today, the methods that make use of suitable measuring instruments can be divided into two categories: direct and indirect measurement.
+Direct measurement
+The sample to be measured is weighed on precision scales, then dried in a drying-room, and weighed again.
+The difference in weight before and after drying indicates the amount of water contained the sample.
+The technological sophistication of the instruments and the complexity of the measurements necessitate the presence of qualified staff.
+Some of the measuring instruments that operate on the principle of drying the sample are:
+* the slow incubator,
+* the fast CHOPIN incubator,
+* the infrared lamp.
+As precise as they are complex, these instruments are best adapted to the needs of specialized laboratories that are responsible for the calibration of other indirect measurement devices (e.g. hygrometers) or for the determination of the moisture content in big storage corporations or in the context of commercial transactions.
+Indirect measurement
+These methods permit determination of moisture content by measuring the electrical characteristics of grain moisture.
+Some of the measuring instruments using this principle are:
+* hygrometers measuring the electrical resistance of the grain,
+* hygrometers measuring the dielectric constant of the grain.
+Hygrometers are electric devices which allow the moisture content of a sample of grain to be directly and immediately read on a dial.
+Hygrometers measuring the electric resistance of grain are portable instruments that are relatively imprecise but extremely practical and inexpensive.
+The more expensive and complex hygrometers that measure the dielectric constant of grain are generally used in big storage centres and for commercial transactions.
+Temperature control
+Temperature control is indispensable for monitoring the conservation of stored products.
+An abnormal rise in grain temperature can signal the onset of degradation.
+Therefore, regular checks must be made in order to avoid substantial losses of product.
+Furthermore, since the grain masses are not homogeneous, samples must be taken from different points in each stored mass.
+We shall first consider the characteristics required for effective measuring devices, and then the various types of devices that exist.
+Given the heterogeneity of the grains in the stored mass, measuring devices need not be of high precision, and deviations of as much as one degree centigrade are negligible.
+On the other hand, such devices must be very sensitive, in order to discern as fast as possible the slightest abnormal change in temperature.
+They should be easy to read and require a minimum of handling.
+Finally, in order to resist the shocks incurred during repeated handling, these devices must be solid in structure and dependably sturdy.
+The various types have different principles of operation and methods of use.
+These devices are indispensable for bulk-storage installations but can also be useful for monitoring products stored in bags.
+Aside from the devices of varying degrees of sophistication described below, digital thermometers that are easy to read and cost relatively little can be found.
+Liquid thermometers
+These function on the principle of the expansion of a liquid (mercury or alcohol) under the influence of temperature.
+They are placed inside the metal probes that can be inserted into the bags or grain mass.
+This is a relatively inexpensive system that can be used for grain stored in bags or in bulk; its disadvantage, however, is the imprecision of the reading taken, owing to the removal of the thermometer from the measurement or reading point.
+Resistance thermometers
+The operating principle of these thermometers is based on measurement of the electrical current running through a filament made of platinum, copper, steel or nickel, with a resistance that varies according to the temperature.
+Placed in a long sheath hung from the top of the storage bin, this thermometer is inserted into the grain mass.
+The advantage of such thermometers is that a single reading can be taken of the overall temperature of the stored products, whereas with liquid thermometers measurements must be repeated at several points in the grain mass.
+Probes with thermistors or thermocouples
+These are probes equipped with sensors or sensitive points (thermistors or thermocouples), which behave like electric thermometers to be read at a distance.
+Introduced into the grain after the bins have been filled, these probes are linked electrically by telephone cable to individual portable reading cases or centralized control cabinets.
+Positions of probes in a silo: 1 Probes; 2 Cable; 3 Connection box; 4 Control panel.
+Because the temperature in the grain mass varies, the sensors must be adequately distributed throughout the stored mass.
+In general, they should be placed:
+* 1 captor every 3-4 metres, vertically;
+* 1 captor every 5-6 metres, horizontally.
+<section>b</section>
+Grain cleaning and insecticide treatments
+Definition
+Some of the controls described above are aimed mainly at establishing the condition of the grain at the time of its reception at a storage centre.
+These controls permit not only a better definition of the market value of the product but also an identification of the type and urgency of treatments which the grain should undergo before storage, marketing or further processing.
+For example, the presence of impurities requires appropriate cleaning of the batch of grain. If the grain is too moist, it must quickly be dried. To counteract insect infestation, immediate action is needed to rid the grain of insects.
+Drying operations have been described above. We shall now consider the operations of cleaning and insect-control.
+Cleaning
+After threshing, grains (or shells, in the case of groundnuts) are contaminated by impurities (earth, small pebbles, plant and insect waste, seed cases, etc.).
+These impurities hinder drying operations and make them longer and more costly. After drying, especially by traditional methods such as open-air drying, the grain may still be contaminated by impurities.
+These impurities lower the quality of the product and are also a focal point for potential infestation during storage.
+"Cleaning" means the phase or phases of the post-harvest system during which the impurities mixed with the grain mass are eliminated.
+This operation, which may be accompanied by a sorting of the products according to quality, is indispensable before storage, marketing or further processing of the products.
+It is also necessary as an operation preliminary to artificial drying of the products in dryers.
+Indeed, it would be not only costly but also superfluous to waste time, effort and money on drying the impurities along with the grain.
+Traditional methods
+The simplest cleaning method, known as winnowing, consists of tossing the grain into the air and letting the wind carry off the lightest impurities.
+Although widespread in farming circles, this cleaning method does not eliminate the heavier impurities (gravel, foreign grains, earth, etc.).
+Cleaning devices
+If the desired product is to be completely free of impurities and suitable for long-term storage, appropriate cleaning devices must be used, such as: winnowers, pre-cleaners and cleaner-separators.
+Winnowers
+These machines, some models of which may reach an output of one ton per hour, can significantly contribute to improving product quality and marketing, especially in production areas.
+Sometimes operated by hand but more often motorized, winnowers are relatively simple machines that consist mainly of a hopper to receive the grain, a fan and a set of sieves.
+The grain unloaded into the hoppers first has its lightest impurities removed by running it through a current of air produced by a fan.
+Then, the set of sieves completes the cleaning of the grain at the same time it is sorted according to size.
+Pre-cleaners
+These motor-driven devices are generally used to pre-clean grain that has been harvested when moist, before it goes to the artificial dryer.
+There are several models of pre-cleaner:
+* the circular pre-cleaner, in which impurities are eliminated principally by suction (output of about 150 quintals an hour);
+* the drum pre-cleaner, in which the heaviest impurities are eliminated by passing the grain through the meshes of a drum, and the lightest are eliminated by suction (output of about 10 to 50 tonnes an hour);
+* the clodder, in which the bulkiest impurities are eliminated by means of a coarse, vibrating sieve.
+Diagram of a clodder: 1 Grain entry; 2 Adjustment; 3 Suction; 4 Impurities exit; 5 Grain exit.
+Cleaner-separators
+These machines, whose large outputs can be as much as 20 tonnes an hour, are certainly the most effective instruments for cleaning grain, and all storage centres should be equipped with them.
+Cleaner-separators are motor-driven and consist mainly of a reception hopper, a fan and set of vibrating sieves; they clean grain by repeated suction of the lightest impurities, followed by siftings of the grain.
+The set of sieves, composed of a coarse sieve (clodder) for the bulkiest impurities and a fine sieve (sifter) for the finest impurities, must be chosen with care, taking account of the shape and size of the grains to be cleaned.
+The usual recommendation is a set of sieves with oblong perforations for long grains, and, for round grains, a clodder with round perforations and a sifter with oblong perforations.
+For optimal use of the machine, it is also important to take care in making the various adjustments (to the flow of grain, the suction, and possibly to the speed of vibration of the sieves).
+Insecticide treatments
+The effort to protect grain against insects can take two forms:
+* a preventive effort before storage of the grain, from the time it is received, even no insects are visible;
+* a curative effort during or even before storage, if necessary.
+In both cases the insects must be destroyed without altering the food quality of the product.
+But, to accomplish this, some general hygienic measures and steps for treatment of the premises must be observed.
+For grain, there are various methods of insect-control: biological, physical, mechanical and chemical. Chemical control is the method most widely used today. It features two broad types of treatment:
+* treatment by contact insecticide,
+* treatment by fumigation.
+Treatment of premises
+Before any application of insecticide to storage buildings (warehouse, silo), the entire premises must be thoroughly cleaned.
+The range of available insecticide products is broad enough to treat different surfaces according to their characteristics.
+Thus, uneven surfaces (bricks, breeze-block, raw wood, etc.) are treated by spraying with powder mixed with water until it is runny; on the other hand, for smooth, non-porous surfaces (metal, polyester) spraying with a stickier concentrate is preferred.
+Ambient treatment is designed to destroy flying insects by aerosols in hermetically sealed premises.
+This treatment should preferably be carried out in the evening, when flying insects are their most active.
+Treatment of grain with contact insecticide
+This consists of covering the grain with a film of insecticide that acts on contact with insects, with effects that vary in rapidity and persistence.
+These products come in various forms (powders for dusting, powders to be mixed with water, liquid concentrates, or fumigants) that dictate their techniques of application.
+For grain that is to be stored in bulk, the insecticide is incorporated directly into the grain by spraying before the silos are filled.
+For storage in bags, previously cleaned grain is mixed with powder or sprayed before bagging.
+In order to avoid reinfestation of grain stored in bags, further repeated dustings or sprayings are carried out while the bags are being stacked and during the storage period.
+The machinery used for dusting grain can range from the simple mechanical duster to motorized dusters; however, with this type of equipment the grain is not treated uniformly, some areas receiving more dust than others.
+Spraying can be mechanical (pressure sprayer), pneumatic or thermal, and provides a better distribution of the product over the grain.
+In big storage centres, in order to obtain an even more regular distribution and a good coating of insecticide, the grain is fine-sprayed by a compressor equipped with a mist nozzle.
+Misting grain before silo storage
+Although contact systems of treatment are certainly effective on fully-developed insects, they have little or no effect on the eggs or larvae.
+Furthermore, some residues of the product, though not highly toxic, may linger foodstuffs.
+Treatment of grain by fumigation
+Fumigation is a treatment that rids stored grain of insects by means of a poisonous gas called a fumigant. This substance, produced and concentrated as a gas, is lethal for specific living species.
+Unlike contact powders, the fumigant penetrates to the interior of the grain mass and reaches the largely invisible incipient forms (eggs, larvae) developing there.
+Fumigants spread throughout the area where they are released; therefore their use requires that the enclosure concerned be totally sealed off.
+Thus, when grain stored in bulk is fumigated, the bins must be perfectly airtight.
+For grain stored in bags, the usual method is to cover the bags with a tarpaulin whose edges are sealed to the ground or the walls.
+The effectiveness of fumigation depends, on the one hand, on the actual concentration of the gas and, on the other, on the length of time during which the grain is fumigated.
+Depending on whether methyl bromide or phosphine is used, the duration of fumigation should be 24 to 48 hours for methyl bromide, or a minimum of five days for phosphine.
+The latter product is more commonly used, since its application, in the form of pellets spread throughout the grain mass, is the simpler.
+It is essential to recognize, however, that fumigants are very poisonous to people and therefore the staff that is to use them must be carefully trained in their application. For all these treatments, it is important to scrupulously observe the recommended protective and safety measures (masks, gloves, hand-washing, hermetic sealing of phosphine containers, etc.).
+Furthermore, remember that these treatments are curative, and have no persistence over time: therefore, a combination of the techniques of contact insecticide and fumigation is recommended.
+<section>c</section>
+Storage in bags
+Definition
+This method consists of conserving dried and cleaned grain in bags made of plant fibre or plastic, and neatly stacking the bags in carefully prepared areas.
+This method is little used in developed countries but is widespread in developing countries. It is economical and well-adapted to local grain-transport and marketing conditions.
+There are several ways of storing grain in bags. The bags of grain can be stacked out-of-doors under tarpaulins, or placed inside storehouses, sheds or warehouses.
+Sometimes, especially for seeds, grain is stored in bags in refrigerated warehouses.
+Outdoor storage
+These are storage systems in which the bags are not stacked in solidly constructed buildings. The main systems of open-air storage are:
+* storage in pyramids,
+* storage in flexible silos.
+The advantage of these systems is that they can be set up quickly and fairly easily. For this reason they are generally used when storage needs are specific and urgent.
+Storage in pyramids
+This system is often used for short-term storage in dry areas. It consists of stacking bags pyramids on platforms that can be protected in case of bad weather.
+The platforms on which the bags are stacked must effectively protect the grain against termite attacks.
+Covered by concrete or tar or made up of a layer of building-blocks covered with tarpaulins or plastic, the platforms must prevent the grain from exposure to rising damp.
+To achieve this end, not only must the sites of the storage areas be carefully chosen but drainage ditch for rain-water runoff must be dug around the platforms.
+To keep rain-water from falling on the grain, it is important to cover the pyramids of bags with tarpaulins.
+This technique is frequently used for groundnut storage.
+Storage in flexible silos
+Storage in flexible silos is often used for setting up a security reserve and is very similar to storage in pyramids.
+The main difference is the greater complexity of the storage facility.
+A flexible silo is made of a concrete platform, generally circular in shape. Walls of galvanized screening about 2.5 metres high are erected around it and the inner walls lined with a thick film of plastic. On the outside, about 50 cm from the walls, galvanized metal sheets about 1 m high surround the silo to protect the grain from rodent attacks.
+The bags stacked in the silo are covered with a conical tarpaulin attached to the walls and kept in place by a system of ropes.
+Because these buildings are almost completely sealed, it is important to store the grain when it is very dry.
+Flexible silos of 500 tonnes are the most common, but some are also built with storage capacities of 250 to 1 000 tonnes. The costs of building these silos are fairly modest, but their useful life is relatively short, seldom exceeding five years.
+Warehouses and storehouses
+Whether simple huts that farmers have turned into storehouses or modern well-equipped warehouses, storage buildings must meet the following requirements:
+* prevent the grain from getting wet;
+* protect the grain from high temperatures;
+* prevent the access of insects, rodents and birds to the storage places;
+* facilitate monitoring of grain conservation;
+* permit timely insecticide treatment of bags and premises;
+* facilitate the care of equipment used to move and transport the bags.
+Location and orientation of the buildings
+Effective protection of stored grain against atmospheric factors (sun, rain, humidity) and smooth operation of storage systems depend on good location and alignment of the buildings.
+In this respect, the buildings to be used for storage must be:
+* located in relatively dry sites not prone to flooding; thus, low-lying areas, clayey or poorly drained soils, and proximity to streams and lakes must be avoided as much as possible;
+* located outside towns and, if possible, in areas equidistant from agricultural production areas and near transport facilities;
+* located, to the extent possible, near electricity and water distribution systems;
+* aligned on a north-south axis so that the sides with the smallest area get the strongest sun.
+Dimensions of the buildings
+Storehouses are generally rectangular, about twice as long as they are wide. Appropriate dimensions of these buildings can be determined with a knowledge of:
+* the type, quantities and specific volume of grain to be stored in bags;
+* the maximum height of the stacks of bags;
+* the number of batches to be separated and the width of the access corridors;
+* the extent and arrangement of service areas.
+Specific volume
+The specific volume means, for each type of grain, the space occupied by a tonne of product stored in bags. Its unit of measurement is the cubic metre per tonne of product (m³/t).
+The following table gives the specific volumes of some products stored in bags:
+GRAIN STORED IN BAGS SPECIFIC VOLUME
+Milled rice, wheat, coffee 1.6 m³/t
+Maize, sorghum, groundnuts 1 8 m³/t
+(shelled) 
+Beans, peas, lentils 1.3 m³/t
+Sunflower seeds 2.8 m³/t
+Soybeans, cocoa 2.0 m³/t
+Millet 1.25 m³/t
+Cottonseed 2.5 m³/t
+Wheat flour, maize flour 2.1 m³/t
+By multiplying the specific volume (in m³/t) by the quantity of grain (in t) to be stored, one obtains the volume (in m³) occupied by the bags in the storehouse.
+Height of the stacks
+The maximum height of the stacks depends on the type of bags used to store grain.
+For bags made of plant fibre (jute, sisal, etc.) maximum heights can be 5-6 metres, while for plastic bags (woven polythene) they should not exceed 3 metres.
+Furthermore, enough space must be left between the roof of the building and the tops of the stacks for a workman to move about freely.
+Passages and corridors
+The width of the passages between the batches can vary from 2 to 4 metres, while the corridors between the walls and the batches must have a minimum width of 1 metre.
+Service areas
+The size and layout of service areas depend on the size of the storage system.
+In addition to the actual storage places, provision should always be made for:
+* an office, furnished in some cases with laboratory equipment for quality control;
+* a shed, for storage of bags, equipment, tools and chemicals;
+* a work area, which may have a roof but no walls, for receiving and checking grain and for reconditioning it if necessary;
+Diagram of storehouse: M Storehouse; P Stacks of bags; A Work area; B Office; R Shed.
+Construction details
+Floor
+The floor of the storehouse must prevent rising damp. To achieve this, a waterproof layer (asphalt, tarred cloth, plastic film) can be put under the cement flooring.
+Walls
+Walls are generally made of bricks or breeze-block, but may be of corrugated metal. They should be rough-plastered inside and out, and covered with light-coloured paint.
+Roof
+The roof must have an overhang of one-quarter to one-third the height of the walls, to prevent rain-water from blowing through the vents.
+Vents
+The vents must be of suitable dimensions, and cut into the tops of the walls, under the overhang on the long sides of the building.
+They ensure aeration and ventilation of the storage areas and partial lighting of the storehouse.
+In order to keep out birds, rodents and insects, these openings should be fitted with screens and mosquito nets.
+Doors
+The doorways must be wide enough for easy passage of people, maintenance equipment and products.
+Preferably double doors made of metal, they should open outward and be protected by a porch-roof from the rain.
+Building upkeep
+In order to guarantee good storage conditions and longevity, the buildings must be permanently monitored and any necessary upkeep done promptly.
+Minor routine upkeep may consist of:
+* roof repair (resetting roofing material that may have been displaced, replacing nails, filling holes or cracks, replacing defective roofing, etc.);
+* repair of the stucco and paint on the walls;
+* repair of the door-frames;
+* cleaning and repair of the ventilation systems;
+* upkeep of the flooring.
+Good sanitation also means that the premises and surroundings must be carefully systematically cleared.
+Equipment
+For good storage management, it is important to provide the storehouses with suitable equipment.
+Some equipment is essential for good storage; some is less necessary but makes the work of the staff easier and less tiresome.
+Depending on the size of storage systems, the following equipment is recommended for storehouses:
+* equipment for reception and checking (weight, humidity, temperature, etc.);
+* equipment for handling and facilitating the moving of the bags;
+* equipment for reconditioning of products;
+* equipment for insecticide treatment of grain, bags and premises;
+* bags and pallets.
+Equipment for handling
+Bags of grain are generally handled manually and hand-carried.
+To make this task easier, two-wheeled trolleys are used for unit transport of bags.
+Remember not to use hooks, since they do considerable damage to the bags.
+In big warehouses, bags are stacked with the help of a bag-conveyor belt, but in small storehouses the mobile bag-lift is preferred, being easier to use since it takes up very little floorspace.
+The latter lifts bags one by one, however, while the former has the advantage of working continuously.
+Equipment for reconditioning products
+It may be necessary to recondition products whose quality seems doubtful on arrival.
+In this case, a grain-reconditioning unit is needed. This is composed of two feed augers with hopper, a cleaner-separator, a device for insecticide treatment, a weigher-bagger, and a bag-stitcher.
+Diagram of a reconditioning unit: 1 Hopper; 2 Cleaning; 3 Insecticide treatment; 4 Bagging.
+Bags and pallets
+Grain is packed in bags, of which the storehouse should have a good supply: bags made of plant fibres (jute, cotton, etc.) or plastic (polythene).
+The choice of type of bag is important, as it determines the height of the stacks.
+The bags are stacked on wooden platforms called pallets, in order to prevent direct contact of the bags with the floor. Pallets are indispensable for keeping the bags from the dampness that rises through the floor of the storehouse.
+The selection or construction of lightweight pallets is recommended so that they can be more easily moved about within the storehouses.
+Bag-storage management
+For well-managed reception and storage of grain delivered or stored in bags, the following general rules must be observed:
+* avoid taking in more grain than the storehouse can hold, capacity also depends on the number of individual lots one wishes to store;
+* store only products that are very dry and clean;
+* recondition products in case of damp or torn bags, or if the quality of grain seems doubtful;
+* erect stacks of bags that are stable and easily accessible;
+* at the time of stacking, provide for individual lots, separated by type of product, quality, and date of entry into the storehouse;
+* apply the inventory principle of "First In, First Out" (FIFO);
+* maintain the cleanliness and good condition of the premises and surroundings, the equipment, and the stored products;
+* make timely provision for supplies of fuel, bags, insecticides and miscellaneous products.
+Stacking the bags
+Each type of product should have a space reserved in the storehouse.
+To that end, lines can be painted on the floor, leaving open the inspection corridors between the walls and the stacks of bags, as well as the handling passageways facing the doors.
+Before stocking, the condition of the pallets must be checked (make sure, for example, that no nails are sticking out).
+To ensure stability of the stack, each bag should be stacked so that it is always covered by two other bags.
+In addition, the walls of the stacks should slope toward the interior of the heap, and the more slippery the bags (especially plastic bags) the more pronounced their slope should be.
+The bags can also be stacked in pyramids.
+The height of the stacks is conditioned by the type of bags (bags made of plant fibre or plastic), by the fragility of the products to be stored and, obviously, by the very dimensions of the storehouse. Furthermore, the height of the stacks should not be greater than their width.
+The use of bags of the same type and dimensions, and equalized stacks permit quick checks of the quantities stored.
+In fact, by multiplying the number of bags in a layer by the number of layers in the stack, the total number of bags in each batch can be determined.
+Once the stack has been erected, its contents must be checked and documented. To this end, forms must be filled out and kept up-to-date, reporting at least the following data: number of bags, date and details of reception, stacking date, date and type of insecticide treatments.
+These forms must be filled out in duplicate: one copy for the storehouse administration; the other to be attached to a bag in the corresponding stack.
+Inspections
+Storehouses must be frequently inspected to check the condition of the products and the buildings.
+In addition to daily visits, more thorough inspections must be made every week or two, to prevent losses from rodents, insects and moulds. These inspections, which should preferably be made at the end of the day, should cover:
+* the condition of the stacks of bags (stitching, tears and leakage, presence of insects and moulds, damp spots, traces left by rodents, etc.);
+* the condition of the contents: grain-sample checks (moisture, degree of infestation, etc.).
+Finally, a thorough, overall monthly inspection of the installations and products is recommended.
+<section>d</section>
+Bulk storage
+Definition
+This method consists of storing unpackaged grain in structures built for this purpose (bins, silos).
+The types of construction vary. There can be relatively simple low-capacity structures for storage of agricultural surpluses in production areas, or large complex installations for commercial or industrial storage of products.
+In general, there are two categories of bulk-storage structures: low-capacity silos or bins for storage on the farm and high-capacity silos.
+The latter, which are widely used in developed countries, are not yet very widespread in the developing countries.
+Till now, inadequate or absent transport and marketing systems, lack of the necessary sizeable initial investments, and the complexity of big storage installations have limited their spread.
+Low-capacity silos for farm storage
+On-farm storage is the basic form of rural storage in many developing countries. involves only very small quantities of grain, mostly for home consumption.
+There are several types of traditional storage structures, each adapted to the climate of the country. Their common feature is the use of locally available materials.
+Some examples are the enclosed earthen granaries of the dry zones and the ventilated granaries made of plant fibre and wood that are used in humid zones.
+In dry zones, the risks of stock degradation come mainly from insects and rodents, and they are generally lower than the risks in humid zones, where stocks are attached not only by these pests but also by moulds.
+There are two possible approaches to lowering losses from pest attacks: improvements to traditional storage structures, and new structures built from non-traditional materials.
+The first approach has produced improvements in the construction of earthen granaries (mixing small quantities of cement with the earth or careful finishing or smoothing of the silo walls).
+Other more innovative experiments involve building small-capacity (1 to 2 tonnes) silos with bricks or breeze-blocks made of reinforced earth, or with mud or unbaked bricks.
+The second approach has introduced new storage structures that generally require nontraditional materials and construction techniques.
+Examples are silos made of concrete, reinforced concrete, or metal.
+Of the concrete silos, the "Carreras" type, made of conglomerate, is cylindrical in shape and has a capacity of several tonnes.
+Its originality lies in its use of curved breeze-blocks and the fact that its construction requires no framing.
+Silos of reinforced concrete are built of a framework (skeleton) of metal screening filled with a cement mortar. This technique permits the easy construction of sturdy, high-capacity silos.
+There are two types of metal silos:
+* low-capacity metal drums (holding about 150 kg of grain) generally used to store petroleum products;
+* higher-capacity (1 to 3 tonnes) metal bins built for the express purpose of storing grain.
+In view of their low capacity, metal drums are best adapted to rural storage of seeds or of products that are difficult to store (e.g. beans).
+As for bins, they must be considered as true farm-storage structures.
+The security generally provided by these structures gives good protection against rodent attack as well as airtight storage of grain.
+No matter what type of structure is used for storage, certain fundamental rules must be observed:
+* store grain only when it is really dry and rid of impurities;
+* before and during storage, check the condition of conservation of the grain and the degree of insect infestation and, if necessary, treat with insecticide.
+High-capacity silos
+High-capacity silos are complex structures intended for the commercial or industrial storage of large quantities (several thousand tonnes).
+Specialized builders offer various types of silos; two, in particular:
+* vertical silos,
+* horizontal silos.
+Vertical silos are made up of several sheet-metal or reinforced concrete storage bins stacked vertically. This category includes silos composed of: round bins made of flat or corrugated galvanized sheet metal; polygonal bins made of painted or galvanized metal panels; round bins made of reinforced concrete.
+Horizontal silos are also made of sheet metal or concrete and are composed of juxtaposed square or rectangular bins laid horizontally.
+The relatively common round metal bins require less investment and are easy to erect.
+Polygonal bins are similar to round ones and their diameters are easily adjustable.
+Round concrete bins guarantee good thermal insulation and permit much higher vertical stacking than can be obtained with metal bins.
+Square or rectangular bins are generally flat-bottomed. They require a higher per quintal investment but make the best use of the available sites.
+In order to avoid the disadvantages of a potential rise in temperature, and to guarantee good storage, storage bins are often equipped with ventilation systems backed up by temperature controls.
+In terms of storage, these ventilation systems can have the following effects:
+* to lower the temperature of the grain in order to slow down biochemical degradation processes (cooling ventilation);
+* to keep the grain at a constant temperature, by systematically evacuating the heat produced by the grain mass itself (maintenance ventilation);
+* to dry the grain slowly (drying ventilation).
+In addition, again in order to guarantee good conservation of grain, special airtight silos store the products in the absence of oxygen, in a confined or controlled atmosphere.
+In the first case, the oxygen inside the silo is consumed by the natural "breathing" of the grain, and the insects and micro-organisms, and is simultaneously replaced by the carbon dioxide produced by this breathing.
+In the second case, once the airtight silo has been closed, the internal atmosphere is replaced by the injection of inert gasses (nitrogen, carbon dioxide).
+Despite the obvious advantages of these storage systems, airtight silos still have limited distribution because of their technological complexity especially for the high-capacity bins.
+Equipping bulk-storage centres
+Considering the large quantities to be managed, bulk-storage centres should not only have silos of adequate capacity but should also possess equipment that can ensure quick and easy execution of the operations of receiving, treating, storing, monitoring and discharging grain.
+The following diagram shows how a bulk-storage centre operates.
+Diagram of a bulk-storage centre: 1 Checking; 2 Hopper; 3 Vertical handling; 4 Cleaning; 5 Waighing; 6 Insecticide treatment; 7 Horizontal handling; 8 Temperature control.
+Equipment is selected on the basis of various factors, including:
+* volume of storage capacity;
+* number and size of bins;
+* handling capacity (receiving, cleaning, ensiling, discharging);
+* performance of drying equipment and ventilation devices;
+* organization of work; economic return.
+To ensure that storage centres operate smoothly, especially during stocking periods, particular attention must be given to the dimensions and type of equipment for receiving and handling the grain.
+Receiving hopper
+The receiving hopper is a concrete pit covered with a grating, into which the grain is poured on arrival at the storage centre.
+It is at ground level, protected from rain, and so situated that transport vehicles can easily manoeuvre to reach it.
+The hopper's capacity (that is, its inner volume) should be determined in consideration of the centre's storage capacity.
+Indicatively, the following table shows the hopper volumes recommended in relation to various storage capacities.
+STORAGE CAPACITY HOPPER VOLUME
+1 000 q 8 m³ = 60 q
+1 500 q 10 m³ = 75 q
+2 000 q 13 m³ = 100 q
+3 000 q 16 m³ = 120 q
+The hopper's shape will depend on the system used to collect the grain. If the grain is collected by an auger, the hopper may be in the shape of an inverted pyramid with a square or rectangular base.
+If, on the other hand, collection is by bucket elevators, the shape will still be an inverted pyramid, but the base will be rectangular, and the side next to the elevator vertical.
+To ensure a smooth flow of grain, it is important to establish the exact dimensions of the hopper: length and width of the base, and depth.
+SQUARE-BASED HOPPER WITH COLLECTION BY AUGER
+SILO HOPPER
+Storage capacity (q) Volume (m³) Length of base (m) Width of base (m) Depth (m)
+RECTANGULAR-BASED HOPPER WITH COLLECTION BY AUGER
+SILO HOPPER
+Storage capacity (q) Volume (m³) Length of base (m) Width of base (m) Depth (m)
+RECTANGULAR-BASED HOPPER WITH COLLECTION BY BUCKET ELEVATORS
+SILO HOPPER
+Storage capacity (q) Volume (m³) Length of base (m) Width of base (m) Depth (m)
+The above tables give some examples of dimensions of pyramid-shaped reception hoppers.
+In addition to pyramidal or conical hoppers, there are shallow V-shaped hoppers.
+With them, grain is collected by horizontal chain- or belt-conveyors which run under the lower lip of the hopper.
+Grain-handling equipment
+Grain-handling means the actions of moving the grain, from the time of its reception into the storage system until its dispatch.
+Some of the systems for unloading the hoppers have been mentioned above; they require special equipment for grain-handling. Now we shall discuss this equipment and its principal characteristics in greater detail.
+There are four categories of motorized equipment for handling grains: augers, elevators, conveyors and pneumatic equipment.
+Augers
+These are helical screws (Archimedes' screws) rotated by a motor.
+Depending on the dimensions of the auger and its method of use (horizontal, vertical or
+In horizontal handling, "trough augers" are commonly used, and they are work-effective up to 45 percent of the section. In oblique or vertical handling, the trough is replaced by a steel tube, so that the screw-thread works over the whole section: these are called "tube augers".
+If their diameters are equal, tube augers used horizontally can produce twice the output of trough augers.
+For example, the average outputs of these two types of augers are said to be:
+* trough auger: 5 to 30 t/h for 5 to 30 m long;
+* tube auger: 5 to 20 t/h for 10 to 20 m long.
+If their outputs are equal, the rotation speed of tube augers is double that of trough augers.
+Tube augers are mobile and operate at any angle, whereas trough augers are generally stationary, bulkier, and cannot work at angles greater than 25°. It should be stressed, however, that in oblique handling at 45°, the tube auger's output is reduced by one-third, and at 90°, it is reduced by two-thirds.
+Tube augers use 15 to 20 percent more power than trough augers.
+For equivalent output, installing a tube auger costs 20 to 25 percent less than the price of installing a trough auger. In addition, if it is less than 30 m long and has an output under 30 t/h, its purchase price is relatively small.
+Tube augers handle grain roughly, creating a greater risk of breakage and cracking of the grains than with the use of trough augers.
+Both types of equipment have the disadvantage of being difficult to clean.
+Some other types of augers are: sweep augers, used for the complete unloading of round flat-bottomed bins (output up to 20 t/h); total-discharge augers for unloading bins 8 to 15 m in diameter (output up to 50 t/h); and flexible-tube "Taupin" augers for unloading grain from hard-to-reach places.
+Elevators
+Bucket elevators are used for lifting (maximum incline of 10 degrees), and are composed of a conveyor belt equipped with buckets and stretched vertically between two pulleys.
+Bucket elevators have the advantage of easy lifting to a great height (70 m). They use little energy, take up little space, and are moderately priced. This is a stationary piece of equipment, however, with a relatively high installation cost (for digging the ditch).
+Other elevators that work faster or slower can be used, according to the specific weight and characteristics of the grain. Indicatively, their average speed is 2.5-3 m/s, allowing for continuous work, and their maximum speed is 6-8 m/s.
+Finally, there are special elevators like the swing-tray elevator used for fragile products (e.g. groundnuts), and the floating elevator lightweight, inexpensive equipment with small outputs.
+Bucket elevator: 1 Hopper; 2 Motor, 3 Buckets; 4 Strap.
+Conveyor belts and chain conveyors
+The conveyor belt consists of a belt made of tough rubber, moving on rollers and driven by a set of drums. It also has a feeding hopper and possibly a discharge cart for unloading.
+The conveyor belt is used in handling many products, since the wide variety of its accessories can accomplish practically every type of transport: horizontal or oblique handling of products that are fragile or abrasive, hot or damp, or in bags.
+This type of equipment also has the advantage of being able to achieve very high outputs (600 t/h) while consuming relatively little energy, especially in horizontal handling.
+Furthermore, for the same output and length, the conveyor belt costs about 10 percent less than the auger.
+It is often used in seed-treatment stations because it permits quick and complete unloading.
+This equipment has the disadvantage of being very bulky, however, especially when it has a discharge cart; furthermore, it must be equipped with a covering for outdoor work, and its use creates a great deal of dust.
+In addition to this standard model, there are special conveyor belts having "curbs", and some have belts running through tubes.
+The chain conveyor consists of an endless chain with flat links equipped with crossbars. It moves horizontally in a rectangular bin, carrying the products at a speed that runs from 0.20 to 1 m/s.
+This type of conveyor can be inclined at any angle. It is much less bulky and has an output equivalent to that of an auger or a conveyor belt.
+It also consumes much less energy than does an auger with the same output, but two or three times as much as a conveyor belt or a bucket elevator.
+Its outputs run from 20 to 200 t/h with little breakage of grains. Upkeep is simple, and its main advantage lies in the fact that it is totally enclosed and therefore airtight, giving off no dust. It can also be used outdoors.
+In addition, it can be loaded or unloaded at different places on the conveyor. Its cost is relatively high, however, and the sections that run "empty" are very noisy.
+There are also other kinds of chain conveyors (open-sided, or with cables).
+Pneumatic equipment
+In pneumatic handling the grain is transported by a current of compressed air circulating through a system of tubes fast enough to keep the grain moving along.
+This type of handling requires a technical study for each installation taking into account: the size of the individual grains, their abrasiveness, compactness and compressibility, moisture content and temperature, and lastly fragility.
+The advantages of these types of equipment are: flexibility, (the grain can be moved in almost any direction); big outputs (300 t/h maximum); little bulk.
+On the other hand, they demand a great deal of energy (5 to 6 times as much as for mechanical conveyors) and, though their purchase price is very high, they wear out quickly.
+Bulk storage management
+Some of the rules given for bag storage can be applied, possibly with some modifications, to bulk storage.
+What is specific to the management of bulk storage concerns ventilation.
+Bins or silos without ventilation systems
+Bulk storage of grain in unventilated silos is relatively simple and cheap but it seriously endangers the good product storage.
+In fact, in such silos it is impossible effectively to control the phenomena of moisture transfer and condensation, which can take place during storage and which cause redampening of the grain and boost the growth of insects and micro-organisms.
+Therefore the use of these silos is limited to areas with low relative air humidity, and to cases in which the bins are protected from variations in the outside temperature (as, for example, with concrete bins).
+In the absence of a ventilation system, it is essential that the ensiloed grain be completely dry, clean, and treated with long-lasting insecticides.
+In addition, it is necessary to equip the bins with suitable thermometric probes, which will permit constant monitoring of tile temperature of the grain.
+During storage, the slightest anormal variation in temperature must be interpreted as a possible indication of degradation. If this is confirmed, the only possible means of intervention, to prevent the loss of the entire mass of grain, is to move the grain to another silo and give it a thorough cleaning, followed by insecticide treatment.
+This requires transferring the contents of one silo into another clean, empty silo, thus permitting the grain to be ventilated and thoroughly mixed.
+This operation results in extra costs and increases the risks of breakage of grain during later handling. It is a costly procedure, which is not recommended as a routine measure, but it is necessary when the state of conservation of the products seems doubtful.
+Bins or silos with ventilation systems
+Ventilation, or aeration, means the forced circulation of ambient air (or, more rarely, artificially cooled air) through a grain mass.
+Inside silos, the air is circulated by blowers or aspirators, with ducts and shafts for air distribution.
+Bulk storage of grain in silos equipped with ventilation systems ensures better product storage.
+In fact, in addition to cooling the grain and keeping it at a sufficiently low temperature, the adoption and use of ventilation systems can also make possible slow and progressive drying of the stored products.
+Thus, in a ventilated bin, grain is first fairly swiftly cooled to or slightly below air temperature. Later, under the effect of prolonged ventilation, the grain can also be dried, provided the air is sufficiently dry.
+The exchanges of temperature and moisture in connection with the above are obviously governed by the laws of equilibrium between the air and the grain.
+During ventilation, the first equilibrium - between the temperatures of grain and air - is rapidly established with relatively little need for air (800 to 1 500 m³ of air per m³ of grain).
+On the other hand, the second equilibrium-between the moisture content of the grain and the relative humidity of the air-requires longer periods and more air (50 000 to 80 000 m³ of air per m³ of grain).
+A grain mass undergoing ventilation is divided into three zones:
+* cooled zone (grain already cooled);
+* transition zone (grain being cooled);
+* zone to be cooled (grain that is still warm).
+In the cooled zone, the lower layers of grain, closer to the air intake, are the most quickly and thoroughly cooled.
+Immediately above that, a transition zone moves slowly in the direction of the air current. In this zone the grain is in the process of being cooled.
+Finally, in the upper part of the bin is the zone to be cooled, where grain is still warm or slightly reheated.
+Ventilation cannot be considered complete until the cooled zone has reached the top of the bin.
+It should not be stopped until the upper layers have reached the same temperature as that of the lower layers, a temperature close to that of the ventilating air.
+Diagram of a ventilated silo: 1 Drying air, 2 Cooled grain; 3 Grain being cooled; 4 Warm grain.
+Ventilation must last long enough not to provoke excessive and prolonged heating of the upper layers of grain.
+To cool a mass of grain, the temperature of the ventilating air must be 5°C to 7°C lower than that of the grain.
+Differences greater than 8°C can cause condensation that could redampen the grain. Differences less than 3°C might not ensure the desired cooling.
+It is evident that successful ventilation requires the monitoring of the temperatures of the air and especially of the grain with a suitable heat-measuring apparatus.
+To obtain a drying effect, the relative humidity of the ventilating air must be lower than that of the grain equilibrium.
+Especially with damp grain, it is advisable to start ventilation when filling of the bins begins; furthermore, the bins should not be filled all at once but, insofar as possible, in successive stages.
+In addition, in order to avoid condensation, the exits for damp air must be left open and the extractors (provided to force out such air) turned on.
+If the stored products are damp, ventilation must be continued until the grain has been stabilized.
+Once the grain is stabilized, it can be ventilated at fairly regular intervals, in order to guarantee the good product storage.
+It is therefore necessary to make frequent, regular checks of grain moisture and temperature. Any abrupt rise in temperature must be interpreted as a sign that degradation is in progress.
+Accordingly, ventilation with air that is as dry and cold as possible should be considered necessary.
+In conclusion, the many purposes of ventilation and the complexity of the processes associated with it require the presence of specialists, both in the research phase and in the management of the installations.
+<section>e</section>
+Preparation for sale
+Definition
+We have reviewed the various stages of the post-harvest system of specific agricultural commodities.
+But our study would not be complete without some pointers on the marketing of these commodities.
+In approaching the subject of preparation for sale, it is desirable to show the importance of the quality and packaging in marketing.
+Sales and product quality
+The sale of products generally depends on the economic laws of supply and demand. Thus, when products are sold the needs of both buyers and sellers must be met.
+Particularly if they are also the producers, the sellers ask to receive a "fair price", especially in relation to production costs, while the buyers agree to pay a "fair price" on condition that the product correspond to their technological and commercial needs.
+Such needs may vary in respect to quality, which may be evaluated differently by the potential buyers.
+For example, storage corporation managers pay particular attention to the condition of grain, with the objective of ensuring good and lasting conservation, while the managers of processing industries stress the evaluation of its technological quality as it relates to the end-products they want to obtain (oils, flours, etc.).
+Merchants, but especially buyers, consider above all the appearance, the smell, and the taste of products. In fact, the quality of products at the time of sale mainly depends on the following factors:
+* moisture content,
+* adulteration and contamination,
+* infestation.
+Moisture content
+As we have shown above, high grain moisture content implies an increased risk of losses through the development of insects and moulds during storage.
+Moulds in particular, beyond the fact that they change the smell, taste and colour of the grain, can make the products unfit for human or animal consumption by producing dangerous toxins (mycotoxins).
+In addition to these technical aspects, economic factors enter into the price of products that are sold damp.
+Thus damp grain that continues to dry out during warehousing causes a weight loss that amounts to a loss of money in subsequent commercial transactions.
+At the time of sale, therefore, differentiated prices must be established according to the moisture content of products, as much in order to acknowledge the efforts of the sellers, or to encourage them to dry their products better, as to give a guarantee to the buyers.
+Adulteration and contamination
+Product adulteration consists of the presence of any foreign body (sand, stones, stems, leaves, etc.), owing either to accidents or to deliberate and fraudulent acts.
+The presence of impurities not only has a negative influence on quality and conservation, it also creates disagreeable surprises economically, if the impurities are bought at the price of the grain.
+In order to protect the buyers' interests and to encourage the sellers to clean their products carefully before selling them, differential price scales must be established according to the proportion of impurities in the batches.
+This is obviously possible only where precise standards establish the applicable tolerance limits and potential price reductions, according to the proportion of impurities mixed with the products.
+In addition, standards must be determined on and enforced for marketing restrictions for potentially contaminated products. Contamination means the presence of residues of undesirable substances which have come into contact with products and have altered their smell or taste, or made them toxic (e.g. insecticides).
+Infestation
+At the time of purchase, commodities should be completely free of any form of insect infestation.
+Indeed the presence of insects can seriously affect storage. Weight-loss, loss of nutrients, bad taste or bad smell are only a few of the harmful effects brought about by the presence of insects. Unfortunately, their action is often invisible.
+At the time of purchase, therefore, a careful and thorough check must be made to detect any form or trace of infestation.
+Quality standards
+So that commercial transactions can proceed properly and to the complete satisfaction of both sellers and buyers, realistic and practical legal standards should be adopted that clearly stipulate product quality, methods of ascertaining it, and marketing standards.
+Application of such norms is obviously conditioned by the degree of staff training for workers concerned with quality-control and by the availability of specific equipment.
+For foreign trade, where precise international standards do not exist, those obtaining in the countries to which exports are sent can be applied.
+For domestic trade, on the other hand, every country may have radically different norms, depending on the specifics of the agricultural commodity quite apart from the eating habits specific to each population.
+In any case, such standards should take the following factors into consideration:
+* the product's name, that is, its scientific name;
+* commercial varieties, if more than one, and the description of the characteristics of each;
+* the normal colour, if relevant to the identification of the product or of its varieties;
+* the bases for marketing, or the potential classification of the grain, established according to the following parameters:
+* moisture content,
+* presence of live insects,
+* proportion of damaged grain (germinated, mouldy, discoloured, etc.),
+* proportion of broken grains,
+* proportion of foreign grains,
+* presence of poisonous substances,
+* presence of commercially questionable odours,
+* technological yields (e.g. for paddy),
+* percentage of fat (e.g. for peanuts and sunflower seeds),
+* acidity rate of the fat;
+* the commercial standards or tolerance thresholds set for product acceptance according to their nature and to the above parameters;
+* the methods of operation, and the related support equipment, for reception of the products and for determination of their quality;
+* price-scales according to quality.
+These standards should also cover packaging.
+Grain packaging
+Deterioration and losses of products, during transport and storage, depend upon a series of physical, chemical, biological and human factors.
+Proper packaging is an important element in reducing losses, especially in the tropics, climate considerably increases the risks of grain deterioration.
+The main functions of packaging are:
+* to permit easy handling, whether manual or mechanical;
+* to reduce product losses by theft;
+* to protect the product from external attack (by humidity, insects, sunlight, etc.).
+There are various types of packaging for agricultural commodities, appropriate to the product's characteristics and to the marketing system.
+Woven bags made of plant or plastic fibres are the usual type used for grain.
+Rather reasonably-priced bags which still fulfil the functions described above can normally be made from such fibres.
+The choice of the type of bag should take into account not only its inherent toughness and resistance to humidity, sunlight and pests but also the type of handling anticipated.
+Plant-fibre bags
+The plant fibres used for making bags are: jute, cotton, and sisal.
+The jute bag is the most widely used in the world; indeed, it combines good resistance capacities with a relatively moderate cost.
+It can be reused several times since it has good inherent toughness which reduces the risks of tearing; in addition, it protects the grain effectively from sunlight.
+On the other hand, it is a relatively heavy fibre with a coarse texture inappropriate for small-size grains. Furthermore, jute easily absorbs humidity and offers little resistance to the attacks of insects and rodents.
+To partially offset the disadvantages of humidity absorption, the bags can be lined with plastic or, if necessary, covered with waterproof tarpaulins.
+Handling jute bags is easy because the material is not slippery: thus, fairly high stacks can be erected.
+The cotton bag is still used for packaging products that have acquired some added value in processing, such as flours or sugar.
+Actually its features are practically the same as those of jute, except that the cotton bag is lighter, harder to sew, and more costly.
+The sisal bag is rougher than the other plant-fibre bags and is now hardly used except in countries that produce sisal (Mexico, Brazil and some African countries). Its features are comparable to those of jute bags.
+Paper bags are more vulnerable and require more delicate handling. They offer very little protection against humidity and insects, and must be stored under good conditions. They are used especially for packaging seeds.
+As for the other plant fibres, hemp and linen, they are virtually no longer used for bags because of their high costs.
+Plastic-fibre bags
+These bags can be made entirely of plastic (polythene), or of mixed fabrics (plant fibre and plastic fibre).
+Today, polythene bags are widely used for packaging grain and they seriously rival the traditional jute bag.
+These bags have the advantage of being extremely resistant, rot-proof, and impermeable to fats.
+However, they must be treated in order to resist sunlight, since polythene deteriorates when exposed to light. With good treatment, a polythene bag can be reused for six to 12 months.
+They cost more than jute bags and they are harder to handle because their surface is very slippery, and so they cannot be stacked very high.
+Size of bags
+Whether they are made of plant or plastic fibres, the capacity of the bags is generally 50 kg (100 x 55 cm or 100 x 60 cm). In several countries, however, capacity may reach nearly 100 kg, which makes for difficult handling.
+Thus, to simplify the reception and delivery of bagged grain, it would seem desirable to standardize the capacities and sizes of these bags.
+GRAIN NORMAL WEIGHT
+Paddy 64 kg
+Milled rice 45-100 kg
+Maize, sorghum, beans, wheat, millet 90 kg
+Groundnuts, in shell 29-45 kg
+Groundnuts, shelled 74-84 kg
+Soybeans 65 kg
+Cottonseed 50 kg
+Cocoa beans 60-90 kg
+Coffee beans 60-65 kg
+Various flours 45 kg
+Indicatively, the above table shows the weights considered normal for a bag of grain.
+<section>f</section>
+Transport
+Definition
+Transport generally marks the passage from one stage of the post-harvest system to the next.
+Transport, whether traditional or mechanized, is needed to move the agricultural commodities:
+* from the harvest fields, to the threshing or drying site;
+* from there to the farmer's storehouses or to collection-centre warehouses;
+* from there to the processing industries or to bigger central storage buildings (often much farther from where the commodity is grown);
+* from these industries or storage buildings to wholesalers or retailers for final marketing.
+Traditional transport
+In many parts of the world, farmers and peasants live far away from any road on which grain can be transported to places of collection, storage, or marketing.
+Therefore, products are often carried in small quantities over very bad roads or footpaths. This entails long transport times and high costs per unit of product transported, leading to a substantial decrease in incomes. This does not encourage farmers to increase their production.
+Indeed, increasing production requires small fanners not only to develop storage buildings but also to readjust the local road network to the needs of product transport.
+To alleviate these disadvantages, the road network would have to be improved to permit development of a small-scale transport system to meet the needs of the most distant production areas.
+In places where the road network is undeveloped and agriculture is traditional, products are generally by transported people, donkeys, camels, and sometimes horses: oxen are more often used as draught animals.
+Otherwise, pickup trucks, buses and taxis are often used to transport products to the collection, storage and marketing places.
+In places where most goods are transported by people or animals, it is not unusual for farmers to have to travel 30 or 40 km to take their grain to collection, storage or marketing places.
+Often there is a rental system (animals, small trucks), with rates that vary according to the season, the condition of the roads, and the distance.
+Where efforts are made to popularize the use of oxcarts and simple wheelbarrows, such initiatives meet with a certain success when the equipment can be easily made by local artisans. On the contrary, when imported parts (axles, wheels, etc.) cannot be locally repaired, such efforts end in failure.
+Road transport
+For road transport, tractors with trailers are generally used in the field, while on the road goods are transported on trucks of varying capacities.
+It has not been possible to standardize the dimensions and capacities of trucks, because of the variety of transport requirements and the number of companies that manufacture chassis and bodies for these types of vehicles.
+This being said, where the road system permits and the storage and marketing organization require it, there is a tendency to use big dump-trucks with cargo capacities of dozens of tonnes.
+Purchase or rental of trucks
+The choice between these alternatives should be made after an analysis of the needs, that is, an estimate of the quantities to be transported and of the type and number of vehicles necessary, depending on the characteristics of the routes and the frequency of travel.
+On the one hand, the rental option offers various advantages:
+* the transport operation itself is not run by the farmers, which saves them a good deal of time;
+* potential vehicle breakdowns are chargeable to the rental company (in terms of time and responsibility as well as money);
+* no one can make private use of the vehicles, which eliminates the upkeep expenses caused by misuse of these vehicles;
+* the money that has not been spent to buy vehicles can immediately be used for other purposes;
+* all the expenses related to possession of a vehicle (insurance, license fees, upkeep) are eliminated.
+On the other hand, the other option has its attractions:
+* the vehicles are kept in better condition and are less likely to be misused or overloaded;
+* the vehicles correspond exactly to the needs of the buyer, and he is sure of having them on hand at any time;
+Nevertheless, renting seems to be the simplest and most economical method.
+But if buying a vehicle appears to be the best solution to the transport problem, there is, on the one hand, the question of selecting the vehicle best-adapted to the situation with the best quality-price ratio. On the other hand, the most economical means of financing or making this purchase must be found.
+In selecting the type of vehicle, it is first necessary to define its specific functions, and thus the features desired: its load-bearing capacity in terms of the weight and volume of the products to be transported; its size and shape in terms of the type of products; finally, its technical features (four-wheel-drive vehicle, for instance) in terms of the condition of the road network.
+It is obviously more economical to pay cash when purchasing a vehicle, but several possibilities exist for loans to be negotiated with banks. This can permit the simultaneous purchase of several vehicles necessary for the transport of products, rather than the purchase of a single vehicle paid for in cash.
+The possibility of buying a second-hand vehicle should also be considered, although it should always be supplied by the seller with a guarantee for a certain period.
+In any case, the purchase of a vehicle should not be seen as an isolated operation, but considered in the context of an overall programme for the production and distribution system of the products.
+Programming road transport
+The transport system must be as economical and effective as possible. This implies strict planning for the use of vehicles, according to transport priorities of certain products, establishment of certain schedules, and availability of personnel.
+Note that it is desirable to keep some flexibility in the planned programme, to provide against unforeseen circumstances.
+It is best that one person be clearly in charge of this planning: drivers or transporters can address their suggestions and requests to this person in order to improve scheduling.
+Good transport planning must take account of the location of collection points, processing and storage centres, and markets, of the distances separating them, and of the quantities of products to be loaded or unloaded at each point.
+In addition, a route plan should be prepared for the drivers, in order to reduce distances and calculate transport time as closely as possible.
+This is especially important when collecting harvested crops, in order to avoid theft or deterioration of products awaiting transport to storage centres.
+Vehicle upkeep
+Like every other kind of management, supervision of vehicle upkeep tries to find the happy medium between two extremes: putting vehicles in the garage on working days, or making no repairs at all in order not to lose a single working day.
+In fact, both the technical and the economic aspects of the question must be taken into account.
+The purpose of upkeep is to maintain the vehicles in good condition, to reduce to a minimum the possibility of mechanical breakdowns, to reduce the costs of using the vehicle, and to prolong its lifespan to the maximum.
+Two types of upkeep must be distinguished: routine upkeep, which consists of regular checking on the condition of the vehicles, and emergency upkeep when an unexpected repair is needed.
+Costs of road transport
+There is a tendency to reduce the overall costs of transport to the cost of fuel.
+In reality, this is only an additional cost, and a small part of the total cost. Total cost is made up of fixed costs (those connected to the vehicle's papers and a potential driver's salary), to which are added the costs of use: fuel, oil, and upkeep in general.
+To these must be added the cost of depreciation of the vehicle, which increases with its age.
+Finally, it should be noted that the costs of use vary according to the distances travelled, the salaries paid, and the way in which the vehicle is driven; the fixed costs are invariable.
+Depreciation cost depends both on the market and on how intensively the vehicle has been used.
+To get a precise idea of transport costs in a given situation, a systematic estimate must be made of the costs of the vehicle per tonne or per quintal of product transported, taking account of all the above factors. This estimate should be repeated at least once a year.
+An analysis of transport costs should be made when deciding between purchase or rental of vehicles.
+Losses
+Transport costs have an important bearing on the sale price of a product. Thus losses during transport must be reduced to a minimum.
+Loss means the difference in weight between the quantity loaded and the quantity unloaded.
+But in addition to this loss in quantity, there is a loss in quality when the product undergoes changes during transport.
+It is therefore important to reduce the transport time while performing an effective service capable of preserving the condition of the products.
+Various factors can be at the root of losses in both quality and quantity.
+Bags that are roughly handled during loading or unloading can tear, causing leakages of products during transport.
+Driving too fast, or in vehicles that are in poor condition, can also cause product leakage.
+In certain weather conditions (e.g. rainy season), products can deteriorate if they are transported without protection.
+Furthermore, loads left unsupervised can be stolen.
+Various solutions can be applied to the problem of losses, both as concerns the vehicles themselves and as concerns the handling of the products.
+Flat-bed or low-sideboard trucks must be fitted with a framework roof, and their sides covered with tarpaulins that can be rolled up or removed, in order to give protection against rain, and provide proper ventilation for commodities with a high moisture content.
+Although the structure and condition of the vehicles are important factors in transport, it is equally important to pay particular attention to handling.
+During the loading and unloading of vehicles, as much use as possible should be made of two-wheeled trolleys and bag-lifts in order to reduce manhandling.
+Care must be taken to load and arrange bags properly in the vehicles, avoiding crushing the lower layers, and placing the bags on pallets to permit air to circulate. The attention to be given to these operations depends on the characteristics of the product and on its moisture content.
+If loading is to take place at several locations, the bags must be loaded in inverse order to that in which they will be unloaded (the last bag loaded will be the first unloaded).
+Other means of transport
+In many countries, large quantities of goods are also transported by rail, and this has the advantage of generally being cheaper than road transport.
+Rail's biggest disadvantage is that it almost always entails an additional transport operation on departure and arrival, unlike road transport which provides "door-to-door" service.
+Over great distances, and where tile means exist, it is generally preferable to transport cereals by rail or by ship.
+<section>g</section>
+Appendixes
+Appendix I Units of measurement
+Appendix I Units of measurement (continued)
+Appendix I Units of measurement (continued)
+Appendix I Units of measurement (continued)
+Appendix II Physical characteristics of products
+Appendix II Physical characteristics of products (continued)
+Bibliography
+J. L. MULTON, Conservation et stockage des grains et graines et produits dérives, volume 1 et 2, Collection sciences et techniques agro-alimentaires, Technique et documentation (Lavoisier), 1982.
+J.F. CRUZ et A. DIOP, Agricultural Engineering in Development: Warehouse Technique, FAO Agricultural Services Bulletin No. 74, 1989.
+CEEMAT (Centre d'étude et d'expérimentation du machinisme agricole et tropical), Conservation des grains en régions chaudes, République française - Ministère de la cooperation et du développement, 1988.
+D.W. HALL, Manipulación y almacenamiento de granos alimenticios en las zonas tropicales y subtropicules (FAO), 1971.
+CEEMAT (Centre d 'étude et d'expérimentation du machinisme agricole et tropical), Manuel de motorisation des cultures tropicales, Tome II (République française - Ministère de la cooperation), 1974.
+ILO (International Labour Organisation), Le stockage du grain, série technologique Dossier technique No. 11.
+Mémento de l'agronome (République française - Ministère des relations extérieures Cooperation et développement), 1984.
+Elisabeth O'KELLY and R. H. FORSTER, Processing and storage of foodgrains by rural families, Agricultural Services Bulletin, No. 53 (FAO), 1983.
+FAO (Food and Agriculture Organization of the United Nations), Prevention of postharvest food losses: a training manual, FAO Training Series No. 10, 1985.
+L'amélioration des systèmes post-récolte en Afrique de l'Ouest, Etudes et solutions présentées lors du séminaire tenu à Bamako en avril 1979 (Agence de cooperation culturelle et technique), 1980.
+P. GILLIER, P. SILVESTRE, L'arachide, Techniques agricoles et productions tropicales, G.P. Maisonneuve et Larose, 1969.
+M. JAMIESON et P. JOBBER, Manejo de los alimentos, Volume 2 et 3 (FAO, editorial PaxMexico), 1975.
+E.V. ARAULLO, D.B. DE PADUA, MICHAEL GRAHAM, Rice Postharvest Technology (International Development Research Centre), 1976.
+Structures de stockage des céréales, des légumineuses et de leurs dérivés, compte rendu du séminaire international tenu à Rabat en novembre 1990.
+IDEMA (Instituto de Mercados Agropecuario), Manejo, secado y almacenamiento de granos cerales y oleaginosas, Memorias curve internacional, centro Internacional de Agricultura Tropical (CIAT), 1985.
+FAO (Food and Agriculture Organization of the United Nations), Agricultural engineering in development: selection of mechanisation inputs, Agricultural Services Bulletin No. 84 (FAO), 1990.
+H.A.U. MONRO, Manual de fumagación contra insectos (FAO), 1971
+JO. ROUSSEAU, Cosecha de granos (trigo, maíz, frigol y soya), Oficina Regional de la FAO pare America Latina y el Caribe, 1984.
+J. GAVAIRIA LONDONO, Control de calidad de granos, Almacenar - Ediagro (Colombia), 1989).
+Stockage et conservation des céréales, CULTIVAR No. 170, March 1984.
+C. LINDBLAD, L. DRUBEN, Preparing Grain for Storage, Volume I of Small Farm Grain Storage, Appropriate Technologies for Development, (Peace Corps - VITA), 1980.
+MALCOLM HARPER, Recolección y recepción de productos agropecuarios - Manual del instructor, Série MATCOM, BIT, 1985.
+MALCOLM HARPER - Gestión del almacenamiento - Munual del instructor, Série MATCOM (BIT), 1985.
+MALCOLM HARPER, Comercialización de productos agropecuarios - Manual del instructor, Série MATCOM (BIT), 1985.
+R. BALDONI, L. GIARDINI, Coltivuzioni erbacee (Pàtron Editore), 1986.
+A. GRIMALDI, F. BONCIARELLI, F. LORENZETTI, Coltivazioni erbacee (Edizioni Agricole), 1983.
+F. RIBAUDO, Prontuario di agricoltura per il geometra, il perito agrario e l'agrotecnico (Edizioni agricole), 1989.
+G. TASSINARI, Manuale dell'Agronomo (REDA - Roma), 1980.

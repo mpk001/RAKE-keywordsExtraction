@@ -1,0 +1,952 @@
+<title>Introduction of Animal-Powered Cereal Mills</title>
+Wulf Boie
+A Publication of the Deutsches Zentrum für Entwicklungstechnologien - GATE , a Division of the Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH - 1989
+The author:
+Wulf Boie, born in 1957, studied mechanical engineering in Cologne and pedagogics of vocationaltraining in Kassel. From 1983-1986 free-lance contributor to the GTZ project "Documentation, Improvement and Propagation of animal-Powered Technology". Since 1987 staff member of Projekt-Consult GmbH, Frankfurt.
+<section>Acknowledgements</section>
+Deutsches Zentrum für Entwicklungstechnologien- GATE
+Deutsches Zentrum für Entwicklungstechnologien - GATE - stands for German Appropriate Technology Exchange. It was founded in 1978 as a special division of the Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH. GATE is a centre for the dissemination and promotion of appropriate technologies for developing countries. GATE defines "Appropriate technologies" as those which are suitable and acceptable in the light of economic, social and cultural criteria. They should contribute to socio-economic development whilst ensuring optimal utilization of resources and minimal detriment to the environment. Depending on the case at hand a traditional, intermediate or highly-developed can be the "appropriate" one. GATE focusses its work on the key areas:
+- Technology Exchange: Collecting, processing and disseminating information on technologies appropriate to the needs of the developing countries: ascertaining the technological requirements of Third World countries: support in the form of personnel, material and equipment to promote the development and adaptation of technologies for developing countries.
+- Research and Development :Conducting and/or promoting research and development work in appropriate technologies.
+- Cooperation in Technological Development: Cooperation in the form of joint projects with relevant institutions in developing countries and in the Federal Republic of Germany.
+- Environmental Protection. The growing importance of ecology and environmental protection require better coordination and harmonization of projects. In order to tackle these tasks more effectively, a coordination center was set up within GATE in 1985.
+GATE has entered into cooperation agreements with a number of technology centres in Third World countries.
+GATE offers a free information service on appropriate technologies for all public and private development institutions in developing countries, dealing with the development, adaptation, introduction and application of technologies.
+Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH
+The government-owned GTZ operates in the field of Technical Cooperation. 2200 German experts are working together with partners from about 100 countries of Africa, Asia and Latin America in projects covering practically every sector of agriculture, forestry, economic development, social services and institutional and material infrastructure. - The GTZ is commissioned to do this work both by the Government of the Federal Republic of Germany and by other government or semi-government authorities.
+The GTZ activities encompass:
+- appraisal, technical planning, control and supervision of technical cooperation projects commissioned by the Government of the Federal Republic or by other authorities
+- providing an advisory service to other agencies also working on development projects
+- the recruitment, selection, briefing, assignment, administration of expert personnel and their welfare and technical backstopping during their period of assignment
+- provision of materials and equipment for projects, planning work, selection, purchasing and shipment to the developing countries
+- management of all financial obligations to the partner-country.
+Deutsches Zentrum für Entwicklungstechnologien - GATE
+in: Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH
+P. O. Box 5180
+D-65726 Eschborn
+Federal Republic of Germany
+Tel.: (06196) 79-0
+Telex: 41523-0 gtz d
+Fax: (06196) 797352
+A Publication of
+Deutsches Zentrum für Entwicklungstechnologien -GATE
+in: Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH
+Cereal grinding takes a considerable portion of the daily working time of women in rural areas in the third world.
+Work with the traditional grinding stones or the mortar is very hard. In many regions, the women join up in order to organise the purchase of a motor mill. However' experience has shown that especially in remote regions and small villages motor mills often do not work any more after a short time.
+In many cases, animal-powered cereal mills can be an alternative to motor mills. Since 1984, GATE has worked on the introduction of animal-powered mills in West Africa within the framework of a pilot programme. This brochure reflects the experience gained so far. It is designed to provide information and help to interested projects and organisations for the planning and implementation of projects for the dissemination of animal-powered mills.
+<section>Introduction</section>
+Today, power gears are still widely spread in large parts of North Africa, Asia and Latin America. For most parts of the rural population they are the only practicable alternative to manual labour for works such as water raising, sugar cane crushing, and grinding of cereals and oil producing fruits. In Europe, power gears were used until the first half of this century.
+The GTZ project ,,Documentation, Improvement and Dissemination of Animal-Powered Technology", which was begun in 1984, was based on the consideration, that power gears can facilitate work for the rural population even beyond their traditional dispersal area, provided that the use of draft animals is already known.
+So far, the project has concentrated on disseminating animal-powered cereal mills in West Africa. The present guideline is based on the experience made in Senegal, Burkina Faso, Sierra Leone, Cameroon and the Central African Republic. Furthermore, individual pilot and demonstration power gears for water raising, rice husking and manioc grinding were tested in these countries.
+In many African regions dishes made of flour are the main food component. Normally, the women are responsible for flour production. They grind the cereals in traditional, labour- extensive processes using wooden mortars or grinding stones.
+Investigations conducted in West Africa have shown that motor mills can only work economically when they have a customer range of 1000 to 1500 consumers. Furthermore, motor mills pose quite a number of maintenance and repair problems as well as bottlenecks in fuel supply, so that often they are no practicable alternative to manual work in particular for the population in very poor, remote regions.
+The animal-powered mill developed by Project-Consult on behalf of GATE, however, can be operated economically even in small villages. All maintenance and repair works can be performed by the users themselves or by local craftsmen. Nevertheless, it facilitates work very much in comparison with manual labour.
+This guideline is designed to provide help for the implementation of animal-powered mills in developing countries. In Part I, the technical foundations and socioeconomic frame conditions are explained. Part II deals with the construction of animal-powered mills. The work conducted by the project so far has shown that initial difficulties of the introduction of the mill were rarely due to clearly classifiable problems, but to a complicated network of technical, cultural, economic and organisatorial problems.
+The use of animal-powered mills affects several fields of problems, influences them and is influenced by them:
+- Animal-powered mills are designed to facilitate the women's work, women shall use the mill and organise its operation. This is often contradictory to the roles traditionally played by men and women.
+- The power of draft animals is used for driving the power gear of the mill. However, this power can only be roughly estimated and depends very much on feeding, health conditions, care and training. Often particularly the women are denied the use of draft animals.
+- Animal-powered mills serve for the production of basic food. This food has to meet certain requirements, which differ very much regionally and individually. This fact calls for constructional adaptations of the mills and alterations of the traditional process of food preparation.
+- The device is to be manufactured by local craftsmen, whose qualifications may vary considerably from one location to the other. The construction must always be adapted to the abilities and equipment of the craftsmen.
+Every first introduction of animal-powered mills must be preceded by a thorough analysis of these framework conditions. Such an analysis is the basis for discussing all possible ways of organising the use of the animal-powered mill with the women; for planning the training of users and craftsmen; for adapting the mill to the actual local requirements; for recognizing the cause of any problems which may arise.
+In most of the locations in question the thought of driving mills by draft animals is an entirely new idea. This means that every demonstration unit is judged much more critically and skeptically than a familiar technology, e.g. a motor mill. Therefore, even slight faults can result in a fundamental disapproval of the power gear technology on the part of the village population.
+Hence every implementation in a village should be preceded by a trial and demonstration phase, in the course of which the technical problems can be solved and the acceptance of the flour can be tested.
+<section>Part I: General Conditions for the use of Animal-Powered Mills</section>
+<section>1. Objectives of the Introduction of Animal-Powered Mills</section>
+Grinding is one of the most power- and time-consuming daily tasks of women in rural Africa. Often the women give highest priority to the mechanization this work. It could give them time for other economic and social activities, thus being a precondition for other projects designed to improve the situation of women in rural areas.
+The animal-powered mills installed so far are mostly operated by rural women's cooperatives. The concrete and difficult task of organising the operation of the mill often leads to a clear consolidation and strengthening of such self-help organisations.
+The animal-powered mill utilizes the work of draft animals, i.e. a renewable source of energy, which is available in many developing countries. It contributes to the preservation of the environment, the saving of fossil fuels and thus also to the saving of foreign currencies.
+The local artisans play a central role in their propagation. In order to enable a commercial dissemination of the device in the internal economic circulation in the long run, the power gear is so designed that it can be manufactured by metal craftsmen with comparatively simple . workshop equipment. The local craftsmen are also responsible for repairs and for training the maintenance staff. This means that a successful implementation of animal- powered mills must always be combined with a punctual promotion of artisans by means of training activities, acquisition of tools and loans etc.
+<section>2. Framework Conditions for the Use of Animal-Powered Mills</section>
+2.1 Nutritional habits and working rhythm
+2.2 Possible problems for the use of draft animals and power gears by women
+2.3 Questions concerning animal keeping
+2.4 Manufacture of animal-powered mills by craftsmen
+2.1 Nutritional habits and working rhythm
+So far, the project has gained experience mainly in the field of animal-powered mills used for millet grinding. First tests were performed for maize milling, as well as for driving rice hullers and manioc mills, by means of power gears.
+In those regions where millet is the basic food, fermented millet flour is often preferred. After removal of the indigestible husks, the millet is soaked in water overnight for fermentation, so that its taste becomes slightly sour. In times of overwork, e.g. during the harvest, however, fermentation, and in some regions even the removal of husks, is dispensed with.
+Two different traditional milling procedures are used in West Africa:
+- pounding of millet in a mortar
+- grinding of millet between two grinding stones
+The two procedures are based on different working rhythms. In those regions, in which the cereals are ground with grinding stones, the grains are dried before grinding, whereas in the mortar the millet is pounded while it is humid.
+If the grains ground by the animal-powered mills are too humid, the mill becomes sticky, so that no acceptable flour can be produced. Therefore, in those regions where the mortar is traditionally used, the grains must be dried in the morning after the overnight fermentation, before they can be ground in the afternoon, or soaking of the millet must be dispensed with, which would, however, cause a difference in taste.
+Tab. 1: The traditional working rhythm of flour production, shown by the examples of Senegal and Burkina Faso, and the change required by the introduction of animal-powered mills.
+Grinding stones fermented flour
+unfermented flour
+Wooden mortar fermented flour
+Animal powered mill fermented flour
+unfermented flour
+Afternoon
+glume removal
+glume removal
+Evening
+grain washing preparation of fermentation
+grain washing preparation of fermentation
+glume removal
+glume removal
+Night
+fermentation
+fermentation
+fermentation
+Morning
+glume removal
+grinding
+Noon
+drying
+drying
+further fermentation or drying
+drying
+short drying grinding
+Afternoon
+grinding
+grinding
+Evening
+food preparation
+food preparation
+food preparation
+Table 1 shows traditional working rhythms and their alterations required by the introduction of animal-powered mills. Work with animal-powered mills requires coordination among the women, which was not necessary when grinding stones or mortars were used individually. If the millet is dried before grindings the flour can be stored for a few days, which is a positive secondary consequence. This feature can facilitate the organisation of the mill use if the women can be convinced to grind millet on stock.
+The consumers test the quality of the flour optically, haptically (i.e. by touching) and in terms of taste. The following parameters influence the quality:
+- the fineness (average size distribution of the individual particles)
+- the homogeneity (uniformity of size distribution)
+- the hardness (depends on the grain size and humidity content)
+- the colour (depends on the humidity and on whether extracts or the whole grain were used).
+Tab. 2: Characteristic curve of the flour produced by traditional processes.
+Grinding with grinding stones
+Grinding with mortar
+Fineness
+relatively fine
+relatively coarse
+Homogeneity
+relatively homogenous
+relatively inhomogeneous
+Humidity
+dry
+humid
+Hardness
+hard
+soft
+Colour
+bright
+bright
+Table 2 shows the flour qualities achieved using the traditional processes. The fineness is probably the most important criterion for the evaluation of the flour. This is not only due to its taste, but fine flour also signals wealth, because the fineness of the flour produced by traditional processes indicates how much working time the family can spend on grinding. The flour ground with the help of the power gear is furthermore compared with the product of the motor mill, so that fine flour is also regarded as an indication of progress.
+Still, often the consumers disapprove of flour which is fine, but inhomogeneous, because it is not fine enough. This can be remedied by sieving out the coarse particles after the first grinding process. If fine, humid flour is compared with equally fine, but dry flour by ,,touching", the humid flour appears to be finer ("woollen granularity"). The use of cereals with too high a humidity content can lead to differences in colour and taste. Furthermore, insufficient cleaning of the mill influences the colour and taste, because spoilt particles mix with the flour.
+Investigation and counseling steps
+examination of the traditional organisation of work
+evaluation of the quality of the flour produced by traditional procedures regarding
+- fineness
+- homogeneity
+- humidity
+- hardness
+-colour
+determination of the necessary processing capacity and of the processing peaks which must be covered by the capacity of the mill.
+trials with the animal
+-powered mill:
+- adjustment of the millstones
+- drying oftrains
+- sieving of flour
+food test with consumers until a satisfactory flour quality is achieved
+counseling of the women regarding the organisation of work and coordination among themselves, advantages of stockkeeping
+technical counseling of the women with respect to mill adjustment, drying, sieving procedure, cleaning of the mill.
+2.2 Possible problems for the use of draft animals and power gears by women
+Often the women's fear of handling the draft animals and mainly the resistance of the men, who mostly have the disposing power of the draft animals, still prevent the women from working with draft animals.
+Traditionally, the preparation of food is a female duty; and the men are responsible for handling the technical equipment. In West Africa, the social position of women is determined above all by the quality of their housework. With respect to housekeeping, the men totally depend on the women. Therefore, the social position of the women would certainly be weakened if a considerable part of the housework, namely grinding, was taken over by the men. For this reason' in the case of most power gears installed so far the women were familiarized with handling the draft animals and the animal-powered mill. The women organise the operation of the mill, operate the device and harness and unharness the draft animals themselves. But they often leave those works- they consider to be technical jobs, such as cleaning the mill, to the men.
+The experience made so far shows that women are certainly willing to work with draft animals, if this is clearly advantageous for them. In this case they mostly have energy enough to convince their husbands to make concessions. It proved to be advantageous that, if the men still refuse their consent, the women's group buys one or two draft animals designed exclusively to drive the power gear.
+Usually it is more readily accepted socially if the women work with donkeys than with, e.g., oxen.
+Investigation and counseling steps
+examination, in how far resistance on the part of the men and women against the use of draft animals by women is to be expected
+training of women for handling draft animals
+2.3 Questions concerning animal keeping
+So far, donkeys, oxen and horses have been used as draft animals for animal powered mills. The employment of donkeys as draft and pack animals is very widespread, they are also frequently used by women. They are easy to handle, relatively insensitive, live on very little and are much cheaper than other draft animals.
+Oxen are more expensive, more difficult to train and make more demands regarding feeding and care, but are more powerful than donkeys.
+As far as horses are concerned, the situation varies very much, depending on the country and the region. In Burkina Faso, e.g., horses are very expensive. They are mostly owned by rich people, for whom the horse is more of a status symbol than of a work animal. In Senegal, however, horses are frequently used as draft animals.
+The regular employment of draft animals for animal-powered mills makes higher demands regarding their care and feeding than their temporary use for soil treatment and transportation. This means that care for the draft animals must be improved by targeted training and counseling activities. First of all it must be ascertained whether the economic basis for sufficient feeding of the draft animals is secured during the dry season, too.
+Investigation and counseling steps
+register available draft animals find out disposing powers
+examine feeding situation
+select draft animals with respect to the factors
+- disposability
+- disposing power
+- costs
+- care capacity
+- basis of feeding
+training of the future mill users in handling the draft animals
+counseling with regard to feeding of and care for the animals, training of care staff
+2.4 Manufacture of animal powered mills by craftsmen
+Animal-powered mills can be manufactured by local craftsmen with relatively simple workshop equipment. In addition to the usual tools, such as hammers, spanners, pliers, and manual saws, a welding unit and a drilling machine are needed. A forging equipment is desirable, but it is not a necessary precondition for building animal-powered mills.
+Since animal-powered mills can be produced locally and are competitive with motor mills, a strategy can be chosen which aims at an automatic commercial dissemination of the device in the medium term. Therefore, local private craftsmen must be integrated into the production of and the post-support for the installed power gears as early as possible.
+The craftsmen should:
+- be open to innovations and improvisation
+- have a certain spatial faculty of imagination
+- be able to work with a high degree of exactitude
+- possibly have knowledge in forging.
+Investigation and counceling steps
+selection of an adequate workshop
+training of the craftsman "on the job"
+<section>3. Technical Foundations</section>
+3.1 Functional principle of animal-powered mills
+3.2 Grinding output
+3.3 Evaluation of output and flour quality
+3.1 Functional principle of animal-powered mills
+The driving gear of the animal-powered mill is so designed that it can be produced by craftsmen in developing countries. The grinding unit used so far is an industrially manufactured cereal mill produced by the company Moulis and imported from France. It is a disk mill with stone disks, which was originally designed for manual and motor operation. In principle, all disk mills with a disk diameter of 18-20 cm can be used in connection with a power gear. However, comparative examinations of small commercial mills showed that the Moulis mill is the best, although it also has numerous constructional deficiencies. The selection of the grinding unit should be determined not only by the size of the millstones, but also by a solid construction, good bearings and easy cleaning, which are necessary because of the great torques exerted at the power gear. A grinding unit which can also be manufactured by local craftsmen is still under development.
+The grinding unit has a horizontal axle. This means that the power gear must meet two requirements:
+- it must convert the movement of the draft animals around a vertical axis into the rotation of a horizontal axis;
+- it must gear up the slow circular movement of the animals (2-3 rounds/minute at a circle diameter of 8 m) to 40-100 times this speed.
+The power gear designs known from the traditional usage areas and from Europe mostly achieve this goal by means of a multistage toothed gearing. This interlocking type of power transmission had the consequence that the power gears had to be over dimensioned in order ta resist overloads, e.g. when the working machine blocked.
+In the animal-powered mill, power deviation and the first transmission are achieved by means of a wheel which runs on a circular wall. This wheel is connected to a centralized axle via a frame and is pulled by the animal running round in a circle. A chain drive links the wheel and the grinding unit, which is fixed to the frame, thus forming the second transmission stage (Fig. 5).
+This system offers two advantages:
+- A high transmission is achieved by two gear steps (up to 1/140).
+- Contrary to toothed-wheel power gears only series components are used, which are available in many developing countries.
+- The friction principle limits the tractive power exerted by the draft animal, so that over dimensioning of components can be dispensed with (important e.g. in case the cereal mill blocks).
+- By using series components and since over dimensioning can be dispensed with, the material costs are low compared to the traditional toothed-wheel power gears.
+3.2 Grinding output
+The grinding output of animal-powered mills varies very much, depending on the desired flour quality and the capability of the draft animals. Table 3 shows the grinding output determined for the animal-powered mills installed so far.
+If very fine flour is desired, and if only badly fed and weak draft animals are available, the lower values indicated in the table are more likely to be achieved, whereas the higher values can be assumed in the case of stronger draft animals and more coarse flour.
+3.3 Evaluation of output and flour quality
+Especially in the initial phase of the introduction of animal-powered mills it is necessary to systematically monitor the quality of the flour ground with the help of this mill type and the per hour output of the mill. Any deficiencies of the mill can usually be evaluated only if these parameters are compared to those of other animal-powered mills, which have already been tested, on the basis of possibly objective standards.
+The users normally express their criticism of the mill and the flour quality in a relatively general way. It is the duty of the supporting team to find out the precise reason for any possible discontent.
+For example, if the output is too low? this can be due to constructional faults, but also to a bad organisation of work, too weak animals or wrong adjustment of the mill.
+The output can be judged only if the flour quality is determined at the same time. If fine flour is ground the output is usually lower than in the case of coarse flour.
+The decisive criterion for the evaluation of the flour quality is the fineness of the flour. It is described by a particle-size distribution curve and the fineness index. With the help of the fineness index it is possible to compare the flour ground by the animal-powered mill with the traditional product and the flour produced by a motor mill (Annex 1, p. 61).
+Tab. 3: Output of the animal-powered mills installed so far. (The figures are based on the determination of the grinding time needed for quantities of 2 kg.)
+Country
+traditional process
+grinding stock
+intended use
+draft animal
+grinding output
+remarks
+Burkina Faso
+grinding stones (relatively fine flour)
+millet
+food flour
+donkey
+5-15 kg/h
+animals are in bad health and food conditions
+Burkina Faso
+grinding stones (relatively fine flour)
+millet
+Dolo (only coarse grinding required)
+donkey
+30-50 kg/h
+Senegal
+mortar (relatively coarse flour)
+millet
+food flour
+donkey
+10-12 kg/h
+Senegal
+mortar (relatively coarse flour)
+millet
+food flour
+horse
+15-20 kg/h
+Senegal
+mortar (relatively coarse flour)
+maize
+food flour
+donkey
+8 kg/h
+Sierra
+mortar
+maize
+food flour
+ox
+14 kg/h
+Leone
+(relatively coarse flour)
+Sierra
+mortar
+maize
+food flour
+pair of oxen
+20 kg/h
+Leone
+(relatively coarse flour)
+Central African Republic
+mortar (relatively coarse flour)
+millet
+food flour
+ox
+15 kg/h
+mortar(relatively coarse flour)
+manioc
+manioc flour
+ox
+34-38 kg/h
+with modified grinding unit of the company Irus (modified hopper and feeding screw)
+Investigation and counseling steps
+performance of test meals or distribution of flour samples to families. Interviews with the consumers. Systematization of the criticism.
+determination of the output of the animal-powered mill, comparison with other power gears that have already been tested
+determination of the particle-size distribution curve and of the fineness index, comparison with the particle size distribution curve and the fineness index of the traditional product
+evaluation of the test results, identification of deficiencies and problems in the field of technology and organisation of work. If necessary, technical and organisatorial alterations.
+<section>4. Economic Efficiency and Acceptance of the Animal-Powered Mill in Comparison with the Motor Mill</section>
+Investigations conducted in West Africa have shown, that even small motor mills with a capacity of 80 kg/in can work economically only in the case of a user circle of 1000 to 1500 consumers. Therefore, motor mills which work on a commercial basis are mostly found in towns or bigger villages.
+The animal-powered mill is designed for a consumer circle of approximately 100 persons with a daily operation time of four hours, or 200 persons with a daily operation time of eight hours. This results in 10 to 25 actual female users - a number which can be justified also with respect to organisatorial considerations, if a family size of 8-10 persons is assumed.
+Although the employment ranges of animal-powered mills and motor mills differ substantially, as shown in Annex 3 (p. 65) and Fig. 7 (p. 19), animal-powered mills are often compared to motor mills.
+In fact, motor mills have the advantage over animal-powered mills, that they apparently ,,automatically" produce flour of almost any fineness. Animal-powered mills, on their part, have a relatively low grinding capacity, require a certain degree of coordination among the users, require a draft animal, which must be harnessed and unharnessed, and produce a more inhomogeneous flour. Although the flour quality certainly corresponds to that achieved by traditional methods, and although the time consumption, including the travelling and waiting times, necessary for the use of the animal-powered mill is not higher than in the case of the motor mill, the motor mill is often regarded as the "more progressive" solution.
+This is a problem particularly in those regions, where the motor mill is known by mere report, but not by own experience. When the population has already gathered experience in terms of maintenance problems and costs caused by a motor mill, it is much easier to explain the advantages of the animal-powered mill.
+When selecting the locations for animal powered mills, care must be taken that the number of persons to be equipped with this milling facility does not become too big, because this may lead to disputes about the right to use the mill. If necessary, several mills must be installed in one village.
+The women should pay an adequate price for the use of the mill, which allows them to finance the maintenance and repair works themselves, and to replace the mill after expiry of the estimated useful life. It would probably be best if the women paid this grinding price in the form of a monthly contribution to a common fund, other types of organisation are also conceivable.
+Annex 3 (p. 65) lists comparative figures for the determination of the necessary grinding price.
+Investigation and counseling steps
+examine prior experience with motor mills
+establish a public image on the question ,,motor or animal-powered mill,,, with particular regard to influential persons (chiefs, missionaries, etc.)
+examine and point out the economy and easy maintenance of the animal powered mill in comparison with the motor mill in the respective context
+examine and compare the time consumption required for the use of animal-powered and motor mills
+determine the potential user circle
+determine the required grinding price
+give organisatorial counseling with respect to the payment of the grinding price
+<section>5. Organisation Models</section>
+In most existing locations, the animal-powered mills are owned collectively by women's groups. In Senegal, the groups elected two women, who are responsible for monitoring the operation, and a mechanic for servicing the device. In Burkina Faso, control mostly lies with "mill committees", with equal representation of men and women.
+The grinding price is usually paid in the form of a weekly or monthly contribution to a common fund. As a rule, all members of the women's group, or all women who have shared the costs of the installation, have access to the mill.
+In most cases every woman uses her own donkey, or that of her family, as draft animal. If the men do not accept this, or if other organisatorial problems occur, the women's group can also purchase several draft' animals (at least two), which are exclusively used to drive the power gear. In this case a person must be appointed who is responsible for the care for the animals.
+The women's group should not be big, and its members should possibly live in the same neighbourhood in order to facilitate the coordination of the mill use.
+Other types of organisation are conceivable as an alternative. For example, the women could hire a miller, who would be responsible for all questions concerning the mill operation, maintenance and care for the animals. This model has the advantage of clear responsibilities and optimum mill operation, which would certainly have effects on the flour quality and the grinding output. On the other hand, the grinding price would increase' knowledge would be monopolized, and the women would become dependent on the miller.
+Another conceivable model would be the commercial operation of the mill by a private miller. In this case it is doubtful, however, whether an animal-powered mill could satisfy the profit expectations of a private entrepreneur. Such a model would also have the above-mentioned advantages, but would totally cut off the women from flour production.
+Because of profitability reasons, the last two models can be realized, if at all, only if oxen are used as draft animals, since the miller's income can be achieved only by a higher flour output.
+Investigation and counseling steps
+examine in how far women's groups already exist, which organisation structures they have
+judge the dynamics and readiness for innovations
+find out the responsibilities within the group - overall responsibility - organisation of the fund
+- maintenance of the power gear - if necessary, care for the draft animal
+determine the organisation of the mill use - which draft animals are used - who may grind when
+<section>6. Organisation of the Project Implementation and Counseling of the Target Groups</section>
+The network of problems in the different fields, which are inherent in the first implementation of animal-powered mills requires an implementation strategy which allows to disentangle the problems.
+It has turned out to be useful if first a trial and demonstration programme is performed in a technological centre, a demonstration farm or similar. The centre should be situated in a place where demonstrations for interested farmers and peasant women can be held. Local projects and organisations, which are likely to be the future executing organisations of the project, should be integrated at an early stage into the trial and demonstration programme.
+These organisations may include rural development projects, women's projects, projects working in the field of animal power or projects active in the branch of food processing.
+The trial and demonstration programme has four objectives:
+- to create interest for the use of animal powered mills among the rural population,
+- to adapt the milling power gear to local requirements (in particular to the flour quality desired in the respective region),
+- to evaluate the chances of the power gear to be accepted in the village,
+- to judge the local executing organisations.
+Good experience was made with the installation of a first demonstration mill on the premises of particularly innovative private individuals, e.g. the family of the craftsman together with whom the power gear was built.
+The demonstration programme should particularly be aimed at the inhabitants of those villages, in which the animal-powered mill can probably be installed in a further step.
+The following criteria should be applied when selecting the villages in which such a pilot project could be installed:
+- adequate size of the village;
+- there are no functioning motor mills, or they are not used by the population;
+- population is ready for innovations;
+- functioning women's groups;
+- readiness to participate in the installation of the mill financially and by means of work.
+The financial participation of the village population should be proportionate to the relatively high risk they run by testing a widely unknown technology. In Senegal and Burkina Faso, the villages normally contribute 10-20 % of the installation costs. In many cases the foundations and the circular wall are built by the villages by self-construction.
+Within the framework of a pilot programme, animal-powered mills may be installed in villages only when it is foreseeable that the flour is accepted by the population, and that the users are able to organise the operation of the animal-powered mill.
+During the pilot programme the villages need intensive support of a counseling team.
+The team should include at least a technician, a craftsman and a female village counselor. The latter two should be local staff.
+In particular the counselor must be familiar with the culture and the way of living of the women in the villages (especially their cooking and food habits) and understand their language - in the double sense of the word.
+She will have the following training and counseling duties
+- to train the women for handling the draft animals
+- counseling with respect to possibly necessary changes in the working rhythm and the organisation of the mill use
+- counseling regarding the food preparation, taste tests, cooking tests, experiments with different fermentation times and flour finenesses
+- technical training: handling and maintenance of the machine
+The craftsman will also be responsible for technical counseling, if this is not realised by the counselor, and for training the maintenance staff, insofar as men are concerned.
+The technician should solve difficult technical problems.
+Investigation and counseling steps
+identification of a suitable location for a trial and demonstration programme
+identification of potential executing agencies
+performance of demonstrations for village inhabitants
+selection of suitable villages for a pilot programme
+selection and training of counseling staff
+working and organisation scheme for the counseling activities
+- responsibilities
+- investigations to be performed
+- time schedule
+- reporting
+<section>Part II: Construction of the Animal-Powered Mill</section>
+<section>1. Preface</section>
+The second part of this guide is intended for the technically proficient reader who considers the animal-powered mill a practicable alternative to both manual labor and motor-driven mills in his field of activities, and who wants to test, construct and possibly propagate it. This construction guide should not be used as a conventional manual. We take the view that instructions which precisely dictate the arrangement, dimensions and materials to the reader are not in line with the concept of appropriate technology. Moreover, they make it impossible for the reader and his co-workers to contribute their own ideas and experiences and thus help to improve the device. The development of the animal-powered mill is yet to be completed. There remains a lot of work to be done before the animal-powered mill, including all its components, can be constructed in countries which are short in material supplies, and before it fully satisfies the needs of its users. We would like to invite
+the readers of this guide to help us with this work. We do not intend to offer universal solutions but rather construction examples. The main emphasis will be put on the explanation of the reasons why we opted for certain solutions, why other solutions turned out to be less suitable, and why some components involve specific problems.
+This guide is not designed to take away the role of the reader in constructing his own animal-powered mill. On the contrary' it is our prime intention to give the reader an incentive to think over his own needs and then design his own adaptations to specific problems of application. Another purpose of this guide is to help the reader avoid experiencing difficulties which others have already encountered.
+<section>2. How Efficient is a Draft Animal and how much Power is Required for Driving a Mill?</section>
+Table I surveys the performance of different draft animals. In view of the fact that the average performance of draft animals can be compared with the efficiency of electric kitchen appliances, it may seem hardly understandable that the mastery of the animal tractive power can pose actual problems for the mechanical engineer. It is, however, necessary to bear in mind that the maximum tractive power of the animals, which can be maintained for a very limited time, can be ten times the normal optimum level. Although their maximum performance is relatively low, they can develop enormous tractive power because they move very slowly.
+The dimensioning of the driving gear of the power gear depends on the maximum torque the draft animal can exert on the power gear. If the machine of a traditional toothed power gear without predetermined breaking points blocks, when driven by an ox of 500 kg, the maximum torque would be approximately 15 000 Nm, thus corresponding to 15 times the maximum motor torque of a Peugeot 504 Diesel.
+For this reason it is necessary to limit the torque that can act upon the power gear by means of predetermined breaking points as e.g. shearing pins or by means of torque limiters such as belt drives or frictional wheels.
+On the other hand, the machine - in this case the grinding unit - must be designed for the average performance of draft animals i.e. for 200 to 500 W because it has to be operated for several hours a day.
+In spite of the low efficiency, the daily continuous - operation requires a solid construction of the grinding unit. During the initial stages of the project, relatively small grinding units were used which had been designed for the actuation by means of small motors (3 to 5 cont.hp.) The power required for driving these mills was reduced by operating them with a lower number of revolutions (60 to 150 rpm) than originally planned (400 to 600 rpm).
+Tab. 1: Tractive power of different draft animals in developing countries
+Animal
+Average weight of animal (kg)
+Approx. draft (continuous) (kg)
+Average speed (m/s)
+Power developed (W)
+Light horse
+Bullock
+Buffalo
+Cow
+Mule
+Donkey
+At the same time, however, the development of a grinding unit adapted to the power gear began; a grinding unit which, moreover, could be constructed by local craftsmen.
+The construction is determined by the power to be transmitted and by the ratio of transmission. For the time being, these parameters can only be calculated roughly. Their actual values differ very much from region to region depending on the condition of the draft animals, the cereals, and the desired fineness of the flour. When a power gear is tested in a certain region for the first time it is always likely that further modifications will be necessary after the installation.
+The power to be transmitted corresponds to the average performance of the draft animals available in the respective region (see Table 1).
+Experience shows that the required speed of the mill varies between 60 and 150 rpm. For donkeys, a lower value can be assessed, for oxen a higher one, and for horses a medium value.
+<section>3. The Frictional Wheel -Principle of the Animal-Powered Mill</section>
+At first sight the technician might consider a number of solutions more appropriate than the somewhat unconventional construction principle of the animal-powered mill (for a more detailed description see Chapter 3.1 of the first part of this guide). Toothed power gears, rope power gears, chain power gears (Fig. 1-3) are only a few of the numerous constructions known in the history of technology.
+All the solutions have two things in common:
+- due to the high torque exerted by the animals the machine parts of the first gear stage have to be extremely large and are therefore expensive.
+- the gearing has to be connected by means of underground shafts and cardan joints.
+Fig. 1: A 19th century German toothed power gear
+Fig. 2: A rope power gear patented in Germany in 1882
+Since high-quality and expensive machine parts must be used, small farmers in Third World countries cannot afford these animal-powered mills. Today, a power gear like the one shown in Fig. I would cost as much as a small car. We take the view that a modern-day comeback of traditional animal powered mills as shown for instance in Fig. I will only make sense if they are already used widely in the respective area, and if the stone required for the grinding unit and the necessary know-how for the production of the stones are available locally. Even in this case it is doubtful whether such a mill would be cheaper than a mill with small, high- speed grinding stones and a gearing.
+In comparison with conventional power gears, the principle of the "runner wheel power gear" has the following main technical advantages:
+- for the often problematic first gear stage of the power gear, a concrete path that can be easily constructed locally and a universally available car wheel are used
+- since the grinding unit runs round in a circle with the animal, long subterranean shafts and cardan joints can be dispensed with
+- the frictional wheel principle effectively protects the power gear as well as the machine against
+overload.
+<section>4. The Idea and its Realization</section>
+Before going into technical details, we want to give the reader a first insight into the construction of the animal powered mill and its specific problems by presenting the "ancestral portrait gallery" of the power gear.
+The idea in the history of technology
+in technical cooperation
+Further development
+<section>5. Functional Structure of the Animal-Powered Mill</section>
+In order to tackle the construction in a structured manner, a number of conditions must be established. These conditions must be considered when dividing the overall function into several partial functions which are then assigned functional units (Fig. 12, p. 34). Most of the conditions were already defined in the previous chapters.
+The precondition that the animal goes round in a circle might be considered banal. One could, however, conceive a device whose wheel runs on a straight path (i.e. a kind of cart whose wheels drive the mill). The most important advantage of the circular movement is that the animal moves almost without guidance once it gets used to it. Another advantage of the circular movement is that there is no loss of time because the animals must not turn round as is the case with a straight path.
+Before a functional principle can be established, first decisions with regard to the basic construction of the individual functional units must be made:
+Drive mechanism: The car wheel which runs along on a circular path is the heart of the drive mechanism. The transmission obtained in this way is, however, not sufficient for driving the mill. A second transmission by means of a chain, a belt drive, or similar' is essential. The wheel is connected to the second gear stage by a shaft.
+Central axle, frame: The wheel must be guided in a circle. For this purpose the drive unit is connected to a bearing unit at the central point of the path by means of a frame, or similar.
+Grinding unit: A high-speed, small-size mill with a grinding mechanism made of stone disks, similar to the one used with small-power motors, serves as a grinding unit.
+The combination of these functional units results in the functional principle shown in Fig. 11.
+<section>6. Construction of the Functional Units</section>
+6.1 Harnessing
+6.2 The path
+6.3 The drive unit
+6.4 The frame
+6.5 The central axle
+6.6 The grinding unit
+6.7 Protection devices
+6.1 Harnessing
+The harnessing is designed to transmit the tractive power of the animal with the least possible loss to the power gear. The slightest loss is attained when the power transmission is
+- as tangential as possible and
+- as horizontal as possible.
+Tangential power transmission
+It is easier for the draft animal to move along a circular track if the front and hind legs move on the same radius.
+Therefore, power transmission will always be subject to losses of power when transmitted to the power gear behind the animal, since in this case power transmission at a right angle is impossible (Fig. 14).
+For this reason it is advisable to transmit the force to the power gear between the front and hind legs of the animal (Fig. 15)
+Horizontal power transmission
+When a draft animal draws a load under a vertical angle, this load can be divided into a horizontal tractive load component and a vertical carrying load component (Fig. 16). When the power gear is in operation the carrying load component results in a loss in efficiency. After all, the draft animal is supposed to pull the power gear and not to lift it. The ideal solution would be to harness the draft animal horizontally to the power gear by means of a pull rope or a pull chain. This is only possible with horses and donkeys, because these animals draw mainly with their breasts and shoulders, whereas oxen and cows draw with their necks. For pressing the yoke onto the necks of the cows a slightly angular guide of the pull rope or the pull chain is required. With regard to the size of the angle no definite statement can be made. It should, however, be as wide as necessary and as small as possible.
+Construction examples
+Most of the power gears that have been constructed so far have a semi-circular harnessing consisting of two curved pipes (Fig. 17).
+The two pipes are welded together in such a way that from above they look like a trapezoid.
+On the outer side of the semi-circular harness there are hooks at various heights to which the animal's outer pull chain can be fastened.
+It is advisable to construct the harnessing in such a way that it can be removed after use of the mill. This construction helps to prevent children playing with the mill and furthermore makes its unauthorized use impossible. For example, the semi-circular harness may be inserted into two pipes that are welded to the frame. In this case limit stops must be provided for at the two inner pipes.
+It must be decided from case to case whether such a relatively costly harness should be used or whether the disadvantages of a more simple harness, as shown in Fig. 10, p. 32, can be accepted for the sake of cost saving.
+Dimensioning proposal
+Harness:
+pipe d = 40 mm, s = 3 mm
+Harnessing hooks:
+round steel d = 10 - 12 mm
+Limit stops: round steel
+d = 10-12 mm
+Fastening of the harness to the framepipe
+d = 50 mm, s = 3 mrn
+- The height of the semi-circular harness depends on the height of the wall, the diameter of the wheel and the height of the draft animals.
+- The width of the semi-circular harness depends on the breadth of the draft animals.
+Construction tips
+- To bend the pipes, they are first filled with sand, then heated and finally curved.
+6.2 The path
+The main function of the path is to ensure a good power transmission between the ground and the car wheel. Concrete has proved to be a good material for this purpose, since the coefficient of friction between concrete and the car wheel is between 0.85 and 1. For two reasons the path should be slightly raised:
+- to prevent the path from filling with sand and dirt
+- to facilitate a horizontal power transmission
+If possible, the power should be transmitted at the height of the contact surface of the wheel and the path. Otherwise the torque acting upon the frame could result in a major distortion of the frame.
+The height of the path is limited by its costs. The paths of most animal powered mills constructed so far consist of ringshaped walls made of two rows of concrete blocks. This corresponds to a height of 40 to 50 cm. Attempts have been made to cast the entire wall in one concrete block. The construction of the shuttering, however, turned out to be much more costly and time-consuming than the construction of the path walls.
+The capacity of resistance to wear of conventional concrete blocks is not sufficient to resist the continual stress caused by the circulating wheel. Therefore, the wall must be reinforced by a more solid concrete covering of 5 - 10 cm thickness which must contain more cement and be mixed with small laterite stones. The laterite stones help considerably to reduce abrasion. Moreover, the covering should be fortified with concrete reinforcing round steel.
+The construction of the wall is difficult because
+a) it has to be almost perfectly round
+b) it has to be almost perfectly level
+Dimensioning proposal
+Average diameter of the path:
+6 m
+(see also Chapter 6.3)
+Width of the path:
+at least 25 cm
+Height of the path (from ground).
+40 - 50 cm
+Height of the foundation:
+5cm
+Height of the covering:
+5cm
+Ratio of components:
+foundation: 150 kg/m³
+concrete blocks: 110 kg/m³
+covering: 350 kg/m³
+Construction tips
+- Before beginning with the construction, the central point of the ring should be marked with the help of a concrete reinforcing round steel of 1 m length. A rope which should be as inflexible as possible serves as a compass. The excavation required for the foundation is drawn on the ground with the help of the compass. Later, the rope compass is used for controlling the position of the concrete blocks.
+- A level foundation of the wall is obtained by driving a concrete reinforcing round steel into the ground to be excavated at its highest point. 5 cm of the reinforcing round steel must jut out of the ground. Further reinforcing bars must now be driven into the ground at 1 m intervals. Each reinforcing bar has to be adjusted to the previous one with the help of a water balance. The concrete for the foundation is then filled up to the very top of the concrete reinforcing round steel.
+- An easily removable shuttering for the concrete covering can be produced with plywood strips 5 - 8 mm thick and 20 cm wide. The plywood strips are pressed against the wall from the inside as well as from the outside by means of simple clamps (consisting of concrete reinforcing round steel of 12 - 14 mm thickness. The covering should, however, not be higher than 5 - 8 cm, because otherwise the shuttering could collapse (Fig. 19).
+Potential problems
+The concrete path is one of the most expensive component parts of the animal powered mill.
+A reliable but cheaper solution could certainly be considered as a major contribution to making the device more economical.
+6.3 The drive unit
+The drive unit is designed to transmit the force required for driving the mill from the draft animal to the mill and at the same time increase the "number of revolutions" of the draft animal.
+The drive mechanism consists of the following components - a car wheel - a second gear stage (chain, belt drive, etc.) - a shaft - bearings
+The car wheel
+The force that can be transmitted by the car wheel depends on the coefficient friction between path and wheel and on the load on the wheel. The maximum peripheral force which can be transmitted by the wheel is
+F max = µ x Fg
+Fg: weight
+µ: coefficient of friction
+(for rubber tires running on concrete µ is 0.85 - 1. On a dry path a higher coefficient of friction can be achieved with bald tires than with new ones).
+The maximum power that can be transmitted is
+Pmax =µ x Fg x d x pi x n/60 x e
+e= efficiency of the power transmission
+d = diameter of the wheel (m)
+n = revolutions of the wheel (1/min)
+Fg = weight (N)
+Losses occur in the first gear stage. Primarily, these losses are a result of boring friction and rolling resistance.
+Boring friction occurs when a cylindrical body (an automobile tire is a cylindrical body) runs on a circular path. In principle, the tire has the tendency to run straight ahead. When forced to move on a circular path the tire runs too slowly on the outer radius of the circular path and too fast on the inner radius. This relative motion is the reason for increased wear and power loss.
+The wider the tire becomes in relation to the path, the higher the boring friction. The diameter of the path should therefore be as large as possible, whereas the width of the tires should be as small as possible.
+The rolling resistance is a result of the elastic deformation of the tires and of the path. For a car wheel loaded with 200 kg which has the proper tire pressure, the rolling resistance is 30 - 40 N (3-4 kg). By increasing the tire pressure the rolling resistance can be reduced.
+Dimensioning proposal
+Size of tire 155 - 13. These tires can be obtained almost everywhere. Their outside diameter is approximately 60 cm. A transmission ratio of 1:10 can be achieved with a path diameter of approximately 6 m.
+The second gear stage
+Assuming that
+- a transmission ratio of 1:10 is achieved in the first gear stage,
+- the draft animal walks 2-3 rounds per minute,
+- a speed of 60 - 140 rpm is required to drive the mill, a transmission ratio of 1:3 - 1:7 is needed in the second gear stage.
+The structural components of the second gear stage should not demand a very precise mounting. Taking this into account
+- a roller chain gearing - a V-belt drive gearing - a flat belt drive gearing - or a friction gear in which the car wheel serves as a driving pulley (see also p. 32, Fig. 10) could be used.
+Dimensioning examples:
+The power to be transmitted should on average be 1 kW, the transmission ratio 1:5, and the speed of the driving gear should be 20 rpm.
+Chain drive:
+chain:
+10 B. 5/8"
+wheel:
+76 teeth
+d = 391 mm
+pinion:
+15 teeth
+d = 83 mm
+Flat belt drive:
+driving disk:
+d = 500 mm
+driven disk:
+d = 100 mm
+leather belt:
+belt width approx.200 mm, thickness of belt: 3 mm
+synthetic belt:
+belt width approx. 60 mm, thickness of belt: 1.4 mm
+V-belt drive:
+driving disk:
+500 mm
+driven disk:
+100 mm standard V-belt: width 17 mm
+Due to the large belt width which would otherwise be necessary, a flat belt drive can only be used if high-quality belts are available. With narrow axle bases and a vertical installation, the required high initial tension of the belt causes problems. The most important advantage of flat belt drives is the fact that the pulleys can be produced locally. To prevent wear of the belt the bearing surface of at least one pulley must have a crowned surface.
+The biggest disadvantage of V-belts is the high price of the pulleys, which can hardly be produced locally (the lathe must have a turning diameter of 500 mm!). The required V-belts are difficult to obtain in developing countries.
+Roller chains can be bought in almost all developing countries. Even though the chain wheels can only be produced by extremely gifted craftsmen or with the help of expensive machine tools, they are cheaper than industrially manufactured V-belts or flat belt pulleys.
+The length of the chain can easily be varied by removing or adding chain links. Tensioning devices are unnecessary.
+For these reasons chain drives were used for the second gear stage of all animal powered mills that have been installed so far.
+Dimensioning proposal
+Roller chain 10 B 5/8", wheel 76 teeth If it is the first installation in a region, it is advisable to keep a number of pinions ready (13, 17, 21, 25 teeth), for adapting the transmission to the performance of the draft animals and to the required flour fineness.
+Bearings and shafts
+Fig. 21 shows appropriate and less appropriate arrangements of the wheel, the bearings and the chain wheel.
+The shaft must be capable of resisting and/or transmitting the following forces and torques:
+- the weight of the frame
+- the longitudinal force of the tires - the chain and/or belt forces
+- the torque necessary for driving the mill
+The shaft material of most of the so far installed animal powered mills was bright drawn round steel with a diameter of 40 mm. Bright drawn material fits if it has a slightly smaller dimension than specified (h 11 - h 8). It need not be turned to size, but it is quite expensive.
+The necessity of using bright drawn shafts is primarily a consequence of the use of ball bearings for the animal powered mills already installed.
+In most cases Y-bearing units have been used so far, They have a crowned outer ring and can, if necessary, be adjusted in the bearing housing for compensating alignment errors.
+The inner ring has an eccentric ring, headless pins or an adapter sleeve which serves for pressing the bearing to the shaft. Self-aligning ball bearings are also available with such mounting devices.
+A conventional round steel shaft can of course be used, provided that a lathe for turning is available.
+In this case ordinary deep groove ball bearings can also be used (press fit indispensable). With deep groove ball bearings a more rapid wear must be accepted in the case of alignment errors.
+Potential problems
+The rolling bearings account for a relatively high share of the total costs of the device. We favored this solution because we wanted to ensure a high reliability and a high efficiency of the power gear in the introductory phase. It should be considered whether lower costs would possibly justify a less complicated bearing construction and a lower efficiency. The use of wood bearings might, for instance, be an alternative. Wood bearings (Fig. 22) made of hardwood could easily be produced locally. In order to increase the wear resistance, the wood bearings should be soaked in hot oil for 24 hours.
+Installation of the drive unit
+The easiest way of installing the chain wheel on the shaft is to install it by means of a headless pin (M 8 or larger). The necessary boring inside the shaft should fit precisely because otherwise it will widen very soon. The car wheel is best mounted on the hub of a donkey or ox cart and should be fastened to the shaft with a bolt. In case there is no hub, it can be constructed by using sheet steel and a suitable pipe (Fig. 23). The drive unit and the bearings are fastened to two crossheads of the frame (Fig. 28).
+6.4 The frame
+The frame has several functions:
+- to fasten the drive unit, the grinding unit and the harnessing
+- to carry the seat for the user, so that the user need not go round in a circle behind the power gear
+- to connect the wheel and the central axle so that the central axle can keep the wheel on its circular path.
+The frame must resist a vertical bending moment which is primarily produced by the weight of the user. A horizontal bending moment results from the tractive power of the animal which must be supported by the central axle. It is, however, the torsional moment that acts upon the with latticework reinforcement frame via the lever arm of the frame (Fig. 25) which is of crucial importance for the considerations regarding the stability of the frame.
+For this reason the torsional resistance of the frame must be as high as possible.
+Construction examples
+Channel steel frame with latticework reinforcement
+The frame of the first animal powered mills was made of channel steel. Since channel steel has a relatively low section modulus of torsion, the frame was rein forced by a latticework construction (Fig. 26)
+Frame made from pipes
+Later, water pipes were used for the frame construction. Due to the higher polar section modulus of pipes in comparison with channel steel, the latticework construction could be dispensed with (Fig. 27). The water pipes can be replaced by a square tube of a similar dimension. In this way the drive unit, the grinding unit etc. can be mounted even more easily.
+In the final analysis, however, the choice of the materials will be determined by their costs.
+Arrangement of the grinding unit, the drive unit, the seat and the holding device for the calabash (Fig. 28)
+The height of the table on which the grinding unit is mounted depends primarily on the required axle base between the two chain wheels. The axle base should be at least 400 mm.
+The table should be very rigid' because the grinding unit must not vibrate under the influence of the chain forces. Of particular importance is the reinforcement of the table around the mounting holes for the grinding unit. The table is only necessary if a separately bought grinding unit is used. If the grinding unit is produced locally, the table can be integrated into the grinding unit. It should be made sure that the crossheads for mounting the drive unit are connected as securely as possible to the frame. The arrangement of the seat and of the holding device for the calabash should be determined by ergonomic considerations.
+Dimensioning proposal
+Frame:
+-pipe (round) 60 x 3 or 48 x 4
+-square tube 50 x 4
+-channel steel U 60 x 6
+Latticework reinforcement: round steel (concrete reinforcing round steel) 12 mm Holding device for the calabash: round steel (concrete reinforcing round steel) 10 or 12 mm
+Crossheads for mounting the bearings: channel steel U 60 x 6
+Table for mounting the grinding unit: angle steel L 40 x 3, sheet metal 3 mm
+Seat. angle steel L 40 x 3, sheet metal 2 mm
+6.5 The central axle
+In order to guide the wheel precisely' the axle must be exactly central and must be absolutely vertical.
+Foundation
+The central axle must be connected to a concrete foundation in the center of the concrete path.
+Dimensioning proposal
+For saving concrete, a cross-shaped construction of the foundation has proved to be advantageous. The dimensions are shown in Fig. 30. Ratio of mixture: 200 kg/m³. The foundation should be fortified by concrete reinforcing round steel.
+Construction tip
+It has turned out to be difficult to embed the bolts for the attachment of the central axle in the foundation in such an exact manner that they are all level with the mounting holes in the central axle.
+It is therefore advisable to reserve holes for subsequent filling out. At the bottom of these holes rod irons are anchored in the concrete. These holes can be produced with the help of tins, polystyrene blocks or sand-filled plastic bags. Subsequently, the bolts with a hook at one end are hung in the rod irons (Fig. 30). In this way, the bolts have enough play for adjusting their position to the mounting holes in the central axle and thus make a precise alignment of the axle possible. It is advisable to complete the entire metal structure before completing the foundation. The height of the foundation can then be adjusted to the dimensions of the animal powered mill (Fig. 31).
+Metal construction
+The design of the central axle of the animal powered mills installed so far has often been- modified.
+The factors that determine the construction are
+- the rigidity of the construction (Considerable power peaks may occur. The resulting vibrations of the animal powered mill have a negative effect on the grinding process.)
+- saving of material (Due to the use of roller bearings - as in the case of the drive unit - expensive bright drawn shaft has up to now been used for the central axle. As a consequence, the axle must be as short as possible).
+Construction examples
+Fig. 32 shows several construction examples
+Dimensioning proposals
+Cross-shaped foundation: channel steel 60 x 6
+Axle: bright drawn shaft d = 40 mm
+Reinforcements: sheet metal 3 mm
+Attachment of the frame: channel steel 100 x 6
+Hub: channel steel 60 x 6 or pipe 80 x 5 and channel steel 80 x 6
+In order to compensate possible inaccuracies of the path and the central axle, the frame of the animal powered mills constructed so far was mounted to the central axle in a vertically flexible installation. Initially, wood bearings were used for this purpose. Practice has shown, however, that the excursions are so negligible that it is sufficient mount the frame direct on rubber plates or rubber strips (Fig. 33).
+Potential problems
+Up to now, rolling bearings have been used for the central axle and driving shaft. As to the possibility of replacing the rolling bearings with wood bearings, see also Chapter 5. Due to the lower forces and the lower speed of the central axle, it is less difficult to replace the rolling bearings by wood bearings in this case than in the case of the driving shaft. The bright drawn shaft can therefore be dispensed with. As regards the coupling of the frame to the central axle, it should be considered whether inaccuracies of the path could not be compensated by the elasticity of the frame and whether in this way a flexible fastening could be unnecessary.
+6.6 The grinding unit
+Initially, an industrially manufactured grinding unit of the French manufacturer Moulis was used for the animal powered mill. This device came off best in several tests even though it has a number of major deficiencies. For this reason and also for saving costs, the development of a grinding unit that can be constructed by African craftsmen began. The construction of a grinding unit requires, however, a great deal of experience and precision. A technician should therefore only undertake the construction of a grinding unit, if he has already had practical experience with the animal powered mill. For the first installation of an animal powered mill, we recommend the use of a Moulis grinding unit. Another possibility is to order via Gate a grinding unit constructed by one of the craftsmen who cooperate with the project. The Moulis grinding unit and the grinding unit built by craftsmen have the same functional principle. In the course of the development of the locally
+constructible grinding unit other construction principles were tried. Eventually it turned out that the traditional construction was the most appropriate one. It consists of one static and one rotating and axially adjustable grinding disk made of stone. The grain flows through a hole in the static grinding disk into the space between the disks. Due to the structure of the grinding stones, the grain moves on a spiral between the disks, leaving the grinding space at the outer side of the spiral as flour (Fig. 35).
+When driven by a power gear, the use of the Moulis mill poses the following problems:
+1. The case and the outlet opening are too small. Flour sticking to the inner walls of the case causes blockages that result in a reduction of the grinding capacity.
+2. The case is manufactured inaccurately. The supports of the grinding unit and of the shaft are not parallel. As a result, it is difficult to mount the shaft of the grinding unit and the shaft of the power gear so that they are parallel.
+3. The grinding disks are not parallel. As a consequence, the clearance between the grinding disks differs at least during the feeding phase.
+4. The cover of the case does not fit properly. Since the second bearing of the shaft is inside the cover, the shaft has too much play so that the clearance between the grinding disks changes continually.
+5. Inside the case cover, between the shaft and the adjusting screw, there are a small bearing and some other components which fall off whenever the cover is removed, e.g. for cleaning the grinding unit.
+One of the purposes of the construction of special grinding units for animal powered mills was to avoid such deficiencies. The construction of this grinding unit will be described later. First, however, we want to describe the installation of the Moulis grinding unit.
+Installation of the Moulis grinding unit
+At its feeding opening the Moulis grinding unit has a vibration mechanism which ensures a steady feeding of the grain. This mechanism is not only very fragile but also unnecessary when driven by a power gear, since the vibrations of the power gear are sufficient for guaranteeing a steady feeding. The vibration mechanism should therefore be dismantled. Once this has been done, the funnel provided for by the manufacturer, can no longer be installed. This does not matter because it is too small anyway. As a consequence, a new funnel must be constructed (see also Fig. 36).
+This funnel should be equipped with a watertight cover since grinding particles, which deteriorate as a result of humidity in the grinding unit, can have a negative impact on the quality of the freshly ground flour. The grinding unit is fastened to the grinding table by means of two screws. In order to achieve a parallel position of the mill shaft and the driving shaft, inaccuracies of the support of the grinding unit have to be compensated by welding sheet metals onto it. The table must have a hole at the outlet openings of the grinding unit. A pipe (which must not be too thin) or a sheet metal guide directs the flour into the calabash and prevents it being blown away by the wind.
+Construction of a locally constructible grinding unit
+Fig. 36 shows the design of the grinding unit. It is constructed in such a way that it can, in principle, be constructed by craftsmen with simple tools. The craftsmen should, however, be able to work with the utmost accuracy. A lathe is required for the construction of some of the components. For the construction of the grinding unit the following factors are of decisive importance.
+1. A parallel position of the two grinding disks
+It is quite obvious that an optimum grinding result will only be achieved if the clearance between the grinding disks does not differ at any point. The carrier disk of the rotating grinding stone must therefore be constructed with the help of a lathe. First, a disk (140 mm) consisting of 8 mm sheet metal is cut to size. A hole (40 mm) must be drilled in its middle.
+The disk is then welded onto a piece of shaft (40 mm). On the lathe the shaft is first drilled in the middle (25 mm) and, when this is done, the disk is faced. Since the static grinding disk is fastened to the case, the bearings (i.e. the bearing housings) must be welded to the housing with the shaft installed and the grinding disks pressed together. The two halves of the housing must fit precisely so that they cannot move.
+2. Rigidity of the housing
+In order to guarantee that the grinding disks are parallel at each stage of the grinding process, the housing must be resistant to torsion. For this reason it should be made of sheet metal of at least 6 mm thickness.
+3. Sufficient clearance between the grinding disks and the housing; large outlet openings
+The grinding disks have a diameter of 180 mm, the inside diameter of the housing of the locally constructible mill is 250 mm. The housing of the Moulis mill has a diameter of 210 mm. The Moulis mill has only a small outlet opening whereas the entire lower side of the locally constructible mill is left open in order to guarantee that the flour can flow off without difficulties.
+The grinding stones, the stone guard springs and the conveyor spiral (which also presses the grinding stones apart) are identical to those of the Moulis mill. The stone guard springs protect the grinding disks against stones and other hard objects that may be contained in the grain. Two valve springs of a Honda motorbike could also be used for this purpose. The friction bearing fastened to the housing cover is made of cast iron turned on a lathe. The second bearing is a deep groove ball bearing. The outer ring of the bearing is axially fixed inside a pipe which must be opened on a lathe. There is a fixed clearance fit between the shaft and the inner ring. For adjusting the grinding disks it is essential that the shaft can be moved axially within the inner ring of the bearing. This is necessary despite the fact that it also constitutes a disadvantage because the shaft moves on the inner ring and, as a consequence, wears out. The wear- which in practice is almost negligible -
+does not justify the considerably higher construction costs which a driving fit between the shaft and the bearing would imply.
+The shaft of the Moulis grinding unit is borne against the adjusting screw with a small thrust ball bearing. The disadvantages of this construction have been pointed out already.
+The bearing between the shaft and the adjusting screw of the locally constructible grinding unit only consists of one single bearing ball (d = 15 mm). The ball is held on the shaft by a sheet metal ring which is welded onto the shaft, and in which it can rotate.
+The part of the housing to which the static grinding disk is fastened is welded to a crosshead made of channel steel 60. The crosshead is fastened to the pipe frame by means of clips which can be made either of pipe or of square steel.
+6.7 Protection devices
+The protection devices (Fig. 38) serve primarily to prevent accidents which can happen e.g., when someone gets trapped between the wheel and the frame or gets with his hands or clothing caught in the chain. They are also designed to protect the chain against dirt and rain water.
+It is advisable to weld the protection devices to the frame. Experience has shown that dismountable protection devices are often not returned to their appropriate place after removal. Hinges allow access to the covered components.
+Dimensioning proposals
+Coverings:
+sheet metal 2 mm
+Hinges:
+flat steel 20 x 2, round steel: 8 mm
+Construction tips
+The flap of the hood should slightly underlap the static part in order to prevent rain water from seeping into the mill. For the same reason, seals made from the inner tube of a car wheel should be affixed to the edges of the flap.
+<section>7. Dear Reader...</section>
+This guide was not designed as a "construction manual". We know from experience that such manuals often cause trouble and annoyance because very often they do not explain why certain solutions are favored, because the recommended materials and tools are not available, or because passages can be misinterpreted. The latter cannot be avoided altogether, and we are sure that some readers will have the same problems; with this guide.
+Nevertheless we hope that our description of the construction is precise enough that you will be able to overcome the difficulties not mentioned. Although the power gear has proved its worth in practical operation, its construction can certainly be further improved.
+On request we will offer updated information if improvements are found to be effective in practical operation or if the power gear is used for new purposes (e.g. for driving rice hullers, oil presses, etc.).
+We will be very grateful for your critical remarks concerning this guide and will do our best to consider your comments and suggestions in further publications of this kind.
+In particular, we would like to ask you to keep us informed of your experience with the power gear and improvements which you have tested yourself; and we would also appreciate accounts of failures and problems. They will help others to learn from your experience.
+<section>Annex</section>
+<section>1. Technical foundations for the evaluation of animal-powered mills</section>
+Output
+The theoretical and the actual output of animal-powered mills are not identical. The calculation of the theoretical output is based on the assumption of a continuous, constant and faultless operation of the mill, whereas the actual output is usually lower because of interruptions in work, set-up times, fatigue of the animals etc.
+The theoretical output is determined by grinding a small amount of grains (1-2 kg), timing the grinding process and calculating the value for one hour. The determination of the actual output should be based on monitoring the work for several days. Then the daily flour quantity must be related to the daily working time.
+The employment of "bicycle computers" as measuring instruments has proved successful.
+They store the total of wheel revolutions and the time during which the mill actually works.
+This method is helpful not only for the precise determination of the theoretical output, but also for the identification of frequent disturbances, rapid fatigue of the animal, bad organisation of work etc., if the daily working time and flour quantity are recorded, too.
+(2) Particle-size distribution curve of a flour suitable for the preparation of couscous, according to the same housewife.
+Flour quality
+The decisive criterion for the evaluation of the flour quality is the fineness It can be described by means of a flour particle size distribution curve, which is determined by sieving the individual fractions using sieves with mesh widths 1.4 mm, 0.8 mm, 0.4 mm and 0.2 mm. With the help of the particle-size distribution curve the homogeneity of the flour can be determined (Figs. I, 2). The particle-size distribution curve of the flour produced with the help of the animal-powered mill should be similar to that produced traditionally in the respective region.
+The numerical value of the flour fineness is usually given as the average size of the flour particles and the deviation of particles from this average size. However' this method does not give any information as to the power required for the production of a certain flour type.
+This information can be obtained using the formula developed by the Institut Technologique Dello for the calculation of a fineness index. It is based on the hypothesis that the power required for grinding is in proportion to the enlargement of the surface resulting from grinding. The enlargement of the surface' on its part, is in proportion to the reduction of the diameter. This results in the following fineness index for millet:
+Imillet = d1/d1 x P1 + d1/d2 x P2 + d1/d3 x P3 + d1/d4 x P4 + d1/d5 x P5 - 100
+d is the average diameter of the particles of the respective fraction. d1 is the average diameter of the unground millet.
+Furthermore, the following applies:
+P1: portion (%) of the particles :> 1.4 mm
+P2: portion (%) of the particles < 1.4 mm, > 0.8 mm
+P3: portion (%) of the particles < 0.8 mm, > 0.4 mm
+P4: portion (%) of the particles < 0.4 mm, > 0.2 mm
+P5: portion (%) of the particles < 0.2 mm
+If d1 = 1.5 mm hence it follows
+I[millet] = 1 P1 + 1.36 P2 + 2.5 P3 + 5 P4 + 15 P5- 100
+For Sorghum and maize bigger sieves should be used additionally.
+For Sorghum (d, = 3 mm) the following holds
+I[sorghum] = 1 P1 + 1.43 P2 + 2.73 P3 + 5 P4 + 10 P5 + 30 P6 - 100
+with P1: portion (%) of the particles > 2.8 mm,
+P2 - P6 corresponds to P1 - P5 for millet, with
+P2> 1.4 mm < 2.8 mm
+For maize (d1 = 6 mm) the following holds
+I[maize] = 1 P1 + 1.43 P2 + 2.86 P3 + 5.46 P4 + 10 P5 + 20 P6 + 60 P7- 100
+with P1: portion (%) of particles > 5.6 mm
+P2: portion (%) of particles > 2.8 mm
+P3 - P7 corresponds to P1 - P5 for millet
+<section>2. Curriculum for project implementation</section>
+Phase
+Field of problems
+Investigation and counseling tasks
+Participants
+Feasibility study
+Organisation of the use of the power gear
+- examine in how far women's groups already exist and which organisation structures they have
+women, rural population, women's projects
+- judge the dynamics and readiness for innovations
+- examine the traditional organisation of work
+- determine the potential user circle
+Acceptance/ economy
+- examine prior experience with motor mills
+women, rural population, notabilities, administration, political decision makers, projects in the field of food technology
+- establish a public image on the question"motor or animal powered mill" with particular regard to influential persons (chiefs, missionaries, etc.)
+- examine in how far resistance on the part of the men and women against the use of draft animals by women is to be expected
+- determine the necessary processing capacity and the processing peaks which must be covered by the capacity of the mill
+Draft animals
+- register available draft animals, find out disposing powers
+rural population, veterinary medical services, projects in the field of animal power craftsmen, projects for trade promotion
+- examine the feeding condition of the animals
+Production
+- examine whether local craftsmen would be able to produce power gears
+Preparation of the demonstration phase
+Executing agency
+- identification of a suitable location for a test and demonstration programme
+projects and organisations in the field of
+- identification of potential executing agencies
+- animal power
+- women
+- appropriate technology
+- promotion of artisans
+- rural development
+- food technology
+Draft animals
+- select the draft animals with respect to the factors
+- rural population
+- disposability - care capacity
+- projects in the field of animal power
+- disposing power - basis of feeding
+- veterinary medical
+- costs services
+Production
+- selection of a suitable craft workshop promotion projects
+- craftsmen, trade
+Demonstration phase
+Acceptance/ economy
+- examine and compare the time consumption required for the use of animal powered and motor mills
+executing agency, craftsmen,
+- determine the output of the animal powered mill, compare with already tested animal powered mills
+women, rural population, projects in the field of food technology
+- examine and point out the economy and easy maintenance of the animal powered mill in comparison with the motor mill in the respective context
+- evaluate the quality of the flour produced by t raditional procedures regarding
+- fineness - hardness
+- homogenity - colour
+- humidity
+- trials with the animal powered mill:
+- adjustment of the millstones
+- drying of grains
+- sieving of flour
+- evaluate the test results, identify deficiencies
+and problems in the field of technology and
+organisation of work; if necessary, technical and organisatorial alterations.
+- perform demonstrations for the rural population
+- food test with consumers, until a satisfactory flour quality is reached
+Organisation of the use of the animal powered mill
+- examine in how far women's groups already exist, which organisation structures they have
+women, rural population,
+- judge the dynamics and readiness for innovations
+executing agency, women's projects
+Production trade promotion projects
+- craftsman training "on the job"
+executing agency, craftsmen,
+Preparation of the pilot programme
+- selection of suitable villages for a pilot programme
+executing agency, rural population, rural development projects
+Pilot programme.
+Executing agency
+- selection and training of counseling staff village counselor, women's
+executing agency, craftsmen,
+- work and organisation scheme for the counseling activities
+projects, trade promotion
+- responsibilities
+projects, projects in the field
+- investigations to be performed
+of food technology
+- time schedule
+- reporting
+Draft animals
+- training of the future mill users in handling the draft animals
+executing agency, women, village counselor, rural population, projects in the field of "animal power", veterinary medical services
+- counseling with regard to feeding of and care for the animals, training of care staff
+Organisation of the mill use
+- find out the responsibilities within the group
+executing agency, rural women's groups, village counselor
+- overall responsibility
+- organisation of the fund
+- maintenance of the power gear
+- if necessary, care for the draft animals
+- determine the organisation of the mill use
+- which draft animals are used?
+- who may grind when?
+Acceptance/ economy
+- evaluate the quality of the flour produced by traditional procedures regarding
+executing agency, women, village counselor, craftsmen, projects in the field of food technology
+- fineness - hardness
+- homogenity - colour
+- humidity
+- trials with the animal powered mill:
+- adjustment of the millstones
+- drying of grains
+- sieving of flour
+- examine and compare the time consumption required for the use of animal powered and motor mills
+Production/ maintenance
+- continuous counseling and assistance for the craftsman
+executing agency, craftsman, trade promotion projects
+- training of maintenance staff in the village
+<section>3. Comparison of the economic efficiency of animal-powered mills and motor mills (100 FCFA <= 0.33 $ US)</section>
+Animal powered mill (25 families).
+Motor mill
+(50 families)
+(100 families)
+(200 families)
+1.General data
+pilot lot
+improved model
+(25 families)
+1.1 Investment costs ($US)^1
+- mill
+- building
+1.2 Working hours (h/d) 8
+(d/a) 300
+(h/a) 2400
+1.3 Output (kg/h)²
+Output (kg/d)
+Output (kg/a)
+1.4 Fuel/oil ($US/h)^3
+1.5 Useful life (h)^4
+Write off time (a)
+2. Annual costs
+2.1 Writeoffs ($US/a)^5 155
+2.2 Donkey food ($US/a)^6 124
+2.3 Staff costs ($US/a)^7 (animal power: animal care; motor mill: miller)
+2.4 Maintenance and repair^8 ($US/a)
+2.5 Fuel/oil ($US/a)
+3. Grinding costs ($US/a)
+Grinding costs ($US/kg)
+Diouf, D. et al. (Senegal): The investment costs of a motor mill are assumed to be 1285000 FCFA
+(motor Hatz, 11 H.P:and hammer mill Skiold).
+M.D.R. (Burkina Faso): The investment costs are assumed to be 1 200 000 FCFA (motor
+Anil, 8 H.P. and disk mill Hunt)
+Altarelli-Herzog, V. (Burkina Faso): The investment costs for the same mill are claimed to be
+636 500 FCFA, the investment costs for the mill building 60 000 FCFA (written off for 10 years).
+According to our own experience, these figures are obviously too low. For the cost comparison the following values were assumed:
+Mill and motor: 1 200 000 FCFA
+Building: 240 000 FCFA
+Diouf, D. et al. (Senegal): The theoretical grinding output of the mill is 300 kg/h. However, this value was not achieved in practice. The following actual grinding times (incl. idle time) are assumed:
+small villages: 100 kg/4 h
+large villages: 250 kg/4 h
+paid grinding: 400 kg/8 h
+M.D.R. (Burkina Faso): Grinding output 100 kg/h. The assumption of 100 kg/in was taken over for the cost comparison.
+Diouf, D. et al. (Senegal):
+Fuel consumption
+in small villages: 1 1/60 kg
+in large villages: 1 1/80 kg
+paid grinding: I 1/50 kg
+Fuel price:
+155 FCFA/I
+Oil consumption
+in small villages: 0.1 1/100 kg
+in large villages: 0.041/100 kg
+paid grinding: 0.1 1/100 kg
+Oil price: 860 FCFA/l
+M.D.R. (Burkina Faso):
+Fuel consumption: 21/h
+Fuel price: 250 FCFA/l
+Oil consumption: 0.16 l/h
+Oil price: 600 FCFA/l
+Altarelli-Herzog (Burkina Faso):
+Fuel consumption: 0.77l/h - 1 l/h
+Fuel price: 252 FCFA/l
+Oil consumption: 17 - 35 FCFA/h
+For the cost comparison the following values are assumed:
+Oil consumption: 0.05l/h at 700 FCFA/l
+Diouf, D. et al. (Senegal): The write-off time for the motor mill is assumed to be alternatively
+15 or 5 years.
+M.D.R. (Burkina Faso): A 5-year write-off time is assumed for the motor mill.
+Altarelli-Herzog, V. (Burkina Faso): The write-off of the motor mill is assumed to be 4 years, of the building over 10 years.
+For the cost comparison the useful life of the motor mill was assumed to be 12 000 h when fully utilized (8-hour operation), which corresponds to 5 years. For l-hour operation, the useful life was assumed to be only 4500 h (corresponds to 15 years). The other values were straight-line interpolated.
+Since the animal-powered mill has only very few components which cannot be produced locally, and the grinding unit runs only with one sixth of the number of revolutions for which it was designed when motor-driven, a useful life of 24 000 h was assumed (corresponds to 10 years).
+without interest
+When feeding additionally 50 kg peanut shells, maize etc./month during 6 months/year. 50 kg a 6000 FCFA
+Diouf, D. et al. (Senegal): small village: 5 000 FCFA/month large village: 12 500
+FCFA/month paid grinding: 10 000 FCFA/month M.D.R. (Burkina Faso): 10 % of the grinding price of 15 FCFA/kg corresponds to 1.5 FCFA/kg. Altarelli-Herzog, V. (Burkina Faso): same as MDR
+<section>4. List of the studies, reports an brochures elaborated within the framework of the project</section>
+Information booklets
+Peter Lowe: Der Gopel - eine Alternative bei der Mechanisierung der Landwirtschaft (Animal-powered systems) Eschborn 1983 German, English, French
+Projekt-Consult: Gopeltechnologie - ein Programm von GATE/GTZ in Westafrika (Animal power gears - a programme of GATE/GTZ in West Africa) Frankfurt 1986, German, English
+Technical reports - not country-specific
+Status reports:
+Bernard Gay: Moulins et Maneges (Mills and power gears), Verberie, 1984, French
+Jacques Sarda: Pompes et Maneges (Pumps and power gears), Verberie, 1984, French
+Wulf Boie: Reibradgopel und Kettengopel (Power gears with friction wheels and chains)?
+Frankfurt, 1984, German
+Wulf Boie: Industriell gefertigte Antriebselemente fur Gopelwerke (Industrially manufactured driving elements for power gears), Frankfurt 1984, German
+Short reports, test reports:
+Jacques Sarda: Construction d'un prototype de moulin de fabrication artisanale (Development of a cereal mill for artisan manufacturing), Verberie, 1985, French
+Wulf Boie: Anpassung einer Pumpe an den Universalgopel - Testbericht (Adaptation of a pump to the universal power gear - test report), Frankfurt 1985, German
+Wulf Boie: Anpassung von Reisschalmaschinen an den Universalgopel - Testbericht (Adaptation of rice husking machines to the universal power gear - test report), Frankfurt 1985, German
+Wulf Boie: Marktubersicht und Beurteilung industriell hergestellter Gopel (Market survey and evaluation of industrially manufactured power gears), Frankfurt 1986, German
+Peter Lowe: Technischer Kurzbericht industrieller Universalgopel (Short technical report of industrial universal power gears), Frankfurt 1984, German
+Country-specific studies
+Senegal:
+Peter Lowe: Moglichkeiten der Erprobung und des Einsatzes von Hirsemahlen mit Gope lantrieb im Senegal (Possibilities for testing and using millet mills with power gears in Senegal), Frankfurt 1984, German
+Nicolas Bricas/ Rapport d'Evaluation du projet manege au Senegal (Evaluation report of the
+Francois Protte: power gear project in Senegal), Dakkar 1986, French
+Burkina Faso:
+Peter Lowe: Prefeasibility-Studie, Test und Demonstration von Gopeln in Burkina Faso (Prefeasibility study, test and demonstration of power gears in Burkina Faso), Frankfurt 1985, German
+Ursula Fitzau: Choix de zones et de sites d'experimentation de manege a traction animale au Burkina Faso (Selection of test regions and locations for animal-powered systems in Burkina Faso), Frankfurt 1985, French
+Barry Hassan/ Introduction des Moulins a Traction Animale au Burkina Faso, Rapport Final
+Peter Lowe:
+de la Phase de Demonstration (Introduction of animal-powered mills in Burkina Faso, Final report of the demonstration phase), Frankfurt 1987, French
+Sarda, Jacques: Projet Manege au Burkina Faso (Power gear project in Burkina Faso), Verberie 1986, French
+Sierra Leone:
+Winfried Muziol: Prefeasibility-Studie: Einsatzmoglichkeiten von Gopeln in Sierra Leone (Prefeasibility study: Employment possibilities of power gears in Sierra Leone), Frankfurt 1985, German
+Wulf Boie: Bau von 2 Demonstrationsgopeln im Rolako Equipment Centre des ,,Sierra Leone Work Oxen Project" (Construction of 2 demonstration power gears in the Rolako Equipment Centre of the ,,Sierra Leone Work Oxen Project"), Frankfurt 1986, German
+Central African Republic:
+Peter Lowe/ Prefeasibility-Studie, Einfuhrung von Gopelmuhlen im GTZ-Projekt ,,ACAD
+Ursula Fitzau: OP" (Zentralafrikanische Republik) (Prefeasibility study, Introduction of ani mal-
+powered mills in the GTZ project ,,ACADOP" (Central African Republic)), Frankfurt
+1986, German
+Walter Wilmers: Fabrication et installation de deux moulins a manege au nord de la RCA (Production and installation of two mills with power gears in the north of the CAR), Frankfurt 1986, French
+Mali:
+Werner Roos: Prefeasibility-Studie uber die Einfuhrung der Gbpeltechnologie in Mali (Prefea sibility study for the introduction of animal-powered systems in Mali), Frankfurt 1985, German
+Mauretania:
+Bernard Gay: Introduction de maneges en Mauritanie (Introduction of power gears in Mauretania), Verberie 1985, French
+Togo:
+Peter Munzinger: Kurzbericht: Moglichkeiten der Erprobung und des Einsatzes von Gopeln in Togo (Possibilities for testing and using power gears in Togo), Frankfurt 1985, German
+Non-country-specific studies
+Ursula Fitzau: Berucksichtigung soziokultureller Faktoren bei der Einfuhrung van Gopelmuhlen in Westafrika (Accounting for socio-cultural factors when introducing animal- powered mills in West Africa), Frankfurt 1985, German
+Studies and reports, which were conducted on behalf of GATE before the beginning of the power gear project
+Peter Lowe/
+Gopelschopfwerke in Agypten (Animal-powered water raising systems in
+Wulf Boie:
+Egypt), Frankfurt 1983, German
+Peter Lowe:
+Die Senia - eine technische Innovation im Tal des Beni Boufrah (Marokko)
+(The Senia - a technical innovation in the valley of Beni Boufrah (Morocco)),
+Frankfurt 1983, German
+Diploma theses
+Wulf Boie: Stand der Technik auf dem Gebiet der Gopeltechnik sowie Konstruktion und Bau eines Prototypen fur die Anwendung in Entwicklungslandern (State of technology in the field of power gears as well as construction and building of a prototype to be used in developing countries), Cologne 1982, German
+Ursula Fitzau: Auswirkungen technischer Innovationsprozesse auf die Lebenssituation von Frauen in Entwicklungslandern am Beispiel der Einfuhrung von Gopelmohlen in Burkina Faso (Consequences of technical innovation processes for the situation of women in developing countries, exemplified by the introduction of animal-powered mills in Burkina Faso), Frankfurt 1987, German
+<section>5. Source documentation of figures</section>
+Part 1
+Lowe, Peter (Projekt-Consult) (Cover photograph, la, 2, 3, 4)
+Fitzau, Ursula (Projekt-Consult) (1b, 6)
+Part 2
+Walther, Karl: Die landwirtschaftlichen Maschinen, Leipzig 1910: (1)
+Patent Office of the German Empire: Patent Specification 20051 (2)
+Patent Office of the German Empire: Patent Specification 8678 (3)
+Patent Office of the German Empire: Patent Specification 46642 (5)
+Stuhlmann, Franz: Ein kulturgeschichtlicher Ausflug in den Aures (4) Ohler-Grimm, Ueli (Okozentrum Langenbruck) (6) Lowe, Peter (Projekt-Consult) (7-9) Oertel, Welf (Bachelor of Design) (11, 13-38)
+Figures not specified: Wulf Boie
+<section>6. Contact addresses</section>
+German Appropriate Technology Exchange (GATE)
+Postfach 5180
+D-6236 Eschborn I (FRO)
+Projekt-Consult
+Beratung in Entwicklungslandern GmbH
+Limburger StraBe 28
+D-6240 Konigstein (FRO)
+Institut Technologique Dello
+8, Rue Paul Bert
+F-83300 Aubervilliers (France)

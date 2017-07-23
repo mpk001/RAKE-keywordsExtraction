@@ -1,0 +1,745 @@
+<title>Agricultural taxation under structural adjustment</title>
+<section>1</section>
+Foreword
+Agriculture is normally heavily taxed at early stages of development, as it is the largest economic sector. There are several theoretical arguments for turning the terms of trade against agriculture in order to generate economic "surplus", namely investible resources, and most late developing countries such as those of Sub-Saharan Africa (SSA) have followed policies of "urban bias", by taxing agriculture in various forms. However, structural adjustment programs have invariably called for a decrease in taxation of the agricultural sector, and this appears to contradict the overall logic of development i.e. the transformation of mainly agrarian to mainly industrial economies. This provides the motivation for the present study.
+The study reviews the arguments for and against agricultural taxation in a wider sense. From a strict public finance viewpoint, agricultural taxation must be viewed in a different light than when one is concerned with growth and the generation of investible resources. The first question posed is whether turning the terms of trade of agriculture is justified on development grounds. The second set of issues concerns the types of policies used for turning the terms of trade against agriculture. The study distinguishes between explicit and implicit forms of agricultural taxation and examines the consequences on GDP and worker welfare of agricultural nominal taxation under different patterns of economic adjustment. Finally the study investigates the response of developing economies to external shocks under different types of adjustment response.
+The issues are examined both in an expository manner by reviewing and comparing the earlier literature, as well as more technically by the use of a stylized analytical model that permits the interaction of the overall economy and the agricultural sector. The analysis and discussion raises interesting questions concerning the types of policies that have been followed in the past as well as those that are being recommended in the context of structural adjustment programs. In particular, it tries to separate the issue of surplus generation via agricultural taxation from the issue of the (mis)appropriation of this surplus by the state, which seems to be the focus of most structural adjustment types of reforms.
+T. Kelley White
+Director
+Policy Analysis Division
+<section>2</section>
+Acknowledgements
+Paper prepared for the Food and Agriculture Organization of the United Nations, Economic and Social Policy Department, Policy Analysis Division. The work outlined in this document was initiated and encouraged by Apostolos Condos of the Policy Analysis Division of FAO, whom I thank. I would also like to thank Kostas G. Stamoulis of the Policy Analysis Division of FAO for his constructive comments and suggestions. Responsibility of any errors and omissions remains with the author.
+<section>3</section>
+Introduction
+The transition of an economy from a primitive, largely agrarian state, to one with an important non-agricultural sector is invariably tied with the parallel growth of the public sector. This is because the growing complexity in a developing economy necessitates the increased provision of public goods, such as infrastructure, defense, education etc. Financing this growing role of the state must be done by some form of explicit or implicit taxation. Taxation of agriculture during an early stage of development is a necessity since during this stage most of income and employment are based on agriculture. While no one would argue that agricultural income should not bear its fair share of public revenues, it is a point of major controversy and debate in development economics whether agriculture should be taxed proportionally more or less than the rest of the economy.
+Early debates, motivated by the Soviet industrialization phase of the mid-1920s (Preobrazhensky, 1965) suggested that agriculture should be taxed proportionally more via the suppression of the agricultural terms of trade, in order to extract surplus to be invested in non-agriculture. The debate gave rise to the so called "price scissors' problem".
+In the last few decades several late developing countries, and especially those in Sub-Saharan Africa (SSA), in their effort to accelerate growth have followed, at least partly, the Soviet model and turned the terms of trade against agriculture, using a variety of direct and indirect policies. Such policies were strongly attacked in the early 1980s by many economists and multilateral lending institutions such as the World Bank and the International Monetary Fund (IMF), as having been responsible for the crises that hit many developing countries in that period. Stabilization and structural adjustment lending to deal with the crises was then made conditional on, among other things, "getting the prices right", implying in most cases that the unfavourable internal terms of trade against agriculture had to be corrected. This usually implied a decline in both direct and indirect taxation of agriculture.
+Diminishing direct taxation of agriculture, however, presents governments of adjusting countries with some painful choices. Given that agricultural taxation forms a sizeable part of public revenues, a loss of this income entails either or both a cut in public expenditures (current and/or development), and an increase in nonagricultural tax revenues. While there are many political reasons why governments might opt for either or both of the above policies under adjustment programs, an interesting set of questions concerns the economic rationale for diminishing or not agricultural taxation, and the form in which the change in taxation can be accommodated.
+The purpose of this paper is to review the arguments for and against agricultural taxation (in the terms of trade sense) and place them in the context of contemporary macroeconomic adjustment efforts in developing countries.
+Theoretically, it turns out that the argument for turning the terms of trade against agriculture at early stages of development is quite strong. We exhibit a simple theoretical model with the help of which we illustrate for several stylized economies, that to increase a developing economy's surplus, defined as private and public savings available for public consumption and investment, the internal terms of trade of agriculture must be lowered compared to the international ones.
+This argument, however, is separate from the question of who appropriates this surplus, and it is this latter question which entails the division of the surplus between the public and the private sector. A discussion is presented on the ways by which the public sector has appropriated a large share of the economy's surplus in many countries, and has precipitated crises. Structural adjustment programs can then be seen as ways to change the division of the surplus between the public and the private sector, albeit in the process they tend to diminish the overall size of the surplus.
+The following discussion will examine agricultural taxation from the wider perspective of the terms of trade and the generated surplus in the economy. More traditional analyses deal with Pareto-efficient changes in taxes of specific agricultural products for the purpose only of generating public revenues. There are good surveys of these techniques (e.g. the papers in Newberry and Stern, 1987), which will not be reviewed here in order to concentrate on the more general problem.
+Chapter one below presents a summary discussion of the issues relevant to the terms of trade of agriculture in the context of development. Chapter 2 reviews the various means of taxing the agricultural sector. In Chapters 3 and 4 a simple stylized two-sector model of a developing economy is presented, and schematically analyzed in order to illustrate the impacts of various policies on effective taxation and the terms of trade of agriculture. Chapters 5, 6, 7 and 8 exhibit the responses of the total surplus and other variables for a variety of stylized agrarian developing economies, under various policy regimes. Chapter 9 supplements these chapters with a discussion of the controllability of the tax base in a developing economy. In Chapter 10 some remaining issues of taxation in the context of adjustment are discussed, and in the final Chapter the conclusions are summarized.
+<section>4</section>
+Chapter one: The terms of trade of agriculture
+The rationale for turning the terms of trade against agriculture is related to the pattern of transformation and development. As Timmer (1988) suggests there seem to be four distinct phases of agricultural transformation in the course of development. The first phase starts when agricultural productivity in terms of output (food) per unit area or worker rises. This creates a surplus of food, a surplus of labour, and a surplus of financial savings, that can be employed during the second phase in industry and other non-agricultural services. The third phase of development concerns the better integration of agriculture into the economy through infrastructure and markets, while in the fourth phase agriculture is not distinguishable from any other sector. One of the major issues in development economics is how to speed up this process of transformation.
+During the second phase, which is the focus of our analysis here, and which is the situation facing most late developing countries today and certainly those in Sub-Saharan Africa, agriculture tends to be neglected as a source of growth, and industry is regarded as the sector providing the major economic stimulus. Agriculture has been regarded as a contributor to economic development in terms of surplus food, surplus labour, surplus savings, surplus foreign exchange, and surplus expenditure to buy the products of industry. All these surpluses would be forthcoming from an uncomplaining peasantry with the development of the cities and the sharing of the nationalistic pride in the growing power of the state. Agricultural growth was not regarded as an essential part of the development process.
+The roots, however, of this mentality might be due to the pattern of western economic development. In many western societies the key initiating spark in development was an endogenous change in agricultural productivity through technical change. Such a pattern in a closed economy causes an initial rise in both output of food and incomes, which increases the demand for non-agricultural products. This in turn creates demand for capital and labour in non-agriculture, as well as demand for agricultural raw materials to produce the increased output. The increased capital in non-agriculture can be financed by "agricultural savings" which are the consequence of profits from the technological and productivity improvement, or "forced" through taxation. The increase in demand for agricultural raw materials, as well as the food to feed the increased non-agricultural working labour force induces further demand for agricultural output, inducing more innovation and productivity increases,
+and releasing more labour to industry. A key ingredient of this second phase of development was the investment of some of the total savings of the economy back in agriculture, in the form of both agricultural infrastructure (roads, dams, etc.) as well as private productivity enhancing investments.
+The two ingredients of this strategy that seem to be missing from the efforts of many late developing countries are the endogeneity of the agricultural productivity change, and the lack of re-investments in agriculture. The idea has been that agricultural productivity increases were not important, especially since the extra food needed for the urban sector could be obtained cheaply from abroad. Furthermore, the extraction of savings from agriculture could be done not by taxing increased incomes and profits, but instead by increased taxation of stagnant incomes. The idea has been that agriculture and output would not be seriously affected, and in any case it should be "forced" to supply food, labour, and investible resources to the state.
+Implicit in much of this thinking was a philosophy of state monitored rapid growth, through massive investments in non-agricultural industry with readily available developed country technology. Taxing agriculture via lower terms of trade was regarded as appropriate for the following reasons (Newbery, 1987):
+* Aggregate agricultural supply is fairly price inelastic, and hence agricultural output will not be greatly diminished by heavy taxation.
+* Investment in industry provides higher rate of growth than investment in agriculture.
+* If chief beneficiaries of higher agricultural prices are wealthy landowners, then agricultural taxation can be justified on equity grounds.
+* Low food prices will benefit low-income urban and rural consumers.
+The results of such strategies are by now well known. In countries of sub-Saharan Africa where such policies were tried on a large scale, they ended up leading to external crises, which gave rise to stabilization and structural adjustment programs (SAPs). Invariably these programs call for an improvement in the agricultural terms of trade via a decrease in the taxation of agriculture.
+The first question that we ask is the following. Is there a logic behind a policy of taxation of agriculture in order to extract surplus, when no technical productivity change in agriculture is forthcoming? In other words can policies like the ones followed in the sixties by most African newly independent countries be justified?
+Early justifications were based on the four reasons given above. This logic, however, has been challenged by several economists (e.g. Schultz, 1978). Concerning the inelastic response of total agricultural supply to terms of trade changes, by now the evidence seems to suggest that indeed this is the case. Aggregate agricultural supply price elasticities are usually estimated in the range of 0.1 to 0.25 in the short run and only slightly higher in the long run (Bond (1983), Binswanger (1989)). However, aggregate agricultural supply appears to be much more responsive in the medium run to infrastructure investments (Binswanger et al. 1985). What these results imply is that while agriculture can be taxed by depressing its relative price, it is also efficient to invest in it.
+However, the second reason above for turning the terms of trade against agriculture is meant to dismiss this option by arguing that investments in industry provide higher growth rates than investments in agriculture. The evidence for this is based on the notion that agriculture does not provide the backward and forward production linkages necessary for setting up new activities. Hirschman in fact wrote in 1958. "Agriculture certainly stands convicted on the count of its lack of direct stimulus to the setting up of new activities through linkage effects - the superiority of manufacturing in this respect is crushing" (Hirschman (1958), pp. 109-110, quoted by Timmer (19881, p. 289).
+This view has been challenged recently by Haggblade and Hazell (1989), and Hazell (1990), who argue that because of rural consumption linkages as opposed to production linkages, investments in agricultural tradeables have large spillover effects into rural non-tradeables, both agricultural and non-agricultural, and hence have the tendency to produce large income multipliers. The logic is that an expansion of production of agricultural tradeables will imply increased rural incomes, and hence increased demand for rural non-tradeables. Assuming that supply of these is relatively elastic, this implies an increase in production of these non-tradeables for a total income multiplier larger than one. In fact empirical evidence suggests values of these total multipliers between 1.2 and 1.8.
+Hazell (1990), argues that these multipliers in many cases are also larger than those derived from industrial projects, and hence the taxation of agriculture in order to invest in industry is not justified. The history of the many failed state sponsored industrial projects in Africa and other countries in the last three-four decades certainly does not argue against this claim.
+The equity reasons for agricultural taxation mentioned above depend quite strongly on the structure of agriculture. In land abundant Africa, for instance, it is well documented that the largest number of the poor are in agriculture. Hence, taxing agriculture is equivalent to taxing the poor, while subsidizing non-agriculture ends up supporting profits of well-off urban based residents. Of course, there are countries where land is in shortage, and where land rents largely accrue to wealthy landowners. In such a case taxing agricultural output is indeed equivalent to taxing land rents.
+The final argument above concerning the benefit of low food prices to urban workers is also not necessarily correct. The productivity of urban workers seems to depend on their purchasing power. Hence keeping food prices low might just be a convenient way to keep nominal wages low, and increase profits of urban industrialists high.
+Recently Sah and Stiglitz (1984, 1987) have provided a simple framework within which the consequences of manipulating the terms of trade of agriculture on the investible surplus are clarified. One of the major conclusions that they derive is that in order to increase the investible surplus of the economy, defined as the difference between the total production and consumption of the non-agricultural product, the terms of trade of agriculture, namely the price of agriculture, relatively to the price of non-agriculture must be suppressed.
+The logic of the Sah and Stiglitz results is not complex. Assuming that agriculture or industrial labour do not produce much savings for investment, and that foreign savings are constrained, the major sources of domestic savings are private profits from non-agricultural production, and public tax revenues from exports or imports. Since the major part of non-agricultural production cost is labour, and since wages in a developing country seem to respond to the cost of food, non-agricultural profits can be raised by keeping the price of food and hence wages down. Also if most of exports are agricultural, while imports are nonagricultural, the government will increase public revenue by taxing exports and/or taxing imports. Both of these policies also imply a reduction in the relative price of agriculture.
+The second conclusion of Sah and Stiglitz is that the increase in accumulation will be larger, the more price sensitive is the marketed agricultural surplus. This last conclusion seems rather odd and is at variance with the conclusions of others (e.g. Lipton ( 1977)) who claim that the surplus out of agriculture is larger, the more inelastic is the aggregate agricultural supply. The claim by Sah and Stiglitz has been clarified by Blomqvist (1986) and Carter (1986). It turns out that its logic rests on the specific assumption concerning the responsiveness of the urban wage. For a given decrease in agricultural prices, urban wages must decline more, in order to eliminate an excess demand for food, the greater is the supply responsiveness of agriculture.
+Sah and Stiglitz in turn in answering to the comments, conclude as follows:
+"Can a manipulation of the terms of trade squeeze the agricultural sector to provide funds for agricultural development? If the economy faces constraints on external trade and urban wages cannot adjust, the answer is no. If urban wages do adjust, the answer is yes, but only if the urban workers are made worse off". (Sah and Stiglitz (1986), p. 1198).
+It thus appears that according to this thinking immizerising of both agricultural producers, as well as urban workers is necessary in order to generate savings, and increase the country's growth rate. Of course, Sah and Stiglitz only deal with the total domestic savings, and not with the types of investments that are undertaken. Thus their analysis is not in conflict with the claims of Mellor and Johnston (1984) and Hazell (1990) who base their arguments on the types of investments undertaken and not on how to increase the total amount of investment.
+In their later work Sah and Stiglitz (19871 widen considerably the simple framework they considered in their first paper, but their major conclusion still holds. Suppressing the terms of trade of agriculture increases the domestic investible surplus of the economy, as long as the internal terms of trade are kept above some critical level, which, however, is below the international terms of trade. In other words, the agricultural sector must be taxed, or equivalently the non-agricultural sector subsidized vis-à-vis world prices, in order to raise domestic investment. In fact the critical internal agricultural terms of trade, maximizes the level of domestic surplus. Furthermore, the suppression of the agricultural terms of trade does not have to immizerize urban workers, as their earlier paper suggested. Similar results about the agricultural terms of trade were obtained in earlier papers dealing with growth in dual economies such as the ones by Hornby (1968) and Bardhan
+(1970, chapter 9), under different assumptions.
+Most of the assumptions of the Sah-Stiglitz model seem to be satisfied in practice by the late developing countries. Hence their theory would indeed suggest that the agricultural terms of trade should be suppressed, or that agriculture should be taxed at early development stages in order to accelerate growth. In other words, the overall direction of the policies that have been followed by many developing countries in the past has been correct. This, in turn, would imply that the crisis that have afflicted most of the developing countries in the last fifteen years must be attributed to factors other than the fundamental underlying principle of turning the terms of trade against agriculture in early stages of development. This, of course, raises the issue whether the recommendation of all structural adjustment programs that explicit and implicit taxation of agriculture should be lessened is correct. This point will be taken up later.
+<section>5</section>
+Chapter two: Means of agricultural taxation
+There are two broad types of agricultural taxation in developing countries, namely explicit and implicit taxes. Explicit taxes involve charges on land, taxes on inputs such as water, fertilizer, etc., and taxes on output. Income taxes, which belong to the category of explicit taxes, are almost impossible to implement in the context of a country with undeveloped bureaucracy and information system and are rarely used. Implicit taxes involve taxes and/or subsidies of the non-agricultural sector, which change the terms of trade for agriculture.
+Land taxes have always been considered efficient and equitable. Efficient in the sense that they do not distort relative output prices within agriculture, and do not diminish production incentives. They are equitable because those with larger pieces of land, and hence wealthier, pay more. In early stages of development, and in countries where land rights were well established or land quality was relatively homogeneous, they have been quite important as a source of public revenue. Thus in 1940 agricultural land taxation as a fraction of central government revenue in Egypt was 23 percent, in India 19 percent, and in Chile 5 percent (Bird, 1974). However, in the late eighties in none of these countries did land taxes account for more than 1 percent of central government revenue.
+Land taxes in principle are relatively simple. In order to implement them one needs only four facts: the area of the property, its location, its classification, and the owner or the name of the person to whom to send the tax bill. This information, as Newbery (1987) suggests, might not be too costly to collect. A simple presumptive tax structure could be designed, based on some easily identified characteristics of the land, such as the availability of water, fertility, and proximity to a market.
+One might argue that in countries where land ownership rights are not well formalized, such as in land-extensive countries of sub-Saharan Africa, land taxes might be difficult to implement. However, even there the ownership problem might be dealt with by levying land taxes on the communities, and let them apportion the tax among those with customary land tenure rights.
+Despite all the advantages of land taxes, it is a fact that their importance as a source of fiscal revenue has declined substantially. The reasons for this have been recently explored by Hoff (1991) and Skinner (1991). Hoff makes the point that land taxes are riskier than output taxes, and hence in the absence of complete insurance against production risks, they will tend to be less favoured compared with output taxes. That land taxes are riskier than output taxes is easy to see. If production is uncertain, then a fixed land tax will make net producer income more variable than an equivalent output tax. However, as Newbery (1987) suggests, this problem could be taken care of by indexing the land tax to an index of regional output, and Hoff shows this to be formally correct.
+Skinner (1991), however, shows that the risk aspects of the land tax are not as large as casual thinking first suggests. Through empirical simulations he finds that ''the degree of uncertainty about farm income must be very large, and (in general), the level of taxation low, before an export tax is preferred to a land tax" (op. cit. p. 130). Skinner suggests that the most crucial problem with land taxation is the problem of administration. In the absence of efficient land markets which will indicate land prices, there will be incentives to mar-assess the value of land. These problems, however, could be dealt with by using simple characteristics to assess a presumptive value of land.
+The above arguments still do not explain why the tendency has been away from land taxes and toward output and implicit taxes. Skinner offers two suggestions. One is political, namely organized opposition by landowners. The second is that implicit taxes are easier to implement than explicit taxes such as land taxes.
+Taxes on agricultural output could be levied on gross output or marketed surplus. While for cash crops the two are largely the same, for food crops this is not the case, especially in developing countries. Newbery (1987) shows that a tax on gross output is superior to a tax on marketed surplus because the former leaves both relative producer and relative consumer prices unchanged, while the latter changes relative consumer prices, albeit it leaves relative producer prices unchanged. This conclusion, however, is largely academic. In practice in developing countries it is impossible to tax gross output as one would have to get involved in household consumption decisions. Hence only marketed surplus can be feasibly taxed.
+Taxing of marketed surplus, however, cannot easily be done for non-traded commodities such as staple food, because it implies that the government would have to monopolize all domestic marketing, to ensure that all marketed commodities are subjected to the tax. In cases where this was done on a large scale (e.g. Tanzania), experience shows that it failed because of sheer administrative complexity.
+On the other hand taxing exportable or other traceable cash crops has had a long and successful history as a fiscal instrument in many countries. The key to the success of export taxation of agricultural commodities is the technological need to organize along monopolistic lines to exploit economies of scale involved in marketing of these commodities. Even in cases where the government has not been involved in monopolistic export marketing boards, producers have organized in cooperatives to exploit economies of scale in world marketing. This natural tendency towards centralized organization, of course, makes taxation quite easy from an administrative viewpoint. It is thus no coincidence that export taxation has been quite crucial as a source of revenue at early stages of development. Helleiner (1964) in fact concludes:
+"The principal ground for heavy taxation of exports is its convenience. In a country where per capita income is very low, administrative personnel are scarce, modern accounting practices are non-existent and much of the population is self-employed or engaged in "traditional" (and therefore unrecorded) economic activity, recourse must be had to maximum revenue collection in the few sectors where it is possible. In that it must pass through only a very few ports, foreign trade is easily measured, controlled and taxed" (p. 599).
+It is thus no coincidence that trade taxes (export and import) account for the bulk of fiscal revenue in the poorest developing countries. Tanzi (1987) shows that trade taxes account for an average of 39.3 percent of all tax revenue for the poorest developing countries, with export duties alone accounting for 8.4 percent. By contrast they accounted for only 15.4 percent in the richest among the 86 developing countries covered in his sample, with export taxes making up only 2.1 percent.
+Taxes on purchased inputs are another possible form of explicit taxation of agriculture. It is easy to show (Newbery, 1987) that if all inputs except land are subsidized, and outputs are taxed at the same rate, then the effect is equivalent to a rent tax. However, labour input cannot easily be taxed or subsidized, and most fiscal interventions in agricultural inputs take the form of subsidies on "modern" purchased inputs such as seeds, fertilizer, tractors, chemicals etc.
+Explicit taxation of agricultural commodities has taken the form of taxation of traded agricultural commodities and especially exportables. Krueger, Schiff and Valdes (1988) show that the direct nominal protection rate for the main exportable agricultural product in sixteen developing countries averaged -11 percent in 19751979 and -11 percent in 1980-1984. For the main agricultural importable in turn the average direct nominal protection was 20 percent in 1975-1979 and 21 percent in 1980-1984. This illustrates that the internal terms of trade in those countries through direct interventions were turned against the exportable products. Direct interventions in their methodology include explicit tariffs on non-agricultural products.
+However, it turns out that indirect and implicit taxation through exchange rate overvaluation play a much more important role in agricultural taxation. Krueger, Schiff and Valdes indeed show that if the effects of overvaluation and trade protection of industry are taken into account, then the total nominal protection rate of agricultural exports declined to an average of -36 percent for 1975-1979, and -40 percent in 1980-1984, while for agricultural imports, the nominal protection rate from positive turned negative at -5 percent for 1975-1979, and -6 percent in 19801984.
+Exchange rate overvaluation has played a substantial role as a source of invisible public revenue in many developing countries through the lower cost of government imports. It is only in the last few years that the detrimental role of this essentially macroeconomic distortion on microeconomic incentives has been analyzed. Structural adjustment programs by trying to correct these distortions at the macro as well as the micro level, have in essence tried to strip many governments of large sources of explicit and implicit fiscal revenue. This, of course, requires drastic cuts in government expenditures, and puts enormous pressures on governments for tax reform, and finding other ways to generate revenues.
+<section>6</section>
+Chapter three A macro model of the agricultural terms of trade and taxation
+In this Chapter the discussion of the terms of trade of agriculture that began in Chapter 1 will be formalized and extended in order to understand the relation between taxation of agriculture and macroeconomic equilibrium and adjustment.
+Influencing the prices of products received by agricultural producers, or the prices paid by agricultural consumers is a widespread practice in developing countries. These interferences, of course, have as a consequence changes in relative prices faced by producers and consumers, and hence changes in demands and supplies for various products. The question is how such policies impinge on macroeconomic balance and growth, and how they influence the pattern of adjustment under internal and external shocks. In this Chapter a simple two sector macro model is outlined and discussed in order to clarify these issues.
+Consider a developing economy composed of two sectors agriculture and non-agriculture. The agricultural sector will be assumed to produce with labour and capital, which can include land, machinery, dams, etc., and which can be thought of as fixed in the short and medium run. Agricultural production in the aggregate will be assumed to exhibit diminishing returns to labour
+This latter parameter denotes the labour share in agricultural production.
+Production in non-agriculture will be assumed to utilize capital, labour and a non-domestically produced imported intermediate good, with a Cobb-Douglas production function
+Notice that it is assumed that agriculture does not utilize an intermediate good. This is, of course, an approximation as agricultural production in almost all countries utilizes some fertilizer or pesticides. However, the share of purchased inputs in the gross value of agricultural output is usually quite small (in Africa it is smaller than 5 percent), and for analytical convenience it is assumed equal to zero.
+The product of the agricultural sector will be assumed to be traceable, while that of non-agriculture as non-traceable. These, again are convenient assumptions, and are meant to capture the stylized fact that the share of traceable products in agriculture appears to be much higher than the share of traceable products produced in non-agriculture.
+With the specification of non-agricultural production assumed, imports will only be used as inputs to non-agriculture. This is an alternative to assuming that all imports are "imperfect substitutes" with nonagricultural products. The choice of specification is mostly a matter of convenience, as far as the analytics are concerned, but for the issues dealt with in this paper, it turns out that the "imperfect substitutes" model is not as appropriate.
+The key behavioural conditions assumed about the economy are the following. First it is assumed that production in non-agriculture occurs according to profit maximization. In other words non-agricultural producers maximize profits P , where
+where p[n] is the domestic price of the non-agricultural good, p[m] is the domestic price of the imported good, and w is the nominal wage in non-agriculture. The profit-maximizing assumption ensures that the supply curve of non-agriculture is upward sloping, and that the demand curve for imports M is downward sloping.
+Secondly it is assumed that there is full employment, namely
+The third behavioural assumption made is that labour is supplied from agriculture to non-agriculture according to the condition that the nonagricultural wage, which is equal to the marginal product of labour in non-agriculture, is equal to the average product of agricultural labour.
+Condition (3.7) says that the unit reward -of labour in non-agriculture is equal to the average product of labour in agriculture. In most developing countries agriculture is organized along owner-operated units, and hence the relevant return to agricultural activity is the (value of) the average product of labour. The non-agricultural sector in all developing countries is composed of two subsectors the formal and the so-called informal one. Formal sector nominal wages are usually set by legislative means, while informal sector wages are usually free to respond to supply and demand. While there are differences in nominal wages between these two sectors, what is normally neglected in analyses of the labour market is that the effective wage for formal activities, defined as reward per effective labour input, can vary substantially by varying the labour input. It is well known, for instance, that when nominal wages in the formal sector are kept fixed nominally in the presence of
+inflation, workers work less, and take up other activities. This implies that the labour market in developing countries is more flexible and unified than suggested by the distinction between formal and informal sectors. In the framework here the wage variable w is meant to represent average rewards to non-agricultural labour in this wider sense.
+Condition (3.7) can also be looked at as a migration condition. Traditional migration models of the Harris-Todaro vintage (Harris and Todaro, 1970) equilibrate the labour market by equating average labour returns in agriculture with expected non-agricultural wage. Here, full employment is assumed, and hence the expected non-agricultural wage which in the Harris-Todaro model is defined as unemployment adjusted nominal wage, but here is assumed equal to the marginal product of labour in non-agriculture, is equivalent to the effective non-agricultural wage. Full employment seems a reasonably good assumption in developing countries, as the informal sector usually acts a sink that absorbs the unemployment. Household budget surveys, especially in Africa, usually show that open unemployment is quite small.
+It should be noted that if (3.7) is replaced by a condition, whereby the nonagricultural wage is equated to the marginal rather than the average product of labour, in agriculture the subsequent results would not change. Condition (3.7) is kept, both because of convenience, as well as because it reflects the small scale atomistic nature of agricultural production in most countries.
+Commodity balance (supply equals demand) in the two sectors is as follows:
+In (3.8) E is the net exports of the product of agriculture which as already mentioned, is assumed to be the only traded good produced in the economy. C[a] and C[n] denote the quantities of domestic private consumption of the agricultural and non-agricultural products respectively. They are functions of consumed income and relative prices. S denotes the "surplus" of non-agriculture, namely the quantity of good X[n] which is available for either public consumption G or investment (public and private) I.
+It is assumed in (3.9) that only the product of non-agriculture is used for investment. While this is not strictly true, since livestock and trees are two well-known forms of investment of the agricultural product, it is becoming increasingly accepted that much of this type of investment of the agricultural product is for consumption smoothing and not for productive purposes (Deaton, 1990). Even trees for cash crops in many countries are viewed as old-age insurance.
+Private income Y or value added in the economy is composed of agricultural and wage income and profits. Because of the full employment assumption, and the migration condition (3.7), non-profit income can be written simply as wage income in the economy
+A fourth behavioural assumption is that only wage income is consumed, while all non-agricultural profits are saved. Hence the domestic demands for the two products can then be written in standard form as follows
+where the relevant functions in (3.12) and (3.13) are homogeneous of degree zero.
+Total domestic savings, however, do not arise only out of profits. They can be generated by taxing export and import trade, as well as by foreign borrowing.
+It can easily be shown (by multiplying the commodity balances (3.8) and (3.9) by the respective domestic prices, adding, and using the assumption that only wage income is consumed) that the following modified "savings-investment" identity holds
+where F is "foreign savings", namely autonomous or more typically accommodating foreign exchange inflows.
+The negative of F is usually referred to by multilateral institutions such as the World Bank as the "Resource Balance".
+If we had written S in its more traditional form 13.10), namely as the sum of public consumption G and total investment 1, and transferred G to the left hand side of (3.15), then we would obtain the traditional savings-investment identity of macro-models. The left hand side of (3.15) would be composed of private savings (P ) public savings (T-G) and foreign savings (eF). By writing this identity in the form (3.15), we separate the problem of total surplus from the problem of composition of the surplus among public current spending and total (public and private) investment. The first problem is the more traditional "scissors" problem, namely of what is a good internal terms of trade policy to maximize domestic surplus. The second problem of composition of the surplus is more relevant in the context of structural adjustment.
+Notice that if it is assumed that private investment I[p] is fixed (by animal spirits or other considerations) and equal to private profits P then the "modified surplus" p[n] (S - I[p]) is equal to total current and development public expenditure. In this case domestic taxation just generates public funds.
+Notice that in equations (3.8) and (3.9) the terms E and S. namely exports and the "surplus" of the economy, are in a sense residuals of total domestic supply minus domestic private consumption. The amount of exports E, through the foreign exchange balance (3.16), is utilized to "pay" for imports that go into the production of the non-agricultural good, which in turn is used for consumption and investment.
+Since agriculture is the only sector producing traded goods, and since the price of non-tradeables was normalized to equal one, the price p[a] in equilibrium could also denote the real exchange rate, namely the relative price of tradeables to non-tradeables.
+The model exhibited above differs in several ways from the model utilized by Sah and Stiglitz (1987). In their formulation they assumed that agricultural producers make only income from agriculture, and spend the value of surplus production (net of own consumption) on the non-agricultural good. Workers in turn have potentially different spending patterns. in the current model, the structure of income is left aggregated. However, the only assumption made is that all agricultural income and wage income is consumed, and those with such incomes have similar spending patterns. Sah and Stiglitz have very different assumptions about the labour market. They assumed fixed labour input in the two sectors, while here labour shifts across sectors in response to price signals. Wages in their model were either determined by fiat by the government, or derived through assumptions about workers wage bargaining. Finally in their model both products are fully traded, and hence no real exchange
+rate effects can be discussed.
+<section>7</section>
+Chapter four: Institutional assumptions and adjustment of the economy
+The small country modeled above can behave in different ways, depending on what is assumed about the external sector. One possibility is for the country to set the official nominal exchange rate e^0, and assume that it can finance whatever deficit F incurs from abroad. If this is the case then the government in essence can completely control the economy by setting the domestic terms of trade p[a]. The domestic economic agents (producers and consumers) will respond to whatever prices are offered to them by supplying and demanding the two commodities. The residual in the agricultural sector will be exported, and the required inputs for the production of the profit maximizing nonagricultural good will be imported. Any domestic and foreign deficits will be financed from abroad.
+The polar situation described above is rather unrealistic as it implies that the rest of the world is willing to accommodate whatever policy decisions are made by the government. While this might be the case in some periods it clearly cannot continue, forever, especially if it implies substantial external deficits. In the post-independence experiences of many developing countries the willingness of external donors and financial institutions to finance external deficits, was usually tied to domestic policies generally not objected to by donors. It is when some policies were not reformed that external financing became more stringent.
+The other polar situation that can be imposed on our small country, is an external financing constraint, namely a fixed value for F in (3.16) (a special case is the one of balanced trade, namely F = 0). If this is the case, then the government clearly cannot set the nominal exchange rate at will. The equilibrium exchange rate must be such as to satisfy the external financing constraint (3.16). Hence in this case the exchange rate is endogenous. The government can choose the rates of taxation of exports and imports, but the external balance (3.16) must always be satisfied. Hence the terms of trade of agriculture p[a] are, in this case, endogenous, and cannot be specified independently.
+A third situation, which seems to be much more common in developing countries, is one where there is an external financing constraint, but the government, nevertheless, sets a nominal exchange rate. Clearly, unless the government sets the nominal exchange rate by chance equal to the equilibrium rate implied by the external balance (4.16), there will be inability of the system to equilibrate unless we assume that something else happens. The normal response of many governments to such situations has been rationing of imports, so as to satisfy the external balance at the official exchange rates. Rationing of imports means that the value of imports is set equal to the available foreign exchange. Since the desired quantity of imports at the official rate is larger than what is available, the scarcity value of imports in the economy is higher than what is suggested by the official rate. In essence, anyone who obtains a unit of imports at the official exchange rate also obtains a
+"rent", which is equal to the difference between the "equilibrium" price of imports, and the official price of imports. The issue is who is the recipient of these rents. If it is the government, then this policy confers an "implicit tax" to the government. if it is the private sector then the policy acts as a redistributive mechanism. It is convenient, for our purposes to consider the rent as accruing to the government (i.e. as an implicit tax). Any redistribution to the private sector can then be viewed as government transfers.
+From the model's perspective, if these transfers to the private sector are all saved then they do not affect at all the structure of the equations. If not, then the consumed part of GDP, namely the wage income Y would have to be augmented by a fraction of these rents. In the sequel we assume for simplicity that all rents are saved. Hence the model structure remains unaffected.
+We shall denote the three different macro-closures above as A[u] (adjustment under unrestricted external financing), A[c] (adjustment under constrained external financing), and A[r] (adjustment with constrained external financing and rents).
+It is instructive to exhibit the magnitude of the total tax revenue under the three macro-adjustment assumptions. Notice that in the model we have abstracted from direct income or profit taxes, and indirect domestic sales taxes, focusing exclusively on trade taxes. The reason is that we are interested in the interactions between adjustment policies, which are induced by external constraints and domestic trade distortions and domestic policy vis-à-vis the terms of trade of agriculture.
+The explicit tax revenue of the government in domestic currency generated by international trade can be found by utilizing equation (3.14).
+where by T[e] we denote the explicit tax revenue, and be e^0 the initial exchange rate which by choice of units we can set equal to one.
+where
+The total level of taxation in this case is equal to the sum of the two tax revenues.
+The alternative cases can be illustrated as follows. In Figure 1 the schedule EE denotes the country's supply curve of exports, while the schedule MM represents the demand curve for imports. For illustrative purposes we have assumed that the foreign price of exports is also equal to one, so that the domestic supply price of exports is equal to the official exchange rate modified by the export tax. At an official exchange rate equal to e^0 and an export tax t[a], the quantity of exports will be equal to 0E^0 = AB, and the explicit export tax revenue will be equal to the area ABCD. If the import tariff rate is equal to t[m], then at the official exchange rate the quantity of imports demanded will be equal to 0M^0 = JF. The explicit import tariff revenue is equal to the area DEFJ. The implied required external financing will be equal to OM^0 - OE^0, which can be portrayed as the difference between the distance JF and AB.
+The above figure illustrates the situation under regime A[u]. Under regime A[c] the geometric representation does not change from what is exhibited in Figure 1. If the distance between OM^0 and OE^0 corresponds to the available external financing, then the equilibrium exchange rate e^c would be equal to the distance OD.
+Notice that by changing the export tax and import tariff rates under fixed external finance is equivalent to changing the equilibrium "effective" exchange rate e. Increasing the export tax rate t[a], reduces the volume of exports. Under fixed external finance, this necessitates a reduction in the volume of imports. This can be effected by an exchange rate depreciation (an increase in the nominal value of e^c).
+An increase in the rate of import tariff will reduce the volume of imports. To maintain the level of external finance constant, the volume of exports must decline, and this can be effected by an exchange rate appreciation, namely a reduction in the value of e^c.
+Figure 1 External equilibrium and taxation
+Figure 2 Equilibrium and taxation under external financing constraints and import rationing
+Note that in the model we have made the assumption that the volume of imports and exports always passes through official channels, and hence can always be taxed. It is, of course, well known, that when the tax rate (explicit and implicit) becomes high, then parallel markets develop, and the tax base, namely the volume of official imports and exports is eroded. We shall deal with this issue later.
+It is of interest to inquire whether the total tax revenue (explicit plus implicit) under a regime of constrained external finance is higher under the floating regime A[c], or under the import rationing regime A[r]. This question will be considered later. In any case it is instructive to note that the difference between regimes A[c] and A[r] is that in the former the constraint impinges on both imports and exports, as it affects the exchange rate, while in the latter it impinges only on imports, as it affects the implicit import tariff.
+The model equations in level form as well as the log-linearized version of the model are summarized in Appendix B. while Appendix A illustrates the actual relevant parameters for the low income developing countries [according to the World Bank) in 1989.
+<section>8</section>
+Chapter five: Taxation and the surplus under fixed exchange rates
+The first set of questions we explore deal with agricultural and import taxation under regime A[u]. In this case the exchange rate is fixed. Increasing agricultural export tax, if the import tariff does not change, implies lower agricultural prices p[a] and hence appreciation of the real exchange rate (which, as discussed earlier is equal to p[a]) This, ceteris paribus, means lower average income for agriculture, and hence smaller nominal wage and increased migration to non-agricultural activities. Hence non-agricultural production increases. Given that there is no external constraint, more imports will be forthcoming.
+The real wage also declines, as the decrease in the nominal wage is smaller than the decline in the agricultural price. This is a standard result from the literature on the two-good three-factor model of international trade, see Jones (1971) and Mayer 11974), and is illustrated in Figure 3.
+In Figure 3 the horizontal axis represents the total labour endowment in the economy. Labour utilized in agriculture is measured from O[a] toward the right, while labour utilized in non-agriculture is measured from O[n] toward the left. The left most vertical axis measures the average product of labour in agriculture, while the right-hand vertical axis measures the marginal product of labour in non-agriculture. The two curves AA and NN represent these average and marginal products. Their intersection represents the labour market equilibrium, and is a geometric representation of equation 13.7)
+Initially agriculture employs an amount of labour equal to O[a]K, and non-agriculture an amount equal to O[n]K. The economy-wide wage rate is equal to w^0. When the agricultural price declines, the average product of labour in agriculture also declines for any given agriculture labour input. This is depicted by a downward shift in the curve AA to A^/A^/ . The new equilibrium allocation of labour is O[a]K^/< O[a]K to agriculture and O[n]K^/ > O[n]K to non-agriculture. The nominal wage declines to w^/, but the vertical distance between w^0 and w^/ is smaller than the vertical distance between curves AA and A^/A^/, which is in turn equal to the decline in the agricultural price.
+The demand for the agricultural good could decrease or increase, depending on the relative strengths of the income and price effects of consumer demand. However, the private demand for the non-agricultural good will most likely decline. Since the production of the nonagricultural good increases, this implies that the volume of the surplus S increases. Hence, taxation of agriculture in this case implies a larger fund available for government expenditures as well as investment.
+In terms of the three components of the surplus indicated in equation (3.15), namely non-agricultural profits P , foreign saving F and tax revenue T. the first two are likely to increase under this policy. The change in private profits can be readily seen from Figure 3. The size of private profits P is represented in this figure by the area under the curve NN and above the horizontal line BC (this is because when import prices are not changed, profits are equal to the integral of the marginal product of labour, minus the total wage payments). Clearly when the nominal wage declines, this area increases.
+Figure 4 illustrates the situation concerning the foreign savings and the tax revenue under fixed exchange rate. When the agricultural tax rate increases, the volume of exports declines to OF^/ from an initial level OF. Because of labour reallocation in the economy and increased production of the non-agricultural product, the demand for imports increases, and this is represented by a rightward shift of the curve MM to M^/M^/ in the figure. The new volume of imports is OG^/, and required foreign savings is F^/G^/.
+The import tariff revenue clearly increases, as the rate of tariff does not change. The export tax revenue changes from ABCD to A^/B^/C^/D. This can be an increase or decrease in the tax revenue depending on the elasticity of the export supply curve, and hence the total tax revenue T could increase or decline.
+Figure 3 Intersectoral labour allocation in the economy
+Note that it is not necessary that the agricultural export supply curve is upward sloping. The volume of agricultural exports is the residual of agricultural production minus domestic "food" demand. An improvement in the agricultural terms of trade will increase agricultural production, but also will improve real incomes, and hence the demand for food. Depending on the relative strength of these two effects the export supply curve could be positively or negatively sloped.
+Hence a unitless indicator of welfare can be specified by W as follows
+Initially W= 1. If the wage and p[a] change so that W increases then there is an improvement in welfare. If on the other hand the changes lead to a decline in W. then worker welfare is worsened. The definition of welfare in this fashion is analogous to the concept of "money metric utility" (Deaton, 1980) which is the theoretically correct way to measure welfare.
+Figure 4 Changes in foreign savings and the tax revenue under A[u]
+Applying the standard result that the partial derivative of the expenditure function with respect to a price is equal to the amount of the relevant consumed product (Varian, 1984, p. 123, 126) we obtain
+where q [a] is the worker initial average budget share for the agricultural product
+Hence, as equation (5.4) indicates, worker welfare will improve if the proportional increase in the nominal wage is larger than the proportional increase in the agricultural terms of trade multiplied by the "food" budget share. In essence the second part in equation (5.4) is the change in the consumer price deflator facing the worker. The change in welfare indicated in (5.4), while theoretically rigorous, is nothing more that the percentage change in the real income of the worker. This, as written in (5.4) is equal to the percentage change in nominal income w minus the percentage change in the "cost of living" of the worker. (For an empirical application of this method of viewing welfare see Sarris ( 1 993)).
+Under the fixed exchange rate regime, it was seen that the nominal wage declines but by a smaller amount than the decline in the terms of trade of agriculture p[a]. If the decline in the wage is proportionally smaller than the product of the food budget share and the decline in agricultural price, then equation (5.4) shows that the welfare of the workers (and farmers) could even improve. This would clearly be a felicitous situation, whereby the surplus for public consumption and total investment is increased by agricultural taxation, but at the same time the welfare of workers is improved. The reason that this would be possible is a large increase in foreign finance.
+To obtain a feeling for the numbers, we indicate in Table 1 stylized parameter specifications of the model for 20 different types of (hypothetical) developing economies. In all cases the rate of initial import tariff is zero percent while the rate of initial export tax is also zero. The economies are first distinguished according to the share of the labour force employed in agriculture, ranging from those where this share is small to those where the share is large. The lowest such share is 54 percent (economy 121, while the highest is 81 percent (economy 111. The other parameters that vary are the shares of labour in value added, the share of imports in non-agricultural production, the income and price elasticities of demand for the product of agriculture, and the consumer budget share for food. The effort has been to make the stylized parameters compatible among themselves. For instance the food budget shares and the income elasticities of demand for agriculture are higher
+for economies with higher shares of labour in agriculture. Such economies are most likely to be poor. In all cases the share of the labour force employed in agriculture has been adjusted so that the initial resource balance F is zero, namely the external trade is balanced.
+Table 2 indicates the values of various shares of the stylized economies. These shares can be derived from the parameters of Table 1 by the methods outlined in Appendix B. It is clear that economies with higher proportion of labour employed in agriculture, are also those which exhibit a large share of agriculture in GDP. Note that the share of imports in GDP /which under balanced trade is equal to the share of exports in GDP) is generally lower for economies with higher shares of agriculture in GDP.
+Table 1 Specification of alternative economies
+Economy
+type Share of
+Labour
+employed in agriculture Labour in
+agriculture Shares in value added
+Labour in non-
+agriculture Income
+Imports in
+non- agriculture Price Elasticity
+Elasticity of
+Demand for
+Agriculture Consumer Budget
+Of Demand for Agriculture Share for
+Agriculture
+Table 2 Values of various shares for the stylized economies (percent) under the assumption that external trade is balanced
+Economy
+type Share of labour
+force in
+agriculture Share of Agriculture in GDP Share of imports in GDP Share of
+agriculture
+production
+exported Share of surplus in non-agricultural production Share of
+Surplus in GDP
+The share of total surplus in GDP which in this case of zero taxes is all made up of non-agricultural profits varies inversely proportionally with the share of agriculture in GDP. The reason is that countries with large agricultural sectors cannot generate adequate non-agricultural profits, nor can they generate large amounts of import taxes, given the small share of imports in GDP. This illustrates the difficulties that countries at early stages of development might have in generating surpluses.
+The same table was reproduced, under the assumption that the resource balance is 5 percent of GDP. Table 3 illustrates the characteristics of the various stylized economies under this case. All parameters are the same for a given economy as in Table 1 except the share of labour employed in agriculture. The difference between the figures in Table 3 and those of Table 2, is that now the shares of labour employed in agriculture are smaller, and correspondingly the shares of agriculture in GDP are lower. This is so because smaller amounts of agricultural exports are needed to obtain a given level of imports. The share of imports in GDP is larger (the share of exports in GDP is not shown as it is just 5 percent lower than the share of imports in GDP), while the share of agricultural production exported is lower. Almost the full 5 percentage points of increased foreign savings results in higher shares of surplus in GDP, as expected.
+Finally in Table 4 we reproduce the shares of the various stylized economies of Table 3 under the further assumption that initially the import tariff rate is 40 percent, and the export tax rate is 20 percent. It can be seen that the shares of labour employed in agriculture are lower, while the taxes make up a significant portion of the total surplus. In the sequel our benchmark economies are those illustrated in Table 2, namely those where the surplus derives initially only from non-agricultural profits.
+Table 5 presents the general equilibrium elasticities of the various variables in the 20 stylized economies of Table 4 with respect to the domestic terms of trade of agriculture. The formulas for these numbers are outlined in Appendix B. A 1 percent increase in the terms of trade of agriculture for economy type 1, results in a 0.34 percent increase in the nominal wage, 0.16 percent increase in agricultural output, and 0.86 percent decline in non-agricultural output. The elasticities of aggregate agricultural production with respect to the agricultural terms of trade are between .16 and 0.6, which are within the range estimated by various authors (Bond, 1983, Binswanger et al., 1985).
+Continue
+<section>9</section>
+TABLE 3
+Values of various shares for the stylized economies (percent) under the assumption that the balance of external trade is 5 percent of GDP
+Economy type Share of labour
+force in
+agriculture Share of
+agriculture in
+GDP Share of
+imports in GDP Share of
+agriculture
+production
+exported Share of surplus in
+Non-agricultural
+production Share of surplus
+in GDP
+Table 4 Values of various shares for the stylized economies (percent) under the assumptions that the balance of external trade is 5 percent of GDP and initial export tax and import tariff are non
+Economy
+type Share of
+labour force
+in
+agriculture Share of
+agriculture
+in GDP Share of
+imports in
+GDP Share of
+agriculture
+production
+exported Share of
+surplus in
+non-
+agricultural
+production Share of
+surplus In
+GDP Share of
+taxes in
+GDP Share of
+profits in
+GDP Shareof
+Taxes in
+Surplus
+Table 5 Elasticities with respect to the terms of trade of agriculture
+Economy
+type Nominal
+wage Production of Consumption of Imports Exports Surplus Non-
+agricultural
+Profits TAX.
+Revenue
+Agriculture Non-
+agriculture Agriculture Non-
+agriculture
+I 0.34 0.16 -0.86 -0.59 0.31 -0.86 1.25 -5.52 -0.86 0.21
+Continue
+<section>a</section>
+Continued
+The consumption of the agricultural product responds negatively to increases in the agricultural terms of trade, while the response of the consumption of the nonagricultural product can be positive or negative. The non-agricultural imports respond negatively while there is a strong positive multiplier for agricultural exports. This is the joint effect of the positive response of agricultural production and the negative response of food demand.
+Notice that the surplus responds negatively to increases in the agricultural terms of trade, and with larger absolute values of the elasticities in structurally "less developed" economies, namely in economies with large shares of agriculture in GDP.
+The second set of issues relate to import tariff changes. Increasing the import tariff rate, will increase the domestic price of imports. This will reduce the domestic demand for imports, and will reduce nonagricultural production and profits. However, labour will shift to agriculture, increasing agricultural supply. Agricultural exports will increase if the domestic demand for "food" does not increase. In fact this is likely to happen as the real wage is likely to fall. To see this, notice that in Figure 3, the increase in the import tariff will imply a downward shift in the curve that represents the marginal product of labour in non-agriculture, and this will imply a lower nominal and real wage (because the domestic price of food p[a] remains unchanged) with large shares of agriculture in GDP.
+Table 6 exhibits elasticities of the same variables as in Table 5 with respect to the domestic price of imports, for the 20 types of stylized economies specified. The signs are all as outlined above with generally larger effects for less developed economies with larger initial shares of agriculture in GDP.
+From Tables 5 and 6 it is clear that under this external regime, in order to increase the surplus of the economy, the terms of trade of agriculture must be lowered, and the rate of import tariff also must be lowered. Hence taxing agriculture and subsidizing non-agriculture is the way to generate surplus under this regime.
+Table 7 presents the impact of a 10 percent increase in the agricultural export tax rate (from 0 to 10 percent). The first column indicates that the welfare of workers is improved, as the price of "food" is lowered with the increase in export taxation. The share of surplus in GDP is seen to increase substantially in all cases. For instance in the least developed economy, namely the one numbered 11, the initial share of surplus in GDP is 16 percent (cf. Table 2). When the rate of agricultural taxation is increased by 10 percent, this share increases by 12.04 percentage points, namely becomes 13.64 percent (1.6 + 12.04). The increase in the surplus with a worker improvement in welfare is largely achieved by an increased inflow of external funds. This can be seen from the table by noting first that the sum of columns (3)-(5) is equal to column (2) (the changes in the three components of the surplus equals the change in the overall surplus), and then by noting that the numbers
+in column 5, corresponding to the contribution of the foreign deficit, are much larger than the numbers in the other two columns.
+It can be seen in Table 7 that the share of the external deficit to GDP (which originally is equal to 0 for all economies), increases substantially. For economy number 11 in fact it goes up by more than 10 percent to 10.29 percent.
+Table 8 gives the same multipliers for a 10 percent decrease in the import tariff. The signs of the multipliers, with the exception of the ratios of taxes to GDP, are similar to those of Table 7. Again the larger contribution to the increase in the surplus as is from the increased external inflows.
+The conclusion from this first analysis is that taxation of agricultural exports under fixed exchange rates and under the assumption that investible surplus is generated exclusively in the non-agricultural sector, will indeed generate surplus for the economy, but only if it is supported by large inflows of external finance.
+Table 6 Elasticities with respect to the domestic import price
+Economy
+type Nominal
+wage Production of Consumption of Imports Exports Surplus Non-
+agricultural
+Profits TAX.
+Revenue
+Agriculture Non-
+agriculture Agriculture Non-
+agriculture
+Table 7 Multipliers for a 10 percent increase in the export tax rate (all figures, except in column 1, reflect absolute changes in the ratios times 100)
+Economy type Worker
+welfare Surplus /GDP Profits /GDP Taxes/
+GDP Foreign
+deficit/GDP Exports /GDP Imports /GDP
+<section>b</section>
+Chapter six: Taxation and the surplus under flexible exchange rates
+The adjustment behaviour of the economy to changes in the export tax rate and the import tariff rate under this regime was briefly discussed in Chapter 4. In this Chapter we explore the implications in more detail.
+The basic difference between the situation here and the one analyzed in the previous Chapter is that now, any time there is a change in taxation (in exports or imports), the nominal exchange rate changes to eliminate the excess demand for foreign exchange, and this induces an additional change in the internal prices.
+In Table 9 we present the multipliers of several important variables in response to a 10 percent increase in the rate of export tax for the stylized economies defined earlier. It can be seen that a 10 percent change in the rate of export taxation will lead to 4.9-6.5 percent depreciation of the nominal exchange rate. Since this is smaller than the 10 percent increase in the export tax rate, the terms of trade of agriculture will deteriorate and agricultural production will decline.
+Non-agricultural production however, increases despite the increase in the domestic price of imports because of a reallocation of labour. Notice that consumption of "food" goes up in most cases as the income elasticity of the demand for food is high. The consequence is a large decline in the export volume.
+The welfare of workers declines in all cases, but both profits and taxes rises, and consequently surplus also rises. Finally, GDP measured at world prices declines by significant amounts.
+Table 8 Multipliers for a 10 percent decrease in the import tariff rate (all figures, except column 1, reflect absolute changes in the ratios times 100)
+Economy type Worker
+welfare Surplus /GDP Profits/GDP Taxes/GDP Resource
+balance Exports/GDP Imports/GDP
+Table 9 Multipliers under flexible exchange rates with respect to a 10 percent change in the rate of export tax
+Economy
+type Exchange
+rate Worker
+welfare Export
+volume Import
+volume Profits
+Taxes* Surplus GDP Production of Consumption of
+Agriculture Non-
+agriculture Agriculture Non
+agriculture
+The real effects of an increase in the import tariff rate from zero to 10 percent, are exactly the same as those indicated in Table 9, as far as the effects on welfare, trade volumes, production consumption, surplus and profits are concerned. This symmetry between the effects of an export tax and import tariff on the real economy is another manifestation of the well known Lerner symmetry theorem of international economics (Lerner, 1936). However, now the exchange rate appreciates, and this shows up as an increase in GDP measured at world prices. Hence the ratios of surplus, profits, and taxes to GDP do not stay the same.
+As long as the initial trade balance is zero the impact on the absolute levels of taxes is also the same as when the export tax is increased. When, however, initial trade is in deficit the increase in tax revenue from a tariff increase is larger, compared to the increase from a tax increase. This is because initially there are more imports than exports. Given this symmetry, for the rest of this Chapter we shall deal only with changes in export taxes.
+The next question we deal with involves the issue of whether increased rates of export taxation always increases the surplus of the economy. Sah and Stiglitz (1987), using a different model, showed that there is an initial level of the terms of trade of agriculture which maximizes the surplus generated in the economy. In other words, if initially the economy imposes a rate of agricultural taxation higher than this level, it is best to diminish the overall rate of taxation in order to increase the surplus, and vice versa in the case where agriculture is initially "undertaxed". In terms of our model this would imply that the change in the surplus would be positive for low rates of initial taxation and negative otherwise.
+Table 10 exhibits multipliers with respect to a 10 percent increase in the rate of export taxation in a stylized economy which is very poor (economy type 11 in our typology) with a large initial share of agriculture in GDP, under initially balanced trade. It can be seen that the export and import volumes will increase in response to increased agricultural taxation if the initial levels of agricultural taxation are low. This is because the declines in welfare are initially high, as seen in column 1, and hence the decline in consumption of food is much higher than in the production of agriculture, and hence there is more to export. The increased exports under balanced trade induce more imports which are needed for the increased production (and profits) of non-agriculture.
+The welfare of workers is seen to decline, and so is GDP measured at world prices. The surplus, however, is always seen to increase, even when the initial rate of export taxation is extreme, namely 95 percent. The increase is highest for low levels of initial taxation, and declines for higher initial levels of export taxation. Table 11 exhibits percent changes in the surplus for the same economy, under the assumption that the trade is initially in deficit at various shares of GDP. When external trade is in deficit it is possible that initially agricultural exports are negative, namely there are net agricultural imports. In this case "taxation" of agriculture in essence is a subsidy on imports of agricultural products, and total net tax revenue might turn negative, namely into a net treasury loss. The policy in other words in such a case is to initially subsidize agricultural imports. In the cases of Table 11 agricultural exports are initially negative in the last four cases
+of the 5 percent column, the last 9 cases in the 10 percent column, all but the first three cases in the 15 percent column, and all cases in the last two columns. It can, nevertheless be seen from the figures of the table that except for extreme cases the response of the surplus to an increase in the rate of agricultural taxation is still positive.
+Of course, the cost is a decline in the welfare of workers and a decline in real GDP, which in fact can be quite large if initially the level of agricultural taxation is large. The conclusion is that the surplus can almost always be increased in a very undeveloped economy by agricultural taxation, albeit the cost is increasingly high in terms of declines in GDP.
+The same, however, is not true in a more developed economy. Table 12 exhibits the responses of some variables for the most "developed" of our stylized economies, namely number 12. This economy, as can be recalled, had the lowest initial share of agriculture in GDP, and the lowest share of labour employed in GDP. For ail initial levels of export taxation this economy exhibits positive agricultural exports.
+Table 10 Multipliers (elasticities) with respect to a 10 percent increase in the rate of export tax in a least developed economy (type 11) under balanced initial trade (all figures are percent changes in the relevant variable)
+Initial rate of
+Export tax
+(percent) Worker
+welfare Export volume Import
+volume GDP Profits Taxes* Surplus
+* Change in Absolute Level of Taxes divided by Initial (GDP).
+Continue
+<section>c</section>
+Table 11 Percent changes in surplus in response to a 10 percent change in the rate of export taxation for economy type 11
+Initial rate of export tax
+(percent) 
+Initial trade deficit as a share of GDP (percent)
+Table 12 Multiplier (elasticities) with respect to a 10 percent increase in the rate of export tax in a more developed LDC (type 12) under balanced initial trade deficit (all figures are percent changes in the relevant variable)
+Initial rate of
+export tax
+(percent) Worker
+welfare Export volume Import
+volume GDP Profits Taxes* Surplus
+* Change in Absolute Level of Taxes divided by Initial GDP.
+It can be seen from Table 12, that for this economy, there is an initial level of export taxation, above which further taxation leads to a decline in the surplus. This initial level of taxation is quite high however, namely between 70 and 75 percent. Hence for lower levels of initial taxation the conclusion still holds that the surplus can be increased by increases in agricultural taxation.
+Table 13 reproduces Table 11 for this type of more developed LDC. It is apparent that in all cases there is an optimum level of export taxation in the sense that if the initial level is below that, the total surplus can be increased with increased rates of agricultural taxation. This level, however, is quite high. The overall conclusion then is that in most types of agrarian developing economies, the economic surplus can indeed be increased by increases in agricultural taxation.
+<section>d</section>
+Chapter seven: Fixed exchange rate and import taxation and the surplus under rationing
+Under this regime, a change in the agricultural export taxation will not alter the exchange rate, but instead the implicit tariff on agricultural imports, in order to keep the external trade balance constant. The question is whether this policy generates more surplus compared to the flexible exchange rate regime.
+Table 14 indicates the percent response of several variables (the same as those indicated in Table 9), to a 10 percent increase in the export tax rate, for the 20 stylized economies analyzed earlier, under this regime. Comparing the figures of Table 14 with those of Table 9, which indicate the responses under a flexible exchange rate regime several important points emerge.
+First the welfare of workers is reduced considerably more under the rationing regime A[r] compared to the flexible exchange rate regime A[c]. The volume of exports as well as the volume of imports decrease much more under this regime. The latter effect is due to the fact that the implicit import tariff increases by more than the increase in the nominal exchange rate under regime A[c]. The intersectoral shifts in production between agriculture and non-agriculture are substantially larger, resulting in larger declines in agricultural production, coupled with larger increases in non-agricultural production.
+Interestingly GDP measured at world prices increases. Recall from Appendix B (re. equation B.36) that the economy's GDP at world prices and exchange rate e is
+Table 13 Percent changes in surplus in response to a 10 percent increase in the rate of export taxation for economy type 12
+Initial rate of export tax
+(percent) Initial trade deficit as a share of GDP (percent)
+Table 14 Percent response to a 10 percent increase in the export tax rate under import rationing
+Economy
+type Implicit
+import
+tariff
+Worker
+welfare Export
+volume Import
+volume Profits
+Taxes* Surplus GDP Production of Consumption of
+Agriculture Non-
+agriculture Agriculture Non
+agriculture
+Continue
+<section>e</section>
+Continued
+Increased GDP is then the joint result of substantial increases in nonagricultural production coupled with big declines in imports. The increase in the price of imports and consequent decline in quantity of imports is more than counterbalanced in the production of non-agriculture by the influx of labour from agriculture. However, this labour is now cheap, and hence profits increase.
+Note the sharp increase in tax revenue despite the fall in export and import volumes. The reason is the substantial increase in implicit tax revenue from rationing. The net result is an increase in the overall surplus of the economy, which is achieved largely with the increased impoverishment of workers.
+Table 15 presents the response to a 10 percent increase in the export tax rate for the least developed economy of our sample (number 11), under different initial levels of export tax. The noticeable thing is that at higher initial agricultural tax rates, further taxation yields smaller further amounts of surplus, while it leads to declines in GDP. The simulations are repeated for a more developed LDC (number 12) in Table 16. It is apparent there that there is a level of initial export tax above which further increases in export taxation lead to declines in the generated surplus. By comparing Tables 12 and 16 this initial level is similar in both cases, namely between 70 and 75 percent.
+The overall conclusion then is that taxation supplemented with import rationing will lead to more surplus for a given economy, but at higher domestic welfare cost.
+Table 15 Percent response to a 10 percent increase in the export tax rate under import rationing for a least developed LDC (number 11) under various initial export tax rates
+Initial rate
+of export
+tax
+(percent) Implicit
+import
+tariff
+Worker
+welfare Export
+volume Import
+volume Profits
+Taxes* Surplus GDP Production of Consumption of
+Agriculture Non-
+agriculture Agriculture Non
+agriculture
+Table 16 Percent response to a 10 percent increase in the export tax rate under import rationing for a more developed LDC (number 12) under various initial export tax rates
+Initial rate
+of exporttax (percent) Implicit
+import
+tariff
+Worker
+welfare Export
+volume Import
+volume Profits
+Taxes* Surplus GDP Production of Consumption of
+Agriculture Non-
+agriculture Agriculture Non
+agriculture
+<section>f</section>
+Chapter eight: Responses of the surplus to external shocks under flexible exchange rates and rationing
+In this Chapter we analyze how the surplus of a developing economy responds to external shocks when the policy regime allows flexibility in the exchange rate or when imports are rationed under a rigid exchange rate.
+The crisis in many LDCs during the period of the late 1970s and early 1980s arose because of lack of appropriate responses to external shocks. In most cases the shock was associated with a decline in the external terms of trade.
+Table 17 exhibits the changes in the basic economic magnitudes for our 20 stylized economies, under the assumption that there is a 10 percent decline in the foreign price of agricultural exports, and the exchange rate is allowed to vary to keep the external balance constant (and equal to zero). It can be seen that the exchange rate depreciates but by less than 10 percent in all cases, in order to maintain the external balance. This implies a lower internal terms of trade of agriculture, and lower volume of imports.
+Domestic production shifts are guided by the price of agriculture relative to the production cost of non-agriculture. The decline in the nominal wage of workers, induced by lower agricultural prices, to an extend counterbalances the increased cost of imports in non-agriculture. The net effect on non-agricultural production, however, appears to be negative in all cases. This implies that labour demand in non-agriculture might be positive or negative, depending on relative prices between labour and imports. Hence, despite external terms of trade declines, it might be possible that agricultural production is slightly enhanced and this appears to be the case in some of the economies in Table 17.
+In all cases the GDP is seen to decline by large amounts, and the surplus also appears to decline. It is only for our "least developed economy" (number 11 ) where the surplus increases, but at the cost of huge GDP declines and welfare losses for workers.
+Table 18 presents the responses of the same economies under a 10 percent decline in the price of exports, under the import rationing regime A[r]. By comparing the figures in this table with those of Table 17 several notable patterns emerge. First, in all cases the induced increase in the implicit tariff is much larger than the devaluation of the exchange rate in Table 17. Second, production of agriculture declines more, and production of non-agriculture less (or increases more), compared to the case of Table 17. This is because the full brunt of the external decline in the price of agriculture is born by the domestic price of agriculture in the absence of exchange rate adjustment. The release of agricultural labour enhances the production of non-agriculture, and counteracts the impact of the increase in the implicit tariff.
+The volume of agricultural exports and the volume of imports in most cases decline more (or increase less). However, the volume of surplus in all cases is much larger under this regime compared to the flexible exchange rate regime. The reason is mainly the large increase in implicit tariff revenue.
+The decline in GDP is smaller under this regime, compared to the decline under flexible exchange rate. The reason is that now agricultural production, which is valued at the smaller world prices, declines more and hence the loss in internationally valued income is less.
+Table 17 Responses to a 10 percent decrease in the world price of agriculture under flexible exchange rates for 20 stylized economies
+Economy
+type Exchange rate
+Worker
+welfare Export
+volume Import
+volume Profits
+Taxes* Surplus GDP Production of Consumption of
+Agriculture Non-
+agriculture Agriculture Non
+agriculture
+Table 18 Responses to a 10 percent decrease in the world price of agriculture under import rationing
+Economy
+type Change in implicit
+import
+tariff
+Worker
+welfare Export
+volume Import
+volume Profits
+Taxes* Surplus GDP Production of Consumption of
+Agriculture Non-
+agriculture Agriculture Non
+agriculture
+Continue
+<section>g</section>
+Continued
+The pattern of worker welfare is interesting. For some economies (numbers 1-4 and 12-15), worker welfare declines more under this policy compared to the flexible exchange rate policy, while for the other economies the decline is smaller. To delve into the reasons for this consider expression (5.4) for the change in worker welfare, and use the expressions for the change in the nominal wage and the domestic prices from Appendix B (equations B.27, B.28 and B.39). By substitution we obtain the following expression for the change in worker welfare.
+where, using the notation of Appendix B
+and
+Under regime A[c] the changes in the two domestic prices are determined by the exchange rate changes and the exogenous price changes.
+The conclusion from the above analysis is that if a developing economy responds to an external terms of trade shock by adjusting the exchange rate, then it is likely to lose surplus, in addition to losses in GDP and worker welfare. If, on the other hand, it responds by rationing imports, then it will most likely increase the amount of generated surplus, at the cost of reduced GDP, and in many case reduced worker welfare. However, the possibility exists, especially in least developed economies with large food budget shares, that the negative external shock can produce both increased surplus, as well as improved worker welfare.
+We now turn to responses induced by changes in the availability of external finance. Table 19 present the responses of our 20 stylized economies to a decrease in the volume of external finance (F) equal to one percent of base GDP. Under flexible exchange rates this leads to a devaluation, increases in exports and decreases in imports, as one would expect from increases in the domestic prices of exports and imports. Gross domestic product, as well as worker welfare decline, and the volume of surplus declines significantly, especially for those least developed economies that initially are characterized by low volumes of total surplus.
+Table 20 presents the same responses under the import rationing regime. It can be seen that under import rationing the implicit tariff increases by more than the devaluation of the exchange rate under regime A[c]. The welfare of workers declines by mote in all cases, export volumes increase by less, while import volumes decline by more, compared to responses under the flexible exchange rate regime. GDP declines by less, and the increase in agricultural production along with the decline in non-agricultural production are smaller. The volume of surplus, however, declines by smaller amounts compared to the flexible exchange rates. The conclusion is that under import rationing the surplus declines by less under an external financing decline, compared to a policy of flexible exchange rates. The cost is lower worker welfare.
+The results in this Chapter might help understand the responses of several developing countries under shocks in the early 1980s. It was shown here that under import rationing the volume of surplus would adjust in a more favourable fashion compared to a policy of flexible exchange rates.
+Clearly if most of the surplus is appropriated by the government, then overvaluation seems like a rational response on its part.
+Table 19 Responses (percent changes) to a 1 percent decrease in the availability of external finance (as a share of GDP) under flexible exchange rate
+Economy
+type Exchange rate
+Worker
+welfare Export
+volume Import
+volume Profits
+Taxes* Surplus GDP Production of Consumption of
+Agriculture Non-
+agriculture Agriculture Non
+agriculture
+Table 20 Responses (percent changes) to a 1 percent decrease in the availability of external finance (as a share of GDP)
+Economy
+type Change in implicit
+tariff
+Worker
+welfare Export
+volume Import
+volume Profits
+Taxes* Surplus GDP Production of Consumption of
+Agriculture Non-
+agriculture Agriculture Non
+agriculture
+<section>h</section>
+Chapter nine: Structural adjustment policies, parallel markets and economic surplus
+The discussion in the previous six chapters did not consider government spending or operations, but only the magnitude of the total surplus, that is available to the economy for public spending and public or private investment. This surplus is derived from non-agricultural sector profits and trade taxes. Non-agricultural sector profits do not all have to accrue to the private sector if the government owns some corporations directly involved in productive activities, as is customary in many developing countries.
+Consider now the nature of government current spending G. Since the sum of this and total investment l is equal to the magnitude of the economic surplus R as discussed in Chapter 3, the allocation of the surplus between G and I, is a matter of political economy. For instance if all non-agricultural productive activity is publicly owned, then all the surplus accrues to the government who decides about G and I. There is a minimum of government needed if the internal terms of trade are to be different than the international ones. The mechanisms for export and import taxation for instance, such as marketing boards and customs officials, all entail a cost. Ideally, of course this cost should be a small fraction of the revenue collected. Some basic public services such as police, defense, education, and health, as well as some public administration, also entail some real resources. In a well managed developing economy, these costs should not take up a large portion of the surplus
+so as to leave some for domestic capital formation.
+The problem with many of the late developing countries, and certainly with most of those in sub-Saharan Africa has been that the state ended up appropriating an inordinate amount of the economic surplus, for current consumption G. leaving very little for domestic investment. In fact one of the major reasons precipitating the crises in many countries was the deterioration in physical capital and infrastructure, which reduced the capacity of the economy to produce.
+Investment in many countries during pre-crisis periods was largely maintained through external donor support. In terms of the model developed earlier, a large part of foreign savings was utilized to maintain domestic investment levels. However, the decline in availability of foreign exchange that usually preceded the crises exposed the severity of the problem of appropriation of the domestic surplus.
+There are several mechanisms of public appropriation of the non-tax economic surplus. (Which in the model analyzed above is identified as non-agricultural profits P ). A relatively straightforward one is when all non-agricultural (and some agricultural) capital and firms are owned by the state. This is an extreme situation which prevailed in several centrally planned economies in Eastern Europe, and it is no coincidence that the scissors problem was first analyzed in the context of such economies.
+In economies where non-agricultural capital ownership is mixed, a substantial portion of profits accrues to the private sector. However, unless firms are small and/or hold their profits in cash, they will deposit a substantial portion in the banks. If these in turn are state owned, or state controlled, a situation which is most prevalent in developing countries, then appropriation of the surplus can occur through the allocation of credit. For instance financing losing corporations or marketing agencies, through overdrafts is equivalent to appropriating investment funds for current consumption. Direct taxation of profits is also possible but it is not a large source of revenue in developing countries.
+Another way of appropriating surplus is through the inflation tax. This refers to the erosion of the purchasing power of domestic money holdings. This can happen through inflation, generated, by expanding the domestic money base in order to finance public deficits. The reduction in real purchasing power of the domestic money holders is the real value of the tax.
+The major effort of stabilization programs is to reduce current public spending, which in our framework may reduce investment. Structural adjustment programs, on the other hand, in addition to reducing the role of the public sector try to improve the internal efficiency of the economy and bring the real exchange rate closer to its equilibrium value. The resulting increases in incomes tend to increase domestic resources to the public sector, and thus favour increased public investment. In agriculture the reforms usually take the form of liberalizing domestic marketing of both non-traceable as well as export crops.
+It was discussed earlier that export marketing boards can be an efficient mechanism for revenue collection while preserving the economies of scale needed for international marketing. There are many marketing boards in both developed and developing countries, which are owned and operated by producers, and are quite efficient. Taxing agriculture through such institutions is quite easy and does not differ from indirect taxation of any corporation. Given that profits are returned to producers, there is every incentive to keep operations efficient. The problem with many developing country marketing boards is that they were expropriated by the state, and operated with state rather than producer interests in mind. It is no accident that they quickly became very inefficient, and they are rightly targets of reform.
+Given the above discussion and the earlier model, structural adjustment programs, by decreasing the internal taxation of agriculture might be considered as decreasing the real value of the total surplus of the economy. On the other hand by trying to reduce the role of government and the magnitude of current public spending G. they try to shift a larger share of the economic surplus towards investment. The net outcome as far as aggregate investment is concerned is ambiguous.
+This logic, however, is based on the assumption that the economy and the internal terms of trade can be costlessly manipulated by the state. The earlier discussion assumed that the internal terms of trade could indeed be effectively controlled. The very large rates of taxation of exports, and agricultural products in developing countries, however, have in most cases created parallel markets where goods are exchanged at market rates. In other words control of the internal terms of trade is lost through the parallel market mechanism. Given the possibility of parallel markets, the situation arises whereby stricter controls, namely higher effective rates of taxation, might lead to more evasion through parallel markets. In such situation, it is possible that the effective tax revenue of the state might increase up to a certain point with increasing rates of taxation, but decline thereafter through erosion of the tax base, along well known Laffer curve type of reasoning. In other
+words part of the economic surplus generated by the economy moves beyond possible appropriation by the state.
+This thinking, however, raises another issue relevant in the context of adjustment. Parallel markets, which develop in response to economic controls, shift part of the economy's activity to an uncontrolled unofficial mode. However, economic activity in the parallel sector does generate its own surplus in addition to the surplus of the "official economy". Does the imposition of controls in the presence of parallel markets imply that the total real value of the economy's surplus, is lower than in the case of no parallel markets? It is not a-priori clear what the answer to this question is. The reason is that existence of parallel markets creates rents. To enter parallel markets usually involves real costs in terms of time lost to non-sanctioned activities, but also involves transfers as those offering parallel transactions, must be matched with those demanding the transactions, and the intermediaries make nonproductive profits.
+The existence of parallel markets implies in practice that the effective internal terms of trade of agriculture, defined as a weighted average of the controlled and uncontrolled terms of trade, cannot be depressed beyond a certain point. If this point is above the point of maximum surplus analyzed before, then the surplus generated by the taxation is smaller than what is theoretically possible. Equivalently, one might reason that in the presence of parallel markets there is a point of official taxation which will generate the maximum total economic surplus. This level of official taxation might be larger than what is dictated by the case of complete control, because one has to balance the large surplus generated by large taxation of the controlled sector with the small surplus generated in the uncontrolled sector.
+In such an initially distorted setting, reducing the official rate of effective taxation will reduce the total surplus generated by the controlled sector, but by lessening parallel activities, will increase the size of this sector. The effect on total surplus could be positive or negative. However, when the reduction of the degree of control and taxation is coupled with a reduction of the size of the state by reducing the real value of G. then the likely impact is an increase in the surplus available for domestic investment. All structural adjustment programs, in addition to prescribing lower official effective taxation of traded goods, usually specify a reduction in the size of government. According to the logic discussed above this has the effect of releasing more domestic resources for investment and hence growth, albeit it might reduce the size of the aggregate economic surplus. In other words, the existence of parallel activities is likely to strengthen the case for
+structural adjustment programs as far as generation of investment is concerned.
+That structural adjustment programs which aim at changing the real exchange rate must be accompanied by fiscal reforms, has been recognized in the theoretical literature both in the absence of parallel markets (Khan and Lizondo (1987)), as well as in the presence of parallel markets (Pinto (1991)). However, in none of these or other works have the implications of reforms on aggregate investment been analyzed. The discussion here suggests that the issue of whether total economic surplus available for domestic investment (namely total surplus minus current public spending), increases or not after reforms depends on the degree of prior suppression of the internal official terms of trade, coupled with the nature and extent of parallel markets created by the controls. Albeit the prior existence of parallel markets should increase aggregate investment from structural adjustment programs, more than in the absence of parallel markets, it is not clear if the total surplus of the
+economy increases or not. It should be emphasized that the discussion above has focused on a rather narrow issue, i.e. changes in the availability of investment funds as a result of structural adjustment programmes. The magnitude of investment funds does not necessarily determine their growth effects. The latter will be determined by the efficiency of investment, i.e. the sectors and projects on which investment will be allocated as well as the magnitude of distortions in the economy. Thus, lower investment in a relatively undistorted economic environment may be more efficient in promoting growth than higher investment in a distorted economic environment. Moreover, the extent of distortions in the economy may be itself dependent on the way funds are raised which, in turn, reflects to a large extent the mode and magnitude of agricultural taxation.
+<section>i</section>
+Chapter ten: Other issues of agricultural taxation
+A major issue with adjustment programs in developing countries is the impact on different types of groups. Given that agricultural producers are usually among the poorest, the impact of adjustment programs on agricultural producers is an important one from a policy perspective.
+Since structural adjustment policies in agriculture usually try to dismantle or radically reorganize many of the agricultural institutions prevalent in developing countries, and especially the marketing monopolies, in order to diminish the extent of agricultural taxation, it is important to ask whether the original agricultural taxation policies have strong negative impact on agricultural producers. In developing countries taxation of agriculture is carried out mostly through price policies implemented through various monopolistic agencies. Cash crops and especially export crops are the ones that are more often under control. Staple food crops on the other hand, because of their widespread production and consumption are much harder to effectively control.
+The impact on agricultural producers of price controls on certain cash crops will depend on the structure of production and consumption of various groups. If export crop production is concentrated on large farmers then of course taxation will influence them the most, while if it is concentrated among small scale producers, they will be the ones to suffer. Apart from the structure of agricultural income, the impact of taxation or reforms will depend on non-agricultural wage and non-wage income. It was seen earlier that worker welfare is likely to fall with an increase in taxation, while the surplus will increase. It was also shown that the level of non-agricultural profits P in most cases will increase as taxation increases and implicit tariff revenue (rents) will also increase. Hence agricultural taxation will hurt agricultural producers if they do not partake of some of nonagricultural profits or rents.
+Another major issue concerns the efficiency of investments when carried by the private versus the public sector. Depressing the internal terms of trade of agriculture might diminish private sector profits and hence savings, while it will in all likelihood increase public sector revenues (since it increases the overall surplus). Hence to the extent that private sector investments are financed by retained private earnings, one expects that internal agricultural taxation will depress private investment. It might increase public investment to the extent that the state does not use the increased surplus for current consumption, but it might also decrease it to the detriment of total investment.
+Structural adjustment programs to the extent that they reduce effective agricultural taxation tend to stimulate domestic private savings, and hence one would expect that they will stimulate private investment. Public investment on the other hand almost invariably suffers as the decline in state tax revenues is faster than the decline in real public spending. If the efficiency of private investment depends on the available infrastructure, then if additional foreign exchange inflows do not makeup for the decline in public investment funds, private investments might not be profitable and might eventually dry out. In most cases the adoption of structural adjustment programs entails an increase in foreign exchange inflows. To the extent that these inflows are not used just to pay-off old debts or to cover current deficits, public investment could indeed rise.
+Another issue concerns institutional reform. In agriculture, reforms under structural adjustment programs usually take the form of privatization of marketing, and abolition of parastatals. It was argued earlier that export marketing boards are usually necessary in terms of the economies of scale inherent in export marketing. They also form an efficient taxation mechanism, as long as the level of taxation is not large, and they are efficiently operated. This implies that such marketing boards do not need to be abolished but rather that they need to be returned to the producers whom they serve, in order to be operated more efficiently. In such cases privatization seems warranted.
+Concerning food marketing, state intervention will usually not be adequate to control trade, simply because of the size and pervasiveness of food trade. It is no coincidence that public food agencies almost invariably entail substantial operating losses, as they cannot usually be as efficient as small scale private traders. Given that control of staple food markets is almost impossible, the taxation objective cannot be served very well. Reforms of such agencies, towards either privatization, or restriction of operations to specialized institutions therefore are in the right direction.
+<section>j</section>
+Chapter eleven: Summary and concluding remarks
+A major objective of structural adjustment programs in late developing countries is to reduce the level of effective taxation of agriculture and mobilize resources for growth. The effective taxation of agriculture can be reduced by devaluating the exchange rate, and by policies aimed at decreasing the subsidies, or increasing the taxes on the non-agricultural sectors. At the same time all structural adjustment programs try to diminish the size of the public sector by reducing current government spending.
+The first conclusion of this paper is that the total surplus of the economy, defined as the sum of private saving and tax revenues, is conceptually separate from the issue of the division of the surplus between the public and the private sector. It was seen in the body of the paper that to increase the size of the surplus in an agrarian developing economy, agricultural explicit and implicit taxation must be increased. The size of the surplus can be increased by suppressing both domestic real wages as well as by increasing domestic profits, explicit tax receipts and rents.
+It was seen that at low initial levels of effective agricultural taxation it almost always pays to depress the terms of trade of agriculture. Under a policy regime whereby external donors accommodate any ensuing external deficits, such a policy will improve worker welfare. This perhaps comes close to illustrating the situation in many late developing countries in the nineteen fifties and sixties.
+Under constraints in external finance it was seen that the impact of increased agricultural taxation leads to declines in worker welfare, the volume of exports, and substantial increases in the surplus. However, the magnitude of the relevant multipliers depends on the particular policy regime. Under flexible exchange rates the multipliers of the surplus with respect to agricultural taxation are smaller compared to a situation of fixed exchange rates and import rationing. Similarly the response of the surplus to external shocks is better under import rationing, albeit at the cost of worsened worker welfare. This perhaps illustrates the reasons for which so many governments in developing countries adopted import rationing regimes in the face of external shocks.
+From a growth perspective, however, the issue is not one of the size of the surplus, but the division of this between current public consumption and total investment [public and private). If the size of current government spending expands faster than the increase in the total surplus of the economy, then aggregate investment will be crowded out and subsequent growth will be smaller.
+Consider now the question of the type of government spending. Conceptually total current public spending can be divided between two parts. The first part can be viewed as that needed in order to maintain an internal agricultural terms of trade at some level below the international level. In other words one needs some bureaucracy to maintain border and other taxes and collect revenues from the export marketing boards. The second part of public current spending is that going for all other purposes. The split can be thought of as between the budget for the taxing authorities and all the rest.
+It will usually be the case that increased amounts of taxation will necessitate increased public expenditure on running the taxing bureaucracy. The marginal net revenue from increased rates of taxation, namely the difference between the extra revenue obtained and the extra cost needed to collect the revenue should be positive before higher levels of taxation are contemplated. However, what has happened in many developing countries is that this net marginal revenue has become negative. For instance, some export marketing boards in some countries have run up operational expenses that are above their trading profits arising from paying farmers a price lower than world price. In such a case of course the cost of running the bureaucracy is above the tax revenue that is obtained. Clearly such cases should be targets of reform.
+Reform, however, can take several forms. On the one hand the whole process can be privatized and the bureaucracy abolished. This will decrease the rate of taxation on the private sector and will also decrease public spending. However, since tax revenues must be obtained somehow in a modernizing state, it might be more appropriate to restructure the taxing bureaucracies without abolishing them, so as to make them more efficient, and at the same time reduce the level of taxation. It must be realized that high rates of taxation can created strong incentives to bribe and hence corrupt taxing authorities. One way to diminish this is, of course, to lower the overall rate of taxation. However, unless this decrease in taxation is combined with a reduction in inefficiency or size of the bureaucracy the reduction in the rate of taxation might increase the public deficit from this source. In some countries innovative ways have been suggested to improve enforcement. For instance tax
+personnel in one country were given a share of the tax proceeds with very positive response in terms of total public revenue collected.
+Assuming that public spending is viewed conceptually in this mode, one of the objects of reforms is thus seen to be to improve on the "benefit-cost" ratio of taxation. The rate of taxation must also be viewed in this sense in addition to its impact on private savings. However, it is usually the other "part" of public spending which might need real reduction. This other part includes expenditures for basic services such as defense, police, running public infrastructure, etc., as well as other social and economic programs. Cutting of these latter programs is what often gives rise to acrimonious arguments between governments and donors. From the above arguments, however, it can be seen that concentrating on the restructuring and the efficiency of the taxing authorities might be a way to increase public revenues without necessitating cuts in other services considered basic.
+Turning now to the issue of the rate of taxation of agriculture it has been taken for granted in almost all structural adjustment programs that it should decline. The issue that was raised in this paper, however, is that the level of effective agricultural taxation should not be viewed independently of the enforcement institutions, as well as leakages through parallel markets. The functioning and welfare implications of such markets has not been adequately studied, but they are crucial in the context of developing economies. For instance it is interesting to ask what is the overall rate of agricultural taxation beyond which the creation of parallel markets and tax evasion makes increased taxation counterproductive. Simply said what is the "hump" of the Laffer curve for agricultural taxation? It was suggested here that the level of taxation at which this hump occurs is smaller in the presence of parallel markets.
+Structural adjustment programs by depreciating the exchange rate tend to increase private savings at the expense of public savings. An interesting issue is the response of private savings to the reforms. It is almost an axiom of the reform programs that private savings and hence investment will be more efficient from a growth perspective. However, much private saving in developing countries goes for consumption smoothing and not for productive investment. If this is the case then shifting the overall structure of saving from public to private, through reduction in the agricultural terms of trade, might reduce the overall rate of capital accumulation. This, however, depends on the relative efficiency of public versus private investment. Given risks, economies of scale etc., it is not at all clear that in a developing country context private investment will be more efficient than public one. However, the question is not so much that, but rather the structure of public
+investment between investment in productive activities and investment in public infrastructure. It is the heavy involvement of governments in the former to the detriment of the latter that has created the serious problems facing countries currently under adjustment programs.
+The overall conclusion of this paper is thus that agricultural taxation in developing countries in its various forms, must be looked at from a wider perspective than has been the case thus far. The importance of agriculture as a source of investible surplus should not be neglected, and should be kept separate from the institutional mechanism of surplus extraction. In fact it appears that it is the latter who are mostly under attack and reform. Care, however, should be taken not to use reduction in agricultural taxation as a substitute for direct institutional reform.
+<section>k</section>
+References
+Bardhan, P.K. 1970. Economic Growth, Development, and Foreign Trade. Wiley-Interscience. New York.
+Binswanger, H. 1989. The Policy Response of Agriculture. Proceedings of the World Bank Annual Conference on Development Economics. Supplement to the World Bank Economic Review and the World Bank Research Observer.
+Binswanger, H.P., Mundlak, Y., Yang, M.C. & Bowers, A. 1985.Estimates of Aggregate Agricultural Supply Response from Time Series of Cross-Country Data. World Bank EPDCS Working Paper 1985-3,Washington D.C.
+Bird, R.M. 1974. Taxing Agricultural Land in Developing Countries. Cambridge, Mass Harvard University Press.
+Blomqvist, A.G. 1986. The Economics of Price Scissors: Comment. American Economic Review, Vol. 76, No. 5, December, pp. 1188-91.
+Bond, M.E. 1983. Agricultural Responses to Prices in Sub-Saharan Africa. IMF Staff Papers, Vol. 30, No. 4, pp. 703-726.
+Carter, M.R. 1986. The Economics of Price Scissors: Comment. American Economic Review, Vol. 76, No. 5, December, pp. 1192-94.
+Deaton, A. 1980. The Measurement of Welfare: Theory and Practical Applications. World Bank, Living Standards Measurement Study Working Paper No. 7. Washington DC.
+Deaton, A. 1990. Saving in Developing Countries: Theory and Review. Proceedings of the World Bank Annual Conference on Development Economics 1989. Supplement to the World Bank Economic Review, and the World Bank Research Observer, pp. 61-96.
+Devarajan, S., Jones, C. & Roemer, M. 1989. Markets under Price Controls in Partial and General Equilibrium. World Development, Vol. 17, No. 12, December, pp. 1881 -1893.
+Haggblade, S. & Hazell, P. 1989. Agricultural Technology and Farm-Nonfarm Growth Linkages. Agricultural Economics, Vol. 3, pp. 345-364.
+Harris, J.R. & Todaro M. 1970. Mining, Unemployment, and Development: A Two-Sector Analysis. American Economic Review, Vol. 60, No. 1, pp. 126-142.
+Hazell, P. 1990. Agricultural Growth Linkages and the Alleviation of Rural Poverty: Importance and Applications for Agricultural and Macro Models, Chapter 5. In P. Pinstrup-Andersen, ed. Macroeconomic Policy Reforms, Poverty, and Nutrition: Analytical Methodologies. Cornell University, Food and Nutrition Policy Program, Monograph 3, Ithaca, February.
+Helleiner, G.K. 1964. The Fiscal Role of Marketing Boards in Nigerian Economic Development. Economic Journal, Vol. 74, pp. 582-610.
+Hirschman, A.O. 1958. The Strategy of Economic Development. New Haven. Yale University Press.
+Hoff, K. 1991. Land Taxes, Output Taxes, and Sharecropping: Was Henry George Right? World Bank Economic Review, Vol. 5, No. 1, January, pp. 93- 111.
+Hornby, J.M. 1968. Investment and Trade Policy in the Dual Economy. Economic Journal, Vol. LXXVIII, No. 309, March, pp. 96-107.
+Jones, R.W. 1971. A Three Factor Model in Theory, Trade and History. Chapter 1. In J. Bhagwati, R. Jones, R. Mundell, & J. Vanek, eds. Trade, Balance of Payments and Growth. Amsterdam, North Holland.
+Khan, M.S. & Lizondo, J.S. 1987. Devaluation, Fiscal Deficits and the Real Exchange Rate. The World Bank Economic Review, Vol. 1, No. 2, January, pp. 257-374.
+Krueger, A.O., Schiff, M. & Valdes, A. 1988. Agricultural Incentives in Developing Countries: Measuring the Effect of Sectoral and Economywide Policies. World Bank Economic Review, Vol. 2, No. 3, September, pp. 255-271.
+Lerner, A. 1936. The Symmetry between Import and Export Taxes. Economica, N.S. 3, August, pp. 306-313.
+Lipton, M. 1977. Why Poor People Stay Poor: Urban Bias in World Development. Cambridge: Harvard University Press.
+Mayer, W. 1974. Short-Run and Long-Run Equilibrium in a Small Open Economy. Journal of Political/ Economy, Vol. 82, September/October, pp. 955-68.
+Mellor, J.W. & Johnston, B.F. 1984. The World Food Equation: Interrelations among Development Employment and Food Consumption. Journal of Economic Literature, Vol. 22, pp. 531-574.
+Newbery, D.M.G. 11987). Agricultural Taxation: The Main Issues. In Newbery, D. & N. Stern, eds. The Theory of Taxation for Developing Countries, Oxford University Press for the World Bank.
+Newbery, D.M.G. & Stern N., eds. 1987. The Theory of Taxation for Developing Countries. Oxford University Press for the World Bank.
+Pinto, B. 1991. Black Markets for Foreign Exchange, Real Exchange Rates and Inflation. Journal of International Economics, Vol. 30, No. 1/2, February, pp. 121-136.
+Preobrazhensky, E. 1965. The New Economics. Oxford Clarendon Press.
+Sah, R.K. & Stiglitz, J.E. 1984, The Economics of Price Scissors. American Economic Review, Vol. 74, No. 1, March, pp. 125-138.
+Sah, R.K. & Stiglitz, J.E. 1986. The Economics of Price Scissors: Reply. American Economic Review, Vol. 76, No. 5, December, pp. 1195-99.
+Sah, R.K. & J.E. Stiglitz. 1987. Price Scissors and the Structure of the Economy. Ouarterly Journal of Economics, Vol. 112, No. 1, February, pp. 109-134.
+Sarris, A.H. 1993. Household Welfare during Crisis and Adjustment in Ghana. Journal of African Economics, Vol. 2(3), November.
+Schultz, T.W., ed. 1978. Distortions of Agricultural Incentives. Indiana University Press, Bloomington.
+Skinner, J. 1991. If Agricultural Land Taxation is So Efficient, Why is It So Rarely Used? World Bank Economic Review, Vol. 5, No. 1, January, pp. 113-133.
+Tanzi, V. 1987. Quantitative Characteristics of the Tax Systems of Developing Countries. In Newbery, D. & Stern, N., eds. The Theory of Taxation for Developing Countries. Oxford University Press for the World Bank.
+Timmer, P.C. 1988. The Agricultural Transformation, Chap. 8. In Chenery, H. & Srinivasan, T.N., eds. Handbook of Development Economics. Elsevier Publishers, Vol. l.
+Varian, H.R. 1984. Microeconomic Analysis. 2nd edition, W.W. Norton and Co., New York.
+<section>l</section>
+Appendix A Tables: Characteristics of the least developed economies in 1989
+Table A. 1 Characteristics of the least developed economies in 1989
+Population
+(millions) GNP percapita
+US$ Share of
+agriculture in
+GDP
+Percent Exports of
+agricultural
+products as a share
+of agricultural GDP
+Percent Share of
+total
+exports
+in GDP
+Percent Share of
+total
+imports
+in GDP
+Percent Share of
+total
+surplus
+in GDP
+Percent Share of
+trade
+deficit
+in GDP
+Percent
+Average (or Total) 2948.4 330 32 9.0 12.6 13.8 37 1.2
+India and China 1946.4 350 31 6.0 10.4 12.0 39 1.6
+All others 1002.0 300 33 15.7 17.3 17.8 33 0.5
+1 Mozambique 15.3 80 64 5.6 8.4 61.8 58 53.5
+2 Ethiopia 49.5 120 42 17.5 7.7 20.3 39 12.5
+3 Tanzania 23.8 130 66 12.2 10.2 33.1 33 22.8
+4 Somalia 6.1 170 65 11.2 7.5 12.2 44 4.7
+5 Bangladesh 110.7 180 44 4.1 6.4 17.4 20 11.0
+6 Lao PDR 4.1 180 26
+7 Malawi 8.2 180 35 50.4 18.9 35.8 34 16.9
+8 Nepal 18.4 180 58 1.2 5.6 20.6 30 15.1
+9 Chad 5.5 190 36 33.9 13.4 42.6 30 29.2
+10 Burundi 5.3 220 56 13.6 8.1 19.5 35 11.4
+11 Sierra Leone 4.0 220 46 7.0 15.4 21.2 21 5.8
+12 Madagascar 11.3 230 31 37.0 13.7 14.9 21 1.2
+13 Nigeria 113.8 250 31 5.1 31.1 12.4 22 -18.7
+14 Uganda 16.8 250 67 9.1 6.1 14.6 20 8.5
+15 Zaire 34.5 260 30 4.9 24.0 20.7 23 -3.2
+16 Mali 8.2 270 50 23.3 13.0 24.0 37 11.0
+17 Niger 7.4 290 36 12.3 18.1 22 5.9
+18 Burkina Faso 8.8 320 35 7.6 3.0 16.7 32 13.6
+19 Rwanda 6.9 320 37 10.8 4.1 15.3 29 11.3
+20 India 832.5 340 30 4.1 6.6 8.2 36 1.6
+21 China 1113.9 350 32 7.5 12.6 14.2 42 1.6
+22 Haiti 6.4 360 31 4.9 10.1 13.9 22 3.8
+23 Kenya 23.5 360 31 42.7 15.6 29.5 44 13.9
+24 Pakistan 109.9 370 27 15.8 13.0 19.9 35 6.9
+25 Benin 4.6 380 46 10.8 6.9 26.9 17 20.0
+26 Central African RE 3.0 390 42 9.8 8.8 8.4 24 -0.4
+21 Ghana 14.4 390 49 25.0 19.4 17.9 21 -1.5
+28 Togo 3.5 390 33 20.9 18.3 35.2 38 16.9
+29 Zambia 7.8 390 13 6.5 28.7 18.6 19 -10.1
+30 Guinea 5.6 430 30 3.2 15.6 16.9 28 1.3
+31 Sri Lanka 16.8 430 26 40.5 24.5 35.2 31 10.6
+32 Lesotho 1.7 470 24 85
+33 Indonesia 178.2 500 23 20.8 23.2 17.4 44 -5.8
+34 Mauritania 1.9 500 37 57.3 39.6 40.7 28 1.1
+35 Afghanistan
+36 Bhutan 1.4 45 53
+37 Kampuchea, Dem.
+38 Liberia 2.5
+39 Myanmar 40.8
+40 Sudan 24.5
+41 Viet Nam 64.8
+Continue
+<section>m</section>
+Continued
+Table A.2 Characteristics of the least developed economies in 1989
+Share of
+minus
+resource
+balance
+in GDP Share of
+public
+revenues
+in GDP Share of
+public
+consumption In
+GDP Share of
+taxes on
+goods and
+services
+in GDP Share of
+taxes on
+trade
+In GDP Share of
+domestic
+savings
+in GDP Share of
+total
+surplus
+in non
+agricultural Share of food
+in consumer
+expenditure
+GDP
+Percent Percent Percent Percent Percent Percent Percent Percent
+Average (or Total) 2 9 26 54.4
+India and China 2 8 30 56.9
+All others 4 12 18 49.3
+1 Mozambique 53 25 -19 161.1
+2 Ethiopia 8 27.6 26 5.8 5.4 5 66.8 50
+3 Tanzania 26 12 -5 112.5 64
+4 Somalia 35 23 -14 124.6
+5 Bangladesh 11 8.7 8 2.9 2.7 1 35.9 59
+6 Lao PDR 13 15 -2 26.0
+7 Malawi 15 22.2 15 7.9 3.5 4 52.6 55
+8 Nepal 12 11.2 11 4.0 3.4 7 71.6 57
+9 Chad 22 6.4 21 0.5 2.9 -13 46.6
+10 Burundi 13 17 5 79.1
+11 Sierra Leone 6 8.9 10 2.3 4.0 5 38.9 56
+12 Madagascar 5 8 8 30.6 59
+13 Nigeria -8 15.4 9 1.0 2.5 21 31.7 52
+14 Uganda 11 5.0 7 1.0 3.8 2 60.5
+15 Zaire -3 8.8 10 1.0 4.0 16 32.7 55
+16 Mali 15 20.1 10 5.8 2.4 11 74.6 57
+17 Niger 6 12 3 34.6
+18 Burkina Faso 17 13.0 13 1.7 5.1 2 49.5
+19 Rwanda 9 14 6 45.9 30
+20 India 3 18.5 12 6.6 4.9 21 51.7 52
+21 China 1 6 36 61.8 61
+22 Haiti 8 10 5 31.1
+23 Kenya 6 26.5 19 11.5 4.8 20 63.7 39
+24 Pakistan 6 20.2 17 6.7 6.6 11 48.0 54
+25 Benin 4 8 5 31.2 37
+26 Central African RE 11 14.6 15 1.9 6.6 -1 41.4
+27 Ghana 6 14.7 9 4.2 5.2 6 41.1 50
+28 Togo 7 30.8 17 2.4 9.9 13 57.0
+29 Zambia 4 7.1 10 2.6 1.1 5 21.9 37
+30 Guinea -1 10 19 39.7
+31 Sri Lanka 9 24.6 10 11.8 7.0 12 41.9 43
+32 Lesotho 121 50.8 19 11.3 28.3 -55 112.5
+33 Indonesia -2 17.4 9 4.3 1.0 37 57.5 48
+34 Mauritania 7 22.8 13 4 4 8.4 8 44.6
+35 Afghanistan
+36 Bhutan 20 14 19
+37 Kampuchea, Dem.
+38 Liberia
+39 Myanmar
+40 Sudan
+41 Viet Nam 60
+<section>n</section>
+Appendix B: Equations of the model in level and differential form
+The model considered in the main text is repeated here for convenience in level form. Exogenous variables are represented with an overbar, while parameters are denoted with Greek letters.
+Agricultural production:
+Non-agricultural production:
+Non-agricultural labour demand:
+Demand for imports:
+Level of non-agricultural profits:
+Full employment:
+Wage determination:
+Commodity balances and surplus:
+Tax revenue:
+Resource balance:
+Domestic prices:
+The above equations constitute a system of 13 equations in 14 variables, namely X[a], X[n], L[a], L[n], P , M, w, E, S, T, F, e, p[m] and p[a].
+where the following parameters are defined in the initial equilibrium
+where
+Similarly using (B.7) and (B.8) it can easily be shown that
+Using the same logic that led to (B.35) we can find the ratio of imports to the country's Gross Domestic Product (GDP) Y and the ratio of exports to GDP. In the model specified the country's GDP at international prices is given by
+Using (B.36) it is easy to derive the following expressions (remember we have normalized the initial exchange rate e^0 to be equal to one)
+These expressions prove quite helpful in the empirical specification of the model.
+Using the above equations we can derive output supply elasticities for the agricultural and non-agricultural sectors. Combining (B.16), (B.20) and (B.19) we obtain an equation for wage determination
+where
+where
+Using (B.39) and (B.40) in (B.17) we obtain an expression for the change in imports
+Both of the multipliers above are negative.
+Using (B.23), (B.39), (B.14) and (B.20) we can also obtain an expression for the change in exports.
+The second multiplier above is positive while the sign of the first one is ambiguous.
+If we use (B.45) and (B.49) in (B.28) we obtain expressions for the multipliers of the tax revenue. Using the price equations (B.27), (B.28) we obtain
+When there is an external financial constraint under flexible exchange rates then the exchange rate adjusts to clear the external constraint, when there is a change in the tax or tariff rates. Using equations (B.26), (B.27), (B.28), (B.48) and (B.49) we derive an equation for the proportional change in the exchange rate
+Notice that if we denote by e[a] and e[m] the elasticity of the nominal exchange rate with respect to t[a] and t[m] respectively, then from (B.51) we have
+This relation implies that for every export tax there is an import tariff that has an equivalent impact on the exchange rate. Equivalently the impact on the exchange rate of an export tax can be neutralized by some import tariff.
+Given the attendant changes in the domestic prices
+Available economic and social development papers (ESD) Policy studies group policy analysis division
+A. Policy reform and the agricultural sector
+No. 65 Agricultural stabilization and structural adjustment policies in developing countries by Alexander H. Sarris (Rome 1987).
+No. 66 Agricultural issues in structural adjustment programs by Roger D. Norton (Rome 1987).
+No. 84 Measures of protection: methodology, economic interpretation and policy relevance by Pasquale L. Scandizzo (Rome 1989).
+No. 90 The impact of stabilization and structural adjustment policies on the rural sector - case studies of Côte d'lvoire, Senegal, Liberia, Zambia and Morocco by Pascal Salin and Emil-Maria Claassen (Rome 1991).
+No. 95 Guidelines for monitoring the impact of structure/ adjustment programmes on the agricultural sector by Alexander H.Sarris (Rome 1990).
+No. 96 The effects of trade and exchange rate policies on production in agriculture by C. Kirkpatrick and D.Diakosavvas (Rome 1990).
+No. 98 Institutional changes in agricultural product and input markets and their impact on agricultural performance by Ann Thomson (Rome 1991).
+No. 99 Agricultural labour markets and structural adjustment in Sub Saharan Africa by Lawrence D. Smith (Rome 19911.
+No. 100 Structural adjustment and household welfare in rural areas -a micro-economic perspective by Raghav Gaiha (Rome1991 ).
+No. 103 The impact of structural adjustment on smallholders by J.M. Boussard (Rome 1992).
+No. 104 Structural adjustment policy sequencing in Sub-Saharan Africa by L.D. Smith and Neil Spooner, Glasgow University (Rome 1991).
+No. 105 The role of public and private agents in the agricultural sector of developing countries by L.D. Smith and A.Thomson (Rome 1991).
+No. 115 Design of poverty alleviation strategy in rural areas by R. Gaiha (Rome, Jan. 1993). B. Environment and sustainable development studies
+No.107 Land reform and structural adjustment in Sub-Saharan Africa: controversies and guidelines by J.-Ph. Platteau (Rome 1992). French version "Réforme agraire et ajustement structurel en Afrique subsaharienne: controverses et orientations".
+No.110 Agricultural sustainability: definition and implications for agricultural and trade policy by T. Young (Rome 1992).
+No.121 Policies for sustainable development: four essays by A.
+Markandya (Rome, 1994).
+To acquire ESD papers please write to:
+* Distribution and Sales Section
+* Publications Division
+* FAO
+Forthcoming ESD papers
+* Agricultural taxation under structural adjustment, medium term growth and the rural poor by A. Sarris.
+* Growth theories, old and new, and the role of agriculture in economic development by N.H. Stern.
+* Analyzing the effects of liberalization scenarios in North-South production and trade patterns using computable general equilibrium model by P.L. Scandizzo.
+* A multidisciplinary analysis of local-level management of environmental resources by J.-Ph. Platteau and J.M. Baland (to be published by Oxford University Press).
+* Structural adjustment and agriculture: a comparative analysis of African end Asian experience by Alain de Janvry and E. Sadoulet.
+* Transition and price stabilization policies in Eastern European agriculture by E.-M. Claassen.
+* The economics of international agreements for the protection of environmental and agricultural resources: an economics perspective by Scott Barrett.
+Working papers policy studies group policy analysis division
+* Agricultural supply and price variability by J-M. Boussard, November 1991.
+* The theoretical and empirical analysis of agricultural trade of LDCs by T. Young, June 1991.
+* Structural adjustment and rural poverty in developing countries - a survey by Raghav Gaiha, 1989.
+* Agriculture non-agriculture interactions and the impact of stabilization and structural adjustment programs by Alexander H. Sarris, April 1 987.
+* Economic cooperation among developing countries in the supply and use of agricultural inputs. Considerations suggested by a technical consultation at FAO, 3-5 June, 1985.
+To acquire working papers please write to:
+* Senior Economist
+* Policy Studies Group
+* Policy Analysis Division
+* Food and Agriculture Organization of the United Nations 00153 Rome, Italy

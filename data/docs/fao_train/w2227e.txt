@@ -1,0 +1,2325 @@
+<title>FAO Panel of Experts on Forest Gene Resources. 9 Session. Report. Rome, Italy 3-5 October 1995. (FO:FGR/9/Rep.). Panel of Experts on Forest Gene Resources, 9th Session, Report</title>
+<section>1</section>
+Acronyms^1
+CGIAR
+Consultative Group on International Agricultural Research (USA)
+CIFOR
+Centre for International Forestry Research of the CGIAR (Indonesia)
+CIRAD-Forêt
+Centre de Coopération Internationale en Recherche Agronomique pour le Développement (France).
+CSIRO
+Commonwealth Scientific and Industrial Research Organization (Australia)
+DFSC
+DANIDA Forest Seed Centre (Denmark)
+FAO
+Food and Agriculture Organization of the United Nations (Italy)
+IPGRI^2
+International Plant Genetic Resources Institute of the CGIAR (Italy)
+ICRAF
+International Centre for Research in Agroforestry of the CGIAR (Kenya)
+IUCN
+World Conservation Union (Switzerland)
+IUFRO
+International Union of Forestry Research Organizations (Austria)
+UNCED
+United Nations Conference on Environment and Development (Rio de Janeiro, Brazil 3-14 June 1992)
+UNDP
+United Nations Development Programme (USA)
+UNEP
+United Nations Environment Programme (Kenya)
+Unesco
+United Nations Educational, Scientific and Cultural Organization (France)
+WCMC
+World Conservation Monitoring Centre (U.K.)
+WWF
+World Wide Fund for Nature (Switzerland)
+^1 Location of Headquarters is given in brackets.
+^2 Earlier known as International Board for Plant Genetic Resources, IBPGR.
+<section>2</section>
+Summary of recommendations
+The Panel:
+· recommended that the distinctive nature of work in the forest genetic resources field, which required specialized technical and scientific knowledge, continue to be reflected in the work programme of FAO; and that the increased demands for support to global action and expansion in scope of activities, be acknowledged and adequately catered for (§3)^3.
+3 Paragraph numbers (§-) refer to the main text, in which each recommendation is found in context.
+· recommended that FAO continue to provide strong international leadership and a point of reference for the world community in the field of forest genetic resources, in which the competence of the Organization was commonly recognized (§4).
+· recommended that the collegial relations, mutual esteem and widespread goodwill which existed at all levels in the generally closely-knit forest genetic resources community, be fostered and drawn upon for the benefit of sustainable forestry development, worldwide (§5).
+· recommended that FAO, supported by the global forest genetic resources community, help ensure that technically and scientifically solid information on genetic conservation aspects was made available to fora in which decisions were made on criteria and indicators for sustainable forest management and on variables to be assessed in national, regional and global resource surveys (§8).
+· recommended that FAO assist countries to develop or further strengthen national strategies and action plans for the conservation, development and sustainable use of forest genetic resources (§10).
+· recommended that FAO, in collaboration with its national and international partners, and with the active assistance of members of the present Panel, help raise awareness in member countries of the need to ensure the presence at the Fourth International Technical Conference on Plant Genetic Resources of country delegations covering, or aware of, forest genetic resource considerations and priorities, and aware of the contributions that the forestry sector can, and should, make to overall development of nations (§12).
+· recommended that, following the Fourth International Technical Conference on Plant Genetic Resources, FAO help convene workshops to discuss tropical and sub-tropical forest genetic resources programmes and priorities, on the same lines as those held, or planned to be held, in 1995 for boreal and temperate zones and for European forest genetic resources (§13).
+· recommended that support continue to be given, in a balanced manner, to forest genetic resources activities in the humid tropics, the dry tropics and the sub-tropics, and that exchange of information and genetic materials among and between these zones, as applicable, be vigorously promoted (§15).
+· recommended that FAO help support networking and twinning among and between developed and developing country institutions, and actively further the sharing and transfer of experiences, technologies and know-how (§16).
+· requested that the importance of the role played by international agencies and by mechanisms operating under the auspices of these agencies, such as the FAO Panel of Experts on Forest Gene Resources, in buffering against negative effects caused by institutional instability or turmoil in individual countries, and in providing an "early warning system" and an element of continuity over time, be fully recognized by decision makers in the international agencies concerned (§§ 17,18).
+· recommended, in particular, that the following activities receive continued and increased attention (§20)^4:
+4 See main text for specific action recommended under each of these activities [§20 (i)-(v)].
+(i) further development and documentation of methodologies and pilot activities in the in situ conservation of forest genetic resources, harmonized with sustainable forest management and wise use of the resources to meet present-day and future needs. Support to studies on ex situ conservation methods, as complements to in situ conservation;
+(ii) facilitation of exchange of forest reproductive materials, under mutually agreeable terms, for evaluation and conservation purposes;
+(iii) international coordination, and the provision of up-to-date information on the state of forest genetic resources, notably through continued development and regular up-dating of the FAO's Global Information System on Forest Genetic Resources;
+(iv) raising of awareness through the dissemination of information by traditional and electronic means, focussed on different levels of readership and a range of target audiences;
+(v) collaboration in international efforts to quantify the value of forest genetic resources and of conserving and developing such resources for their sustainable use.
+· recommended that FAO continue to coordinate activities within the framework of the "International Neem Network" (§23).
+· recommended that FAO take steps to catalyze further action and to coordinate already ongoing work in the conservation and sustainable use of mahogany species, initially focussing attention on species of neotropical genera of the Meliaceae. Activities should, in subsequent phases of the work, be expanded to cover also the Asia-Pacific and the African regions (§24).
+<section>3</section>
+I. The panel
+The FAO Panel of Experts on Forest Gene Resources was established in accordance with the directives of the Fourteenth Session of the FAO Conference (November 1967), which read as follows:
+"244. Forest Tree Genetic Resources. The Conference requested the Director-General to take into account Recommendation N° 62 of document C67/AG/FO/1 in formulating the Programme of Work and Budget 1970-71. It recognized that, as development proceeds in the less as well as in the more advanced areas of the world, the reserves of genetic variation stored in the natural forests have been or are being displaced on an increasing scale. Moreover, efforts to explore and collect forest genetic resources were, on a world scale, inadequate and inadequately concerted.
+245. The Conference requested the Director-General to establish a Panel of Experts on Forest Gene Resources to help plan and coordinate FAO's efforts to explore, utilize and conserve the gene resources of forest trees and, in particular, help prepare a detailed short-term programme and draft long-term programme for FAO's action in this field and to provide information to Member Governments."
+The Director-General established the Panel in 1968. A list of current members of the Panel is shown in Appendix 1.
+The Panel held its First Session in Rome, Italy in October 1968, its Second in Macon, Georgia (USA) in March 1971, its Third in Rome (Italy) in May 1974, its Fourth in Canberra (Australia) in March 1977, its Fifth in Rome (Italy) in December 1981, its Sixth in Rome (Italy) in December 1985, its Seventh in Rome (Italy) in December 1989 and its Eighth in Rome in June 1993. Reports of these Sessions have been published (FAO, Rome 1969, 1972, 1974, 1977, 1984, 1988, 1990, 1994).
+The Ninth Session of the Panel was held at FAO Headquarters, Rome, Italy from 3 to 5 October 1995.
+Members attending the Ninth Session of the FAO Panel of Experts on Forest Gene Resources were:
+Mr. S.J. Midgley
+(Australia)
+Mr. P.Y. Kageyama
+(Brazil)
+Mr. Wang Houran
+(China)
+Mr. P. Mesén
+(Costa Rica)
+Mr. B.A. Ditlevsen
+(Denmark) - Vice-Chairman
+Mr. V. Koski
+(Finland)
+Ms. H.I. Joly
+(France)
+Mr. D.N. Tewari
+(India)
+Mr. R. Morandini
+(Italy)^5
+Mr. F. Patiño Valera
+(Mexico) - Chairman
+Mr. Suree Bhumibhamon
+(Thailand)
+Mr. R.D. Barnes
+(U.K.)
+Mr. Gene Namkoong
+(Canada/USA)
+Mr. D.P. Gwaze
+(Zimbabwe).
+5 Represented also IUFRO.
+Mr. J.G. Lorougnon (Côte d'Ivoire), was unable to attend due to health reasons. The following observers attended the meeting:
+Mr. A.S. Ouedraogo
+(IPGRI)^6
+Mr. J. Turok
+(IPGRI)^7
+Mr. T. Simons
+(ICRAF)
+Mr. T. Boyle
+(CIFOR)
+Mr. N. Jones
+(World Bank)
+6 Joined, during part of the meeting, by other colleagues from IPGRI.
+^7 Coordinator of the European Forest Genetic Resources Network, EUFORGEN.
+Ms. Christel Palmberg-Lerche, Chief Forest Resources Development Service (FORM) acted as Secretary of the Panel, assisted by Mr. Oudara Souvannavong, Forestry Officer (Forest Genetic Resources) and Mr. Christian Hansen (Associate Professional Officer, Plantation Forestry and Forest Genetic Resources), FORM. Mr. J.P. Lanly, Director, Forest Resources Division (FORD), and Mr. H. El Lakany, Office of the Director-General, attended parts of the Session, further joined occasionally by colleagues from the Agriculture and Sustainable Development Departments.
+The Panel unanimously re-elected Mr. Fernando Patiño Valera of Mexico Chairman, and Dr. Bjerne Ditlevsen of Denmark Vice-Chairman. The Agenda adopted is shown in Appendix 2.
+A list of Secretariat Notes discussed by the Panel, is given in Appendix 3. In addition, each Panel member made a brief presentation and submitted information on the region or sub-region covered by him or her. Observers also made brief statements. Such information usefully supplemented the information provided in the Secretariat Notes on the present state of forest genetic resources in the world, programmes, priorities and desirable action.
+<section>4</section>
+II. Conclusions and recommendations
+1. The Panel reviewed global trends in the field of forest genetic resources and the work carried out by FAO since the previous session of the Panel in 1993. The discussions in this regard clearly demonstrated that, in response to increased international concern at policy making, scientific and popular levels, there had been rapid, world-wide expansion in action aimed at defining, measuring, monitoring and conserving biological diversity at the levels of ecosystems, species and intra-specific variation.
+2. The Panel noted that the above trends had lead to a substantial, positive increase in both the amount and the scope of on-going forest genetic resources work, worldwide, and that this expansion was closely linked to new dimensions of sustainable development. The Panel also noted the opportunities and possibilities afforded by recent scientific developments in genetics and breeding which, when wisely used, could provide new and powerful tools to help underpin action in the forest genetic resources field.
+3. The Panel recommended that the distinctive nature of work in the forest genetic resources field, which required specialized technical and scientific knowledge, continue to be reflected in the work programme of FAO; and that the increased demands for support to global action and expansion in scope, be acknowledged and adequately catered for.
+4. In this regard, the Panel recommended that FAO continue to provide strong international leadership and a point of reference for the world community in the field of forest genetic resources, in which the competence of the Organization was commonly recognized. It underlined the importance to further strengthen efforts to provide technically and scientifically sound information and advice to concerned international bodies, national institutes, non-governmental organizations and the private sector, to help catalyze field level action, and to help coordinate activities at national, regional and international levels.
+5. The Panel noted with appreciation the continued and growing collaboration in the forest genetic resources field between FAO and relevant Centres of the Consultative Group on International Agricultural Research, CGIAR (notably IPGRI, CIFOR and ICRAF); with organizations such as IUFRO and its Special Programme for Developing Countries; and with a large number of national, regional and sub-regional institutions. It recommended that the collegial relations, mutual esteem and widespread goodwill which existed at all levels in the generally closely-knit forest genetic resources community, be fostered and drawn upon for the benefit of sustainable forestry development, worldwide.
+6. The Panel took note of recent developments in related fields of forestry, including the ongoing international efforts to promote sustainable forestry development through the identification of criteria for sustainable forest management, and through the definition of common sustainability indicators for monitoring effects of human intervention or influences on forests and forest ecosystems. The conservation of biological diversity and genetic resources had, systematically, been identified among the common core criteria in such efforts.
+7. The Panel, further, noted the calls made in a number of international fora for including information on qualitative variables, such as levels and distribution of biological diversity, in the global forest resources assessments periodically published by FAO.
+8. In this regard, the Panel recommended that FAO, supported by the global forest genetic resources community, help ensure that technically and scientifically solid information on genetic conservation aspects was made available to fora in which decisions were made on criteria and indicators for sustainable forest management and on variables to be assessed in national, regional and global resource surveys. Such information was a prerequisite for sound decision-making and subsequent constructive action towards the conservation and development of genetic resources within the overall framework of forest management planning and the sustainable use of forest resources.
+9. The Panel welcomed the efforts underway to broaden the mandate of the inter-governmental FAO Commission on Plant Genetic Resources to cover also animal and fish genetic resources; and the promotion of appropriate linkages between work of the FAO Commission and the Secretariat of the Convention on Biological Diversity. It noted with appreciation that plans had been made for a broadened FAO Commission to be served by sectoral, technical and scientific bodies, including one on forest genetic resources.
+10. In more general terms, the Panel repeatedly stressed the need to ensure complementarity of forest genetic resources activities with broader frameworks of action, and their incorporation into i.a. national and regional forestry action programmes and forestry and environmental master plans. The Panel recommended that FAO assist countries to develop or further strengthen national strategies and action plans for the conservation, development and sustainable use of forest genetic resources. Such plans should be integrated into overall land use plans, thus ensuring their complementarity with agricultural, forestry and environmental development strategies.
+11. In regard to the Fourth International Technical Conference on Plant Genetic Resources (Leipzig, Germany 17-23 June 1996), the Panel acknowledged the attempts by FAO, through collaboration with national institutes concerned, to ensure that the distinctive strategies and methodologies used in the conservation and management of forest genetic resources received attention in the preparatory work for the Conference. This included FAO Forestry Department sponsorship which had allowed forestry colleagues to attend the regional and sub-regional plant genetic resources workshops organized in preparation of the Conference; collaboration in the organization of workshops on forest genetic resources for the boreal, temperate North American and European regions, which had provided inputs to the Conference; distribution to all member countries of FAO of a Questionnaire on the State of the World's Forest Genetic Resources; and the development of a global forest genetic resources
+information system, which included country-based information received in response to the questionnaire, information extracted from the reports of the regional and sub-regional plant and forest genetic resources workshops, country reports submitted to FAO by member countries in preparation of the Leipzig Conference, and other reliable and objective sources, such as the Report on the 8th Session of the FAO Panel of Experts on Forest Gene Resources.
+12. While recognizing the need to maintain and further strengthen sectoral groups and fora familiar with issues, strategies and threats particular to forest genetic resources, the Panel stressed the need for all concerned to help ensure that due consideration be given also in the Leipzig Plant Genetic Resources Conference to the conservation, development and sustainable utilization of these valuable resources. It recommended that FAO, in collaboration with its national and international partners and with the active assistance of Members of the present Panel, help raise awareness in member countries of the need to ensure the presence at the Leipzig Conference of country delegations covering, or aware of, forest genetic resource considerations and priorities, and aware of the contributions that the forestry sector can, and should, make to overall development of nations.
+13. Noting that the Leipzig Conference should be seen as a tool to increase action in the field of plant genetic resources over time rather than an end in itself, the Panel recommended that, following this important event, FAO help convene workshops to discuss tropical and sub-tropical forest genetic resources programmes and priorities, on the same lines as those held, or planned to be held, in 1995 for boreal and temperate zones and for European forest genetic resources.
+14. The Panel recognized the compliance of the Secretariat with its earlier recommendations regarding overall focus of forest genetic resources activities and support to national programmes in this regard, as well as general compliance with its calls for increased cooperation with field projects coordinated both by FAO and by other international agencies, bilateral donors and development banks active in this field.
+15. The Panel recommended that support continue to be given, in a balanced manner, to forest genetic resources activities in the humid tropics, the dry tropics and the sub-tropics, and that exchange of information and genetic materials among and between these zones, as applicable, be vigorously promoted. The Panel, further, stressed the need to continue to give due attention to areas marginal to plant growth in all ecological regions, with special reference to agricultural wastelands and cold deserts.
+16. The Panel recommended that FAO help support networking and twinning among and between developed and developing country institutions, and actively further the sharing and transfer of experiences, technologies and know-how.
+17. The Panel noted with concern the institutional turmoil presently evident in many countries, both developing and developed, and drew attention to the dangers of losing institutional memory and continuity of inherently long-term genetic resources programmes, which underpinned overall development of nations. The threats which institutional instability posed to the sustainability of natural resources, was frequently unrecognized or diminished in public and policy debate.
+18. In this regard, the Panel noted that international agencies, and mechanisms operating under the auspices of these agencies, such as the FAO Panel of Experts on Forest Gene Resources, could help buffer against negative effects caused by institutional instability or turmoil in individual countries, and by providing and element of continuity over time. International agencies could also sound "early warning", and thus help confront emergency situations. The Panel requested that the importance of this role be fully recognized by decision makers in international agencies concerned.
+19. The Panel passed a number of specific technical and scientific recommendations related to the exploration, collection, testing and evaluation, exchange, conservation in and ex situ, and utilization of forest genetic resources, including breeding and the wise use of biotechnologies as a tool in forest tree improvement. In so doing, the Panel stressed that individual, operational steps in genetic resources strategies are complementary, and are part of a "package" concerned with the overall management and sustainable use of forest genetic resources.
+20. The Panel recommended, in particular, that the following activities receive continued and increased attention:
+(i) Further development and documentation of methodologies and pilot activities in the in situ conservation of forest genetic resources, harmonized with sustainable forest management and wise use of the resources to meet present-day and future needs. Support to studies on ex situ conservation methods, as complements to in situ conservation. Action related to both in situ and ex situ conservation should be underpinned by special studies related to issues of particular relevance to genetic management, carried out in collaboration with interested national and international partners. These included:
+- effects of patterns of land tenure, legislation and governmental incentives in forestry, agriculture and animal husbandry, on the conservation and sustainable use of forest genetic resources;
+- effects of landscape fragmentation on forest genetic resources; variables determining or influencing such effects, and ways and means to minimize possible negative influences;
+- phenology, breeding systems, flowering and seed production of species representative of varying successional stages, with special reference to tropical and sub-tropical species;
+-joint impact of natural environment, human influences and traditional management systems on intra-specific diversity in forestry and agroforestry species;
+- development of checklists for "best practice" for the incorporation of genetic conservation aspects into forest management, plantation and tree improvement strategies.
+(ii) Facilitation of exchange of forest reproductive materials, under mutually agreeable terms, for evaluation and conservation purposes. The Panel drew special attention to the following needs:
+- review, discussion and agreement on mechanisms for the continued access to forest genetic resources for experimental purposes and conservation, on mutually agreeable terms;
+- promotion of standards for the certification of forest reproductive materials, including materials moving in international trade and within national borders;
+- development of protocols and rules guiding the safe movement of forest tree germplasm from a quarantine and health point of view;
+- action to ensure availability of timely information on performance and adaptability to varying environmental conditions, management regimes and end use objectives, of given and already tested species and provenances, and of application of research results into practice;
+- action to safeguard naturally occurring populations against loss of identity through genetic pollution by pollen of introduced, hybridizing species and provenances, coupled with action to urgently raise awareness of such little-publicised dangers of irreversible genetic losses, among policy makers and technical staff alike.
+(iii) International coordination, and the provision of up-to-date information on the state of forest genetic resources, notably through continued development and regular up-dating of the FAO's Global Information System on Forest Genetic Resources. In this regard, the Panel noted with appreciation the efforts of FAO to develop the system notwithstanding serious resource constraints, and on-going efforts to ensure compatibility and complementarity of the FAO Information System with other, already existing or planned data bases, such as "TREESOURCE" of IPGRI, and data bases on protected areas and endangered species of the WCMC and IUCN.
+(iv) Raising of awareness through the dissemination of information by traditional and electronic means, focussed on different levels of readership and a range of target audiences. In this respect, the need was stressed to continue to prepare and widely disseminate well-focussed FAO guides and manuals, and "popular versions" of such documents published in a range of languages. Special mention was made of the FAO annual newsbulletin, "Forest Genetic Resources", which was considered an especially useful vehicle for information exchange, contacts and training.
+(v) Collaboration in international efforts to quantify the value of forest genetic resources and of conserving and developing such resources for their sustainable use. A unified system could help underpin efforts to prioritize species and activities at national and international levels. It could, furthermore, contribute to clarifying the rationale for inclusion of species in the priority lists of the present Panel.
+21. The Panel up-dated the lists of priority species by region and by operational activity regularly elaborated by it. These lists contain species and relate to activities which the Panel, through contacts and research in the sub-region covered by each Panel member, considered of priority for action, (i) by FAO; and (ii) by other international and/or national organizations and agencies. The lists contain species of socio-economic value, and focus on those species which are of importance to more than one country, thus implying the need for collaboration at regional or international level for their conservation and development. The lists complement, and build upon, national and local lists of priority species; they also complement, and do not aim to replace, sub-sectoral lists and lists of e.g. endangered forest tree species, elaborated by other agencies and organizations.
+22. In relation to the elaboration of the above priority lists, the Panel drew special attention to specific, top priority species and genera in which FAO's assistance was requested to help consolidate and link on-going or planned national level activities of importance to a range of countries, and to ensure complementarity of work between individual countries.
+23. The Panel acknowledged the catalytic and leadership role of FAO at international level in the coordination of activities being carried out within the framework of the "International Neem Network", which included a number of international agencies and collaborating national institutes in 24 countries in four tropical regions. The Panel recommended that FAO continue to coordinate activities within the framework of the "International Neem Network".
+24. The Panel recommended that FAO take steps to catalyze further action and to coordinate already on-going work in the conservation and sustainable use of mahogany species, initially focussing attention on species of neotropical genera of the Meliaceae in Central and South America, Activities should, in subsequent phases of the work, be expanded to cover also the Asia-Pacific and the African regions.
+25. The above, strong recommendation, endorsed unanimously by the Panel, was based on the high market value of many species in a number of genera of mahoganies, which provided income and sustenance to local communities and to a large number of tropical nations; the possibility to manage them in natural stands as well as in plantations and in homesteads; and the fact that many genetically differentiated provenances were under threat of genetic depletion or extinction. It was noted that many mahogany species were of interest both in their areas of origin and in other countries and regions. Possibilities existed to intensify breeding and, potentially, to make use of inter-specific hybrids as components of such work. Problems with an insect pest (Hypsipyla) had prompted the initiation of a number of national and regional research projects and programmes, which also would benefit from additional contacts and networking.
+26. Additional genera and species identified as priorities for international support and establishment or strengthening of networking action, resources permitting, included:
+- Santalum spp., identified by scientists and Forest Services in the South Pacific as being of high economic and cultural value in a number of countries; several species are in danger of extinction;
+- Parkia spp., leguminous species of interest to countries in Africa and Asia. Used for human nutrition and for the provision of fodder, frequently planted in farmers' fields and in homesteads. Mature trees provide excellent raw material for veneer. Little information exists of amounts and distribution of genetic diversity. Many populations are under pressure from increasing populations and domestic animals, and from environmental stres such as periodic drought;
+- Casuarina spp, with special reference to Casuarina equisetifolia. A species of considerable importance in land stabilization in tropical sandy coastal areas. Amount and distribution of genetic variation and its adaptation to varying environmental conditions, is currently being assessed through a series of international provenance trials (CSIRO/FAO). The future use of the species may, however, be in jeopardy due to attack by fungal pathogens. The full potential of this threat needs to be urgently assessed and confronted.
+<section>5</section>
+Appendix 1. Membership of the FAO Panel of Experts on Forest Gene Resources
+(Period 1 January 1993-31 December 1995)
+Australia
+Australie
+Mr. S.J. Midgley
+Australian Tree Seed Centre
+CSIRO Division of Forestry
+P.O. Box 4008
+Queen Victoria Terrace
+Canberra, ACT 2600
+Brazil
+Brésil
+Brasil
+Dr. P.Y. Kageyama
+Escola Superior de Agricultura
+Agricultura "Luiz de Queiroz"
+Depto. de Ciencias Florestais
+Universidade de Sâo Paulo
+Caixa Postal No. 9
+Piracicaba SP 13418-900
+China
+Chine
+Mr. Wang Huoran
+Research Institute of Forestry
+Chinese Academy of Forestry
+Wan Shou Shan
+Beijing 100091
+Costa Rica
+Dr. F. Mesén
+CATIE
+P.O. Box 74
+Turrialba 7170
+Côte d'Ivoire
+Prof. J.G. Lorougnon
+Laboratoire de Botanique
+Université d'Abidjan
+22BP297 Abidjan 22
+Denmark
+Danemark
+Dinamarca
+Dr. B.A. Ditlevsen
+DANIDA Forest Seed Centre
+Krogerupvej 3A
+DK-3050 Humlebaek
+Finland
+Finlande
+Finlandia
+Dr. V. Koski
+Forest Research Institute
+Department of Forest Ecology
+P.O. Box 18
+FIN-01301 Vantaa
+France
+Francia
+Dr. H.I. Joly
+CIRAD-Forêt
+B.P.: 535.
+F-34032 Montpellier Cedex 01
+India
+Inde
+Dr. D.N. Tewari
+c/o FAO Representative in India
+P.O. Box 3088
+New Delhi 110003
+Italy
+Italie
+Italia
+Prof. R. Morandini
+Istituto Sperimentale per la Selvicoltura
+Viale Santa Margherita 80
+I-52100 Arezzo
+Mexico
+Mexique
+México
+Sr. F. Patiño V.
+Centro de Investigación Regional del Sureste
+Instituto Nacional de Investigaciones Forestales y Agropecuarias (INIFAP)
+C.E. Zona Henequenera
+Kilómetro 24 Carretera Mérida-Motúl,
+Mocochá, Yucatán
+C.P. 97454
+Thailand
+Thailande
+Tailandia
+Dr. S. Bhumibhamon
+Faculty of Forestry
+Kasetsart University
+Bangkok 10900
+United Kingdom
+Royaume-Uni
+Reino Unido
+Dr. R. Barnes
+Oxford Forestry Institute
+South Parks Road
+Oxford OX1 3RB
+United States of America
+Etats-Unis d'Amérique
+Estados Unidos de América
+/Canada
+Dr. Gene Namkoong
+Head, Department of Forest Sciences
+Faculty of Forestry
+University of British Columbia
+MacMillan Building
+193-2357 Main Mall
+Vancouver B.C. V6T 1Z4
+Zimbabwe
+Mr. D.P. Gwaze
+Forest Research Centre
+P.O. Box HG 595
+Highlands, Harare
+<section>6</section>
+Appendix 2. Agenda
+1. Opening of the Meeting
+2. Election of Chairman and Vice-Chairman
+3. Adoption of the Agenda
+4. Progress since the 8th Session of the Panel (June 1993):
+(i) Brief statement by individual members (regional/sub-regional issues);
+(ii) FAO Regular Programme;
+(iii) FAO Field Programme activities in forest genetic resources;
+(iv) 4th Technical Conference on Plant Genetic Resources;
+(v) Other international initiatives and developments;
+(vi) Broadening of the Mandate of the Commission on PGR.
+5. Discussion of Priorities for Future Action:
+(i) Species priorities;
+(ii) Operational priorities.
+6. Proposals for FAO Regular Programme Activities:
+(i) Short-term;
+(ii) Medium and long-term.
+7. Miscellaneous and Other Business
+8. Next Session of the Panel
+9. Closing of the Meeting
+<section>7</section>
+Appendix 3. List Of Secretariat Notes^8
+^8 Copies available, at request, from the Secretariat: Forest Resources Development Service, Forest Resources Division, FAO, Rome (Italy).
+AGENDA ITEM
+SECR. NOTE N°
+TITLE
+LANGUAGES
+FORGEN/95/Inf. 1
+List of Secretariat Notes
+E,F,S
+FORGEN/95/Inf. 2
+List of Documents Sent to Panel Members
+E,F,S
+FORGEN/95/Inf. 3
+List of Documents Distributed at Meeting
+E,F,S
+FORGEN/95/2A
+List of Panel Members
+Triling.
+FORGEN/95/2B
+List of Participants
+Triling.
+FORGEN/95/1A
+Tentative Agenda
+E,F,S
+FORGEN/95/1B
+Tentative Annotated Agenda
+E
+FORGEN/95/1C
+Provisional Timetable
+E,F,S
+4(i)
+4(ii)
+FORGEN/95/3
+Follow-up to Recommendations of the Eighth Session of the Panel
+E,F,S
+FORGEN/95/4A
+FAO Regular Programme Activities in Forest Genetic Resources 1993-1995
+E,F,S
+FORGEN/95/4B
+Financial Contributions in Forest Genetic Resources: non-staff resources. FAO's Regular Programme (RP) (Sub-programme 2312)
+E,F,S
+4(iii)
+FORGEN/95/5
+Activities and Expenditure of FAO Field Programme in Forest Genetic Resources
+E*
+4(iv)
+FORGEN/95/7
+Some International Initiatives and Developments since the 8th Session of the FAO Panel of Experts on Forest Gene Resources
+E*
+FORGEN/95/8
+Broadening the Mandate of the FAO Commission on Plant Genetic Resources
+E*
+FORGEN/95/6
+The Fourth International Technical Conference on Plant Genetic Resources and the Incorporation of Forest Genetic Resources Aspects in the Process
+E*
+Appendices 6 and 7: Forest Genetic Resources Priorities (by region, species and operation): 8th Session of the Panel (for up-dating)
+E,F,S
+* Summaries available in French and Spanish.
+<section>8</section>
+Appendix 4. Financial Contributions in Forest Genetic Resources: Non-Staff Resources. FAO's Regular Programme
+(SUB-PROGRAMME 2312)^9
+^9 FAO's Regular Programme is financed through assessed contributions of its 174 Member Countries, one Associated Member and one Member Organization. These activities are complemented by the Field Programme, financed by extra-budgetary resources provided by a range of donors (see Appendix 5).
+The attached tables show FAO Regular Programme (RP) expenditure in the forest genetic resources field in the biennia 1992/93 and 1994/95. Information on RP expenditure up to, and including the biennium 1990/91, was published in Appendix 4 of the Report of the 8th Session of the Panel.
+The figures include:
+(i) Collaboration with national institutes, through direct financial support to exploration and to seed collection, despatch; in situ and ex situ conservation; and establishment and evaluation of field trials;
+(ii) Expenditure for consultancies; or contractual services in support of specific studies related to forest genetic resources;
+(iii) Expenditure for the dissemination of information;
+(iv) Meeting costs and expenditure related to fellowships.
+A summary sheet is also provided, showing sub-totals for the above items.
+Extra-budgetary resources, acquired in direct support of FAO Regular Programme activities and administrated directly by the Forest Resources Division, are shown in the tables in brackets. RP funds from other units of FAO, administrated by the Forest Resources Division, are marked **.
+The tables thus contain details on expenditures which bear direct relation to the work and the recommendations of the FAO Panel of Experts on Forest Gene Resources. They do not include staff time and related travel; nor funding related to the FAO Field Programme, administrated by the TCO-5 (the former Forestry Operations Service) and technically backstopped by the technical divisions of the Forestry Department.
+RP expenditure for staff time for the biennium 1994/95 included some 60% of one P4 Forestry Officer (presently this post is occupied by Mr. O. Souvannavong), and part-time secretarial assistance (the balance of Mr. Souvannavong's time being spent on backstopping of field programmes); it further included a proportion of the time of Chief FORM (presently, Ms. C. Palmberg-Lerche, D1) who, according to programming, spent an estimated 10-15% of her time on support to RP forest genetic resources activities. A small percentage is spent by the Senior Forestry Officer (Plantations), P5 and the Forestry Officer (Forest Management), P4. In addition, the activities were supported, through Extra Budgetary (Danish) funding, by the services of an Associate Professional Officer (presently C. Pilegaard Hansen, P2).
+FINANCIAL CONTRIBUTIONS IN FOREST GENETIC RESOURCES: NON-STAFF RESOURCES. FAO'S REGULAR PROGRAMME (RP). SUB-PROGRAMME 2312 (EXTRA-BUDGETARY RESOURCES ADMINISTERED BY THE SUB-PROGRAMME IN DIRECT SUPPORT OF RP ACTIVITIES SHOWN IN BRACKETS)**
+(excludes time and travel of FAO staff; and activities carried out under FAO's field programme)
+SUMMARY TABLE
+(i) Collaboration with/support to National Institutes: Seed Collection, Exchange; Conservation; Evaluation
+(ii) Contracts and Consultancies
+(iii) Dissemination of Information
+(iv) Meeting Costs, Fellowships
+TOTAL EXPENDITURE:
+** N.B. Figures thus marked, indicate FAO Regular Programme funding from other sub-programmes and/or Divisions in support of forest genetic resources activities in RP 2312; these amounts are included in Totals of RP expenditure at the bottom of the table.
+(i) COLLABORATION WITH NATIONAL INST'S: (S) SEED COLLECTION, EXCHANGE;
+(C) IN SITU/EX SITU CONSERVATION;
+(E) EVALUATION (DESK STUD., FIELD TRIALS).
+Activity
+OBSERVATIONS
+Australia, CSIRO/DFR
+S
+Acacia, Casuarina, Eucalyptus
+Bangladesh, FRI
+S
+Int. Neem Network activities
+Brazil, Univ. Sta Catarina
+C
+In situ conservation, Euterpe edulis
+Brazil, Univ. São Paulo
+C
+In situ research, Atlantic Forest
+Cameroon, IRA
+E
+E. urophylla review
+China, Chi. Acad. Forestry
+E
+Populus genetic resources review
+Congo, CNRF
+E
+E. urophylla review
+Costa Rica, CATIE
+E
+E. urophylla review
+Côte d'Ivoire, IDEFOR
+E
+E. urophylla review
+DANIDA Forest Seed Centre
+S,E
+Acacia, Prosopis; lnt. Neem Network activities
+France, CIRAD-Forêt
+S,E
+Int. Neem Network activ.; E. urophylla review
+Ghana, FD
+S
+Int. Neem Network activities
+India, ICFRE
+S
+Int. Neem Network activities
+Indonesia, ED
+C
+Conserv. medicinal forest plants (in/ex situ)
+Iraq, FD
+E
+Populus euphratica review
+Laos, FD
+C
+In situ conservation of local timber species
+Lebanon, FD
+S
+Cedrus libani
+Malaysia, FRIM
+C
+Exploration/conservation, Calamus palustris
+Morocco, FD
+E
+Populus genetic resources review
+Myanmar, FRI
+S
+Int. Neem Network activities
+Pakistan, PFI
+S
+Int. Neem Network activities
+Pakistan, PFI
+E
+Populus euphratica review
+Peru, INIA(A)
+C
+Cedrus, Cedrela, Swietenia; Alnus, Polylepis cons.
+Rwanda, FD
+C
+Pterygota mildbreadii conservation (in/ex situ)
+Syria, FD
+E
+Populus euphratica review
+Thailand, FD
+S
+Int. Neem Network activities
+To be ascertained
+TBA
+8,000 (est)
+TBA
+TOTAL:
+(ii) CONTRACTS AND CONSULTANCIES
+OBSERVATIONS
+· In situ Conservation
+R.H. Kemp, finalization FO. Paper 107
+"Conservation of Genetic Resources in Tropical Forest Management: principles and concepts" (avail, in English, French, Spanish)
+B. Wilcox, prep. FO. Paper
+"Tropical Deforestation and Biological Diversity: assessing the risks" (in preparation)
+Wang Shi Ji, within framework Int. Poplar Comm.
+"Options for the development of Salicaceae in Sub-Trop. Reg."
+A. Padro, within framework of Int. Poplar Comm.
+"Options for the development of Salicaceae in Sub-Trop. Reg."
+· Ex situ Conservation
+B.S.P. Wang et al., finalizat. FO. Paper 113
+"Ex. situ Storage of Seeds, Pollen and in vitro Cultures of Perenninal Woody Plant Species" (avail, in English, French)
+· Data Bases
+CIRAD-Fôret, France- seedbank software
+Finalization of development of software for seedbanks (in prep.)
+J.R. Katz- database dev. FAO/HQ
+Assistance in developm. of database for storage/retrieval of information on the state of the world's forest genetic resources
+T. Niemann- database dev. FAO/HQ
+Assistance in developm. of database for storage/retrieval of information on the state of the world's forest genetic resources
+R. di Chiara- database input FAO/HQ
+Assistance in input into database on world's for. genetic res.
+· Miscellaneous
+Translation support
+Forest Genetic Resources [Information], Panel Notes etc.
+Contracted staff, temporary support staff
+TOTAL:
+(contract. 95)
+(iii) DISSEMINATION OF INFORMATION (direct publication costs)
+OBSERVATIONS
+Forestry Paper 20/2- French (translation, printing)
+"A Guide to Fo. Seed Handling" (avail, in English, French, Spanish)
+Forestry Paper 107 - English (printing)
+Forestry Paper 107 - French (translation, printing)
+Forestry Paper 107 - Spanish (translation, printing)
+"Conservation of Genetic Resources in Tropical For. Management: principles and concepts" (available in English, French, Spanish)
+Forestry Paper 113 - English, French (printing)
+"Ex situ Storage of Seeds, Pollen, in vitro Cultures of Tropical Woody Plant Species" (available in English, French)
+Forestry Paper 118 - English (printing) + translation/printing of Executive Summary (French, Spanish)
+"Biotechnology in Forest Tree Improvement" (available in English)
+Reports on Sessions (printing only)
+"Report on FAO Panel of Experts on Forest Gene Resources", 8th and 9th Session (available in English, French, Spanish)
+Two issues per year of for. gen. resources bulletin (printing only)
+Forest Genetic Resources Information n°20,21,22 (23- in press) (available in English, French, Spanish)
+Fo. Dept Input to FAO Biotechnology Booklet
+"Biotechnology in Agriculture, Forestry and Fisheries" (available in English, French, Spanish)
+TOTAL:
+N.B. Also programmed 1995: "Tropical Deforestation and Biol. Diversity: assessing the risks" (based on work of B.A. Wilcox)
+** N.B. Figures thus marked, indicate FAO Regular Programme funding from other sub-programmes and/or Divisions in support of forest genetic resources activities in RP 2312; these amounts are included in Totals of RP expenditure at the bottom of the table.
+^1 Translated and printed against Danish Funds-in-Trust.
+^2 Total cost of re-printing $6,800, shared between Forest Resources Division and Publications Division (GIP).
+^3 Translated by Forestry-Canada as contribution of Canadian Government.
+^4 Funds provided by Fellowships unit (AGO).
+(iv) MEETING COSTS, FELLOWSHIPS
+(direct costs, excl. contracts, publication costs)
+OBSERVATIONS
+Eighth, Ninth Session of FAO Panel of Experts on Forest Gene Resources
+Travel of participants paid by FAO. Interpretation provided English/French/Spanish
+Regional Workshop on in situ Conservation on Genetic Resources of Woody Species in Arid and Semi-Arid Areas
+Organized by Nat. Tree Seed Ctre Burkina Faso (CNRF), with collab. of FAO, IBPGR, USDA/FS, European Union, 29.1-5.2.1994.
+André Mayer Fellowship, Biotechnology in Forest Tree Improvement
+Part cost only (period of fellowship: 1991/92). Funds from FAO Fellowships Unit (AGO).
+TOTAL:
+** N.B. Figures thus marked, indicate FAO Regular Programme funding from other sub-programmes and/or Divisions in support of forest genetic resources activities in RP 2312; these amounts are included in Totals of RP expenditure at the bottom of the table.
+^1 Funds provided to FAO by the USDA Forest Service "Tropical Forestry Programme".
+^2 Funds provided by the Plant Production and Protection Division of FAO (AGP).
+<section>9</section>
+Appendix 5. Activities and Expenditure Of FAO's Field Programme in Forest Genetic Resources
+GENERAL
+FAO's works fall into two categories. The Regular Programme (RP) is financed through assessed contributions of FAO's 171 members. It covers the functions of FAO as an international secretariat in forestry, fisheries and agriculture, as a forum for discussion among nations and a source of technical, legal and policy level expertise in these fields (see Appendix 4). Through its Field Programme, FAO provides assistance to governments and helps them in the development and implementation of national and regional strategies aimed at sustainable rural development.
+The field programme is based on requests for technical assistance from member countries. The basic principle of FAO's technical development assistance is to support national institutions and to help build national and local capacities in the areas covered by the project. The five main objectives for the FAO Forestry Department apply equally to work at FAO's regular programme and to the forestry field programme. According to the Medium-Term Plan of FAO 1992-1997 they are as follows:
+- to assist countries enhance the productivity and sustained use of forest and tree resources, with a view to maximize their contribution to rural and socio-economic development;
+- to promote the conservation of forest ecosystems and the integration of forests and trees into land-use systems;
+- to assist in increasing the value of forest production - both wood and non-wood;
+- to support full participation in and equitable sharing of benefits among all people dependent on forestry activities, particulary the most vulnerable groups;
+- to provide policy and planning advice to national forestry administrations.
+By the end of 1995, there were 228 on-going and approved forestry field programmes, while the corresponding number for 1995 was 219. The composition of the field programme for the years 1994 and 1995, by the categories of the Programme of Work and Budget, is shown in Table 1.
+Table 1. Composition of FAO's Forestry Field Programme by Number of Projects, Expenditures and by Categories of the Programme of Work and Budget
+PROGRAMMES AND SUBPROGRAMMES
+No. of projects
+Expend.
+No. of projects
+Budget
+Forest Resources and Environment
+Forest Products
+Forest Institutions, Training
+TOTAL
+Note: A large number of projects are cross-sectoral, i.e. cover several disciplines. In the above classification the projects are categorized according to their main activity.
+Table 2. Regional distribution of the forestry field programme by categories of the Programme of Work and Budget
+REGION
+Forest Resources and Environment
+Forest Products
+Forest Institutions
+TOTAL by region
+No of projects
+No of projects
+No of projects
+No of projects
+% of total expenditure/budget for 94-95
+Africa
+Asia-Pacific
+Latin America and Caribbean
+Near East
+Since 1995, the Operations Service of the Forestry Department (FODO), which operated the FAO forestry field projects, has been absorbed in the newly established Technical Cooperation Department. Forestry projects are technically backstopped by the technical divisions in the Forestry Department, i.e. projects in the field of forest genetic resources and biological diversity in forest ecosystems are technically backstopped by the Forest Resources Division.
+SIZE AND ACTIVITIES OF FAO's FIELD PROGRAMME IN FOREST GENETIC RESOURCES
+An overview of FAO's field programme in forest genetic resources is given in Tables 3 and 4. The tables are based on the "FAO Forestry Department Project Catalogue" of December 1994. Projects included in the tables have main activities in one or more of the following four categories: (i) tree seed procurement; (ii) tree improvement and conservation of forest genetic resources; (iii) nature conservation and nature protection; and (iv) forest management. The judgement and selection of which projects to include in the tables, based on relative importance in them of components in the field of forest genetic resources, has been made by the Secretariat of the present Panel; the tables should thus only be used as a general indicator of the size of the field programme in forest genetic resources.
+A total of 61 projects have activities falling in this field (see Table 3). The total external funding, over the whole duration of the projects (which generally ranges from 1 to 5 years) is of some $US 120 million^10 FAO forest genetic resources projects are found in all regions, with a majority of projects in Africa and the Asia/Pacific region in regard to both number of projects and total expenditure.
+^10 Note that the national contributions of host governments, which covers local costs, is not included in this figure.
+As far as the ecological coverage is concerned, the humid and dry tropics are fairly equally represented. The majority of projects in the dry tropics is located in Africa with only a few projects in dry-zone Asia/Pacific, whereas on the other hand most of the projects in the humid zone are situated in the Asia/Pacific region.
+Table 4 lists the forest genetic resources projects divided by region and by main activity. It is interesting to note the importance, in all regions, of projects on in situ conservation and sustainable use of forests, and on ecosystem conservation. Their increase has shown a common trend in recent years, especially in Africa and Latin America. In Asia, the proportion of projects focused on seed procurement and tree breeding is relatively high. In addition to the main activities listed in the table, all projects also include components of support to national institutions, training and dissemination and exchange of information.
+Table 3. Regional and Ecological Distribution of FAO Field Projects in the Field of Forest Genetic Resources
+REGION
+Total no. of projects
+Approx. Total expenditure US$ million
+Dry tropics expend, in US$ million
+Humid tropics expend, in US$ million
+Temperate expend, in US$ million
+Africa
+Asia & Pacific
+Latin America & the Caribbean
+Near East & Europe
+TOTAL
+* Including a Regional project covering more than one ecological zone
+Table 4. Number of projects in the regions by main activities
+MAIN ACTIVITY
+Africa
+Asia and Pacific
+Latin America and Caribbean
+Near East and Europe
+TOTAL
+Seed collection, production, storage and exchange
+Testing/breeding
+In situ conservation of forest genetic resources and forest management
+Protected areas and ecosystem conservation
+<section>a</section>
+Appendix 6. Forest Genetic Resources Priorities (by Region, Species and Operation): Species Identified as Top Priority for FAO Coordinated Activities
+NOTES
+(i) General Observations
+The present Appendix, complemented by Appendix 7, represents an up-dated and revised version of the earlier tables which appeared as Appendix 6 in the Report on the 8th Session of FAO Panel of Experts on Forest Gene Resources (FAO 1994).
+FAO's mandate, and that of the present Expert Panel, relates to genetic resources of species of socio-economic value for agricultural and forestry development, with special reference to intra-specific genetic variation found in these species. Endangered and vulnerable species, and species under threat of depletion listed i.a. in documentation published by the World Conservation Union (IUCN), are included only if they meet these basic development criteria. Similarly, although in exceptional cases referring to genera, the list does not refer to ecosystems or biota.
+The Appendix does not present an exhaustive list of woody perennial species in need of attention at regional, ecoregional and global levels. The present list aims at providing information on those species and provenances which the FAO Panel of Experts on Forest Gene Resources, during its 9th Session in October 1995. considered should be given highest, relative priority in the forest genetic resources programme of FAO's Forestry Department. The list, arranged by regions and sub-regions, indicates priority on a scale from 1 to 3 (see below), for the various operational steps identified: exploration, evaluation, conservation and utilization of germplasm (including selection and breeding).
+The Panel of Experts recognized that many of the priority ratings must be considered tentative; the list will need continuing up-dating and must be modified in the light of new information, knowledge and needs.
+While not under-rating the fundamental importance of locally occurring species and the need to gain more information and to ensure the conservation and wise use of this category of woody perennials, the present list focusses on those species which, in addition to their local importance, are of actual or potential value also in other countries or areas; or which may be of immediate importance in improvement and breeding programmes of related species in their country of origin and in other countries.
+The present list should be reviewed in conjunction with the more detailed and complete lists of national, regional and global priority species and activities, shown in Appendix 7. There is, furthermore, a need to supplement both lists drawn up by the Panel (Appendices 6 and 7), with more detailed, national lists of priorities at local and national level.
+(ii) "End Use of Species" (columns 1-4)
+Only species of highest priority in one (or at times, several) of the four, general end use categories identified, are included. The present list includes those species/provenances which the Panel of Experts considered should receive maximum priority in the forest genetic resources programme of FAO (See Appendix 7 for a complete list of priority species and operations).
+Column 1, "Industrial Wood", includes those species whose main use is for sawn logs, timber, heavy construction wood, plywood, chip and particle board, wood pulp etc.
+Column 2, " Industrial Non-Wood Products", includes those species which are mainly used for the production of gums, resins, oils, tannins or other products used in small, medium and large-scale local and non-local industries.
+Column 3, "Fuelwood, Posts, Poles", includes those species producing mainly firewood and wood used for the production of charcoal and energy; and those used for the production of roundwood used on-farm.
+Column 4, "Other Uses (goods, services)", is a category which includes species grown mainly for the production of food, fodder, and for land stabilization, soil amelioration, for shade, shelter and other environmental values.
+Complementary information is given in the "Remarks"-column.
+(iii) Operations/Activities
+Three priority ratings are used, as follows:
+(1) Highest priority;
+(2) Prompt action recommended;
+(3) Action is important, but of less urgency than that for species listed as priority (1) and (2).
+Complementary information is given in the " Remarks"-column.
+(E) in the "Remarks"- column, signifies endangered with extinction or severe depletion of the gene pool (see also paragraph 2 of "General Observations" above).
+SPECIES
+End use of species
+Operations/Activities
+REMARKS
+Exploration & collection
+Evaluation
+Conservation
+Germplasm use
+1. WESTERN USA/CANADA
+Taxus brevifolia
+Use for taxol
+2. EASTERN USA/CANADA
+Castanea dentata
+3. MEXICO
+Astronium graveolens
+(E). National interest
+Cedrela odorata
+PVT and PGT
+Cupressus lindleyi
+Dendropanax arboreus
+PVT in progress
+Pinus chiapensis
+PVT and PGT
+P. patula
+PVT (Int.)
+Swietenia macrophylla
+PVT, PGT, SO. (E) certain populations
+4. CARRIBEAN, CENTRAL AMERICA, COLOMBIA, VENEZUELA AND ECUADOR
+Alnus acuminata
+PVT, PGT in progress. In situ stands established
+Bombacopsis quinata
+PVT, PGT in progress. SO established. (E) in most parts of range
+Cedrela odorata
+PVT, PGT in progress. (E) in most parts of range
+Cordia alliodora
+PVT, PGT, CLT in progress. SO established. Breeding systems studies completed
+Gliricidia sepium
+PVT in progress. In situ and ex situ stands, SO established
+Leucaena leucocephala
+PVT in progress. SO
+Pinus caribaea var. hondurensis
+PVT, PGT in progress. In situ and ex situ stands established
+P. tecunumanii
+PVT and PGT in progress. in situ and ex situ stands established
+Swietenia macrophylla
+PVT and genetic variability studies in progress. (E) in most parts of range. Resistance trials established
+Tabebuia rosea
+Restricted prov. collections
+5. SOUTH AMERICA (EXCEPT COLOMBIA, VENEZUELA AND ECUADOR)
+Aniba duckei
+(E) all range. Medicinal products
+Aspidosperma polyneuron
+(E) all range. Overexploitation
+Bertholetia excelsa
+Human food, wood. Species of social importance
+Cedrela odorata
+(E) all range. Overexploitation
+Dalbergia nigra
+(E) all range
+Maytenus ilicifolia
+(E) all range. Medicinal use
+Nothofagus alessandrii
+(E) all range
+Ocotea catharinensis
+(E) in parts of range
+Swietenia macrophylla
+(E) in parts of range
+6. NORTHERN AND CENTRAL EUROPE
+No species were identified as top priority species for FAO coordinated activities
+7. MEDITERRANEAN REGION, SOUTHERN EUROPE AND NEAR EAST
+Acacia nilotica
+Int. PVT in progress
+A. Senegal
+A. tortilis (incl. ssp. raddiana)
+Int. PVT in progress
+Cedrus atlantica
+Int. testing in progress
+C. libani
+Int. testing. National stands in Lebanon (E). Conservation priority activities apply to Lebanon
+Prosopis cineraria
+Quercus suber
+Tetraclinis articulata
+8. SOUTH AND EAST ASIA EXCL. CHINA AND INDIA
+Acacia mangium
+Int. PVT in progress. Need for resistance selection. Work on hybridization (with A. auriculiformis) needed
+Azadirachta indica (incl. var. siamensis)
+Int. PVT in progress
+Bamboo
+Coperation with INBAR. Excellent MPTS
+Casuarina equisetifolia
+Int. PVT in progress
+C. junghuhniana
+Int. PVT in progress
+Dipterocarpus alatus
+Excellent wood for construction and veneer purposes
+Eucalyptus camaldulensis
+Int. PVT in progress. Work on hybridization required
+E. urophylla
+Int. PVT in progress. Work on hybridization required
+Hopea odorata
+Priority species for ASEAN. Excellent wood for furniture
+Paraserianthes falcataria
+Excellent wood for furniture and veneer purposes. Use on-farm
+Parkia javanica
+MPTS
+Parkia speciosa
+MPTS
+Pterocarpus indicus
+Excellent for construction purposes. Priority species for ASEAN
+P. macrocarpus
+Excellent for construction purposes. Priority species for ASEAN
+Rattan
+(E) in parts of range. Coperation with INBAR. MPTS
+Rhizophora apiculata
+Some populations threatened by aquaculture in the region. No breeding program
+Shorea spp.
+Potential hardwood for construction purposes.
+Tectona grandis
+Very important species
+9. NORTH, NORTH-EAST AND CENTRAL ASIA INCL. CHINA AND INDIA
+Acacia Senegal
+Acacia catechu
+Acacia tortilis
+Albizia procera
+India
+Alnus daurica
+A. japonica
+China, Japan, Korea
+A. nepalensis
+Azadirachta indica
+Int. PVT initiated
+Bamboo
+(Bambusa, Dendrocalamus spp.)
+Calamus spp.
+Overexploited, poor regeneration, recalcitrant seeds
+Casuarina equisetifolia (exotic)
+C. junghuhniana (exotic)
+Cedrus deodara
+(E) in parts of range
+Chamaecyparis obtusa
+Dalbergia sissoo
+Wide genetic variation
+Fokienia hodginsi
+Endemic to China. Monogenus
+Fraxinus mandshurica
+Hippophae rhamnoides
+Fruits with high vitamin C content
+Juglans mandshurica
+J. regia
+Kataleeria pubescens
+PVT. Fast growing, good timber species
+Pinus caribaea var. bahamensis
+P. caribaea var. caribaea
+P. massoniana
+P. roxburghii
+Resin producing
+Populus euphratica
+Dry areas
+Quercus mongolica
+Rattan
+Tectona grandis
+Toona microcarpa
+MPTS
+T. sinensis
+T. sureni
+10. AFRICA
+Acacia nilotica
+Int. PVT in progress. W. Africa to be completed. Problems with natural regeneration
+A. senegal
+(E) populations in N parts of range. Problems with natural regeneration
+A. tortilis (incl. ssp raddiana)
+Int. PVT in progress. W. Africa to be completed.
+Azadirachta indica (exotic)
+Int. PVT in progress
+Dalbergia melanoxylon
+(E)
+Eucalyptus camaldulensis (exotic)
+Faidherbia albida
+Seed collections, PVT, PGT and population genetics studies in progress
+Gmelina arborea (exotic)
+New collections available for testing
+Heritiera (syn. Tarrietia) utilis
+Irringia spp.
+(E)
+Khaya spp.
+Selection for resistance to shoot borer
+Parkia biglobosa
+Prov. collections and gene ecological studies in progress
+Prosopis spp. (exotic)
+Prunus africana
+(E). Recalcitrant seed. Field genebank
+Pterocarpus angolensis
+In situ cons. in progress. Problem of die-back disease
+Sclerocarya birrea
+Recalcitrant seed. Field: ICRAF in SADC countries, FAO in CILSS countries
+Tamarindus indica
+11. AUSTRALIA AND NEW ZEALAND
+Acacia colei
+Human food (seeds) value under assessment
+A. mangium
+Biogeographic descriptions completed, sampling, PVT. Hybrids being developed with A. auriculiformis
+Casuarina equisetifolia
+Int. PVT underway
+Eucalyptus camaldulensis
+Taxonomic assessment ongoing
+Grevillea robusta
+12. PACIFIC ISLANDS
+Canarium harveyii
+Endospermum medullosum
+Intsia bijuga
+Pterocarpus indica
+Santalum spp.
+Swietenia macrophylla
+Intro. and eval. of prov. from natural range desirable
+<section>b</section>
+Appendix 7. Forest Genetic Resources Priorities (by Region, Species and Operation): Species Identified as High, Global, Regional and/or National Priority
+NOTES
+(i) General Observations
+The present Appendix, which complements Appendix 6 and includes the species and provenances listed in it, represents an up-dated and revised version of the earlier tables which appeared as Appendix 7 in the Report on the 8th Session of FAO Panel of Experts on Forest Gene Resources (FAO 1994).
+FAO's mandate, and that of the present Expert Panel, relates to genetic resources of species of socio-economic value for agricultural and forestry development, with special reference to intra-specific genetic variation found in these species. Endangered and vulnerable species, and species under threat of depletion listed i.a. in documentation published by the World Conservation Union (IUCN), are included only if they meet these basic development criteria. Similarly, although sometimes referring to genera, the list does not refer to ecosystems or biota.
+The Appendix does not present an exhaustive list of woody perennial species in need of attention at national, regional, ecoregional and global levels. The list is aimed at providing information on those species and provenances which the Expert Panel during its 8th Session in June 1993 considered to should be given highest, relative priority in the forest genetic resources programme of FAO's Forestry Department; and of other international, regional, bilateral and national institutions and agencies, including those of national and international non-governmental organizations and the private sector. The list, arranged by regions and sub-regions indicates, whenever possible, priority on a scale from 1 to 3 (see below), for the various operational steps identified: exploration, evaluation, conservation and utilization of germplasm (including selection and breeding).
+The Panel recognized that many of the priority ratings must be considered tentative. At times, basic information necessary for precise rating was lacking, and in this case the list may include only a mention of the genus in question (implying an urgent need for exploration).
+While not under-rating the fundamental importance of locally occurring species and the need to gain more information and to ensure the conservation and wise use of this category of woody perennials, the present list focuses mainly on those species which, in addition to local importance, are of actual or potential value also in other countries or areas; or which may be of immediate importance in improvement and breeding programmes of related species in their country of origin and other countries.
+There is thus a need to supplement the present list with more detailed, national lists of priorities for action at a local and national level.
+(ii) "End Use of Species" (columns 1-4)
+Only species of high actual or potential priority in one (or at times, several) of the four, general end use categories identified, are included.
+Column 1, "Industrial Wood", includes those species whose main use is for sawn logs, timber, heavy construction wood, plywood, chip and particle board, wood pulp etc.
+Column 2, "Industrial Non-Wood Products", includes those species which are mainly used for the production of gums, resins, oils, tannins or other products used in small, medium and large-scale local and non-local industries.
+Column 3, "Fuel-wood, Posts, Poles", includes, those species producing mainly firewood and wood used for the production of charcoal and energy; and those used for the production of roundwood used on-farm.
+Column 4, "Other Uses (goods, services)", is a category which includes species grown mainly for the production of food, fodder, and for land stabilization, soil amelioration, for shade, shelter and other environmental values.
+Complementary information is given in the "Remarks"-column.
+(iii) Operations/Activities
+Three priority ratings are used, as follows:
+(1) Highest priority;
+(2) Prompt action recommended;
+(3) Action is important, but of less urgency than that for species listed as priority (1) and (2).
+Complementary information is given in the "Remarks"-column.
+(E) in the "Remarks"-column, signifies endangered with extinction or severe depletion of the gene pool (see also paragraph 2 of "General Observations" above).
+SPECIES
+End use of species
+Operations/Activities
+REMARKS
+Exploration & collection
+Evaluation
+Conservation
+Germplasm use
+1. WESTERN USA/CANADA
+Abies amabilis
+Int. PVT
+A. bracteata
+A. concolor
+A. grandis
+Int. PVT
+A. lasiocarpa
+Int. PVT
+A. magnifies var. shastaensis
+A. procera
+Int. PVT, breeding programs
+Acer macrophyllum
+In situ cons. stands
+Alnus rhombifolia
+In situ cons. stands
+A. rubra
+PVT. Seed in storage for int. PVT
+A. sinuata
+In situ cons. stands
+A. tenuifolia
+In situ cons. stands
+Arbutus menziesii
+In situ cons. stands
+Betula fontinalis
+In situ cons. stands
+B. papyrifera
+In situ cons. stands
+Castanopsis chrysophylla
+In situ cons. stands
+Celtis douglasii
+In situ cons. stands
+Chamaecyparis lawsoniana
+Root rot affecting species: Phytophera lateralis
+Chamaecyparis nootkatensis
+Tests and collections
+C. macrocarpa
+Cornus nuttalli
+Crataegus douglasii
+C. columbiana
+Cupressus arizonica (complex)
+C. bakeri
+Fraxinus latifolia
+Juniperus occidentalis
+J. scopulorum
+Larix laricina
+L. lyallii
+L. occidentalis
+Breeding trials.
+Libocedus decurrens
+Lithocarpus densiflorus
+Malus fusca
+Picea breweriana
+Picea engelmannii
+Int. PVT. Tests and collections
+P. glauca
+Int. PVT. Breeding.
+P. sitchensis
+Int. PVT. Tests.
+Pinus albicaulis
+P. arizonica
+P. attenuata
+P. chihuahuana
+P. contorta
+Int. PVT. Recent bulk collections.
+P. engelmanii
+P. flexilis
+P. jeffreyi
+P. lambertiana
+Int. PVT
+P. monticola
+Breeding progr.
+P. ponderosa
+Breeding progr.
+P. radiata
+Int. PVT. Gene pool stands
+P. washoensis
+Populus tremuloides
+Collections
+P. trichocarpa
+Pseudotsuga menziesii
+Int. PVT. Breeding progr.
+P. macrocarpa
+Quercus chrysolepis
+Q. garryana
+British Columbia, USA
+Q. kelloggii
+Rhamnus purshiana
+In situ cons. stands
+Salix amygdaloides
+In situ cons. stands
+S. hindsiana
+In situ cons. stands
+S. hookenana
+In situ cons. stands
+S. lasiandra
+In situ cons. stands
+S. lasiolepis
+In situ cons. stands
+S. scouleriana
+In situ cons. stands
+Sequoia sempervirens
+Collections
+Taxus brevifolia
+Use for taxol
+Thuja plicata
+Collection and testing
+Tsuga heterophylla
+Collection and testing
+T. mertensiana
+Collection
+Umbellularia california
+In situ cons. stands
+2. EASTERN USA/CANADA
+Abies balsa mea
+Breeding progr.
+A. fraseri
+Breeding progr.
+Acer saccharum
+Betula alleghaniensis
+Carya cordiformis
+C. illinoensis
+Of recent interest to China
+C. ovata
+Castanea dentata
+Celtis tenuifolia
+Fraxinus americana
+F. quadrangulata
+Gymnocladus dioieus
+Juglans cinerea
+Ex situ cons. required in Canada
+J. nigra
+Larix laricina
+Liquidambar styraciflua
+Liriodendron tulipifera
+Collection and testing in Eastern U.S.
+Magnolia acuminata
+Picea glauca
+Breeding progr.
+P. mariana
+Breeding progr.
+P. rubens
+Platenus occidentalis
+Pinus banksiana
+Breeding progr.
+P. clausa
+P. rigida
+P. echinata
+Breeding progr. in Eastern U.S.
+P. elliottii
+Breeding progr. in Eastern U.S.
+P. palustris
+Breeding progr. in Eastern U.S.
+P. resinosa
+Breeding progr.
+P. serotina
+P. strobus
+Breeding progr.
+P. taeda
+Breeding progr.
+P. virginiana
+Populus balsamifera
+High potential for biomass on medium fertility soils
+P. deltoides
+Breeding progr.
+P. tremuloides
+Breeding progr. in U.S.
+Prunus serotina
+Canadian populations at extremes of range
+Ptelea trifoliata
+Quercus alba
+Canadian populations at extremes of range
+O. borealis
+O. macrocarpa
+Robinia pseudoacacia
+Taxodium ascendens
+T. distichum
+Torreya taxifolia
+Ulmus americana
+Resistance breeding progr.
+3. MEXICO
+Abies durangensis
+Rare
+A. quatemalensis
+A. vejari
+Rare
+Astronium graveolens
+(E). National interest
+Brosimum alicastrum
+Bucida buseras
+Bursera simaruba
+Calophyllum brasiliense
+Cedrela odorata
+PVT and PGT
+Ceiba pentandra
+Cordia alliadora
+C. dodecandra
+Cupressus lindleyi
+Cupressus benthami
+(E) some provenances
+Dendropanax arboreus
+PVT in progress
+Entrolobiun cyclocarpum
+Hymenaea courbaril
+Lonchocarpus castilloi
+Lysiloma bahamensis
+Metopium brownei
+Picea chihuahuana
+(E)
+P. mexicana
+(E)
+Pinus ayacahuite
+P. ayacahuite var. brachyptera
+P. ayacahuite var. veitchii
+P. arizonica
+P. chiapensis
+PVT and PGT
+P. cooperi
+P. durangensis
+P. gregii
+(E) some provenances
+P. engelmannii
+P. herrerai
+P. michoacana
+P. montezumae
+P. oocarpa
+P. oocarpa var. ochoterenai
+P. patula
+PVT (Int.)
+P. pseudostrobus
+P. teocote
+Piscidia communis
+Pseudotsuga flahaulti
+Praxinus uhdei
+Prosopis spp.
+Roseodendron donell-smithii
+Simaruba glauca
+Spondias mombin
+Sweetia panamensis
+Swietenia macrophyIla
+PVT, PGT, SO. (E) certain populations
+Tabeburia rosea
+Terminalia amazonia
+4. CARRIBEAN, CENTRAL AMERICA, COLOMBIA, VENEZUELA AND ECUADOR
+Acacia caven
+PVT in progress
+Albizia saman
+Albizia niopoides
+PVT, SO. (E) in parts of range
+A. quachepele
+PVT, PGT in progress. Vegetative propagation studies
+Alnus acuminata
+PVT, PGT in progress. In situ stands established
+Bombacopsis quinata
+PVT, PGT in progress. SO established. (E) in most parts of range
+Calliandra calothyrsus
+PVT in progress
+Cedrela odorata
+PVT, PGT in progress. (E) in most parts of range
+C. tonduzzi
+(E) in most parts of range
+Cordia alliodora
+PVT, PGT, CLT in progress. SO established. Breeding systems studies completed
+Cupressus lusitanica
+PVT and PGT. Ex situ stands established
+Diphysa robinioides
+Enterolubium cyclocarpum
+Erythrina spp.
+PVT
+Guazuma ulmifolia
+PVT
+Gliricidia sepium
+PVT in progress. In situ and ex situ stands, SO established
+Inga spp.
+Leucaena diversifolia
+L. leucocephala
+PVT in progress. SO
+L. salvadorensis
+PVT in progress. SO
+Leucaena spp.
+Provenances of species from Central America and Mexico available from OFI for PVT
+Liquidambar styraciflua
+PVT in progress
+Pin us ayacahuite
+PVT and PGT in progress
+P. caribaea var. bahamensis
+PVT in progress. Ex situ stands established
+P. caribaea var. caribaea
+PVT in progress
+P. caribaea var. hondurensis
+PVT, PGT in progress. In situ and ex situ stands established
+P. chiapensis
+PVT and PGT in progress
+P. maximinoi
+PVT in progress
+P. occidentalis
+In situ stands established
+P. oocarpa
+PVT in progress. Ex situ stands established
+P. pseudostrobus/tenuifolia
+PVT in progress. (E) in parts of range
+P. tecunumanii
+PVT and PGT in progress. In situ and ex situ stands established
+Prosopis atcamensis
+PVT in progress
+P. burkartii
+PVT in progress
+P. chilensis
+PVT in progress
+P. juliflora
+PVT in progress
+P. limensis
+PVT in progress
+P. siliquastrum
+PVT in progress
+P. tamarugo
+PVT in progress
+Swietenia humilis
+SO established. Not planted extensively
+S. macrophylla
+PVT and genetic variability studies in progress. (E) in most parts of range. Resistance trials established
+Tabebuia rosea
+Restricted prov. collections
+Vochysia quatemalensis
+PVT, PGT in progress
+5. SOUTH AMERICA (EXCEPT COLOMBIA, VENEZUELA AND ECUADOR)
+Acacia bahiensis
+Acharas sapota
+Human food
+Agonandra brasiliensis
+Amburana acreana
+A. cearensis
+Aniba duckei
+(E) all range. Medicinal products
+A. canelilla
+(E). Oils
+A. firmula
+A. fragrans
+(E). Oils
+A. perutilis
+(E) all range
+Anadenanthera macrocarpa
+Medicinal products
+Apuleia leiocarpa
+Araucaria angustifolia
+A. araucana
+Aspidosperma polyneuron
+A. pirifolium
+A. cylindrocarpum
+A. riedelli
+Astronium balansae
+(E). Endemic
+A. fraxinifolium
+Austrocedrus chilensis
+Auxema oncocalyx
+A. glazioviana
+Bactris gasipaes
+Human food. PVT
+Balfourodendron riedelianum
+Bauhinia smilacina
+Beilschmiedia berteroana
+Bertholetia excelsa
+Human food, wood. Species of social importance
+Britoa guazumaefolia
+Human food
+Brosimum glaziovii
+B. glaudichaudi
+Bowdichia nitida
+Bumelia sartorum
+Medicinal products
+Bursera leptophleos
+Butia capitata
+Ornamental
+B. eriospatha
+Human food
+Caesalpinia echinata
+(E)
+C. ferrea
+Calophyllum brasiliene
+Campomanesia phaea
+(E). Human food
+Carapa guianensis
+Oils
+Cariniana estrelensis
+C. janeirensis
+Endemic
+C. kulhmannii
+Endemic. PVT. Ex situ cons.
+C. legalis
+C. penduliflora
+Endemic. PVT. Ex situ cons.
+Caryocar brasiliense
+Human food
+Cavanillesia arborea
+Cedrela fissilis
+(E) in parts of range
+C. odorata
+(E) all range. Overexploitation
+Centrolobium robustum
+C. microchaete
+Chlorophora tictoria
+(E) all range
+Chloroleucon foliosum
+Citronella congonha
+Medicinal use
+C. megaphylla
+Copaiferta guuianensis
+Cordia alliodora
+C. gerascanthus
+(E) parts of range
+C. goeldiana
+C. tetrandra
+C. trichotoma
+Couepia schotii
+Couratari asterophora
+Endemic. PVT. Ex situ cons.
+C. atrovinosa
+Endemic. PVT. Ex situ cons.
+Dalbergia cearensis
+D. nigra
+(E) all range
+Dicypellidium caryophyllatum
+Medicinal products
+Dipteryx alata
+Human food
+D. odorata
+Oils
+Esenbeckia leiocarpa
+Eugenia involucrata
+Human food
+Euterpe edulis
+Human food
+E. oleracea
+Human food
+E. precatoria
+Feijoa sellowiana
+Human food
+Fitzroya cupressoides
+Gomoterka keule
+Hevea brasiliensis
+Gum
+Hibiscus tiliaceus
+Hynenaea courbaril
+H. altissima
+Ilex paraguaiensis
+Tested. Human food (local tea)
+Jacaratia spinosa
+Human food
+Jessenia bataua
+Human food
+Joannesia princeps
+Ex situ cons.
+Juglans neotropica
+(E) all range
+Lecythis pisonis
+Human food
+Machaerium villosum
+Malouetia arborea
+Manilkara bidentata
+M. huberii
+M. rufula
+(E) all range
+Manihot glaziovii
+Marlierea edulis
+(E). Human food
+Maytenus ilicifolia
+(E) all range. Medicinal use
+Melanoxilon brauna
+Micropholis melinoniana
+(E)
+Mimosa caesalpinifolia
+Myrciaria trunciflora
+Human food
+Myracrodruon urundeuva
+Myrocarpus frondosus
+(E)
+Myroxilon peruiferum
+Nothofagus alessandrii
+(E) all range
+N. obliqua
+N. alpina
+Ocotea catharinensis
+(E) parts of range
+O. porosa
+O. pretiosa
+Medicinal products
+Pachystroma longifolium
+Medicinal products
+Parinari brasiliensis
+Parkia platicephala
+Peltogine paniculata
+(E) all range
+Peltophorum dubium
+Pilocarpus jaborandi
+(E) all range. Medicinal products
+P. pauciflorus
+(E) all range
+P. pennatifolius
+Medicinal products
+P. spicatus
+(E) all range. Medicinal products
+P. trachyllophus
+(E) all range. Medicinal products
+Pitavia punctata
+Pithecellobium racemosum
+Plathymenia foluiosa
+Pouteria psammophila
+Podocarpus lamberti
+P. sellowii
+(E) all range
+Prosopis juliflora
+Pseudobombax grandiflorum
+Prumnopytis montana
+(E) all range
+Quassia amara
+Quiina glaziovii
+Medicinal products
+Salix humboldtiana
+Schinopsis brasiliensis
+S. balansae
+(E)
+Sophora toromiro
+(E). Carving
+Spondias macrocarpa
+Human food
+S. tuberosa
+Human food
+Stylites andicola
+Swietenia macrophylla
+(E) in parts of range
+Swartzia glazioviana
+Syagrus coronata
+Tabebuia avellanedae
+T. aurea
+T. cassinoides
+T. impetiginosa
+T. serratifolia
+Theobroma cacao
+Thiloa glaucocarpa
+Virola surinamesis
+y
+Vochisia maxima
+V. magnifica
+Zeyheria tuberculosa
+Ziziphus joazeiro
+6. NORTHERN AND CENTRAL EUROPE
+Abies alba
+PVT. PGT. SO. (E) by pollution
+Fraxinus excelsior
+Juglans regia
+Human food
+Larix sukaczewii
+In Russia
+Picea abies
+(E) by pollution in some regions. PVT. PGT. CLT. SO
+Pinus sylvestris
+Scotland
+Populus nigra
+Prunus avium
+Quercus robur
+Northern Europe
+Tilia cordata
+Ulmus glabra
+Elm disease
+U. laevis
+7. MEDITERRANEAN REGION, SOUTHERN EUROPE AND NEAR EAST
+A. marocana
+A. nordmanniana/bornmullariana
+A. numidica
+(E)
+A. pinsapo
+Acacia albida
+Acacia nilotica
+Int. PVT in progress
+A. Senegal
+A. tortilis (incl. ssp. raddiana)
+Int. PVT in progress
+Cedrus atlantica
+Int. testing in progress
+C. libani
+Int. testing. National stands in Lebanon (E).
+Conservation priority activities apply to Lebanon.
+Cupressus atlantica
+(E)? in parts of range. Drought and frost tolerant. Important for breeding
+C. dupreziana
+(E). Ex situ cons. stands. Breeding for resistance to Ceridium cardinale
+C. sempervirens
+Breeding for resistance to Seridium cardinale
+Picea omorika
+In situ cons. stands
+Pinus brutia
+Int. PVT. Further sampling desirable
+P. eldarica
+Int. PVT. (E) some provenances
+P. halepensis
+Int. PVT
+P. laricio mauretanica
+(E)
+P. pinaster
+Int. PVT
+P. pinea
+Platanus orientalis
+(E)? some provenances
+Prosopis cineraria
+Quercus aegilops
+Q. suber
+Tetraclinis articulata
+Ulmus wallichiana
+(E)
+8. SOUTH AND EAST ASIA EXCL. CHINA AND INDIA
+Acacia auriculiformis
+Int. PVT in progress
+A. catechu
+MPTS for farmers
+A. cressicarpa
+y
+PVT in progress
+A. mangium
+Int. PVT in progress. Need for resistance selection. Work on hybridization (with A. auriculiformis} needed
+Afzelia xylocarpa
+Construction and furniture purposes
+Agathis spp.
+Indonesia and Malaysia
+Alstonia scholaris
+Aquilaria spp.
+Medicinal products
+Artocarpus heterophyllus
+Excellent MPTS, used on farms. Need for trials on farms
+Araucauria cunninghamii
+Int. PVT in progress
+Araucauria hunsteinii
+Int. PVT in progress
+Azadirachta indica (incl. var. siamensis)
+Int. PVT in progress
+Bamboo
+Coperation with INBAR. Excellent MPTS
+Bombax ceiba
+Important on-farm tree species
+Broussonetia papyrifera
+Important on-farm tree species
+Cassia siamea
+For dry areas within the region
+Casuarina equisetifolia
+Int. PVT in progress
+C. junghuhniana
+Int. PVT in progress
+Dalbergia cochinchinensis
+Excellent wood
+D. latifolia
+Excellent wood
+Dipterocarpus alatus
+Excellent wood for construction and veneer purposes
+Dyera costulata
+(E). Gum
+Endospermum malaccensis
+Construction wood
+E. peltatum
+Construction wood
+Eucalyptus camaldulensis
+Int. PVT in progress. Work on hybridization needed
+E. deglupta
+Int. PVT needed
+E. pellita
+Promising species trials
+E. urophylla
+Int. PVT in progress. Work on hybridization needed
+Gmelina arborea
+Priority species for ASEAN
+Hopea odorata
+Priority species for ASEAN. Excellent wood for furniture
+Leucaena leucocephala
+MPTS. Need for selection for psyllid resistence
+Paraserianthes falcataria
+Excellent wood for furniture and veneer purposes. Use on-farm
+Parashorea stellata
+Parkia javanica
+MPTS
+Parkia speciosa
+MPTS
+Peltophorum dasyrachis
+Promising MPTS (pioner species)
+Peronema canensis
+Promising MPTS
+Pinus kesiya
+Priority species for ASEAN
+Pinus merkusii
+Priority species for ASEAN
+Pterocarpus indicus
+Excellent for construction purposes. Priority species for ASEAN
+P. macrocarpus
+Excellent for construction purposes. Priority species for ASEAN
+P. marsupium
+Rattan
+(E) in parts of range. Coperation with INBAR. MPTS
+Rhizophora spp.
+Some populations threatened by aquaculture in the region
+Santalum album
+Promising MPTS
+Shorea spp.
+Potential hardwood for construction purposes.
+Swietenia spp.
+Tectona grandis
+Very important species
+9. NORTH, NORTH-EAST AND CENTRAL ASIA INCL. CHINA AND INDIA
+Abies beshanzuensis
+China. (E)
+A. chensiensis
+A. delavayi
+A. ernestii
+A. fabri
+A. firma
+A. georgei
+A. holophylla
+Important for greenery and Christmas tree growing. Tolerant to frost
+A. nephrolepis
+Important for greenery and Christmas tree growing. Tolerant to frost
+A. kawakamii
+A. pindrow
+India. Hybrid populations occurring
+A. sachalinensis
+Important for greenery and Christmas tree growing. Tolerant to frost
+A. sibirica
+A. spectabilis
+India. Hybrid population occurring.
+A. veitchii
+A. yuanbaoshanensis
+China
+A. ziyuanensis
+China
+Acacia nilotica
+India. Gums
+A. senegal
+y
+A. catechu
+A. tortilis
+Acer buergerianum
+A. planatum
+A. oblongum
+A. truncatum
+Acrocarpus fraxinifolius
+Albizia alata
+India
+A. chinensis
+A. lebbek
+India
+A. procera
+India
+Alnus cremastogyne
+A. daurica
+A. japonica
+China, Japan, Korea
+A. nepalensis
+A. mandshurica
+Nitrogen fixing in cold regions
+A. sibirica
+A. trabeculosa
+Amentotaxus yunnanensis
+China
+Anthocephalus chinensis
+Aquilaria spp.
+Overexploited, poor regeneration, recalcitrant seeds
+Azadirachta indica
+Int. PVT initiated
+Bamboo
+(Bambusa, Dendrocalamus spp.)
+Betula chinensis
+B. luminifera
+B. pencula
+Bombax ceiba
+India
+Boswella serrata
+India. Overexploited.
+Calamus spp.
+Overexploited, poor regeneration, recalcitrant seeds
+Calycanthus chinensis
+China
+Camellia oleifera
+Canarium pimela
+Carya cathayensis
+Castanea henryi
+C. mollissima
+Casuarina equisetifolia (exotic)
+India
+C. junghuhniana (exotic)
+China
+Catalpa lungei
+C. ducloxii
+Cedrus deodara
+China and India. (E) in parts of range
+Celtis sinensis
+Cephalotaxus hainanensis
+China
+C. lanceolata
+China
+C. oliveri
+China
+Cercidiphyllum japonicum
+(E) China
+Chamaecyparis formosensis
+China
+C. obtusa
+Choerospondias axillaris
+Chosenia arbutifolia
+Chukrassia velutina
+India. (E) some provenances
+Cinnamomum camphora
+C. cassia
+Craigia yunnanensis
+China
+Cryptomeria fortunei
+C. japonica
+Cupressus chengiana
+C. duclouxiana
+C. funebris
+C. gigantea
+China
+C. torulosa
+India. Soil binding timber species for dry exposed sites.
+Cunninghamia lanceolata
+C. konishii
+Cycas micholitzii
+China
+C. panzhihuaensis
+China. (E)
+Dacrydium pierrei
+Dalbergia balsamae
+D. latifolia
+India
+D. odorifera
+D. obtusifolia
+D. sissoo
+India. Wide genetic variation
+Davidia involucrata var. vilmoriniana
+China
+Dipterocarpus spp.
+India
+Dipteronia dyeriana
+China
+Duabanga grandiflora
+Elaeagnus angustifolia
+Erythropholeum fordii
+Eusideroxylon spp.
+Overexploited, very slow growth, recalcitrant seeds
+Eucalyptus spp.
+Mainly E. globolus, E. grandis, E. tereticornis, E. camaldulensis, E. citriodora. China and India
+Eucommia ulmoides
+Monogenus. Endemic to China
+Fagus longipetiolata
+(E). Chinese herbal medicine
+Firmiana major
+China
+Fokienia hodginsi
+Endemic to China. Monogenus
+Fraxinus chinensis
+F. chinensis var. rhychophylla
+Fraxinus mandshurica
+F. segdiana
+Ginkgo biloba
+Seed used for human food and for medicinal purposes
+Gleditsia sinensis
+Glyptostrobus pensilis
+(E)
+Gmelina arborea
+Int. PVT
+G. hainanensis
+Gonystylus spp.
+Overexploited, poor regeneration, recalcitrant seeds
+Haloxylon ammondendron
+H. persium
+Hardwickia binata
+India
+Hippophae rhamnoides
+China. Fruits with high vitamin C content
+Holotelea spp.
+India
+Hopea spp.
+China
+G. parviflora
+India
+Illicium verum
+China. Medicin and spice
+Juglans cathayensis
+J. mandshurica
+J. regia
+Himalayas. Nuts
+J. sigillata
+Ketaleeria hainanensis
+China
+K. pubescens
+PVT. Fast growing, good timber species
+Koompassia malaccensis
+Overexploited, poor regeneration, recalcitrant seeds
+Larix griffithiana
+Rare. Restricted distribution Sikkhim, Nepal Himalayas
+L. gmelini
+L. leptolepis
+L. olgensis (syn. L. gmelini var. olgensis)
+Important for hybridization
+L. potaninii
+L. sibirica
+Work in progress. China
+Liriodendron chinense
+Liquidamber formosana
+Madhuca spp.
+China
+M. indica
+India
+Magnolia officinalis
+China. Medicin
+Mains komarovii
+China
+M. sieversii
+China
+Mangifera persiciforma
+Mangifera spp.
+Timber and ornamental tree
+Manglietia aromatica
+China
+M. fordiana
+M. glauca
+M. patungensis
+China
+Melia azedarach
+M. toosendan
+Mesua ferra
+Metasequoia glyptostroboides
+Michelia spp.
+M. wilsonii
+China
+Moringa oleifera
+India. Agroforestry
+Mytilaria laosiensis
+Neobalanocarpus heimii
+Overexploited, poor regeneration, recalcitrant seeds
+Nyssa sinensis
+N. japonica
+Ormosia henryi
+O. hesiei
+O. macrophylla
+Parashorea chinensis var. kwangsiensis
+China
+Paulownia spp.
+Work in progress. China
+P. elongata
+P. fargesii
+P. fortunei
+P. kawakamii
+P. tomentosa
+Phellodendron amurensis
+Phoebe bournei
+Picea asperata
+P. aurantiaca
+China
+P. brachytyla
+P. brachytyla var. complanata
+P. crassifolia
+P. jezoensis
+P. koraiensis
+P. likiangensis
+P. meyeri
+P. montigena
+China
+P. neoveitchii
+P. obovata
+P. purpurea (syn. P. likiangensis var. purpurea)
+P. schrenkiana
+P. smithiana
+India. Watercatchments. Poor regeneration
+P. spinulosa
+India
+P. wilsonii
+Pinus armandi
+(E) in parts of range. Some occurrences in Japan protected
+P. bhutanica
+Bhutan
+P. bungeana
+Endemic to China
+P. caribaea var. bahamensis
+P. caribaea var. caribaea
+P. dabeshanensis
+China
+P. densata
+P. gerardiana
+India, restricted to two dry valleys of inner Himachel Pradesh
+P. densiflora
+PVT in Japan, S. Korea
+P. fenzeliana
+P. kesiya
+India. (E) some provenances
+P. koraiensis
+(E) in parts of range. Some areas in Japan protected. China
+P. massoniana
+China
+P. merkusii
+P. morrisonicola
+P. pentaphylla
+(E) in parts of range. Some occurrences in Japan protected
+P. parviflora
+P. pumila
+P. roxburghii
+India. Resin producing
+P. sylvestris var. mongolica
+P. tabulaeformis
+China. PVT, PGT, SO
+P. taiwanensis
+P. takahasii
+P. thunbergii
+P. wallichiana (syn. P. griffithii)
+India. Vigorous regeneration
+P. wangii
+China
+P. yunnanensis
+Pistachia chinensis
+P. vera
+Human food (nuts)
+Platycladus orientalis
+Species for semi-arid areas
+Platycarya strobilacea
+Podocarpus nagi
+Populus ciliata
+India. Himalayas.
+P. deltoides
+India
+P. euphratica
+China. Dry areas
+P. koreana
+P. maximowiczii
+P. simonii
+P. suaveolens
+P. tomentosa
+P. ussuriensis
+P. yunnanensis
+Prosopis spp.
+Prunus amygdalus
+Pseudolarix amabilis
+Pseudotaxus chienii
+P. brevifolia
+P. gaussenii
+P. sinensis
+Pterocarpus spp.
+Pterocarya paliuras (syn. Cyclocrya paliurus)
+Quercus mongolica
+Q. spp.
+India. (E)
+Rattan
+Rhododendron spp.
+Rhoiptelea chilianta
+China
+Salix alba
+S. babylonica
+S. capitata
+S. matsudana
+S. mongolica
+Santalum album
+India
+Sapium sebiferum
+Sassafras tzumu
+Schima superba
+S. wallichii
+Sciadopitys verticillata
+India
+Sesbania spp.
+Shorea assamica
+India
+Shorea spp.
+India
+Sinowilsonia xylocarpa
+China
+Syzygium cumini
+India. High genetic variation, polyembryony chromosomal races
+Taiwania cryptomerioides
+(E)
+T. flousiana
+(E)
+Tectona grandis
+Terminalia spp.
+India
+Thuja sutchuenensis
+China
+Tilia amurensis
+Toona microcarpa
+MPTS
+T. sinensis
+T. sureni
+Torreya grandis
+T. jackii
+China
+Trochodendron aralioides
+China
+Tsooniodendron odorum
+China
+Tsuga chinensis
+T. dumosa
+India. Eastern Himalaya
+Ulmus laevis
+U. japonica
+U. macrocarpa
+U. parviflora
+U. propinqua
+Vatica guangxiensis
+China
+V. hainanensis
+Xanthoceras sorbifolia
+Zelkova schneideriana
+Zenia inidignis
+Endemic to China
+10. AFRICA
+Acacia auriculiformis (exotic)
+Prov. collection
+A. crassicarpa (exotic)
+A. erioloba
+PVT in progress
+A. holosericea (exotic)
+Prov. collection
+A. karroo
+PVT in progress
+A. mangium (exotic)
+A. nilotica
+Int. PVT in progress. W. Africa to be completed. Problems with natural regeneration
+A. polyacantha
+A. Senegal
+(E) populations in N parts of range. Problems with natural regeneration
+A. seyal
+A. tortilis (incl. ssp raddiana)
+Int. PVT in progress. W. Africa to be completed.
+Afzelia guanzensis
+Albizia spp.
+Alletia tunimanii
+Androstachys johnsonii
+Antiaris toxicoria
+Aucoumea klaineana
+Azadirachta indica (exotic)
+Int. PVT in progress
+Balanites aegyptiaca
+(E) in Zimbabwe
+Bersama tysoniana
+Medicinal products. (E) overexploited in South Africa
+Bikiaea plurijuga
+In situ cons. stands in Zambia and Zimbabwe
+Bivinia jalbertii
+Boscia spp.
+(E)
+Brachylaena hutchinsii
+Burtdavya nyasica
+Chlorophora excelsa
+(E)
+C. regia
+Colophospermum mopane
+In situ cons. stands established in Zimbabwe
+Combretum apiculatum
+Dacryodes edulis
+Dalbergia melanoxylon
+(E)
+Dichrostachys cinerea
+Prov. collections proposed by OFI/NRI
+Entandrophragma spp.
+Breeding for resistance to shoot borer
+Eucalyptus camaldulensis (exotic)
+E. saligna (exotic)
+Faidherbia albida
+Seed collections, PVT, PGT and population genetics studies in progress
+Gmelina arborea (exotic)
+New collections available for testing
+Guarea cedrata
+Gymnostemon zaizou
+(E) some provenances
+Heritiera (syn. Tarrietia) utilis
+Hyphaena petersiana
+H. ventricosa
+Irringia spp.
+(E)
+Irvingia gabonensis
+(E) some provenances
+I. grandifolia
+Juniperus procera
+(E) some provenances
+Khaya spp.
+Selection for resistance to shoot borer
+Lovoa spp.
+(E)
+Maesopsis eminii
+Mansonia altissima
+Markhamia lutea
+(E) some provenances. PVT, PGT in progress
+Melia volkensii
+Milletia stuhlmannii
+Mitragyna ciliata
+Nesogordonia papavorifera
+(E) some provenances
+Nauclea diderrichii
+Ocotea bullata
+(E) some provenances
+O. kenyensis
+O. usambarensis
+Olea capensis
+Parkhamii utea
+(E) some provenances. PVT, PGT commenced in East Africa
+Parkia biglobosa
+Prov. collections and gene ecological studies in progress
+Pericopsis angolensis
+Heavily exploited for carving
+P. elata
+(E) some provenances
+Pinus maximinoi (exotic)
+(E) in parts of range
+P. oocarpa (exotic)
+PVT in southern Africa
+P. roxburghii (exotic)
+Podocarpus spp.
+Prosopis spp. (exotic)
+P. africana
+Protea gaguedi
+Prunus africana
+(E). Recalcitrant seed. Field genebank
+Pterocarpus angolensis
+In situ cons. in progress. Problem of die-back disease
+P. erinacesis
+In situ cons. in progress
+P. lucens
+Problem of die-back disease
+P. soyauxii
+Raphia faranifera
+Sclerocarya birrea
+Recalcitrant seed. Field: ICRAF in SADC countries, FAO in CILSS countries
+Sesbania spp.
+PVT of S. sesban in progress in Zimbabwe, Zambia and Malawi
+Tamarindus indica
+Tectona grandis (exotic)
+Terminalia ivorensis
+Int. prov. collections in progress
+T. superba
+Int. prov. collections in progress
+Tarrietia utilis
+Recalcitrant seeds
+Triplochiton scleroxylon
+Seed production, unreliable, poor
+Turraeanthus africanus
+Uapaca kirkiana
+Seed collections in progress in SADC region
+Vernonia amygdalina
+Seed collected in W. Africa
+Vitellaria (syn. Butyrospermum) paradoxa
+Seed recalcitrant, vegetative multiplication
+Vitex keniensis
+Seed supply problems, seed collections in progress
+Warburgia salutaris
+(E) in parts of range
+W. ugandensis
+(E) in parts of range
+Widdringtonia spp.
+Ziziphus mauritiana
+Evaluation of seed sources from India desirable
+Z. micronata
+11. AUSTRALIA AND NEW ZEALAND
+Acacia ampliceps
+Salt tolerant
+A. aulacocarpa
+Potential for tropical lowlands. SO
+A. cincinnata
+Potential agroforestry species for tropical lowlands
+A. colei
+Human food (seeds) value under assessment. SO
+A. cowleana
+Species for tropical lowland sites with poor soils. SO
+A. crassicarpa
+Biogeographic descriptions, sampling, PVT completed. SO
+A. dealbata
+Tolerant of drought and frost.
+A. decurrens
+A. holosericea
+PVT. Incl. "A. colei" M.S. SO
+A. mangium
+Biogeographic descriptions completed, sampling, PVT. Hybrids being developed with A. auriculiformis. SO
+A. mearnsii
+Int. PVT
+A. melanoxylon
+A. saligna
+Dune fixation.
+A. stenopylla
+A. tumida
+A. victoriae
+Albizzia ssp.
+PVT. Tolerates saline and high pH
+Alphitonia petrei
+PVT. Ornamental tree. Difficult to germinate seed, requires boiling
+Alstonia scholaris
+Araucaria cunninghamii
+Int. PVT in progress
+Brachychiton populneus
+Drought resistant
+Calamus spp.
+Casuarina cunninghamiana
+PVT.
+C. equisetifolia
+Int. PVT underway
+C. glauca
+Salt tolerant
+C. obesa
+Salt tolerant
+Elaeocarpus angustifolius
+PVT. Susceptible to drought and frost. Good timber for veneer, joinery and furniture
+Eucalyptus badjensis
+E. benthamii
+Restricted natural distribution. (E) in parts of range. Promising in trials
+E. camaldulensis
+Taxonomic assessment ongoing
+E. citriodora
+E. cloeziana
+E. delegatensis
+PVT
+E. dunnii
+Bulk seed difficult and costly to obtain
+E. fastigata
+PVT
+E. globulus ssp. bicostata
+Int. PVT in progress. Tolerates colder and drier conditions than ssp. globulus
+E. globulus ssp. globulus
+Int. PVT in progress. (E) some provenances
+E. globulus ssp. maidenii
+Int. PVT in progress. May be superior to ssp. globulus in uniform to summer rainfall areas
+E. grandis
+PVT.
+E. microtheca
+Int. PVT in progress. Grows on heavy clay soils
+E. nitens
+PVT. Bulk seed difficult and costly to obtain
+E. occidentalis
+Tolerates saline soils and high pH
+E. paniculata
+E. pellita
+Closely related to E. urophylla. Potential for hybridization
+E. pilularis
+PVT
+E. radiata
+Some forms high yield of cineole oil
+E. robusta
+E. saligna
+PVT
+E. tereticornis
+PVT
+E. viminalis
+PVT
+Flindersia maculosa
+Tolerant of drought, frost, heavy soils and alkaline pH conditions. Ornamental tree
+Grevillea pteridifolia
+G. robusta
+Leucaena spp.
+Agroforestry species
+Macadamia spp.
+Nuts
+Melaleuca cajuputi
+M. leucadendra
+Tolerant of waterlogged. acid sulphate and saline conditions. Int. PVT
+Melia azedarach var. australasica
+Paraserianthes procera
+Pinus caribaea
+P. elliottii
+P. oocarpa
+P. pinaster
+P. radiata (exotic)
+(E) in parts of range. Guadalupe Is.
+P. tecunumanii
+Populus spp.
+Pseudotsuga menziesii
+PVT
+Santalum album
+Timber for carving
+S. lanceolatum
+S. spicatum
+Timber for carving
+Syzigium paniculatum
+Ornamental, bonsai tree. Unsuitable for subtropical areas due to insect attack
+Sesbania formosa
+Close relative of S. grandiflora
+Toona australis
+12. PACIFIC ISLANDS
+Agathis spp.
+Acacia auriculiformis
+A. aulacocarpa
+A. crassicarpa
+A. koa
+Timber for carving
+A. mangium
+Agathis labillardieri
+A. robusta
+Araucaria cunninghamii
+Artocarpus altilis
+Calophyllum spp.
+Campnosperma brevi
+Canarium harveyii
+C. indicum
+C. solomonensis
+Casuarina spp.
+Cedrela ordorata (exotic)
+Breeding progr.
+Ceuthostoma spp.
+Cordia subcordata
+Timber for carving
+Cocos nucifera
+Diospyros spp.
+Timber for carving
+Dracontomelon spp.
+Endospermum medullosum
+E. deglupta
+E. pellita
+Gmelina arborea (exotic)
+Breeding prog.
+Intsia bijuga
+Melaleuca spp.
+Ocomeles sumatrana
+Paraserianthes falcateria
+Pinus caribaea
+Pometia spp.
+Pterocarpus indica
+Santalum spp.
+Securinega flexuosa
+Swietenia macrophylla
+Intro. and eval. of prov. from natural range desirable
+Tectona grandis (exotic)
+Breeding progr.
+Terminalia brassii
+T. impediens
+Toona australis
+Problem with borer moth
+LEGEND FOR SPECIES LISTS
+End uses
+1. Industrial wood (logs, sawntimber, construction wood, plywood, chip and particle board, wood pulp etc.)
+2. Industrial non-wood products (gums, resin, oils, tannins)
+3. Fuelwood, posts, poles (firewood, charcoal, roundwood used on-farm, wood for carving)
+4. Other uses, goods and services (food, medicinal use, fodder, land stabilization/ amelioration, shade, shelter, environmental values). Complementary information is, at times given in the "Remarks" column.
+Exploration
+5. Biological information (natural distribution, taxonomy. genecology, phenology etc.)
+6. Collection of germplasm for evaluation
+Evaluation
+7. In situ (population studies)
+8. Ex situ (provenance and progeny tests)
+Conservation
+9. In situ
+10. Ex situ
+Germplasm use
+11. Semi-bulk/bulk seedlots, reproductive materials
+12. Selection and improvement
+Remarks
+13. Specific uses not obvious from columns 1-4 are mentioned. Also, work in progress is reported in this column. For clarification, reference is sometimes made to a specific country.
+PVT = provenance trials
+PGT = progeny trials
+CLT = clonal trials
+SO = seed orchard
+(E) = endangered at species or provenance level
+MPTS = multi purpose tree species
+Rating
+For columns 1-4: Ö as appropriate
+For columns 5-1 2:
+1. Highest priority
+2. Prompt action recommended
+3. Important, but less urgent than (1) and (2).

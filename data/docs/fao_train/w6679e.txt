@@ -1,0 +1,2785 @@
+<section>3</section>
+ACRONYMS, SYMBOLS, ABBREVIATIONS AND EXCHANGE RATE
+Symbols
+cm = centimetre
+h = hour
+ha = hectare
+kW = kilowatt
+m = metre
+m³ = cubic metre
+min = minute
+mm = millimetre
+t = metric ton
+sec = second
+Abbreviations
+AAC = allowable annual cut
+DBH = diameter at breast height
+F2M = Fazenda Dois Mil
+PCT = potential crop tree
+UTM = Universal-Transversal-Mercator
+Exchange rate applied (as of September 1996)
+US$ 1 = R$ 1 (Real)
+<section>4</section>
+1. INTRODUCTION
+The objective of this study was to thoroughly document and establish data on "environmentally sound forest harvesting associated with careful planning of each phase of the harvesting operations in tropical natural forests of the Amazon in Brazil" as an alternative to the "traditional logging systems" generally used in the Amazon-region in Brazil.
+Another aim of the case study was individual testing of the applicability of the FAO Model Code of Forest Harvesting Practice for each phase of the harvesting operations under conditions of a company working on a commercial basis. The result of this phase is the recommendation of the FAO Model Code for general use where more specific regional codes are missing or existing laws and rules are insufficient to attain low impact harvesting. Low impact forest harvesting is a prerequisite part of sustainable forest management.
+The case study on "Environmentally Sound Forest Harvesting. Testing the Applicability of the FAO Model Code in the Amazon in Brazil" was initiated by Rudolf Heinrich, Chief, Forest Harvesting, Trade and Marketing Branch, FAO - Rome and co-author of the FAO Model Code, and Ronnie de Camino, Chief Forestry Officer, Precious Woods Management.
+In order to meet the targets of the case study, the "F2M forest management project" of Precious Woods Ltd. was chosen to serve as the study object. The F2M project started in 1993, near Manaus, Amazonas. Precious Woods Company Ltd. intends with the project "to demonstrate the economic viability of sustainable forest management integrated with a wood processing industry" (Precious Woods 1996).
+The efficiency of the applied harvesting system was investigated by work and time studies analysing the work performance of the operations. The environmental impacts of harvesting were investigated by postharvest assessments. Efficiency and environmental impacts of the "environmentally sound forest harvesting system" were compared with those of the "traditional logging systems" by harvesting in the "traditional way" in another cutting unit of the F2M project area.
+The field studies have been carried out by Norbert Winkler, consultant for FAO, in co-operation with Carlos Alberto Guerreiro, Forest Manager of Mil Madeireira, with support of João Heitor Faraco Jr., João Cruz Rodrigues, and Tim van Eldik, all forest staff members of Mil Madeireira Itacoatiara Ltd. Norbert Winkler prepared the report.
+<section>5</section>
+2. DESCRIPTION OF STUDY AREA
+2.1. General information
+(based on Precious Woods 1995, 1996)
+The case study was done with "Mil Madeireira Itacoatiara Company Ltd.", one of the local subsidiaries of Precious Woods Ltd., which is operating the F2M project near Manaus in the Amazonas-state in Brazil.
+The Precious Woods Company Ltd. was founded in 1990 and acts as the group holding company financing sustainable forestry projects through majority holdings in local subsidiaries in the host countries or by transferring funds to these companies. Its purpose in particular is the reforestation of fallow land and the sustainable management of the existing natural forests in tropical countries.
+Figure 1. Location of F2M near Manaus (Precious Woods 1995)
+Figure 2. F2M project area (Precious Woods 1995)
+The F2M project area is located about 227 km east of Manaus (3°S, 59°W) and extends almost 40 km along the Manaus-Itacoatiara highway and 20 km inland to the north (see Figures 1 and 2). Sawn wood is transported by truck to the river port of Itacoatiara on the Amazon River and further transport is by means of ships directly to Europe and the United States of America.
+The F2M project covers a total area of 80 900 ha comprising the following areas:
+Production Forest Area 52 200 ha (64.5 %)
+Preservation Forest Area 23 200 ha (28.7%)
+Previously Deforested Area 5 500 ha (6.8 %)
+Total F2M Project Area 80 900 ha (100.0 %)
+Apart from the deforested area, all areas are untouched and covered by primary forests, which are classified as the forest type of tropical moist forest on "terra firme" - subregion northwestern "Hileia" - Negro to Trombetas river (Schmidt 1989).
+An area of 5000 ha in size, set aside to serve as a genetic pool, is located in the north-western part of the project area; the remaining preservation forest area of 18200 ha is formed by smaller areas irregularly distributed and embedded in the production forest area. These preservation areas are mostly slopes and low areas.
+The deforested area, located in the south-eastern part of the project area along the state road, "Estrada da Varzea", to Silves, Itapiranga, and Nhamunda, was cleared several years ago for pasture purposes and is currently in the stage of secondary succession.
+The forest management system described in the forest management plan is based on the "CELOS Management System" (de Graaf 1986). This system has been adapted and elaborated further by those responsible for the plan, N.R. de Graaf, C.A. Guerreiro, and R. de Camino. The adaptations made are mainly based on the local experiences of the INPA (Instituto Nacional de Pesquisas no Amazônia) and sampling techniques developed by EMBRAPA (EMpresa BRAsileira de Pesquisa Agropecuaria).
+Basic information required on the primary forests of the project area was provided by a general forest inventory, which was conducted as a sampling inventory in 1993 by covering 0.1% of the total forest area. The results obtained for the entire forest area and principal tree species are stated in Table 1.
+Table 1. Inventory result of F2M
+tree species threshold average volume
+all tree species dbh > 5 cm 290 m³/ha
+all tree species dbh > 50 cm 110 m³/ha
+commercial species dbh > 50 cm 80 m³/ha
+Using present-day criteria, a list of all tree species considered to be of commercial interest can be found in Appendix 1, whereas Table 2 shows only the principal tree species of commercial interest.
+Table 2. Principal tree species
+common name
+scientific name
+Massaranduba
+(Manikara huberi)
+Louros
+(Ocotea spp., Mezilaurus spp.)
+Angelim
+(Hymenolobium spp., Dinizia spp.)
+Cardeiro
+(Scleronema micranthum)
+Cupiuba
+(Goupia glabra)
+Cumarú
+(Dipteryx oderata)
+Piquiá
+(Caryocar villosum)
+Tauari
+(Cariniana micrantha)
+Amapá
+(Brosimum parinarioides)
+Tachi
+(Sclerolobium spp.)
+Acaricuara
+(Minquartia guianensis)
+Breu vermelho
+(Protium altosonii)
+The general concept of sustainable management for the F2M project comprises the following measures:
+· selective harvesting of up to 65 tree species of commercial interest;
+· selective harvesting of an average of 35 m³/ha and a maximum of 40 m³/ha (about a half of the average harvestable volume per hectare found for the entire F2M forest area);
+· selective harvesting of mature trees with a dbh > 50 cm;
+· directional felling to diminish damage to residual trees and facilitate skidding operations;
+· low impact extraction operations to minimise damage to residual stands;
+· application of silvicultural treatments in order to stimulate tree growth of commercial tree species;
+· harvesting cycle of 25 years;
+· monitoring system of permanent sample plots for growth and yield assessment and evaluation of damage to the remaining stand as well as for research purposes.
+The planned harvesting cycle is 25 years; therefore, the production forest area is divided into 25 annual operating areas of about 2000 ha production forest each. Since most of the project area is flat terrain, a regular grid is laid over the entire project area forming UTM blocks (4 km x 4 km). Each block has been subdivided into regular 10-ha plots (250 m x 400 m). These plots are to be considered the smallest forest management units, which will be referred to as "cutting units" throughout the report.
+Photo 1. "Estrada da Varzea" - Forest access provided by public road
+In 1993, when the project was started, forest access was provided only by the state road "Estrada da Varzea". Therefore the first annual operating area was located on both sides of this well-maintained dirt road. In 1995, access to parts of the second annual operating area was provided by building 6 km of forest road. Since harvesting operations were planned for the entire area of compartment B in 1996 an additional 14 kilometres of forest road had to be built.
+2.2. Description of particular study areas
+The field studies on "environmentally sound forest harvesting" were carried out in compartment B, Block 312/9668, Plot G09, which will be referred to as cutting unit B/G09 throughout the report, and those on "traditional logging" were carried out in compartment B, Block 312/9668, Plot F09, which will be referred to as cutting unit B/F09. Commercial inventories including mapping of the cutting units (250 m x 400 m) were conducted before harvesting. In addition, potential crop inventories were carried out before harvesting commenced for selected areas (150 m x 150 m) within cutting units B/G09 and B/F09 which will be referred to as subplot B/G09 and subplot B/F09 throughout the report (see Figure 3 and 4).
+Within the frame of the commercial preharvest survey all harvestable trees (commercial species with a dbh > 50 cm) have been identified, marked, counted, and dbh recorded as well as the tree's location drawn on the map of the cutting unit. For details on survey and tree mapping see chapter 3.2.
+Figure 3. Tree location map of cutting unit B/G09 including skid trail layout
+Figure 4. Tree location map of cutting unit B/F09
+In conducting the potential crop inventory, the same procedure had been chosen for the potential crop trees (commercial species with a dbh > 20 cm), since those PCTs are most likely to form the projected harvest in the next harvesting cycle, assumed to be in 25 years.
+The stand characteristics found by the commercial inventory for the adjacent cutting units B/G09 and B/F09 are stated in Table 3.
+Table 3. Stand characteristics of adjacent study areas before harvesting
+Commercial inventory
+Study area size of area [ha] volume [m³] trees tree species volume/ha [m³/ha] trees/ha
+cutting unitB/G09 10 1100 219 41 110.0 21
+cutting unitB/F09 10 1263 236 39 126.3 ---
+The stand characteristics found by commercial and potential crop inventory for subplots B/G09 and B/F09 are stated in table 4.
+Table 4. Stand characteristics of subplot areas before harvesting
+commercial inventory
+potential crop inventory
+study area
+size of area [ha]
+tree species
+volume/ha [m³/ha]
+trees/ha
+tree species
+volume/ha [m³/ha]
+trees/ha
+subplot B/G09
+subplot B/F09
+The values under volume per hectare of commercial species stated in Table 3 show the high variability in the harvestable volume in primary forests, not only compared to the average volume of 80 m³/ha found for the entire F2M forest area but also between adjacent cutting units. Even within a cutting unit the volume per hectare might differ considerably, as one can see by comparing the values found for subplots (see Table 4) to corresponding values stated in Table 3.
+The high variability in harvestable volume and tree species distribution found indicates that particular attention must be paid to reliability of data provided by a general inventory. Especially since these data serve as a basis for setting the level of the annual allowable cut. The level of the AAC itself, which should provide the maximum harvest volume while ensuring that the prospects for future harvests do not deteriorate, will be decisive for whether the targets of sustainable forest management are met or not.
+The results of the commercial inventory also underscore the importance of a comprehensive preharvest survey for each cutting unit comprising technical, topographic, economic, and ecological factors, since it is considered as the most important tool (Panzer 1991) in reducing logging waste.
+The characteristics of timber removals by tree harvest from cutting units and subplots based on inventory data are stated in Table 5 and 6.
+Table 5. Characteristics of timber harvest from study areas
+Commercial tree harvest
+Study area size of area [ha] volume harvested [m³] trees harvested tree species harvested volume harvested/ha [m³/ha] trees harvested /ha
+cutting unit B/G09 10 365.4 57 (+3) 24 36.5 6
+cutting unit B/F09 10 927.0 164 32 92.7 16
+( ) figure in parenthesis gives the number of PCTs harvested during skid trail opening
+For the environmentally sound forest harvesting system, the timber removal amounted to 33% of the volume found by the commercial inventory prior to harvesting in cutting unit B/G09, which equals 26% of the trees of commercial interest. The corresponding figures for the traditional logging system are 73% for the volume and 69% for the trees of commercial interest.
+Table 6. Characteristics of timber harvest from subplots
+Commercial tree harvest Potential crop tree harvest
+study area size of area [ha] volume harvested/ha [m³/ha] trees harvested trees harvested/ha volume harvested/ha [m³/ha] trees harvested trees harvested/ha
+subplot B/G09 2.25 38.5 10 4 1.9 3 1
+subplot B/F09
+In the environmentally sound forest harvesting system several PCTs had to be removed in order to facilitate generally recommended straight alignment of skid trails (see also Dykstra & Heinrich 1996).
+The information on PCTs provided by the potential crop inventory serves as a basis for the evaluation of potential future crops and for the assessment of damage to residual trees by forest harvesting operations.
+<section>6</section>
+3. DESCRIPTION OF THE ENVIRONMENTALLY SOUND FOREST HARVESTING SYSTEM
+The environmentally sound forest harvesting system is based on a general forest inventory for the entire F2M forest area and a comprehensive preharvest survey of each cutting unit prior to harvesting. These data enable one to thoroughly plan all harvesting operations associated with skid trail alignment and directional tree felling in order to minimise damage to residual stands and to reduce environmental impacts. All operations undertaken are guided by the consideration that unless the forest is left in a condition that will permit the attainment of a desired future condition, sustainability cannot be assured.
+3.1. Planning of harvesting operations
+All harvesting operations must be well planned in order to meet the requirements of environmentally sound forest harvesting. Therefore, short term planning, so-called tactical planning, has to be based on strategic planning (Dykstra & Heinrich 1996).
+This strategic harvest plan for the project area demarcates non-harvest areas, namely preservation areas and deforested areas, divides the production forest area into compartments and shows the existing as well as the proposed transportation systems. The strategic plan itself is part of the forest management plan and both are based on a comprehensive land-use plan.
+The tactical plan provides details of operations that are to be carried out during a period of one year, with emphasis on the dry season. It is estimated that the output in January to April is about 30% lower than the rest of the year. However, one of the intended features of the F2M project is year-round timber harvesting providing stable, continuous employment.
+The tactical plan is associated with the annual operating area, which will be referred to as "compartment" throughout the report. These compartments of about 2000 ha production forest and 800 ha protection forest are single, contiguous blocks that are divided into 10 ha-plots, so called cutting units, which are the smallest administrative units. Since these cutting units are contiguous and only ground-skidding machines are used due to favourable terrain conditions, planning the layout of landings and skid trails for all of the units is done simultaneously.
+After commercial inventory and terrain reconnaissance have been carried out (two years before harvesting commences), each cutting unit is mapped individually. The boundaries of the cutting unit and all features that may influence harvest planning (water courses, swampy areas, slopes, or other problem sites) are shown on this approximately 1:1700 scale map. Furthermore, the location of each individual tree of the cutting unit that might be harvestable is marked on the map.
+All information about each harvestable tree is recorded on inventory sheets in the field and fed into the company-owned data bank for further processing. Running several routines until the threshold volume has been reached; the most mature trees are selected first by considering silvicultural guidelines of the sustainable management plan as well as the actual market acceptance of certain tree species. Although the selection is made individually for each 10 ha-plot, the inventory results of the entire 2000 ha production forest within a compartment are used in the decision process to prevent the felling of species that are too scarce.
+All trees selected to be harvested are marked on the computer generated map of the cutting unit and their spatial distribution is evaluated by the computer operator. Poor spatial distribution is corrected if necessary to avoid large canopy openings caused by the felling of several neighbouring trees.
+The generated final map of the cutting unit serves as the basis for the layout of skid trails. It shows the location of each harvestable tree, tree selection status, and terrain features.
+The skid trail system is designed and drawn on a map, with field checks in cases of question, by the forest engineer supervising all harvesting operations. This ensures that the harvesting plan is feasible and that all harvesting operations can be undertaken safely, efficiently, and economically.
+A copy of the map and the accompanying information on each harvestable tree is given to the crew leader of the felling crew, who will determine the best direction of fall for each tree to be harvested. In order to detect hidden defects, namely internal decay, an investigative cut with the chainsaw blade is made into each tree selected. All decisions made on individual trees are based on the transportation system shown on the map, the information provided by the inventory, and information obtained in the field when felling operations are executed.
+Photo 2. Decay check of trees selected for harvest
+If a selected tree proves rotten or if felling of a selected tree would cause too much damage, another non-selected, harvestable tree is chosen for felling in order to meet the desired volume per cutting unit. Each tree where felling is rejected is marked on the map and the occurrence of decay recorded. The latter provides information on the probability of internal decay occurrence in certain areas and certain tree species, which will increase the reliability of planning based on inventory data in the future.
+All trees cut during felling operations are marked on the map. Numbers are fixed on each individual log and recorded on data sheets in order to guarantee that no log will be forgotten during the pre-skidding phase. All new information is fed into the computer after felling operations have been finished. A newly generated map of the cutting unit and a list of all trees with corresponding log numbers are given to the crew leader of the pre-skidding crew.
+Usually, pre-skidding of logs is planned to be carried out two weeks after the completion of felling operations in order to avoid any disturbance or delays that might arise if both phases were carried out simultaneously within a cutting unit. Immediately after skid trail opening by the pre-skidding crew, logs are concentrated at the skid trail by means of cable. Some logs might be cut into pieces due to their weight. Numbers are fixed to each new log and are registered.
+For skidding, which is usually planned two weeks after pre-skidding, the crew leader of the skidding crew receives the map and the list of all trees with corresponding log numbers in order to avoid any loss due to forgotten logs during the skidding phase.
+Actual skid trail location and location of landings will be drawn on the map after their establishment since they are considered to be permanent.
+Photo 3. Systematic registration of logs prevents timber losses during the extraction phase
+3.2. Survey and tree mapping
+3.2.1. Forest management map
+As a result of comprehensive land-use planning, the forest management map with elevation contour lines, drawn to a scale 1:20000, shows the following features:
+· borders of the permanent forest estate;
+· areas of non-forest land uses;
+· forest cover type, important topographic features, streams and swamps;
+· existing infrastructure and other artificial features;
+· areas where timber harvesting is to be prohibited altogether by law or will be restricted due to the general concept of the sustainable management plan;
+· annual operating areas where harvesting is to be carried out as identified in the forest management plan.
+The areas where timber harvesting operations are prohibited by law are the following:
+· streamside buffer zones
+at minimum, 50 m from the sides of a river in case of river width > 10 m;
+at minimum, 30 m from the sides of a river in case of river width < 10 m;
+· vicinity of water springs
+radius of 50 m from the edge of water springs;
+· steep lands
+Slope gradient > 45%.
+In order to meet the target of about 1/3 preservation forest area of the total F2M forest area (Precious Woods 1995), the following areas have been selected to become preservation areas (biological reserves) based on data and information provided by the general forest inventory as well as aerial photography:
+· area of 5000 ha serving as genetic pool;
+· low areas (swamps) where soil damages are unavoidable if ground-skidding systems are used;
+· slopes where systems other than ground-skidding are recommended because of damages and costs.
+3.2.2. Field survey and tree mapping
+A regular grid (north-south/east-west) is laid out over the entire F2M project area forming UTM-blocks (4 km x 4 km) and serves orientation purposes so that all administrative units, compartments, and cutting units, can be conveniently referenced on the ground. All main lines (north-south lines) of the grid were opened and permanently marked by the topographic crew and will be kept open by clearance of undergrowth when necessary.
+A topographic crew consists of 6 workers:
+1 crew leader with theodolite
+2 assistants for field survey and permanent marking of main lines
+3 assistants for opening the main lines
+Each UTM-block in production forest is subdivided into 10 ha cutting units. Special field crews open help lines 250 m apart running at right angle to the main lines. Starting at the intersection points other lines are opened 400 m apart running at right angle to the help lines to establish the desired grid of 250 m x 400 m rectangles. These are given co-ordinates of letters and numbers so that each cutting unit can be identified. All corner points of each cutting unit are permanently marked. A temporary grid of 50 m x 50 m quadrates, which is needed by the inventory crew, is established within each cutting unit.
+A field crew consists of 3 men:
+1 crew leader with compass
+2 assistants for opening the help lines
+A commercial forest inventory conducted during the dry season is planned to be done 2 years before harvesting.
+An inventory crew consists of 5 men:
+1 crew leader (forester) and
+4 assistants (tree identifiers).
+The crew members go parallel to one another through the rows of the cutting unit, formed by the 50 m x 50 m quadrates, from south to north and vice versa. They search for trees of commercial interest with dbh > 50 cm. Each tree found is marked; the following parameters are assessed in the field and recorded by the crew leader on data sheets:
+· Girth at dbh-height measured by means of a girth measuring tape
+· Botanical identification of tree species
+· Tree location and tree number
+· Quality features, visible defects
+· Inclination of tree
+· Additional information (measurement height if changed)
+A dbh-based formula has been developed by the company to calculate the tree volumes because the measurement of heights is considered imprecise and takes too long.
+The following is assessed and recorded in order to provide reliable information for comprehensive planning of harvesting operations:
+· Utilisable dead trees including their location
+· Topographic features which may influence harvest planning
+Other tasks of the inventory crew:
+· Tree locations and topographic features are drawn on graph paper
+· Climber cutting
+In forests where climbers tend to bridge between tree crowns it is recommended that the climbers be cut well in advance of the felling operation (Dykstra & Heinrich 1996). The climbers die and become brittle; this reduces the chance of a felled tree pulling over neighbouring trees as it falls and facilitates directional felling. Therefore, needed climber cutting is done by the inventory crew at the same time harvestable trees are registered.
+Based on data provided by the company, the following performance can be expected for individual activities in field surveying and tree mapping:
+individual field activity
+production rate
+establishment of 4 km x 4 km grid
+0.01 manday/hectare
+line cutting of 250 m x 400 m grid
+0.25 manday/hectare
+line cutting of 50 m x 50 m grid
+0.50 manday/hectare
+commercial inventory
+0.33 manday/hectare
+3.3. Felling operations
+Felling, one of the most hazardous occupations, is carried out by well-trained personnel outfitted with appropriate safety gear and using equipment suitable for the given work task. The final decision on the felling direction of each tree to be harvested is made by the crew leader of the felling crew based on the tree location map and the planned skid trail network. The field situation, with respect to the distribution of future crop trees, existing regeneration, and already felled trees, is also considered.
+Measures have been taken in order to meet social, ergonomic, economic and environmental objectives more effectively. The environmentally sound forest harvesting system includes all these considerations:
+Objectives
+Measures
+safety of felling operations
+personnel fully qualified for the work task, in good health, with ability to recognise hazardous situations, and with personal responsibility;
+best qualified chainsaw operators are selected to become crew leaders;
+appropriate safety gear and properly maintained equipment;
+consistent training in proper felling techniques;
+close supervision,
+climber cutting prior to harvesting;
+minimise damage to residual trees and stand
+a maximum of 40 m³/ha for each cutting unit may be harvested, on average 35 m³/ha are harvested;
+a maximum of 80% of the commercial volume found for a particular tree species may be harvested, thus assuring the tree species' continued existence;
+final decision on felling direction made in the field;
+proper felling technique;
+climber cutting 2 years before harvesting;
+harvesting map stays with the crew leader;
+responsibility of the crew leader for felling direction;
+maximise volume of wood
+proper felling techniques;
+utilised from each felled tree
+climber cutting 2 years before harvesting;
+bucking and grading rules;
+close supervision;
+facilitate efficient extraction
+harvesting map stays with the crew leader;
+directional felling;
+climber cutting 2 years before felling;
+close supervision.
+Photo 4. Directional felling, a key for success
+In making the final decision on the felling direction, the following has to be considered with respect to:
+Extraction
+felling direction at an oblique angle to the skid trail (35°-40° angle range suggested by Dykstra & Heinrich 1996);
+felling direction on a skid trail in a straight line position but opposite the skidding direction;
+trees should be felled towards the skid trail to reduce the extraction distance;
+trees should preferably be felled away from the skid trail if large tree crowns are expected to cause problems for the extraction crew;
+extraction should not be disturbed by crowns of trees next to a skid trail;
+Residual trees
+and stand
+trees should be felled toward existing canopy gaps if they are not already too large (e.g. for favourable conditions for natural regeneration of the desired tree species);
+damage to potential crop trees and advance regeneration should be avoided wherever possible;
+Timber utilisation
+the planned direction of fall should avoid breakage due to falling on obstacles such as tree stumps, logs, or convex terrain.
+The crew leader is responsible for the correct alignment of tree stems with respect to extraction routes. Furthermore, the crew leader supervises and gives advice to the other crew members, alternates with the other chainsaw operators in tree felling, and is responsible for observance of safety precautions by all crew members.
+Usually, there was only one chainsaw in use at one time. A second chainsaw was maintained by the crew assistant. The other chainsaw operators support felling preparations.
+The analysis of the work studies suggested that in the future a smaller felling crew could be used. The crew and equipment actually observed in the study and the planned crew configuration are shown below:
+actual felling crew
+planned felling crew
+1 crew leader/chainsaw operator
+1 crew leader/chainsaw operator
+2 chainsaw operators
+1 chainsaw operator
+1 assistant
+1 assistant
+The productivity of felling operations should not decrease because of the planned changes concerning the felling crew. Since the chainsaw operating time varied considerably among the three chainsaw operators of the observed felling crew and was up to nearly 50% of the total chainsaw operating time for one of the three chainsaw operators; the planned reduction of the crew size should not overburden the remaining crew members.
+3.4. Extraction system
+3.4.1. Pre-skidding
+The extraction of logs is carried out in two phases. The first phase, the pre-skidding of logs, begins with the opening of a single skid trail by means of a crawler tractor assisted by chainsaw. The skid trail is located according to the alignment shown on the map of the cutting unit. For opening a single skid trail an efficiency level of about 8.3 min/100 m skid trail was found in the studies.
+Photo 5. Skid trail opening by the D4 crawler tractor
+Turning at the end of the opened skid trail, the crawler tractor moves to the first concentration point determined by the crew leader. This decision is based on the tree and log location map of the cutting unit and the specific field situation. This field decision considers future crop tree locations, regeneration, understory, and obstacles.
+The assistants of the pre-skidding crew alternate between pre-setting chokers and pulling the winch line out to the log while the crawler tractor remains on the designated skid trail at all times. The chainsaw operator will crosscut logs and remove smaller trees in the cableway when necessary.
+The logs are drawn to the concentration point by means of the winch mounted on the crawler tractor. Since the distance between adjacent skid trails is planned at 100 m, the winching distance will be a maximum of 50 m.
+Changes planned to the pre-skidding crew as suggested by the case study are stated below:
+actual pre-skidding crew
+planned pre-skidding crew
+1 machine operator
+1 machine operator
+1 crew leader
+1 crew leader/chainsaw operator
+1 chainsaw operator
+2 assistants
+3 assistants
+Changes planned to the equipment used for the pre-skidding of logs as found when the study was carried out are stated below:
+equipment used
+equipment planned
+1 D4H TSK crawler tractor with
+winch
+1 tracked skidder (designed for
+logging)
+1 Stihl AV 066 chainsaw
+1 Stihl AV 066 chainsaw
+Photo 6. Pre-skidding of logs to the skid trail
+3.4.2. Skidding
+The skidding operation is planned to begin one week after completion of pre-skidding within a cutting unit. The logs prepared for extraction at several points of concentration along the skid trail are delivered to the landing by means of wheeled skidder. The skidder remains on the skid trail at all times, since all logs to be skidded are already concentrated at the skid trail and the logs can be easily picked up with the skidder mounted grapple without any need to leave the skid trail.
+The study found no need for changes with regard to the skidding crew and the equipment used for the skidding operation:
+actual skidding crew
+equipment used
+1 machine operator
+1 assistant
+1 Cat 518C wheeled skidder
+with grapple
+1 Stihl AV 066 chainsaw
+Photo 7. Wheeled skidder equipped with grapple remains on skid trail at all times
+3.5. Operations at the landing
+Landings are collection areas to which logs are delivered during the extraction process and represent the interface between extraction and transport (Dykstra & Heinrich 1996). Their location and design are carried out during strategic harvest planning, at the same time that the forest roads are located and designed. Therefore, the guiding principles concerning this matter will be treated under forest road planning in chapter 3.7.
+At the landing the logs are temporarily stored for the following reasons:
+· delays in extraction process if loading activities are carried out simultaneously;
+· a one-month buffer to ensure continuous timber supply to the sawmill;
+· loss of log weight during period of storage;
+· separation of tree species or utilisation groups.
+At the landing the logs are stored in log decks. Softwoods are decked separately from other species. The storage time for softwood species is planned for one month. For all other species a storage time of about two months is planned, since they are not considered at risk of deterioration in quality due to insect or fungal attack.
+Photo 8. Log loading for long-distance transport at the landing site
+The log loading is carried out by means of a front-end loader; the transport of logs to the company-owned sawmill is by means of the company-owned truck. In general, bucking at the landing is restricted to the occasional cases when the log weight seems to exceed the loader's capacity.
+3.6. Long-distance transport
+The log transport from the forest to the processing facility is carried out by the company-owned logging truck with a capacity of 35 t. The transport infrastructure is provided by public and forest roads. On average, about 30 m³ of roundwood are transported each trip.
+Due to the transportation costs, the average transport distance is an important economic factor. The average transport distance from compartment B to the company's sawmill is 16 km. The average haul distance is 25-30 km for the entire forest property of about 81000 ha. Since there was no long-distance transportation occurring from compartment B during the time of the case study, a log haul from a landing in compartment A was observed.
+The average transport time per trip recorded for compartment A was about 1 hour with an average transport distance of 18 km. The time distribution among the work elements was as follows:
+Work element
+time
+time shares
+Travel time unloaded
+25 min
+Loading operation
+14 min
+Load control and fixing load
+2 min
+Travel time loaded
+24 min
+Total time
+65 min
+Travel time unloaded was about the same as travel time loaded.
+Photo 9. Public road leading through area of wet soil disturbing water regime and causing tree dieback
+3.7. Forest road planning
+Environmentally, forest roads are unquestionably the most problematic features of timber harvesting operations. They are complex engineering structures upon which transport efficiency depend and are essential to reliable access to the forest for management and monitoring purposes (Dykstra & Heinrich 1996).
+Therefore, comprehensive planning is required for proper location, design, construction, and maintenance of forest roads and subsidiary structures, in order to meet environmental and economic objectives.
+Figure 5. Layout of forest infrastructure
+To open the annual compartments in the most efficient way, the following are considered:
+· forest roads are constructed where access to individual compartments is required but the transportation system as a whole is designed for the entire forest property;
+· road density for ground-skidding operations is planned for an average skidding distance of 500-600 m and a maximum distance of 800 m;
+· minimise the total length of roads and skid trails to keep costs of construction and maintenance low and to reduce environmental impacts;
+· avoidance of difficult terrain and streams, circumventing problem areas such as swamps to minimise environmental problems;
+· year-round access to the forest must be provided;
+· planned driving speed of 40 km/h;
+· minimum storage capacity of 1200 m³ per landing.
+Due to these considerations the following densities are planned:
+· Forest roads
+8-9 metres/hectare
+· Skid trails
+120 metres/hectare
+Landings are established about 500 m apart on both sides of the forest roads; each landing (40 m x 40 m) is planned to serve as a collection area for timber harvest from four cutting units (see Figure 5).
+Photo 10. Hollow trees used as culverts
+Since the terrain conditions are favourable for forest road construction with regard to site gradients there are no particular rules for culverts. Determination of proper size and spacing of culverts will be decided for each site individually according to terrain condition and runoff rates expected.
+3.8. Forest road construction
+Building forest roads in primary tropical rain forests involves clearing vegetation and moving soil in order to create structures capable of supporting heavy vehicles. The machinery needed is hired from local building companies since road construction activities are restricted to the dry season. Company owned machinery would result in high costs due to a long period of non-operation.
+Use of the following equipment is planned for the necessary activities in forest road construction:
+activity
+equipment
+type
+Clearing/first opening
+crawler tractor
+Caterpillar D8
+Grading
+crawler tractor
+Caterpillar D6
+Compacting
+vibration roller
+Dinapac CA15
+Surfacing/shaping
+motor grader
+Caterpillar 120B
+To provide year-round access to the forest and to improve the bearing strength of the roads, the base layer will be reinforced by a 10-15 cm thick layer of gravel depending on soil conditions after adequate compaction to form at least a 40 cm thick main body. Gravel will only be spread within the road width of 5 m. A clearing width of 10 m will permit the roads to dry properly after rainy periods. This will avoid the necessity of temporary road closures.
+The landings have been constructed by means of the company-owned D4 crawler tractor independent of road construction activities since access to compartment A and parts of compartment B was already provided before harvesting began. The time required for construction of a landing, 40 m x 40 m in size, with the company's D4 crawler tractor was recorded and totalled about 2 hours.
+To reduce the total cost of construction, the landings will be surfaced with gravel only if use is planned during the rainy season.
+It is planned that landings will be constructed during forest road construction activities in the future. The equipment used for construction will be either a D6 or D8 crawler tractor providing higher performance.
+Photo 11. Construction of landing by the company-owned D4 crawler tractor
+3.9. Forest road maintenance
+Unlike the road construction activities, road maintenance is done by company-owned machinery. Necessary repairs such as replacement of inefficient or damaged culverts will be carried out by the D4 crawler tractor; re-shaping and re-surfacing of roads will be done by the Caterpillar 120 B motor grader.
+<section>7</section>
+4. LABOUR FORCE AND COMPENSATION OF WORKERS
+Although forest harvesting is machine-intensive, labour remains the most critical element for achieving the goals of environmentally sound forest harvesting. Only if workers are healthy, competent to fulfil their jobs, and motivated to work properly and efficiently can they be expected to contribute effectively to these goals (Dykstra & Heinrich 1996).
+Physical condition, skills, and personal interest of workers have been taken into account when selecting them for training programmes prior to forest harvesting operations. Since the health of workers is not only based on physical conditions, special attention has been paid to safety, adequate standards of comfort, sanitation, food, and welfare by the company. Adequate training, according to job requirements, and satisfactory living and working conditions as effective motivators have been provided by the company.
+Photo 12. Training in proper felling techniques
+Apart from an introduction to the company and the internal system of forest management units, the following training programmes are assimilated according to specific duties.
+Practical training programme for the inventory crews:
+· Identification of commercial tree species based on tree identification manual
+· Measuring of trees
+· Quality criteria for prospected trees
+· Observation criteria for prospected trees
+· Field organisation of prospection activity
+· Field test on training trail
+Practical training programme for the felling crews:
+· Safety considerations during felling activity
+· Felling and directional felling techniques
+· Maintenance of chainsaw and chain sharpening
+· Field organisation of felling activity
+· Use of felling maps and forms
+· Decision criteria for not felling a selected tree
+Practical training programme for the extraction crews:
+· Field considerations for reducing the damage to the remaining forest stand
+· Field organisation of the extraction activities
+· Use of extraction maps and forms
+In the environmentally sound forest harvesting system as applied by Precious Woods, the monthly wages are substantially higher than the legal minimum. Workers are paid on a monthly basis as follows:
+· Wages according to their specific job
+· Compensation for working with hazardous materials
+· Benefits for food
+Taxes on the monthly wages are 67%. Work-time is 10 hours per day, including a 1 hour lunch break. Wages differ according to job description and range from truck driver (100%), crew leader (72%), machine operator (skidder, crawler and loader operator; 71%) and chainsaw operator (64%) to assistant (34%).
+In addition, the following is provided by the company:
+· Company housing
+· Food three times a day
+· Transportation by bus to Itacoatiara and return twice a week
+· Medical service by a physician three days a week at sawmill site
+· Costs of drugs recommended by a physician will be compensated at 65 %
+By contrast, workers hired by companies using the traditional logging system are usually paid according to the volume of timber felled per day or receive the legal monthly minimum of US$ 112 plus food and transportation.
+<section>8</section>
+5. DESCRIPTION OF THE LOGGING EQUIPMENT
+Regardless of the type of logging equipment used in a particular ground-skidding system, the extraction of logs is a difficult, often hazardous operation that can inflict substantial damage on forest ecosystems (Dykstra & Heinrich 1996). Therefore, in order to carry out extraction operations efficiently and safely, as well as in an environmentally sound way the following are considered:
+· appropriate size and power configuration of logging equipment, adjusted to the actual needs of the system applied and with respect to stand and terrain conditions;
+· appropriate equipment with respect to technical and safety standards, as well as ergonomic principles and requirements;
+· machine operators should undergo skill testing before field work after adequate training;
+· well planned skid trail layout followed by a correct alignment of tree stems with respect to extraction routes to facilitate extraction without major problems for the extraction crew and machines;
+· clear instruction to and close supervision of the extraction crew by the forest engineer responsible for all harvesting operations.
+Following these guiding principles, the ground-skidding equipment stated below is used for the extraction of logs in the environmentally sound forest harvesting system as carried out in the F2M project of Precious Woods.
+machine type
+power
+weight
+width
+activities
+Caterpillar D4H TSK crawler tractor
+70 kW
+10.4 t
+2.2 m
+skid trail opening and
+pre-skidding of logs
+Caterpillar 518C (4x4) wheeled skidder
+117 kW
+11.5 t
+2.7 m
+skidding of concentrated
+logs
+The D4 crawler tractor is used to open skid trails prior to extraction, to drag logs to skid trails by means of cable during the pre-skidding phase, and in road maintenance operations.
+Unlike the crawler tractor, which is a general-purpose machine, the Cat wheeled skidder is designed, like all skidders, explicitly for log extraction. In the environmentally sound forest harvesting system each log is winched to the skid trail and the skidder is driven as close as possible to every log. The wheeled skidder is equipped with a grapple to provide high skidding productivity.
+The company-owned Cat wheeled skidders were also used for skidding in cutting unit B/F09 where the traditional logging system was applied. Information was obtained on production rates, costs, and environmental impacts of timber harvesting as generally done in the Amazon-region of Brazil.
+In cutting unit B/F09 the skidder-mounted winch was used for the skidding of logs, since the use of a grapple is to be considered as an exception due to the higher investment costs of this equipment. Even the use of a skidder instead of a general-purpose machine like a D6 crawler tractor is still not very common in the traditional logging system as described in chapter 6.
+Photo 13. Heavy loads - a challenge to the skidder operator
+Photo 14. Lack of planning - timber logging during wet season, extensive landing
+<section>9</section>
+6. DESCRIPTION OF THE TRADITIONAL LOGGING SYSTEM
+Unlike the environmentally sound forest harvesting system treated in chapter 3, the traditional logging system as generally used in the Amazon-region in Brazil can be described as insufficiently planned, haphazard timber harvesting without any considerations concerning future crop and forest sustainability. Improper felling techniques, which cause safety problems, timber loss as well as poor postharvest condition of the forest, and inefficient extraction due to a lack of information about terrain conditions, tree location and planned skid trail alignment are further characteristics of the traditional logging system.
+The traditional logging system as generally used in the Amazon region in Brazil can be described as follows:
+· a timber company looks for forest areas to buy from settlers or farmers;
+· the company hires someone to evaluate the stands in the area of interest;
+· the company usually purchases the forest areas at a very low price after stand evaluations;
+· felling operations are often performed by poorly equipped and unskilled workers, frequently hired by the company only for the single job; a felling crew usually consists of 1 chainsaw operator and 1 assistant;
+· workers are usually paid according to the volume of timber felled per day, therefore rapid felling is better rewarded than careful felling;
+· entering the operating area with a D6 crawler tractor (bulldozer) a road of 8 m width is opened in the middle of the area as well as landings established several days after felling operations have been completed;
+· logging operations are usually carried out in a chaotic way, the operator of the D6 crawler tractor or skidder, which is sometimes used, drives the tractor into the stand towards canopy openings searching for logs;
+· the skidder operator drives to each log due to the lack of designated skid trails, the winch line is often wrapped directly around the log to be skidded, rather than using a separate choker cable or chain;
+· skidding the log to the landing is not necessarily carried out by retracing the path used to arrive at the log;
+· unplanned searching and skidding results in a dense criss-crossing network of skid trails, some of which lead to natural canopy gaps in which no tree was felled;
+· remarkable losses of utilisable volume caused by forgotten, not extracted felled trees.
+Photo 15. Short-term changes in stand structure caused by driving the skidding machines into the stand - the lack of underbrush, palms and regeneration is obvious, and other effects such as soil disturbance and soil compaction provide food for thought
+Photo 16. Inappropriate stream crossing
+<title>ENVIRONMENTALLY SOUND FOREST HARVESTING Testing the applicability of the FAO Model Code In the Amazon in Brasil</title>
+7. STUDY METHODOLOGY AND ANALYSIS OF DATA
+The efficiency of the environmentally sound harvesting system applied by Precious Woods in their F2M project and that of the traditional system as generally used in the Amazon-region have been investigated with work and time studies analysing the work performance of the operations.
+Work and time studies were done in accordance with the forest work study nomenclature (IUFRO 1995). The study methodology used for all time studies conducted during felling and extraction activities was cumulative timing exclusively, with the time for each work element subsequently obtained by subtraction.
+Although the machine operator was studied independent of other harvesting activities, information on the other crew members was collected to support the analysis of time consumption and interpretation of time distribution of work elements.
+The environmental impacts of harvesting operations were investigated by a postharvest assessment of soil disturbance, damage to residual vegetation, and canopy gaps. This assessment was done for both the environmentally sound harvesting system and the traditional harvest system. For details see chapters with corresponding headings.
+7.1. Work and time study on felling and extraction
+Cutting comprises a set of activities undertaken to fell standing trees and prepare them for extraction. Extraction is defined as the process of moving trees or logs from the felling site to a landing or a roadside where they will be processed into logs or consolidated into larger loads for transport to the processing facility or other final destination (Dykstra & Heinrich 1996).
+Depending on the harvesting system applied, these activities vary with respect to their frequency of occurrence. Nevertheless, a sequence of regular work elements can be found for the felling operation that constitutes the work cycle. Work cycle is defined as a sequence of work repeatedly applied to every work object (IUFRO 1995). A work element is considered a sub-division of a given work task and is limited by break points. Depending on the occurrence in every work cycle, a work element can be considered as a repetitive or an occasional element.
+Only workplace time, which is defined as the portion of the total time that a production system or part of a production system is engaged in a specific work task (IUFRO 1995), has been considered in estimating production rates and costs. Although meal time is part of the workplace time, it has been excluded from estimations, since its frequency of occurrence differed during observation of harvesting activities.
+Table 7 shows the structure of work time elements that occur during time studies.
+Table 7. Structure of Workplace Time (WP) concepts
+Work Time (WT)
+Productive Work Time (PW)
+Main Work Time (MW)
+Complementary Work (CW)
+Supportive Work
+Preparatory Time (PT)
+Relocation Time (RL)
+Time (SW)
+Operational Preparatory Time (OP)
+Service Time (ST)
+Repair Time (RT)
+Maintenance Time (MT)
+Refuel Time (RF)
+Ancillary Work Time (AW)
+Non-Work Time (NT)
+Work-Related
+Meal Time (ME)
+Delay Time (WD)
+Rest and Personal
+Time (RP)
+Interference Time (IT)
+7.1.1. Work and time study on felling operations
+The classification and the percentage of workplace time consumption excluding meal time observed for each work element in felling operations, whether in the environmentally sound forest harvesting system or in the traditional logging system, can be found in Appendix 2. Data on the time studies on felling operations are stated below for both systems:
+subject of observation
+environmentally sound forest
+harvesting system B/G09
+traditional logging system
+B/F09
+Work time
+17 h 15 min
+13 h 34 min
+Non-work time
+40 min
+26 min
+Workplace time
+17 h 55 min
+14 h 00 min
+trees felled
+trees only bucked*
+trees harvested
+trees rejected
+utilisable volume
+353.90 m³
+250.81 m³
+volume/tree
+7.08 m³
+5.57 m³
+*) B/G09: trees felled during opening of skid trail
+B/F09: trees knocked down by felling of neighbouring tree
+Note: Workplace time excluding meal time
+On average the time required per tree harvested was 24.43 minutes in the environmentally sound forest harvesting system and 18.66 minutes in the traditional logging system. The time required per tree harvested serves as the basis for estimating production rates, treated in chapter 7.2, and is to be distinguished from the time required to fell a single tree, stated in Table 8 for both systems.
+In order to compare time distribution of work elements and time required for the felling of a single tree in both systems, the time used per tree rejected and the time used for the bucking of trees that had already been felled during skid trail opening or that had been knocked down by the felling of a neighbouring tree have been excluded from calculations on this matter. The average time of work elements required to accomplish the felling of a single tree and their time distribution is shown in Table 8.
+Table 8. Comparison of tree felling in both systems
+work elements (classification)
+environmentally sound forest harvesting system B/G09
+traditional logging system B/F09
+[min]
+[min]
+Felling
+(MW)
+Bucking and delimbing
+(MW)
+Location of tree
+(CW)
+Felling preparations
+(CW)
+Productive work time
+(PW)
+Other saw
+(RL)
+Consideration
+(OP)
+Repair time
+(RT)
+Maintenance time
+(MT)
+Refuel time
+(RF)
+Site clearing
+(AW)
+Skid trail clearing
+(AW)
+Cut free saw
+(AW)
+Supportive work time
+(SW)
+Time required for felling a single tree
+The comparison of the time distribution of work elements that occurred in felling a single tree with both systems reveals the following:
+· time spent on felling in the environmentally sound forest harvesting system is higher since it is more difficult to direct a tree being felled than to fell a tree in the direction of its natural lean, even if proper directional felling techniques are applied and wedges are used;
+· improper cutting techniques result in a higher share of time spent on bucking and delimbing in the traditional logging system;
+· use of improper felling techniques is also indicated by the time spent on supportive work, namely cutting free the chainsaw, which was more than three times higher than in the environmentally sound forest harvesting system;
+· time spent on clearing the site of branches from the crowns of previously felled trees in order to facilitate bucking and delimbing was more than three times higher due to the lack of proper felling techniques, which enable a planned alignment of trees;
+· felling preparations were restricted to the removal of underbrush and palms in the traditional logging system, whereas in the environmentally sound harvesting system felling preparations also included bark removal at the height of the felling cut as well as the time for determination of the best felling direction. Bark removal at the height of the felling cut will increase the longevity of the chain and the chainsaw in general.
+Photo 17. Felling preparations - bark removal at the height of the felling cut
+7.1.2. Work and time study on timber extraction
+The classification and the percentage of workplace time consumption excluding meal time observed for each single work element in extraction operations can be found for the environmentally sound forest harvesting system in Appendix 3, for the traditional logging system in Appendix 4. Information on the time studies carried out on extraction operations are stated below for both systems:
+subject of observation
+environmentally sound forest
+harvesting system B/G09
+traditional logging system
+B/F09
+Pre-skidding
+Work time
+10 h 48 min
+Non-work time
+47 min
+Workplace time
+11 h 35 min
+logs winched
+logs only handled
+utilisable volume
+359.73 m³
+volume/load
+4.80 m³
+Skidding
+Work time
+5 h 21 min
+7 h 19 min
+Non-work time
+16 min
+6 min
+Workplace time
+5 h 37 min
+7 h 25 min
+logs skidded
+utilisable volume
+367.83 m³
+184.63 m³
+volume/load
+4.66 m³
+4.29 m³
+The figure for concentrated utilisable volume differs from that of skidded utilisable volume since four logs were neither winched nor handled by the crawler tractor due to already correct alignment with respect to the skidding route.
+The figures for utilisable volume extracted from cutting unit B/G09 differ from that given for the utilisable volume felled since four trees were felled after completion of the particular felling operation observed during the establishment of the landing.
+In case of cutting unit B/F09, the figures for volume felled and volume extracted differ since the sample of trees observed during felling and extraction operations was not exactly the same due to the simultaneous use of two Cat wheeled skidders on the area under examination.
+7.2. Estimating production rates
+Since productivity is defined as the rate of product output per time unit for a given production system, the production rates of a studied system can easily be estimated if time studies combined with measurements of the output of production have been completed.
+7.2.1. Felling
+The estimated production rates for felling operations in both systems are based on the total time used to provide a certain volume of timber, regardless of whether a particular tree has been felled or rejected. Volume per tree harvested has been calculated by multiplying the average cross-sectional area of the stem by the stem length measured at the felling site. The cross-sectional area is based on diameter measurements, including bark, made at each end of the stem at the felling site. Time calculations are based on workplace time excluding meal time.
+Table 9. Estimated felling production rates
+method
+cutting unit
+number of observations
+volume per tree felled [m³]
+time required
+per tree [min]
+productivity
+[m³/h]
+environmentally sound
+forest harvesting system
+B/G09
+traditional
+logging system
+B/F09
+Note: 1) volume per tree felled refers to utilisable volume including bark
+2) productivity in terms of utilisable volume (including bark) per hour of workplace time
+(excluding meal time)
+The average utilisable volume per tree felled in cutting unit B/G09 is considerably higher than that in cutting unit B/F09. This is mainly caused by the fact that in the environmentally sound forest harvesting system only the most mature trees of commercial interest are selected to be felled, whereas in the traditional logging system all commercial tree species with dbh above the threshold value of 50 cm are removed.
+The comparatively high utilisable volume per tree felled as a feature of the environmentally sound forest harvesting system makes this system more favourable than the traditional logging system with respect to the felling production rates.
+Based on the hourly productivity found by the studies and an effective workplace time excluding lunch break of 7 hours per day, the average production rate amounted to 134-141 m³ per
+felling crew per day for the environmentally sound forest harvesting system, which is 19-20 felled trees/crew/day.
+The corresponding figures on the average production rate of a felling crew using the traditional logging system were 123-128 m³ per day, which is 22-23 felled trees/crew/day.
+7.2.2. Extraction
+The estimated production rates for extraction operations in both systems are based on the total time used to provide a certain volume of timber, regardless of whether a particular tree has been concentrated to the skid trail or was already lying along the skid trail. Volume per load has been calculated by multiplying the average cross-sectional area of the stem by the stem length. If the stem to be extracted had to be cut into pieces, the cross-sectional area is based on diameter measurements, including bark, made at each end of the log at the landing site. Time calculations are based on workplace time excluding meal time.
+Table 10. Estimated extraction production rates
+method
+cutting unit
+number of observations
+volume per load [m³]
+time required
+per log [min]
+productivity [m³/h]
+environmentally sound
+forest harvesting system B/G09
+pre-skidding phase
+skidding phase
+traditional
+logging system
+B/F09
+Note: 1) volume per load refers to utilisable volume including bark
+2) productivity in terms of utilisable volume (including bark) per hour of workplace time
+(excluding meal time)
+Based on the hourly productivity found by the studies and an effective workplace time excluding lunch break of 7 hours per day, the average production rate for pre-skidding amounted to 216-221 m³ per pre-skidding crew per day in the environmentally sound forest harvesting system, which is 45-46 logs/crew/day. The corresponding figures for the average production rate for the skidding phase were 457-461 m³ per skidding crew per day, which is 98-99 logs/crew/day.
+With the same effective workplace time per day, the average production rate for skidding with the traditional logging system amounted to 172-176 m³ per skidding crew per day, which is 40-41 logs/crew/day.
+Since in both systems the same operator was operating the wheeled skidder the estimated production rates are comparable for both systems. However, as the operator in question had two years' experience, his production rate was above that to be expected from a less skilled operator.
+In order to allow a comparison with the traditional logging system, a derived productivity per hour of workplace time for extraction has been calculated for the environmentally sound forest harvesting system and amounts to 20.96 m³/h. This figure on extraction productivity is derived by multiplying the average volume per load by the sum of time required per log in both phases of extraction. The extraction production rate amounts to 146-151 m³ per day, which is 31-32 logs/day. Considering this daily production rate for extraction in the environmentally sound forest harvesting system, one has to keep in mind that it is a derived figure since pre-skidding and skidding are never carried out simultaneously within a cutting unit.
+Photo 18. High extraction productivity since only the most mature trees are harvested in the environmentally sound forest harvesting system
+7.3. Estimating costs
+The estimation of production costs is based on the productivity for harvesting operations stated in previous chapters and the hourly costs for the harvesting workforce and equipment involved in harvesting activities. The hourly cost estimates are based upon information obtained from the company.
+Table 11 shows the share of costs for each activity carried out in timber harvesting with both systems. For the environmentally sound forest harvesting system the cost effects of the planned changes concerning the felling and pre-skidding crews, stated in chapter 3.3 and 3.4.1, are considered as well.
+Table 11. Estimated cost distribution of harvesting activities
+Harvesting
+environmentally sound forest
+harvesting system B/G09
+traditional timber harvesting system B/F09
+Activities
+actual
+planned
+productivity [m³/h]
+production cost [%]
+productivity[m³/h]
+production cost [%]
+productivity[m³/h]
+production cost [%]
+Commercial inventory
+Forest road
+Road maintenance
+Trail pre-opening
+Felling
+Pre-skidding
+Skidding
+Total
+Note:
+Pre-opening of skid trails within a cutting unit is carried out by the felling crew prior to the felling of trees selected to be harvested. During the pre-opening of the skid trails all trees will be removed which might cause problems to the crawler tractor, and so delay the work's progress. Time required and costs for opening the skid trails of a cutting unit are included in the figures for the pre-skidding operation. The figures on the systems' productivity are derived figures since harvesting activities are never carried out simultaneously within a cutting unit.
+Referring to the costs of the traditional logging system per cubic metre of saw log at landing site as the basis of 100%, the costs of the environmentally sound forest harvesting system, as applied at the time when the study was carried out, come to 109% and would amount to 101.5% if the environmentally sound forest harvesting system had been carried out according to the planned changes.
+7.4. Estimate of damage to residual trees and regeneration
+Since an estimate of the damage to residual trees and regeneration caused by the harvesting operations is of particular interest for the development of sustainable harvesting technologies, emphasis was given to a comprehensive postharvest assessment, which will provide information on short-term changes in stand structure due to harvesting operations. The results might also be indicative for the medium-term future crop and might give an idea of conditions for establishment of regeneration of the areas under review.
+Photo 19. Postharvest assessment provides feedback about the quality of the harvesting operations
+Unless the forest is left in a condition that will permit the attainment of a desired future condition, sustainability cannot be assured (Dykstra & Heinrich 1996). Therefore, harvesting assessments are an essential requirement of sustainable forest management since they provide feedback about the quality of the harvesting operations.
+7.4.1. Estimate of damage to residual trees
+In order to obtain information on damage to residual trees of commercial interest, namely PCTs, stem, and crown damages due to harvesting operations have been recorded and evaluated for each PCT on subplot B/G09 and subplot B/F09.
+To separate damages according to their cause, the potential crop inventory was undertaken three times:
+prior to felling
+since stem and crown damages also occur in primary forests when overmature trees break down;
+after felling
+in order to check the effectiveness of proper felling techniques and directional felling;
+after skidding
+this is considered to be the phase where damages most often occur through negligence, ignorance, or carelessness rather than unavoidable circumstances.
+Stem (bark and cambium wounds) and crown damages were ocularly estimated and recorded according to the following classes:
+classification
+crown damage
+stem damage
+Class I
+slightly damaged
+up to 1/3 crown volume
+damaged
+some spots where bark is removed
+Class II
+seriously damaged
+more than 1/3 crown volume damaged
+major parts of bark removed
+(up to 1/3 of girth)
+Class III
+almost killed / killed
+only few branches left /
+no branches left
+tree is not expected to survive /
+stem broken
+Table 12. Stand characteristics prior to and after harvesting
+commercial trees > 50 cm dbh
+potential crop trees (PCT)
+study area
+volume
+[m³]
+trees
+volume
+[m³]
+trees
+subplot B/G09
+prior to harvesting
+removed by harvesting
+after harvesting
+subplot B/F09
+prior to harvesting
+removed by harvesting
+after harvesting
+Since only PCTs were examined, the inventory on felling and skidding damages is a medium-term assessment only, the results stated below might nevertheless be indicative for the future commercial value of the area under review.
+Detailed information on all classes of stem and crown damage to PCTs and residual commercial trees can be found in Appendix 5; whereas Table 13 shows only severe damage to PCTs due either to natural causes or to harvesting comprising the classes II and III of stem and crown damage.
+Table 13. Natural and harvesting damages to Potential Crop Trees
+environmentally sound forest
+traditional logging system
+Potential Future Crop
+harvesting system - subplot B/G09
+subplot B/F09
+number
+number
+PCTs tallied
+damaged PCTs prior felling
+damaged PCTs after felling
+damaged PCTs after skidding
+PCTs without severe damage
+Natural damage
+Harvesting damage
+PCTs harvested
+PCTs remaining
+Severe harvesting damage to PCTs was more than two times higher in cutting unit B/F09, harvested in the traditional way, than in cutting unit B/G09. The directional felling emphasis was given to the correct alignment of the tree stems with respect to extraction routes rather than to PCTs and regeneration. A deviation of actual felling direction from that proposed was found in about 40% of trees felled. Damage to PCTs caused by extraction was reduced to about 1/10 of the total harvesting damage occurring in cutting unit B/G09, whereas about 1/3 of harvesting damage in cutting unit B/F09 was caused by extraction.
+The figures in Table 13 reveal that proper felling techniques in combination with directional felling will reduce but not eliminate felling damage.
+It is noteworthy that the natural damage in cutting unit B/G09 was about the same as the damage caused by extraction.
+The figures found in the literature on logging damage in natural tropical forests as in Verissimo et al. (1992) and Scharai-Rad et al. (1997) are difficult to compare with those stated in Table 13. The reason is that either the selection criteria for trees that served as the basis for further calculation were different or the damage indices used in the papers mentioned are considered inappropriate for a comparison of different systems.
+Damage indices like `trees damaged per tree extracted' might be useful for comparison between extraction crews using the same system, whereas applied in the case under review they are unable to reflect the actual conditions. This index value for environmentally sound forest harvesting would be more than twice as high as in traditional logging.
+7.4.2. Regeneration after harvesting
+In general, it is recommended that postharvest assessments be carried out 8 to 12 months after harvesting operations have been completed (Dykstra & Heinrich 1996). This would include a full rainy season, so that sufficient time has elapsed for major impacts to appear. Therefore, cutting unit F03 and G03 in compartment A2 Block 308/9672 harvested in July/August 1995, referred to here as cutting unit A2/F03 and cutting unit A2/G03, were chosen. Another advantage of selecting these cutting units was that access to cutting unit A2/F03 was only provided by a skid trail that had already served for skidding logs from cutting unit A2/G03. Impacts on regeneration due to soil compaction should be more likely to appear on that skid trail with a higher number of skidder passes.
+Regeneration on skid trails
+Regeneration on skid trails was investigated by an inventory of 2 m wide strips across the trail at 30 m intervals. Particular attention was paid to the fact that a skid trail normally consists of sidestrips, ruts, and the middle part. Therefore, distribution of regeneration may vary across a skid trail. A subdivided strip of 4 m x 2 m enabled coverage of all three soil conditions. All skid trails were oriented east-west.
+All seedlings and saplings greater or equal to 10 cm tall in the plots were identified, tallied, and recorded. Tree species of commercial interest, given present-day criteria, were recorded separately; other plants were grouped by trees and by vines.
+Regarding the total number of woody plants per m², Verissimo et al. (1992) found 5.6 plants greater or equal to 1 m tall per m² in abandoned skid trails 2 years following logging. Assuming these plants greater than 1 m tall as the ones that were already established during the first year after logging, the findings of the skid trail inventory (see Table 14) agree with Verissimo et al. (1992).
+Table 14. Regeneration on skid trails in cutting unit A2/F03 and A2/G03
+average from 36 plots
+side strip
+rut left
+middle part
+rut right
+side strip
+plot
+[0.8mx2m]
+[0.7mx2m]
+[1mx2m]
+[0.7mx2m]
+[0.8mx2m]
+[4mx2m]
+trees species/m²
+commercial trees/m²
+vines/m²
+woody plants/m²
+Detailed information on the skid trail survey can be found in Appendix 6.
+Regarding soil compaction, there did not seem to be any obvious trend with respect to plant density, since the highest number and the lowest number of trees were found in the ruts most compacted by the skidding equipment (see Table 14). Plant density (plants/m²) was about two times higher in skid trails than in gap openings (see Verissimo et al. 1992 and Jonkers 1988 for similar findings).
+Regeneration in gap openings
+Regeneration in gap openings was investigated in cutting unit A2/G03 by using small plots of 2 m x 2 m at 10 m spacing, following the assumed felling direction within the felling gap. Within that part of the gap opening caused by the removed stem, only one plot was established; in the area of the crown, plots were established to both sides following the stem direction (see Figure 6).
+Figure 6. Location of plots within gap opening
+Data on regeneration can be provided for only a few gap openings since in most cases plots could not be established due to debris of harvested trees. These gap openings were also characterised by a lack of established regeneration due to insufficient light for its development.
+All seedlings and saplings found greater or equal to 10 cm tall in the plots established were identified, tallied, recorded, and grouped by trees, palms, and vines. Tree species of commercial interest, given present-day criteria, were recorded separately.
+Table 15. Regeneration in gap openings in cutting unit A2/G03
+Tree
+plots
+trees
+palms
+vines
+plants
+plants/m²
+gap size
+No.
+[2x2m]
+all
+comm.
+[m²]
+NN1
+NN3
+NN2
+total
+plants/m²
+mean
+The densities (plants/m²) of trees, palms, and vines regenerating in gap openings observed indicate that sufficient time for regeneration to establish had not elapsed. This is reinforced by the fact that about 2/3 of the gap opening sampling plots could not be established because of the undecayed debris of harvested trees.
+Postharvest assessments of regeneration in gap openings created by tree felling should probably be carried out 2 years after harvesting operations have been completed as done by Verissimo et al. (1992). Interestingly, the total number of plants/m² found in this current gap inventory was higher than the figure of 2.4 plants/m² stated in Verissimo et al. (1992). However the number of commercial trees was only about 1/3 of the number found by Verissimo et al. (1992).
+Another reason for the low density of tree species found in the gap openings of cutting unit A2/G03 might be the size of the gap openings, that is, a lack of sunlight. The average size of the gap openings observed was 124.7 m², whereas Verissimo et al. (1992) found larger gaps of 150-300 m² for natural tree falls. One cause of the small size of gap openings in this cutting unit is the smaller trees occurring in this area of compartment A2. Another cause is that by proper felling techniques and using directional felling, residual stand damage and gap size are reduced. This direct relationship between gap size and number of plants found per m² is underscored by the trend found with this inventory (see Table 15).
+Given present-day utilisation criteria, only 6% of all regenerated trees inventoried are of commercial interest and 1/3 of the gap openings entirely lack trees of commercial interest. With only an average of about one tree of commercial interest per gap opening, it is advisable that assessments be made on the future development of regeneration.
+Silvicultural treatments, cutting vines, girdling undesired tree species, and thinning, will correct undesired effects of canopy openings. on the regeneration process, stimulate tree growth of commercial tree species, and permit the attainment of the desired future forest condition.
+7.5. Qualitative assessment of environmental impacts
+Within the scope of the postharvest assessments, information has been gathered to estimate environmental impacts associated with felling and ground-skidding operations of the environmentally sound forest harvesting system as compared to the traditional logging system.
+Survey of skid trails
+The skid trail systems in cutting units B/G09 and B/F09 were mapped to obtain information on the skid trail pattern (see Figures 7 and 8). The skid trail system was investigated with regard to primary and secondary trails. Width of skid trail and degree of soil disturbance were recorded at significant points of the skid trails. In addition, randomly distributed measurements on soil compaction were obtained by means of infiltrometer on the skid trails and on the undisturbed forest floor within the cutting units.
+The features of each skid trail system surveyed in the above mentioned cutting units are stated in Table 16. All skid trails were designated with soil disturbance class I. This class is characterised by the occurrence of only slightly exposed or unexposed mineral soil. Soil disturbance class II, characterised by mineral soil partly or fully exposed and often in combination with gullying, did not appear during the skid trail survey.
+Table 16. Skid trail system in cutting unit B/G09 and B/F09
+classification
+of skid trail
+environmentally sound forest harvesting system (B/G09)
+traditional logging system
+(B/F09)
+width
+length
+area
+width
+length
+area
+[m]
+[m]
+[m²]
+[m]
+[m]
+[m²]
+primary
+secondary
+total
+In the environmentally sound forest harvesting system the area used for skid trails amounts to 4.2% of the total area of the cutting unit, whereas in the traditional system the corresponding figure amounts to 18.7. For comparison, in Moura-Costa (1997) figures of 30-40% of logged areas traversed by bulldozers are reported for timber harvesting operations in the traditional way in tropical rain forests in Sabah, Malaysia.
+The average area used for forest infrastructure per cutting unit (Table 17) to facilitate timber harvesting, as outlined in previous chapters, has been calculated taking into account the following considerations. Since each landing serves as collection area for 4 cutting units and landings are planned to be established 500 m apart on both sides of the forest road, the 500 m of forest road between adjacent landings provide access to 8 cutting units. Furthermore, each third skid trail serves as the extraction route for two adjacent cutting units (see Figure 5). Therefore, the calculation of the average area used for forest infrastructure per cutting unit is based only on the proportional area used for the establishment of landings, forest road and skid trails.
+Figure 7. Permanent skid trail pattern in cutting unit B/G09
+Figure 8. Skid trail pattern in cutting unit B/F09
+Table 17. Average area affected by forest infrastructure per cutting unit
+type of forest infrastructure
+environmentally sound forest harvesting system
+traditional logging system
+features
+area affected
+features
+area affected
+[m²]
+[m/ha]
+[m²]
+[m/ha]
+forest road
+skid trails
++ primary
++ secondary
+landing
+total
+In the environmentally sound forest harvesting system an average area of about 4.5% per cutting unit is affected by permanent forest infrastructure as indicated in Table 17. By contrast, the average area affected by forest infrastructure came to about 20% in the traditional logging system. The lack of information on the location of felled trees and unplanned skidder driving inside the stand of the cutting unit results in the high skid trail density observed.
+Since logging in the traditional way was done in a cutting unit of the F2M project area, where the forest road had already been established after comprehensive planning of the transportation system designed for the entire forest property, the figures stated in Table 17 for the area affected by road and by landing are not truly representative for the traditional logging system. Figures on this matter reported by Mauro (1996) for tropical rainforests are 3.3% of logged area used for roads and 103 m²/ha used for landings.
+The importance of a significant reduction in the average area affected by skid trails per cutting unit as provided by the environmentally sound forest harvesting system, where only 3.5% of the area is used for skid trails, is underscored by the investigations on soil compaction. A very simple infiltrometer, locally prepared from plastic pipe, was used to get an idea of the compaction of the soil on skid trails and in cableways as compared to the undisturbed forest floor. The randomly distributed measurements were carried out with separate tests for primary and secondary skid trails.
+The measurements, carried out one week after extraction operations had been completed, showed that there was no measurable infiltration of water into the ground after several skidder passes on a primary skid trail. On the undisturbed forest floor the water usually disappeared while the cylinder was being filled. Even on secondary skid trails with few skidder passes a measurable infiltration rate was restricted to small areas of the skid trail where the pushed-down palms and brush provided a protective mat over which the skidder travelled. The measurements in cableways indicate that the infiltration rate is diminished considerably if the uppermost soil is affected by the dragging of heavy logs.
+Photo 20. Even on skid trails where pushed-down palms and brush provided a protective mat the infiltration rate was greatly reduced after several skidder passes
+. Even on skid trails where pushed-down palms and brush provided a protective mat the infiltration rate was greatly reduced after several skidder passes
+Therefore the implementation of environmentally sound harvesting methods, where the skidding machines remain on the designated skid trails at all times, is deemed highly necessary to permit the attainment of a significant reduction in soil disturbance and soil compaction. Unnecessary damage to residual trees and advance regeneration is also avoided.
+7.6. Estimate of wood recovery due to improved harvesting methods
+Timber losses of the environmentally sound harvesting system applied by Precious Woods in their F2M project and of the traditional system as generally used in the Amazon region, have been estimated by a wood recovery study analysing sources of timber losses in felling and extraction operations.
+Wood recovery has been calculated in terms of volume of extracted saw logs at the landing in relation to utilisable stem volume at the felling site. The utilisable stem volume is considered to be that part of the harvestable stem volume where topping is carried out in such a way that unnecessary removal and transport of wood are avoided. The stem is expected to be hauled in one piece from the forest to the mill-site whenever possible. In cases of crosscutting necessary due to weight of the stem, it is assumed to have been carried out in such a way as to best meet the requirements of further processing at the sawmill.
+The harvestable volume was calculated by multiplying the average cross-sectional area of the stem based on diameter measurements made at each end of the stem by the possible stem length. The possible stem length means that a stump height of 30 cm is considered to be the maximum and the uppermost, optimum point for cutting off the crown was chosen. The reference point for measurement of the possible stem length was moved above the end of the buttress in order to obtain a circular cross-section.
+Losses caused by splitting of logs during the felling operation, unsatisfactory bucking of the stem, and undiscovered decay of the stem were recorded. Losses due to skidding or caused by forgotten, unextracted felled trees in the study area did not occur. The latter probably did not occur since all felled trees had been numbered with number-plates on both cutting units.
+Table 18. Characteristics of timber harvest for wood recovery estimation
+study area
+volume harvested
+number of trees harvested
+volume/tree harvested
+average stem length
+average stump height
+[m³]
+[m³]
+[m]
+[m]
+cutting unit B/G09
+cutting unit B/F09
+The estimate of wood recovery for both systems is stated in Table 19; all calculations are based on diameter measurements including bark.
+Table 19. Timber losses in harvesting
+Wood recovery
+environmentally sound forest harvesting system B/G09
+traditional logging system
+B/F09
+[m³]
+[m³]
+Harvestable stem volume
+Utilisable stem volume
+Losses due to
++ unsatisfactory topping
++ splitting of logs
++ bucking for extraction
++ undiscovered decay
+Total of losses
+Extracted volume of saw logs
+The figures in Table 19 show that the total timber losses of 8.5% in the traditional logging system are more than twice those found in the environmentally sound harvesting system (3.9%). The most important cause of timber loss in the environmentally sound harvesting system was unsatisfactory crosscutting. This kind of loss could have been avoided by using a measuring tape prior to crosscutting. The same applies to avoidance of losses caused by unsatisfactory topping.
+On cutting unit B/F09 the comparably high timber loss of 3.9% due to unsatisfactory topping was caused by not having used a measuring tape and because crosscuts to separate the crown from the stem had to be done where possible rather than where desired due to tangled tree crowns and mass of debris.
+Since in cutting unit B/F09, where harvesting was carried out in the traditional way, damage to the residual stand was ignored, the skidder was driven as close as possible to the stem to be skidded and logs were pulled by cable only short distances. Therefore crosscutting to aid skidding was done only occasionally and did not occur for the observed sample.
+Photo 21. Lack of proper felling techniques results in losses due to the splitting of logs during tree felling, and increased danger to the felling crews
+The importance of proper felling techniques as used by the well-trained felling crews is emphasised when the loss due to splitting of logs during felling operations is compared for both systems (Table 19).
+As expected, losses caused by undiscovered decay occurred in the traditional logging system since acoustic explorations with axe or hammer to detect decay are considered unreliable (Panzer 1991).
+Photo 22. Improper felling operations result in low utilisation rates in the traditional logging system - stump heights of up to 1.20 metres were found
+Figures on avoidable waste of commercial timber reported by Gerwing et al. (1996) on traditional logging done in the state of Para, Brazil are as follows:
+Felled trees never located by the bulldozer 6.6 m³/ha (17.4%)
+Poor felling and bucking practices 1.7 m³/ha (4.5%).
+In analysing and comparing the two systems, the following needs for training and supervision of felling crews to maximise the volume and value of wood recovered from each tree felled became obvious:
+· chainsaw operators should be trained to follow proper felling and crosscutting techniques in order to increase the utilisable volume of the tree stem by reducing splitting of logs;
+· chainsaw operators should be advised to keep the stump height as low as possible;
+· chainsaw operators should have guiding rules to be followed so that log lengths are determined according to sawmill requirements;
+· no crosscut without accurate tape measurement of length desired;
+· crosscutting is to be avoided if weight and damage expected during extraction will allow.
+7.7. Canopy gaps
+Assessments of canopy gaps caused during harvesting operations were carried out in subplots B/G03 and B/F03. All gaps were measured in width along the stem and further measurements of that part of the gap caused by the tree crown were conducted. The gaps, individually drawn to scale on the map of the subplot areas (Figures 9 and 10), include not only the opening caused by the felled tree itself but also that caused by neighbouring trees that are pulled or knocked down as a consequence of the felling operation.
+Table 20. Canopy gaps and canopy opening after harvesting
+harvesting system
+size of
+number
+size of individual
+canopy
+study area
+study area
+of trees
+canopy gap
+opening
+[ha]
+mean [m²]
+max. [m²]
+environmentally sound
+forest harvesting system
+subplot B/G09
+traditional logging
+system
+subplot B/F09
+Note: Only trees or parts of them within the subplot area of 2.25 ha were considered for the calculation of the
+canopy affected by harvesting operations.
+On average, the size of a canopy gap caused by felling of a single tree was about 175 m² for the environmentally sound forest harvesting system, whereas for the traditional logging system the average size was about 150 m².
+With the environmentally sound forest harvesting system only the most mature trees are selected to be harvested. So although individual canopy gaps were larger, both the average and maximum, this system is still favoured because the total impact with respect to canopy openings is reduced.
+The canopy openings in the environmentally sound forest harvesting system came to 10.8% of the cutting unit area and can be considered akin to the natural tree fall disturbance of canopies. The value of 24.7% found for the traditional logging system, however, is beyond the upper limit of 20% reported by Uhl & Vieira (1989) for Amazonian forests, which normally have 5-20% of their area in a gapped condition at any one time.
+Apart from the total amount of area opened by harvesting operations, the opening pattern is also an important impact consideration. The individual canopy gaps with the traditional logging system are small compared to the sizes for natural tree falls of 150-300 m² reported by Verissimo et al. (1992). Because of the high number of harvested trees per area, several neighbouring felled trees may form gaps of considerable size (see Figure 10).
+Figure 9.Opening pattern on
+subplot area B/G09
+Figure 10.Opening pattern on
+subplot area B/F09
+If the forest is left in a relatively open, fragmented state, the residual trees are vulnerable to being toppled by wind blasts. Furthermore, the large canopy gaps are likely to favour the germination of vine seeds in response to elevated light and temperature levels (Uhl & Vieira 1989). The harvesting debris, which is abundant in these large gaps, provides the climbing structures that vines require to grow (Putz 1984). Tree seedlings and saplings may be replaced by vines, which are considered good competitors. They invest heavily in resource procurement surfaces (leaves and roots) while relying upon the provision of supportive tissue (Uhl & Vieira 1989).
+Silva & Whitmore (1990) reported that in a study area where harvesting operations removed 75 m³/ha with an average of 16 trees/ha the canopy was already opened to an extent that impeders, namely vines and palms, were found spread over the area six years after harvesting started. Four years before logging commenced 81% of the sampling quadrates (10 m x 10 m) were free of vines and 93% free of palms. After an elapsed period of ten years, in the second assessment of the quadrates six years after logging, only 12% were found free of vines and 57% free of palms. The assessments also revealed an increase in the number of quadrates impeded by fallen trees and branches, probably caused by the mortality of injured and windblown trees (Silva & Whitmore 1990).
+Fire is another, so far unknown, threat to natural rain forests and appears with harvesting in the traditional way. The debris, left in large gap openings in considerable amounts, is considered a fire risk. The increased amount of radiation reaching the forest floor dries the debris and therefore increases the potential fuel loads (Kauffman et al. 1988). These logged ecosystems were found to represent an entirely new and unique fire environment in Amazonia (Uhl & Vieira 1989) by providing increased fuel loads from forest debris, a decidedly drier microclimate, and anthropogenic ignition sources, since fire is commonly used for pasture establishment and weed control (Uhl & Buschbacher 1985).
+Photo 23. High amount of debris left in canopy gap
+<title>ENVIRONMENTALLY SOUND FOREST HARVESTING Testing the applicability of the FAO Model Code In the Amazon in Brasil</title>
+<section>1</section>
+8. DISCUSSION OF RESULTS AND COMPARISON WITH "TRADITIONAL" LOGGING SYSTEM USED IN AMAZON IN BRAZIL
+The results of this case-study show that environmentally sound forest harvesting, as applied by Precious Woods in their F2M project, is superior to timber harvesting in the traditional way of the Amazon region in Brazil. The estimated short term costs per cubic metre for the traditional logging system may be slightly less than the environmentally sound forest harvesting system. After accounting for system changes recommended by this study the cost difference between the two systems is about 1%, which can be considered negligible due to the inaccuracy of the estimation.
+This estimation of production costs shows that timber harvesting as carried out in the environmentally sound forest harvesting system, described in previous chapters, is not necessarily more expensive than timber harvesting in the traditional way. Furthermore, environmentally sound forest harvesting has the significant advantage of meeting social, economic, and environmental objectives.
+The medium and long-term economic advantages become obvious through a comparison of characteristics of both systems:
+environmentally sound forest
+harvesting system
+traditional logging system
+only 33% of the volume of commercial tree species found for the cutting unit under review has been removed, so that a portion of the residual commercial trees can be harvested in the next harvesting cycle
+69% of the volume of commercial tree species found for the cutting unit under review has been removed; the residual commercial trees are mainly rejected trees where internal decay is suspected
+about 72% of PCTs, most likely to form the projected harvest in the next harvesting cycle, remain in an acceptable condition without any or with only slight damage
+only 48% of PCTs remain in an acceptable condition without any or with only slight damage
+timber losses amounted to 3.9% of the utilisable stem volume at the felling site, improved bucking practice will enable further reduction of losses
+timber losses came to 8.5% of the utilisable stem volume at the felling site
+due to a reliable decay investigation prior to felling, no occurrence of timber losses caused by internal decay
+undiscovered internal decay was responsible for 1.5% in timber losses
+application of silvicultural treatments to stimulate tree growth of commercial tree species will increase the commercial value of residual stands
+no measures taken concerning damages to residual stands nor concerning future crops in general
+environmentally sound forest
+harvesting system
+traditional logging system
+sustainable forest management of the F2M project provides an assured timber supply to the company-owned sawmill
+depletion of timber resources in the vicinity of mill centres will increase timber transportation costs and drive mill owners to move their mill closer to unexploited forest
+Apart from the above mentioned economic advantages, social components are important aspects of consideration in the environmentally sound forest harvesting system:
+environmentally sound forest
+harvesting system
+traditional logging system
+fringe benefits provided to the employees
+daily payment often based on timber volume felled
+company housing with adequate standards of comfort and sanitation are provided for the employees
+usually only field camps for the duration of logging operations
+stable employment throughout the year provided for the employees
+workers are frequently hired by a company for only a single job
+consideration of basic ergonomic requirements including design of machines and tools, workplace time, rest patterns, and adequate nutrition (the company provided three meals per day)
+working techniques, rest patterns and nutrition are the workers own responsibility
+reduction of frequency and severity of accidents associated with harvesting operations by well-trained, competent personnel, outfitted with appropriate safety gear, and using properly maintained equipment
+poor safety record since harvesting operations are often carried out by poorly equipped and unskilled workers insufficiently supervised
+sustainable forest management integrated with a wood processing industry provides not only long-term employment for the rural population in harvesting operations and timber processing, but also employment for planning and administrative staff and therefore contributes to the development of the region as a whole and prevents migration
+careless exploitation and degradation of forests near mill centres leads to short-term employment in the timber-producing industry and results in all kinds of problems related to accelerated migration as the short-lived timber processing industry moves on
+Focusing on environmental impacts of harvesting operations, the advantages of the environmentally sound forest harvesting system are obvious:
+environmentally sound forest
+harvesting system
+traditional logging system
+about 1/3 of the project's forest area is set aside as preservation forest area; the majority serves as a genetic pool
+randomly distributed non-harvested forest areas remain due to difficult site conditions rather than to considerations of preservation
+soil disturbance associated with soil compaction remains restricted to the areas used for permanent forest infrastructure facilities, which cover on average about 4.5% of the cutting unit's area
+area affected by forest infrastructure came to 20% of the cutting unit's area due to a criss-crossing network of skid trails caused by unplanned searching for and skidding of logs
+canopy opening came to about 11% of the area under review; scattered distribution of individual canopy gaps keeps canopy openings reasonable in size
+about 25% of the area under review was found in a gapped condition where canopy gaps formed by felling of several neighbouring trees became critical in size
+climber cutting two years prior to harvesting enables directional felling in order to reduce felling damages
+neighbouring trees are unnecessarily damaged during felling operation by interconnecting vines
+rotten trees are not felled, but preserved as shade and seed trees in order to diminish environmental impacts
+unreliable rot identification causes unnecessary felling of trees, increasing environmental impacts
+a maximum of 80% of the volume for a tree species may be harvested, assuring the continued existence of all tree species
+no restrictions in timber removal can lead to the disappearance of certain tree species associated with a loss in diversity of forests
+forest is left in a condition that will permit the attainment of a desired future condition to assure sustainability
+poor postharvest condition of the forest that does not meet the requirements of sustainable forest management
+establishment of permanent sample plots prior to harvesting; enables monitoring of stand development and provides feedback about the quality of harvesting operations and silvicultural treatments
+lack of assessments renders it difficult to predict the effects of the harvesting operations on future crop trees, regeneration, and other vegetation
+undesired effects of canopy openings on the regeneration process will be corrected by silvicultural treatments to permit attainment of a desired future forest condition
+regeneration is left to itself, poor harvesting practices will be continued accompanied by environmental degradation due to ignorance and neglect of impacts on the ecosystem
+environmentally sound forest
+harvesting system
+traditional logging system
+advances in knowledge of the tropical rainforest ecosystem from the establishment of monitoring systems will favour the refinement of silvicultural treatments
+no attempt to mitigate unfavourable environmental impacts of the traditional way of timber harvesting
+The great superiority of the environmentally sound forest harvesting system in producing tropical forest products is obvious. Use of the principles of sustainable forest management benefits the environment and the population as a whole. It is deemed necessary to promote the implementation of environmentally sound harvesting systems in the tropical natural forest of the Amazon. This serves the needs of the economy, the natural environment, and social integration policy.
+The support of small scale sustainable forest management projects like the F2M project of Precious Woods is suggested (Kägi 1997). These projects provide desirable information on the ecological effects and the economic returns of sustainable timber production within the moist tropics. However, they are not able to compensate for the lack of large scale comprehensive land-use planning and management programmes within a region. They should be seen as only a first step in the right direction!
+<section>2</section>
+REFERENCES
+Dykstra, D.P. & Heinrich, R. 1996. FAO Model Code of Forest Harvesting Practice. Food and Agriculture Organisation of the United Nations, Rome, 85 pp.
+Gerwing, J.J., Johns, J.S. & Vidal, E. 1996. Reducing waste during logging and log processing: forest conservation in eastern Amazonia. Unasylva 187, 47: 17-25.
+Graaf, N.R. de 1986. A silvicultural system of natural regeneration of tropical rain forest in Suriname. Agricultural University of Wageningen, Netherlands, 250 pp.
+IUFRO. 1995. Forest work study. Nomenclature. Test Edition valid 1995-2000. International Union of Forestry Research Organisations WP 3.04.02. Swedish University of Agricultural Sciences, Department of Operational Efficiency, Garpenberg, 16 pp.
+Jonkers, W.B.J. 1987. Vegetation structure, logging damage and silviculture in a tropical rainforest in Suriname. Ecology and Management of Tropical Rain Forest in Suriname Series No. 3. Wageningen Agricultural University, Netherlands, 172 pp.
+Kägi, W. 1997. Sustainable logging Projects: Should they qualify for joint implementation funds? Paper presented at the World Forestry Congress, Antalya, Turkey, October 1997
+Kauffman, J.B., Uhl C. & Cummings D.L. 1988. Fire in the Venezuelan Amazon 1: fuel biomass and fire chemistry in the evergreen rainforest of Venezuela. Oikos, 53: 167-175.
+Moura-Costa, P. 1997. Reduced impact logging techniques as a means of carbon offsets. In: Research on environmentally sound forest practices to sustain tropical forests. Proceedings of the FAO/IUFRO Satellite Meeting (IUFRO XX World Congress), Tampere, Finland 4/5. August 1995, IUFRO - FAO, Rome, 37-45.
+Panzer, K.F. 1991. Application of grading rules as a means of reducing waste of timber in tropical forest logging. (Report submitted to FAO, unpubl.)
+Precious Woods. 1995. Excerpt from the Charter of Precious Woods. Precious Woods Management (Switzerland) Ltd., Zurich, 22 pp.
+Precious Woods. 1996. Sustainable forest management. General information. Mil Madeireira Itacoatiara S/A, Itacoatiara, 6 pp.
+Putz, F.E. 1984. The natural history of lianas on Barro Colorado Island, Panama. Ecology, 65: 1713-1724.
+Scharai-Rad, M., Noack D. & Steffen A. 1997. Better utilization of tropical timber resources within the framework of logging operations. Paper presented at the World Forestry Congress, Antalya, Turkey, October 1997
+Schmidt, R.C. 1989. Current tropical moist forest management activities in Brazil. Report prepared for the Government of Brazil. Food and Agriculture Organisation of the United Nations, Rome, FO: Misc./89/4
+Silva, J.N.M. & Whitmore, T.C. 1990. Prospects of sustained yield management in the Brazilian Amazon. (Case studies. Workshop on Management and Conservation of Tropical Moist Forest Ecosystems, Cayenne, French Guiana, 12-16 March 1990), UNESCO, Paris; IUFRO, Vienna; FAO, Rome; 15 pp.
+Uhl, C. & Buschbacher R. 1985. A disturbing synergism between cattle ranch burning practices and selective tree harvesting in the eastern Amazon. Biotropica, 17: 265-268.
+Uhl, C. & Vieira, I.C.G. 1989. Ecological impacts of selective logging in the Brazilian Amazon: A case study from the Paragominas region of the state of Para. Biotropica, 21 (2): 98-106.
+Verissimo, A., Barreto, P., Mattos, M., Tarifa, R. & Uhl, C. 1992. Logging impacts and prospects for sustainable forest management in an old Amazonian frontier: the case of Paragominas. Forest Ecology and Management, 55: 169-199.
+<section>3</section>
+APPENDIX 1.
+List of tree species
+Common name
+Code
+Scientific name
+Familia
+Abacatirana*
+ABAC
+Licaria unguiculata
+Chrysobalanaceae
+Abiurana vermelha
+ABIU
+Pouteria guianensis; Pouteria manausensis; Pouteria sp.(2)
+Sapotaceae
+Acaricuara
+ACAR
+Minquartia guianensis
+Olacaceae
+Amapá
+AMAP
+Brosimum parinarioides
+Moraceae
+Amapá doce
+AMDO
+Brosimum potabile; Brosimum utile
+Moraceae
+Angelim da campina
+ANCA
+Aldina heterophylla Spruce et Benth
+Mimosaceae
+Angelim fava
+ANFA
+Parkia pendula
+Mimosaceae
+Angelim pedra
+ANPE
+Hymenolobium heterocarpum; Hymenolobium nitidum;
+Fabaceae
+Angelim rajado
+ANRA
+Pithecellobium racemosum
+Mimosaceae
+Angelim vermelho
+ANVE
+Dinizia excelsa
+Mimosaceae
+Arurá vermelho (ucuubarana)
+ARVE
+Iryanthera grandis
+Myristicaceae
+Balata casca grossa*
+BALA
+Ecclinusa bacuri
+Sapotaceae
+Breu vermelho
+BREV
+Protium altosonii
+Burseraceae
+Cajui*
+CAJU
+Anacardium giganteum
+Anacardeaceae
+Castanharana*
+CANA
+Lecythis prancei
+Leythidaceae
+Castanha sapucaia*
+CASA
+não coletado
+Lecythidaceae
+Cardeiro/Cedrinho
+CDRI
+Scleronema micranthum
+Bombacaceae
+Copaiba*
+COPA
+Copaifera multijuga
+Cumarú
+CUMA
+Dipteryx odorata
+Fabaceae
+Cupiuba
+CUPI
+Goupia glabra
+Celastraceae
+Fava
+FAVA
+Vataireopsis speciosa
+Fabaceae
+Favinha
+FAVI
+Entherolobium schomburgkii; Piptadenia suaveolens
+Mimosaceae
+Guariuba
+GUAR
+Clarisia racemosa
+Moraceae
+Jacareúba*
+JACA
+Calophyllum angularis
+Chrysobalanaceae
+Common name
+Code
+Scientific name
+Familia
+Jarana
+JARA
+Lecythis poiteuai
+Lecythidaceae
+Jatobá
+JATO
+Hymenaea courbaril
+Caesalpiniaceae
+Jutaí pororoca*
+JUPO
+Martiodendron elatum
+Caesalpiniaceae
+Louro amarelo
+LOAM
+Ocotea sp.
+Lauraceae
+Louro aritú
+LOAR
+Licaria chrysophylla;
+Ocotea caniculata
+Lauraceae
+Louro faia*
+LOFA
+Roupala montana Aubl.
+Lauraceae
+Louro gamela
+LOGA
+Nectandra(Ocotea) rubra
+Lauraceae
+Louro itaúba
+LOIT
+Mezilaurus sinandra;
+Mezilaurus duckei
+Lauraceae
+Louro preto
+LOPR
+Ocotea fragantissima
+Lauraceae
+Louro rosa
+LORO
+Aniba ferrea
+Lauraceae
+Maparajuba
+MAJU
+Manilkara cavalcantei
+Sapotaceae
+Marupá
+MARU
+Simaruba amara
+Simarubaceae
+Massaranduba
+MASS
+Manilkara huberi
+Sapotaceae
+Matamata preto
+MATA
+Eschweilera coriacea;
+Lecythis chartaceas
+Lecythidaceae
+Melancieira*
+MELA
+Alexa grandiflora
+Fabaceae
+Muiracatiara
+MUIR
+Astronium lecontei
+Anacardiaceae
+Muirapiranga
+MUPI
+Brosimum rubescens
+Moraceae
+Paricarana*
+PARI
+Parkia multijuga
+Mimosaceae
+Piquiá
+PIQU
+Caryocar villosum
+Caryocaraceae
+Piquiá marfim
+PIMA
+Aspidosperma desmanthum
+Apocynaceae
+Piquiarana*
+PANA
+Caryocar glabrum
+Caryocaraceae
+Preciosa*
+PREC
+Aniba canellina (K.B.K.) Mez.
+Lauraceae
+Sucupira amarela
+SUAM
+Qualea paraensis
+Vochysiaceae
+Sucupira preta
+SUPR
+Diplotropis triloba
+Fabaceae
+Sucupira vermelha
+SUVE
+Andira unifolialata
+Fabaceae
+Common name
+Code
+Scientific name
+Familia
+Tachi
+TACH
+Sclerobium chrysophyllum; Sclerolobium paraensis;
+Tachigalia myrmecophila
+Caesalpiniaceae
+Tanimbuca
+TANI
+Buchenavia viridifolia
+Combretaceae
+Tatajuba*
+TAJU
+Begassa guianensis
+Moraceae
+Tauari Branco*
+TABR
+Couratari stellata
+Tauari vermelho
+TAUA
+Cariniana micrantha
+Lecythidaceae
+Uchi torrado
+UCHI
+Sacoglottis guianensis;
+Vantanea parviflora
+Humiriaceae
+Ucuuba (virola)
+UCUU
+Virola guggnheimii; virola venosa; Virola caducifolia
+Myristicaceae
+Violeta*
+VIOL
+Peltogyne catingae
+Caesalpiniaceae
+*) tree species not yet used
+<section>4</section>
+APPENDIX 2.
+Time tables on felling operations
+environmentally sound forest harvesting system
+cutting unit B/G09
+work elements
+classification
+Felling (MW)
+Main work Time (MW)
+Work
+Bucking/delimbing (MW)
+Time
+Location of tree (CW)
+Complementary Work Time (CW)
+(WT)
+Felling preparations (CW)
+Productive Work Time (PW)
+Other saw (RL)
+Preparatory Time (PT)
+Considerations (OP)
+Repair time (RT)
+Service Time (ST)
+Maintenance time (MT)
+Refuel time (RF)
+Site clearing (AW)
+Ancillary Work Time (AW)
+Skid trail clearing (AW)
+Cut free saw (AW)
+Others (AW)
+Supportive Work Time (SW)
+Rest/personal time (RP)
+Work-Related Delay Time (WD)
+Non-
+Delays (IT)
+Work
+Time
+(NT)
+Workplace Time (WP)
+The total workplace time observed (excluding meal time) amounted to 17 h 54 min 51 sec.
+traditional logging system
+cutting unit B/F09
+work elements
+classification
+Felling (MW)
+Main work Time (MW)
+Work
+Bucking/delimbing (MW)
+Time
+Location of tree (CW)
+Complementary Work Time (CW)
+(WT)
+Felling preparations (CW)
+Productive Work Time (PW)
+Other saw (RL)
+Preparatory Time (PT)
+Considerations (OP)
+Repair time (RT)
+Service Time (ST)
+Maintenance time (MT)
+Refuel time (RF)
+Site clearing (AW)
+Ancillary Work Time (AW)
+Cut free saw (AW)
+Supportive Work Time (SW)
+Rest/personal time (RP)
+Work-Related Delay Time (WD)
+Non-
+Delays (IT)
+Work
+Time
+(NT)
+Workplace Time (WP)
+The total workplace time observed (excluding meal time) amounted to 13 h 59 min 53 sec.
+<section>5</section>
+APPENDIX 3.
+Time tables on pre-skidding and skidding operations
+environmentally sound forest harvesting system
+cutting unit B/G09
+work elements
+classification
+Attach log - cable (MW)
+Main Work Time (MW)
+Work
+Winching (MW)
+Time
+Unhook (MW)
+(WT)
+Move to concentration
+point (CW)
+Complementary Work Time (CW)
+Others (handling/clearing) (CW)
+Bucking (CW)
+Productive Work Time (PW)
+Movement on trail or road (RL)
+Preparatory Time (PT)
+Preparations (OP)
+Cutting obstacles (OP)
+Considerations (OP)
+Repair time (RT)
+Service Time (ST)
+Skid trail opening (AW)
+Ancillary Work Time (AW)
+Supportive Work Time (SW)
+Rest/personal time (RP)
+Work-Related Delay Time (WD)
+Non-
+Hanging tree + bucking (IT)
+Work
+Delays (IT)
+Time
+(NT)
+Workplace Time (WP)
+The total workplace time observed (excluding meal time) amounted to 11 h 35 min 24 sec.
+environmentally sound forest harvesting system
+cutting unit B/G09
+work elements
+classification
+Attach log - grapple (MW)
+Main work Time (MW)
+Work
+Skidding (MW)
+Time
+Landing operation (MW)
+(WT)
+Move to concentration
+Complementary Work Time (CW)
+point (CW)
+Productive Work Time (PW)
+Considerations (OP)
+Preparatory Time (PT)
+Repair time (RT)
+Service Time (ST)
+Maintenance time (MT)
+Refuel time (RF)
+Supportive Work Time (SW)
+Rest/personal time (RP)
+Work-Related Delay Time (WD)
+Non-
+Delays (IT)
+Work
+Time
+(NT)
+Workplace Time (WP)
+The total workplace time observed (excluding meal time) amounted to 5 h 36 min 46 sec.
+<section>6</section>
+APPENDIX 4.
+Time table on extraction operations
+traditional logging system
+cutting unit B/F09
+work elements
+classification
+Attach log - cable (MW)
+Main work Time (MW)
+Work
+Winching (MW)
+Time
+Skidding (MW)
+Time
+Landing operation (MW)
+(WT)
+Move to skidding site (CW)
+Complementary Work Time (CW)
+Bucking (CW)
+Productive Work Time (PW)
+Considerations (OP)
+Preparatory Time (PT)
+Repair time (RT)
+Service Time (ST)
+Maintenance time (MT)
+Refuel time (RF)
+Supportive Work Time (SW)
+Rest/personal time (RP)
+Work-Related Delay Time (WD)
+Non-
+Delays (IT)
+Work
+Time
+(NT)
+Workplace Time (WP)
+The total workplace time observed (excluding meal time) amounted to 7 h 24 min 59 sec.
+<section>7</section>
+APPENDIX 5.
+Stem and crown damages
+Damage to PCTs (commercial species with dbh > 20 cm) on subplot B/G09
+PCT
+Girth
+Vol.
+species
+natural damage
+felling damage
+skidding damage
+No.
+(cm)
+(m³)
+code
+crown
+stem
+status
+crown
+stem
+status
+stem
+status
+LOIT
+d
+slightly
+k
+d
+killed
+killed
+CANA
+d
+slightly
+slightly
+GUAR
+d
+slightly
+slightly
+CDRI
+d
+slightly
+s
+seriously
+seriously
+LOPR
+d
+slightly
+slightly
+CANA
+CDRI
+BREV
+COPA
+LOPR
+d
+slightly
+slightly
+BREV
+ABIU
+UCUU
+cut
+cut
+ACAR
+d
+slightly
+slightly
+slightly
+CANA
+LOPR
+LOPR
+k
+killed
+d
+killed
+PREC
+d
+slightly
+d
+slightly
+ABIU
+MATA
+d
+slightly
+slightly
+PREC
+BALA
+d
+slightly
+BREV
+d
+slightly
+d
+slightly
+slightly
+LOPR
+CANA
+ABIU
+CANA
+d
+slightly
+slightly
+LOGA
+s
+seriously
+CANA
+FAVI
+CDRI
+LOAM
+s
+seriously
+s
+seriously
+s
+seriously
+LOPR
+LOPR
+LOPR
+k
+k
+killed
+killed
+CANA
+UCUU
+UCUU
+s
+seriously
+PREC
+d
+slightly
+slightly
+slightly
+MATA
+CDRI
+d
+k
+killed
+killed
+LOPR
+s
+seriously
+s
+seriously
+seriously
+BREV
+CDRI
+d
+slightly
+slightly
+CDRI
+s
+seriously
+seriously
+CANA
+MAJU
+d
+slightly
+d
+slightly
+slightly
+LOPR
+LOPR
+d
+slightly
+slightly
+CDRI
+MATA
+ABIU
+PCT
+Girth
+Vol.
+species
+natural damage
+felling damage
+skidding damage
+No.
+(cm)
+(m³)
+code
+crown
+stem
+status
+crown
+stem
+status
+stem
+status
+JUPO
+CANA
+ABIU
+cut
+cut
+JARA
+TACH
+GUAR
+UCUU
+ABIU
+CDRI
+k
+k
+killed
+killed
+SUVE
+ABIU
+LOPR
+CANA
+LOAM
+d
+slightly
+CANA
+cut
+cut
+LOPR
+JUPO
+s
+d
+seriously
+seriously
+JARA
+ABIU
+ABIU
+k
+k
+killed
+killed
+LORO
+k
+d
+killed
+killed
+CDRI
+k
+killed
+killed
+CDRI
+LOPR
+d
+slightly
+slightly
+TANI
+s
+d
+seriously
+seriously
+CANA
+s
+seriously
+s
+d
+seriously
+seriously
+UCHI
+d
+slightly
+slightly
+MATA
+LOAM
+k
+killed
+k
+k
+killed
+killed
+BALA
+d
+slightly
+slightly
+CDRI
+ABIU
+k
+killed
+killed
+ABIU
+k
+killed
+killed
+BREV
+MASS
+s
+seriously
+MATA
+s
+seriously
+seriously
+LOPR
+LOPR
+k
+k
+killed
+killed
+ABIU
+d
+slightly
+slightly
+BREV
+k
+d
+killed
+killed
+CUPI
+ABIU
+s
+seriously
+seriously
+JUPO
+d
+slightly
+slightly
+CANA
+SUVE
+LOPR
+d
+slightly
+k
+killed
+killed
+JUPO
+d
+slightly
+s
+seriously
+seriously
+ANFA
+UCUU
+JUPO
+d
+slightly
+slightly
+LOPR
+d
+slightly
+slightly
+MAJU
+CDRI
+s
+seriously
+seriously
+JARA
+ABIU
+ARVE
+MATA
+s
+d
+seriously
+seriously
+IPE
+PCT
+Girth
+Vol.
+species
+natural damage
+felling damage
+skidding damage
+No.
+(cm)
+(m³)
+code
+crown
+stem
+status
+crown
+stem
+status
+stem
+status
+JUPO
+JARA
+d
+slightly
+slightly
+CANA
+PCTs
+classification
+natural damage
+felling damage
+skidding damage
+crown
+stem
+status
+crown
+stem
+status
+stem
+status
+Class I
+Class II
+Class III
+cut/skid trail
+undamaged
+slightly
+seriously
+killed
+cut/skid trail
+undamaged
+Damage to residual trees (commercial species with dbh > 50 cm) on subplot B/G09
+Tree
+Girth
+Vol.
+species
+natural damage
+felling damage
+skidding damage
+No.
+(cm)
+(m³)
+code
+crown
+stem
+status
+crown
+stem
+status
+stem
+status
+MASS
+d
+slightly
+slightly
+MASS
+k
+k
+killed
+k
+k
+killed
+killed
+ABIU
+SUVE
+FAVI
+CUPI
+LOIT
+JARA
+k
+k
+killed
+killed
+GUAR
+MATA
+FAVI
+d
+slightly
+slightly
+LOPR
+CUPI
+ABIU
+LOAR
+d
+d
+slightly
+slightly
+JARA
+s
+d
+seriously
+seriously
+CUPI
+s
+d
+seriously
+seriously
+TACH
+k
+k
+killed
+killed
+ABIU
+MASS
+s
+k
+killed
+killed
+LOPR
+s
+seriously
+s
+seriously
+seriously
+JARA
+Tree
+Girth
+Vol.
+species
+natural damage
+felling damage
+skidding damage
+No.
+(cm)
+(m³)
+code
+crown
+stem
+status
+crown
+stem
+status
+stem
+status
+LOPR
+LOAR
+LOPR
+ACAR
+JATO
+LOPR
+s
+s
+seriously
+s
+seriously
+seriously
+MAJU
+d
+slightly
+slightly
+MUIR
+k
+k
+killed
+k
+k
+killed
+killed
+PARI
+d
+slightly
+slightly
+CANA
+CANA
+CANA
+d
+d
+slightly
+slightly
+PANA
+CANA
+d
+slightly
+slightly
+CUPI
+TACH
+CANA
+ABIU
+TACH
+ABIU
+PARI
+d
+slightly
+slightly
+CANA
+s
+seriously
+seriously
+BALA
+CANA
+LOAR
+s
+s
+seriously
+s
+d
+seriously
+seriously
+LOPR
+UCHI
+d
+slightly
+d
+slightly
+slightly
+CANA
+CAJU
+Trees
+classification
+natural damage
+felling damage
+skidding damage
+crown
+stem
+status
+crown
+stem
+status
+stem
+status
+Class I
+Class II
+Class III
+undamaged
+slightly
+seriously
+killed
+undamaged
+Damage to PCTs (commercial species with dbh > 20 cm) on subplot B/F09
+PCT
+Girth
+Vol.
+species
+natural damage
+felling damage
+skidding damage
+No.
+(cm)
+(m³)
+code
+crown
+stem
+status
+crown
+stem
+status
+stem
+status
+LOPR
+d
+slightly
+slightly
+MASS
+ARVE
+s
+d
+seriously
+d
+seriously
+CANA
+s
+seriously
+d
+seriously
+LOAM
+k
+killed
+LOPR
+d
+slightly
+slightly
+CANA
+CANA
+k
+k
+killed
+k
+killed
+CANA
+k
+k
+killed
+k
+killed
+LOPR
+LOPR
+d
+d
+slightly
+d
+slightly
+LOIT
+TACH
+s
+seriously
+BALA
+CANA
+d
+slightly
+slightly
+TACH
+d
+d
+slightly
+d
+slightly
+ABIU
+k
+k
+killed
+k
+killed
+ARVE
+k
+k
+killed
+k
+killed
+JARA
+BALA
+UCUU
+LOAR
+k
+k
+killed
+k
+killed
+JARA
+s
+seriously
+seriously
+BREU
+k
+k
+killed
+k
+killed
+PIMA
+d
+slightly
+JARA
+s
+seriously
+MATA
+MATA
+k
+k
+killed
+k
+killed
+CANA
+VIOL
+d
+slightly
+d
+slightly
+TACH
+s
+seriously
+ABIU
+k
+killed
+ABIU
+LOAM
+CEDRI
+d
+slightly
+k
+killed
+TACH
+s
+seriously
+seriously
+ABIU
+TACH
+FAVI
+d
+slightly
+s
+seriously
+TACH
+d
+slightly
+k
+killed
+FAVI
+d
+slightly
+s
+seriously
+ABAC
+ABIU
+k
+k
+killed
+k
+killed
+FAVA
+k
+killed
+UCUU
+d
+slightly
+s
+seriously
+seriously
+CANA
+s
+k
+killed
+k
+killed
+BREV
+k
+killed
+killed
+CANA
+d
+s
+seriously
+s
+seriously
+PCT
+Girth
+Vol.
+species
+natural damage
+felling damage
+skidding damage
+No.
+(cm)
+(m³)
+code
+crown
+stem
+status
+crown
+stem
+status
+stem
+status
+BALA
+d
+slightly
+slightly
+MASS
+d
+slightly
+LOAM
+d
+slightly
+MARU
+d
+slightly
+s
+seriously
+s
+seriously
+CDRI
+d
+slightly
+LOAM
+LOAM
+k
+k
+killed
+k
+killed
+FAVI
+d
+slightly
+d
+slightly
+slightly
+CANA
+ARVE
+d
+slightly
+d
+slightly
+s
+seriously
+BREV
+d
+LOPR
+d
+PARI
+s
+seriously
+JUPO
+d
+slightly
+k
+k
+killed
+k
+killed
+FAVI
+k
+k
+killed
+k
+killed
+LOPR
+d
+slightly
+d
+slightly
+d
+slightly
+LOAM
+s
+seriously
+LOPR
+d
+slightly
+d
+slightly
+LOAM
+s
+d
+seriously
+seriously
+UCUU
+k
+k
+killed
+k
+killed
+BREV
+k
+k
+killed
+k
+killed
+LOAM
+s
+seriously
+seriously
+ABIU
+PARI
+PREC
+k
+k
+killed
+k
+killed
+ABIU
+k
+k
+killed
+k
+killed
+TANI
+s
+seriously
+CDRI
+CANA
+LOPR
+d
+slightly
+slightly
+UCUU
+d
+slightly
+PIMA
+k
+killed
+MATA
+LOPR
+ARVE
+JATO
+CDRI
+s
+seriously
+UCUU
+LOAM
+BALA
+TACH
+LOAM
+TACH
+s
+seriously
+seriously
+ARVE
+k
+k
+killed
+k
+killed
+MATA
+k
+killed
+TACH
+s
+seriously
+seriously
+PREC
+k
+killed
+TACH
+k
+killed
+LOPR
+d
+slightly
+k
+k
+killed
+k
+killed
+PCT
+Girth
+Vol.
+species
+natural damage
+felling damage
+skidding damage
+No.
+(cm)
+(m³)
+code
+crown
+stem
+status
+crown
+stem
+status
+stem
+status
+ABIU
+d
+slightly
+ARVE
+s
+seriously
+JARA
+k
+k
+killed
+k
+killed
+MAJU
+k
+k
+killed
+k
+killed
+LOAR
+CANA
+k
+k
+killed
+k
+killed
+LOAM
+d
+slightly
+d
+slightly
+ABIU
+k
+k
+killed
+k
+killed
+CANA
+k
+killed
+killed
+ABIU
+ABIU
+k
+killed
+ABIU
+k
+k
+killed
+k
+killed
+JUPO
+k
+killed
+ARVE
+s
+k
+killed
+k
+killed
+LOPR
+s
+seriously
+seriously
+JARA
+s
+d
+seriously
+d
+seriously
+PANA
+d
+d
+slightly
+s
+seriously
+LOPR
+k
+k
+killed
+k
+killed
+ABIU
+ANRA
+k
+killed
+k
+killed
+k
+killed
+UCUU
+CANA
+LOPR
+LOPR
+d
+slightly
+k
+killed
+LOPR
+CUMA
+ARVE
+BALA
+ABIU
+d
+slightly
+s
+seriously
+UCUU
+s
+d
+seriously
+d
+seriously
+ABIU
+s
+seriously
+seriously
+UCUU
+UCUU
+PCTs
+classification
+natural damage
+felling damage
+skidding damage
+crown
+stem
+status
+crown
+stem
+status
+stem
+status
+Class I
+Class II
+Class III
+undamaged
+slightly
+seriously
+killed
+undamaged
+Damage to residual trees (commercial species with dbh > 50 cm) on subplot B/F09
+Tree
+Girth
+Vol.
+species
+natural damage
+felling damage
+skidding damage
+No.
+(cm)
+(m³)
+code
+crown
+stem
+status
+crown
+stem
+status
+stem
+status
+FAVI
+d
+s
+seriously
+d
+seriously
+UCHI
+d
+slightly
+d
+slightly
+ACAR
+d
+ACAR
+d
+slightly
+s
+k
+killed
+k
+killed
+LOPR
+d
+d
+slightly
+slightly
+CUPI
+d
+slightly
+slightly
+ACAR
+k
+killed
+k
+killed
+ACAR
+MASS
+MASS
+ACAR
+FAVI
+s
+seriously
+seriously
+LOPR
+s
+seriously
+k
+k
+killed
+k
+killed
+JUPO
+d
+slightly
+d
+slightly
+slightly
+BALA
+d
+Trees
+classification
+natural damage
+felling damage
+skidding damage
+crown
+stem
+status
+crown
+stem
+status
+stem
+status
+Class I
+Class II
+Class III
+undamaged
+slightly
+seriously
+killed
+undamaged
+<section>8</section>
+APPENDIX 6.
+Skid trail survey
+Regeneration on skid trails (detailed information)
+skid
+number
+side strip
+rut left
+middle
+rut right
+side strip
+plot
+species
+trail
+of plots
+[0.8mx2m]
+[0.7mx2m]
+[1mx2m]
+[0.7mx2m]
+[0.8mx2m]
+[4mx2m]
+No.
+trees species/m²
+(commercial)/m²
+vines/m²
+woody plants/m²
+No.
+trees species/m²
+(commercial)/m²
+vines/m²
+woody plants/m²
+No.
+trees species/m²
+(commercial)/m²
+vines/m²
+woody plants/m²
+<title>ENVIRONMENTALLY SOUND FOREST HARVESTING Testing the applicability of the FAO Model Code In the Amazon in Brasil</title>
+<section>1</section>
+FOREWORD
+Improved forest harvesting practices, with due consideration of the forest environment, are considered an important step towards sustainable forest management, particularly in tropical regions.
+In 1995, FAO has developed a Model Code of Forest Harvesting Practice, as a compendium of modern technics of environmentally sound harvesting practices. This document has undergone an extensive review by experts and practitioners in order to allow its application under changing conditions for training purposes and demonstration of improved forest management.
+The present case study has been carried out with a private company in the Amazon which had already demonstrated its willingness and capability to apply the economic, social and environmental requirements for sustainable forest management.
+The results of the study give the opportunity to compare the efficiency and the environmental impacts of environmentally sound forest harvesting in tropical natural forests as an alternative to the traditional and destructive logging systems generally used in the Amazon-region in Brazil.
+Although a case study is just a snapshot, it is hoped that this case study will contribute to raise interest in introducing sustainable forest management practices in natural tropical forest within the country and elsewhere.
+The Forest Products Division wishes to express its appreciation to Precious Woods Ltd. for their kind support through its local subsidiary Mil Madeireira Itacoatiara in Brazil.
+This case study was made possible through a special contribution by the Austrian Government for the FAO programme on environmentally sound forest harvesting to sustain tropical forests.
+K.H. Schmincke
+Director
+Forest Products Division
+<section>2</section>
+SUMMARY
+The study was carried out in the tropical natural forest of the Amazon near Manaus, Amazonas, Brazil. Precious Woods Company Ltd. initiated the project to demonstrate the economic viability of sustainable forest management integrated with a wood-processing industry. This, as an alternative to the timber exploitation usually carried out in the Amazon region of Brazil.
+The study documents each phase of the environmentally sound forest harvesting system as applied by Precious Woods and compares its efficiency and environmental impacts with those of the traditional logging systems generally used in the Amazon region.
+Comparable data on harvesting operations were collected under almost identical conditions. Work and time studies on harvesting activities in both systems and postharvest assessments of environmental impacts were carried out in adjacent cutting units of the project area.
+Felling in the traditional way was done by unskilled workers hired only for the single job as is usually done by the companies. Whereas for the extraction phase, the skidder operator already engaged in the skidding phase of the environmentally sound forest harvesting system was assigned to the skidding operation using the traditional process.
+The time required for felling a single tree was greater in the environmentally sound forest harvesting system (21.42 min) than in the traditional logging system (17.59 min). But the cubic metre productivity for the environmentally sound forest harvesting system was higher because only the most mature trees of commercial interest are selected to be felled, which results in a higher average utilisable volume per tree felled. For felling in the environmentally sound forest harvesting system, a productivity of 19.76 m³/h workplace time was found, whereas the felling-productivity in the traditional logging system was 17.92 m³/h workplace time.
+The productivity of timber extraction is more difficult to compared since there are two extraction activities in the environmentally sound forest harvesting system: first, the pre-skidding phase with a productivity of 31.04 m³/h workplace time and then the skidding phase with a productivity of 65.53 m³/h workplace time. By contrast, the skidding operation is the only timber extraction activity in the traditional logging system. This skidding productivity was 24.90 m³/h workplace time.
+The system difference in the average volume per piece is less noteworthy in the extraction phase than in the felling phase. The heaviest stems had to be cut into pieces for pre-skidding by the crawler tractor.
+If the cost per cubic metre of saw logs delivered at the landing site for the traditional logging system is 100%, then the comparable cost for the environmentally sound forest harvesting system would amount to 101.5% when recommended system changes are used.
+The marked superiority of the environmentally sound forest harvesting system over the traditional logging system is underscored by the results of the assessment of environmental impacts for both systems.
+Severe harvesting damage to potential crop trees was found to be more than twice as high with the traditional logging system (51.5%) as compared to the environmentally sound forest harvesting system with 22.2%.
+With the environmentally sound forest harvesting system an average area of about 4.5% per cutting unit is affected by forest infrastructure, whereas in the traditional logging system the corresponding value amounts to about 20%.
+The disturbance of canopy by tree felling was 10.8% of the area for the environmentally sound forest harvesting system. By contrast, the traditional logging system resulted in created canopy openings of 24.7%.
+Investigation of timber losses revealed a potential for improvement in the environmentally sound forest harvesting system, where the total in timber losses came to 3.9% of the utilisable stem volume. The total timber losses for the traditional logging system were more than twice as high at 8.5%.
+In summary, the results of the study show that environmentally sound timber harvesting is not necessarily more expensive than timber harvesting done in the traditional way. The advantage easily goes to the environmentally sound forest harvesting system when it comes to meeting other economic, social, and environmental objectives.
+The implementation of environmentally sound forest harvesting systems is deemed necessary to produce tropical forest products guided by the principles of sustainable forest management for the benefit of the company, the population as a whole, the consumer, and the environment. The environmentally sound forest harvesting system as applied by Precious Woods is considered a solution that serves the needs of the economy, the natural environment, and social integration policy.
+The FAO Model Code of Forest Harvesting Practice is a response to the need for the improvement of standards of utilisation and the substantial reduction of the environmental impacts of timber harvesting. The Model Code has been shown to be useful under the conditions of this case study. It is recommended for general use. However, the specific details of carrying out individual activities of harvesting operations may vary or be adjusted to particular conditions. This indicates that further case studies should be undertaken to develop national, regional, or local codes of practice that will best serve the particular needs of governmental agencies, the private sector, non-governmental organisations, and other constituents.

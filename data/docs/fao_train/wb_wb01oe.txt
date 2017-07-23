@@ -1,0 +1,1350 @@
+<title>Organic and compost-Based growing media for tree seedling nurseries</title>
+Joan H. Miller and Norman Jones
+WORLD BANK TECHNICAL PAPER NUMBER 264
+FORESTRY SERIES
+The World Bank
+Washington, D.C.
+Copyright © 1995 The International Bank for Reconstruction and Development/THE WORLD BANK 1818 H Street, N.W. Washington, D.C. 20433, U.S.A.
+All rights reserved
+Manufactured in the United States of America
+First printing April 1995
+Technical Papers are published to communicate the results of the Bank's work to the development community with the least possible delay. The typescript of this paper therefore has not been prepared in accordance with the procedures appropriate to formal printed texts, and the World Bank accepts no responsibility for errors. Some sources cited in this paper may be informal documents that are not readily available.
+The findings, interpretations, and conclusions expressed in this paper are entirely those of the author(s) and should not be attributed in any manner to the World Bank, to its affiliated organizations, or to members of its Board of Executive Directors or the countries they represent. The World Bank does not guarantee the accuracy of the data included in this publication and accepts no responsibility whatsoever for any consequence of their use. The boundaries, colors, denominations, and other information shown on any map in this volume do not imply on the part of the World Bank Group any judgment on the legal status of any territory or the endorsement or acceptance of such boundaries.
+The material in this publication is copyrighted. Requests for permission to reproduce portions of it should be sent to the Office of the Publisher at the address shown in the copyright notice above. The World Bank encourages dissemination of its work and will normally give permission promptly and, when the reproduction is for noncommercial purposes, without asking a fee. Permission to copy portions for classroom use is granted through the Copyright Clearance Center, Inc., Suite 910, 222 Rosewood Drive, Danvers, Massachusetts 01923, U.S.A.
+The complete backlist of publications from the World Bank is shown in the annual Index of Publications, which contains an alphabetical title list (with full ordering information) and indexes of subjects, authors, and countries and regions. The latest edition is available free of charge from the Distribution Unit, Office of the Publisher, The World Bank, 1818 H Street, N.W., Washington, D.C. 20433, U.S.A., or from Publications, The World Bank, 66, avenue d'Iéna, 75116 Paris, France.
+ISSN: 0253-7494
+Both authors work for the World Bank. Joan H. Miller is a consultant to the Natural Resources Division, and Norman Jones is a senior forestry specialist in the Natural Resources Division of the Agriculture and Natural Resources Department.
+Library of Congress Cataloging-in-Publication Data
+Miller, Joan H., 1961
+Organic and compost-based growing media for tree seedling nurseries/Joan H. Miller and Norman Jones
+p. cm.--(World Bank technical paper, ISSN 0253-7494; no.
+264. Forestry series)
+Includes bibliographical references (p. ).
+ISBN 0-8213-3039-X
+1. Trees--Seedlings, Container. 2. Forest soils. 3. Potting soils. 4. Forest nurseries. 1. Jones, Norman, 1934
+II. International Bank for Reconstruction and Development.
+III. Title. IV. Title: Organic and compost-based growing media for tree seedling nurseries. V. Series: World Bank technical paper;
+no. 264. VI. Series: World Bank technical paper. Forestry series.
+SD404.3.M55 1994
+634.9'564--dc20 94-23707
+CIP
+RECENT WORLD BANK TECHNICAL PAPERS
+No. 251 Sharma, Rietbergen, Heimo, and Pa tel. A Strategy for the Forest Sector in Sub-Saharan Africa
+No. 252 The World Bank/FAO/UNIDO/lndustry Fertilizer Working Group, World and Regional Supply and Demand Balances for Nitrogen, Phosphate, and Potash, 1992/93-1998/99
+No. 253 Jensen and Malter, Protected Agriculture: A Global Review
+No. 254 Frischtak, Governance Capacity and Economic Reform in Developing Countries
+No. 255 Mohan, editor, Bibliography of Publications: Technical Department, Africa Region, July 1987 to April 1994
+No. 256 Campbell, Design and Operation of Smallholder Irrigation in South Asia
+No. 258 De Geyndt, Managing the Quality of Health Care in Developing Countries
+No. 259 Chaudry, Reid, and Malik, editors, Civil Service Reform in Latin America and the Caribbean: Proceedings of a Conference
+No. 260 Humphrey, Payment Systems: Principles, Practice, and Improvements
+No. 261 Lynch, Provision for Children with Special Educational Needs in the Asia Region
+No. 262 Lee and Bobadilla, Health Statistics for the Americas
+No. 263 Le Moigne, Subramanian, Xie, and Giltner, editors, A Guide to the Formulation of Water Resources Strategy
+No. 264 Miller and Jones, Organic and Compost-Based Growing Media for Tree Seedling Nurseries
+No. 265 Viswanath, Building Partnerships for Poverty Reduction: The Participatory Project Planning Approach of the Women's Enterprise Management Training Outreach Program (WEMTOP)
+No. 266 Hill and Bender, Developing the Regulatory Environment for Competitive Agricultural Markets
+No. 267 Valdés and Schaeffer, Surveillance of Agricultural Prices and Trade: A Handbook for the Dominican Republic
+No. 268 Valdés and Schaeffer, Surveillance of Agricultural Prices and Trade: A Handbook for Colombia
+No. 269 Scheierling, Overcoming Agricultural Pollution of Water: The Challenge of Integrating Agricultural and Environmental Policies in the European Union
+No. 270 Banerjee, Rehabilitation of Degraded Forests in Asia
+No. 271 Ahmed, Technological Development and Pollution Abatement: A Study of How Enterprises Are Finding Alternatives to Chlorofluorocarbons
+No. 272 Greaney and Kellaghan, Equity Issues in Public Examinations in Developing Countries
+No. 273 Grimshaw and Helfer, editors, Vetiver Grass for Soil and Water Conservation, Land Rehabilitation, and Embankment Stabilization: A Collection of Papers and Newsletters Compiled by the Vetiver Network
+No. 274 Govindaraj, Murray, and Chellaraj, Health Expenditures in Latin America
+No. 275 Heggie, Management and Financing of Roads: An Agenda for Reform
+No. 276 Johnson, Quality Review Schemes for Auditors: Their Potential for Sub-Saharan Africa
+No. 277 Convery, Applying Environmental Economics in Africa
+No. 278 Wijetilleke and Karunaratne, Air Quality Management: Considerations for Developing Countries
+No. 279 Anderson and Ahmed, The Case for Solar Energy Investments
+No. 280 Rowat, Malik, and Dakolias, Judicial Reform in Latin America and the Caribbean: Proceedings of a World Bank Conference
+No. 281 Shen and Contreras-Hermosilla, Environmental and Economic Issues in Forestry: Selected Case Studies in Asia
+No. 282 Kim and Benton, Cost-Benefit Analysis of the Onchocerciasis Control Program (OCP)
+No. 283 Jacobsen, Scobie and Duncan, Statutory Intervention in Agricultural Marketing: A New Zealand Perspective
+No. 284 Valdés and Schaeffer in collaboration with Roldos and Chiara, Surveillance of Agricultural Price and Trade Policies: A Handbook for Uruguay
+No. 285 Brehrn and Castro, The Market for Water Rights in Chile: Major Issues
+No. 286 Tavoulareas and Charpentier, Clean Coal Technologies for Developing Countries
+No. 287 Giliham, Bell, Arin, Matthews, Rumeur, and Hearn, Cotton Production Prospects for tire Next Decade
+No. 288 Biggs, Shaw, and Srivastiva, Technological Capabilities and Learning in African Enterprises
+No. 289 Dinar, Seidl, Olem, Jorden, Duda, and Johnson, Restoring and Protecting the World's Lakes and Reservoirs
+No. 290 Weijenberg, Dagg, Kampen Kalunda, Mailu, Ketema, Navarro, and Abdi Noor, Strengthening National Agricultual Research Systems in Eastern and Central Africa: A Framework for Action
+No. 291 Valdés and Schaeffer in collaboration with Errazuriz and Francisco, SurveilIance of Agricultural Price and Trade Policies: A Handbook for Chile
+No. 292 Gorriz, Subramanian, and Simas, Irrigation Management Transfer in Mexico: Process and Progress
+No. 293 Preker and Feachem, Market Mechanisms and the Health Sector in Central and Eastern Europe
+No. 294 Valdés and Schaeffer in collaboration with Sturzenegger and Bebczuk, Surveillance of Agricultural Price and Trade Policies: A Handbook for Argentina
+No. 295 Pohl, Jedrzejczak, and Anderson, Creating Capital Markets in Central and Eastern Europe
+No. 296 Stassen, Small-Scale Biomass Gasifiers for Heat and Power: A Global Review
+No. 297 Bulatao, Key Indicators for Family Planning Projects
+No. 298 Odaga and Heneveld, Girls and Schools in Sub-Saharan Africa: From Analysis to Action
+No. 299 Tamale, Jones, and Pswarayi-Riddihough, Technologies Related to Participatory Forestry in Tropical and Subtropical Countries
+No. 300 Oram and de Haan, Technologies for Rainfed Agriculture in Mediterranean Climates: A Review of World Bank Experiences
+No. 301 Edited by Mohan, Bibliography of Publications: Technical Department, Africa Region, July 1987 to April 1995
+No. 302 Baldry, Calamari, and Yaméogo, Environmental Impact Assessment of Settlement and Development in the Upper Léraba Basin
+No. 303 Heneveld and Craig, Schools Count: World Bank Project Designs and the Quality of Primary Education in Sub-Saharan Africa
+No. 304 Foley, Photovoltaic Applications in Rural Areas of the Developing World
+No. 305 Johnson, Education and Training of Accountants in Sub-Saharan Anglophone Africa
+No. 306 Muir and Saba, Improving State Enterprise Performance: The Role of Internal and External Incentives
+No. 307 Narayan, Toward Participatory Research
+No. 308 Adamson and others, Energy Use, Air Pollution, and Environmental Policy in Krakow: Can Economic Incentives Really Help?
+No. 309 The World Bank/FOA/UNIDO/lndustry Fertilizer Working Group, World and Regional Supply and Demand Balances for Nitrogen, Phosphate, and Potash, 1993/94-1999/2000
+No. 310 Edited by Elder and Cooley, Sustainable Settlement and Development of the Onchocerciasis Control Programme Area: Proceedings of a Ministerial Meeting.
+No. 311 Webster, Riopelle and Chidzero, World Bank Lending for Small Enterprises 1989-1993
+No. 312 Benoit, Project Finance at the World Bank: An Overview of Policies and Instruments
+No. 313 Kapur, Airport Infrastructure. The Emerging Role of the Private Sector
+No. 314 Valdés, Schaefferin collaboration with Ramos, Surveillance of Agricultural Price and Trade Policies: A Handbook for Ecuador
+No. 316 Schware and Kimberley, Information Technology and National Trade Facilitation: Making the Most of Global Trade
+No. 317 Schware and Kimberley, Information Technology and National Trade Facilitation. Guide to Best Practice
+No. 318 Taylor, Boukambou, Dahniya, Ouayogode, Ayling, Abdi Noor, and Toure, Strengthening National Agricultural Research Systems in the Humid and Sub-humid Zones of West and Central Africa: A Framework for Action
+No. 320 Srivastava, Lambert and Vietmeyer, Medicinal Plants: An Expanding Role in Development
+No. 321 Srivastava, Smith, and Forno, Biodiversity and Agriculture: Implications for Conservation and Development
+No. 322 Charles M. Peters, The Ecology and Management of Non-Timber Forest Resources
+No. 323 Edited by Dominique Pannier, Corporate Governance of Public Enterprises in Transitional Economies
+No. 324 Cabraal, Cosgrove-Davies, and Schaeffer, Best Practices for Photovoltaic Household Electrification Programs
+No. 325 Bacon, Besant-Jones, and Heidarian, Estimating Construction Costs and Schedules: Erperience with Power Generation Projects in Developing Countries
+<section>Foreword</section>
+Forests have been called the lungs of the world, providing oxygen essential for life. Forests also provide a livelihood for nearly 500 million people across the globe. Clearly, they represent an important resource for all. However, an accelerated rate of destruction of primary forests, especially in the 1980s, caused concern as this great resource was threatened. The Bank's World Development Report 1992 estimated that 17 million to 20 million hectares of forests are being lost every year, mainly in developing countries. This is clearly not a sustainable level of use.
+To address the very real needs for protection and conservation of forests and the need for development, the World Bank has taken a lead in pioneering efforts at sustainable development, with attention to forestry concerns. The Bank seeks to address two key forestry challenges: to slow the alarmingly rapid rates of deforestation, and to ensure adequate planting of new trees to meet the rapidly growing world demand for wood.
+This technical paper helps address the latter challenge. In addressing technical issues of growing media for tree seedlings, the Bank is working with others to achieve the much larger goal of adequate planting of new trees of superior quality. This paper outlines processes for making nursery operations more efficient, benefiting nursery and plantation managers, whatever their scale of operations. We hope this paper will bring those working for goals similar to ours one step closer to achieving sustainable development.
+Gershon Feder
+Acting Director
+Agriculture and Natural Resources Department
+The World Bank
+Washington, D.C.
+<section>Abstract</section>
+Experience in the support of tree planting projects has indicated that inadequate attention is currently paid to root development on container grown seedlings, particularly for projects in the tropics. A literature review combined with extensive consultation with international tree planters in both tropical and temperate countries indicated that organic matter should form the major fraction of the container media. This component is not easily obtained in many tropical and subtropical countries. However, elements for the manufacture of compost are often available or could be made available. The paper outlines the characteristics of good potting media indicating to nursery or plantation managers the type of product they should aim at. This is followed by a section dealing specifically with different methods of making compost because this is likely to be the most important component of their organic fraction. Finally there is a chapter dealing with raw materials for making
+compost and how they can be blended. In order to limit the text to the general aspects of good media, details concerning facts about the components of compost, the chemistry of composting and other practical aspects of potting media preparation are included in a series of annexes.
+<section>Preface</section>
+The World Bank funds the planting of many thousands of hectares of tree plantations every year with a high percentage of the trees raised in containers. Field examination of several projects revealed that after planting, growth was much poorer than expected. Nursery managers tend to relate the quality of their crops to the appearance of the shoot systems which are pampered under nursery conditions and often manipulated by adding nutrients. Root development is equally important, but, unfortunately, frequently overlooked and, to quote Paul Ryan of the Bank's Regional office in Kenya, "what you do not see is more important than what you do see"! Part of the problem lies in the type of container used and the quantity and quality of root development within the container during the nursery phase.
+Problems concerning the type of container to use are discussed in a separate technical paper (Josiah and Jones, 1992). To ensure that transporting and transplanting have minimal negative effects on the plants, the roots of the plants must effectively bind the media within the container. For this to occur root formation in the container must be extensive and preferably rapid. The intention of this paper is to concentrate on media used in containers. During field visits in many tropical and sub-tropical countries throughout Africa, Asia, and Latin America it was noted that the most common ingredient for container media is soil usually mixed in varying proportions with sand and organic matter (often farm-yard-manure). Yet, in temperate countries the major component of all container mixtures is organic matter, most commonly peat. Discussions with many experienced nursery managers in tropical, sub-tropical, and temperate countries brought out a few simple points:
+- in temperate countries organic container mixes are easily obtained, but not so in the tropics and sub-tropics;
+- organic mixtures are much lighter in weight and therefore cheaper to transport than soil based mixtures;
+- plant roots tend to thoroughly bind organic mixtures even after a relatively short growing period while this seldom occurs in soil based mixes;
+- watering regimes are more easily handled for organic mixtures than soil based mixtures;
+- organic mixtures hold water better in transit which gives plants a better chance of survival after transplanting.
+With all these benefits, one must wonder why the extensive tree plantation investments in tropical and subtropical countries continue to concentrate on soil based, or more accurately "mineral" mixtures. The amount of organic matter added is usually small, making little difference in the weight, water holding capacity, or root binding needs. The reason for this is that organic ingredients are difficult to find in adequate quantities and at satisfactory prices in tropical and subtropical countries. Probably the fundamental reason is that the financial benefits have not been evaluated due to the fact that gains through improved planting stock are linked with genetic rather than physical improvements. A thorough review of the literature gives no indication of the economic benefits from an improved potting medium yet nursery managers lucky enough to have an organic medium never revert to mineral mixtures.
+Often responsibilities of nursery management end when plants leave the nursery and therefore feel little "ownership" of the plantations. All too often the target for management groups is quantity rather than quality, since numbers are tangible while quality is subjective. Once nursery management is convinced that organic mixtures produce better planting stock, the system for obtaining the necessary ingredients will take on the same importance as obtaining the correct seed, correct species, adequate water, good containers, correct fertilizers, and all the other fundamental requirements of a good nursery.
+It should be the task of nursery managers to attain the best possible root growth quality for their plants by adapting well proven, worldwide results to local situations; this will require a completely different approach to obtaining container mixture ingredients The objectives of this paper are to present the scientific benefits of organic container mixtures in comparison with mineral mixtures and to indicate how the basic ingredients for a good organic mixture can be made (i.e. compost). The use in temperate countries of easily obtainable organic media ingredients has demonstrated their value - not in financial terms but in biological terms.
+It is hoped this paper will create an understanding among people involved with tree planting, whether part of large or small-scale tree plantation programs, to take an in-depth look at the root development on their planting stock and begin to develop means by which it can be improved. An attempt has been made to anticipate likely problems which will confront management and suggest solutions. Using good organic potting mix may be cost effective as well as biologically desirable, the savings in transport costs alone could possibly offset the cost of manufacturing suitable organic mixes.
+When searching the literature for this paper a wealth of valuable information emerged on various aspects of potting mixture production and the processes of composting. In order to provide the reader with a comprehensive view of the key issues for planning, the paper has been separated into a general overview in the main text for the non-technical reader followed by six annexes in which composting and potting media methodologies are described in technical terms. The purpose of the annexes is not to provide the reader with a complete "how-to" of composting and nursery potting mixes because such a manual is beyond the scope of this publication as potting mix production can be a complex subject. In putting together this publication, the intent is to indicate the issues and, for potential practitioners, provide a point of departure for experimentation. This latter point is very important; production of proper mixes will require experimentation and trial and error. No publication
+can tell you how to successfully produce potting mixes appropriate for all species, region, available raw materials, etc.
+<section>Acknowledgments</section>
+The authors would like to thank the International Tropical Timber Organization and the International Society of Tropical Foresters for their support and cooperation. They also would like to thank N. Khouri, SA3AG, C.J. Pieri, AGRTN, J.W. Smyle, ASTEN; and A.R.Yates, AF4AG for their helpful comments on earlier drafts. Robert Hydon and Lisa Barczak provided additional editorial and formatting assistance.
+The support and assistance received is deeply appreciated, the sole responsibility . for the content of the paper, however, rests with the authors.
+<section>Introduction</section>
+Investment in forest tree planting is increasing annually, FAO surveys indicated that forest plantations in the tropics alone expanded from a total of 18 million hectares in 1980 to 44 million hectares in 1990. In tropical and subtropical countries the majority of trees planted are raised in containers. However, the most intensive research on producing good containerized planting stock, has been carried out in temperate countries. Nursery research has demonstrated that development of a fibrous root system is essential for good quality seedlings. Root absorptive efficiency is directly related to its surface area and fibrous roots provide greatest surface area. Development of fibrous roots is related to the porosity of the potting mixture which in turn is related to the organic fraction of the mixture. The organic fraction of a mixture helps resist compaction and retain water, while still maintaining porosity for movement of air and growth of roots.
+Organic ingredients, such as peat and humus, are readily obtained in many temperate countries. Large nurseries in America and Europe can purchase commercial, ready-made potting mixtures, eliminating the need for nursery managers to make their own mixes. The most commonly used materials are peat moss, vermiculite, perlite, sand, and sawdust. In tropical and subtropical countries (such as China, India Nepal and Nigeria)' importing the vast quantities of potting mixtures or their components which would be needed is too costly. Therefore, virtually all nurseries must rely entirely on local ingredients for their potting media. Unfortunately, in most of the tropics and subtropics there is a shortage of organic matter as it is favored by farmers for their crops, fed to their animals, or burned as fuel.
+<section>Objectives and layout</section>
+The main objective of the paper is to stress to planners and managers of forest plantations, whether in the private or public sector, that if the planting stock is to be raised in containers it is essential that the mixture in the containers provides the best possible conditions for optimal root growth. Years of research prove the need for a good fibrous root system and such root development is promoted in organic media.
+A review of literature on nursery potting media in the tropics and subtropics, indicates that the basic ingredients are usually soil, sand, and farmyard manure. There are reports of literally thousands of experiments in which these ingredients are used in varying combinations and always the organic fraction is very small. This is true despite it having been extensively demonstrated that potting mixtures with a high mineral fraction, while supporting good shoot development in nurseries do not permit growth of high quality fibrous root systems. Additionally, in many cases the soil included in the mixture had very high clay or silt fractions. Inevitably these components accumulate in the bottom of the container, eliminating air spaces thereby creating totally unsuitable conditions for root growth.
+Few tropical and subtropical nurseries have access to good organic potting media. In South Kalimantan a FINNIDA-supported nursery developed an excellent medium based on readily available peat in the area. The ASEAN/Canada Seed Project in Thailand has also developed an excellent mixture from processed coconut husk. Also in Thailand, a newly formed tree planting company had compost made on contract while more recently a private plantation company installed its own process for manufacturing vermiculite. In Andhra Pradesh, India a private company is also focusing on vermiculite as a major component of their potting medium. Although vermiculite is not an organic component, it imparts desirable physical qualities to the texture of the potting media (i.e good porosity) which promote development of good, fibrous roots.
+Throughout the tropical world ingredients can be found for the production of potting media. It should be possible for nursery managers anywhere in the tropics to find a source of material which can be composted and developed as a suitable potting media. In industrial countries, compost making has always concentrated on the use of wastes or low cost materials. The same approach can be followed elsewhere.
+The body of this paper discusses potting media and their characteristics, the importance of organic material (i.e. from compost) in potting mix', and the production of compost for use in nurseries. Annexes I - IV provide background information on some basic, commonly used components of potting media, the chemistry and processes of composting, review of composting methods, and finally a listing of materials which have potential for use in composting operations at seedling nurseries. Annex V reviews composting and the use of wood products while Annex VI describes an innovative process, worm composting. In addition, there is a glossary to familiarize readers with some of the terms used in the text
+<section>Potting media characteristics & components</section>
+The purpose of a potting media is to satisfy the needs for good seedling growth within the limited space of a container and to prepare it for successful transplanting into the field. The media physically supports a growing seedling and both stores and supplies nutrients (and trace elements), water, and air to the root system. The better the media, the better will be development of a healthy, fibrous root system and subsequently a better quality seedling is produced which will survive after outplanting and commence growth quickly. These features alone impart a financial value to the use of better potting media which is unfortunately never measured. There are few natural materials with all the elements required for healthy root growth so potting media are usually blends of different elements. The assembly and often production costs of suitable elements are absorbed into overall nursery expenses so the cost and benefit are not calculated, hence management has to rely on faith
+in biological fundamentals when allocating funds for potting media
+<section>Characteristics</section>
+To achieve its function, growing media used in container nurseries should be:
+- light-weight,
+- good porosity;
+- well-drained but with good water holding capacity,
+- slightly acidic with good cation-exchange-capacity;
+- able to maintain a constant volume when wet or dry,
+- free of insects, diseases, and weed seeds;
+- low in silt, clay and ash content;
+- easily stored for long periods of time without changes in physical and chemical properties; and
+- easily handled and blended.
+The development of a healthy, fibrous root system (Figure I ) needs a media with these good physical properties. Any nutrient or chemical deficiencies can be compensated for with additions of fertilizers and amendments.
+Physical Properties
+Porosity is one of the most important physical properties in a growing media because it determines the space available in a container for air (aeration), water, and root growth (Liegel and Venator, 1987). Aeration is important because the root system "breathes" (exchanges oxygen and carbon dioxide) in the large, air-filled pores (macropores). Poor aeration will adversely affect root form (morphology) and structure (physiology) and will lead to decreased seedling vigor (Scagel and Davis, 1988).
+The growing media must also allow adequate drainage from macropores so that water does not remain in the bottom of the container where it would inhibit root respiration. The presence of macropores is a function of particle size, particle arrangement, and the degree of compaction.
+Although good drainage is desired, so is a high water-holding capacity. Since the volume of the container is small, water must be available to seedlings between irrigations. The presence of small pores (micropores) help retain water Organic material provides a large number of micropores, so they improve the water-holding capacity of potting medias.
+The total porosity (percentage of air space divided by total container volume) of a good growing media for container tree seedlings should exceed 50% and the aeration porosity (the percentage of air space remaining after saturation when water has freely drained) should range from 20-35%, depending on the media. A method for determining porosities is found in Box 1. Overall, a balance of both macro- and micropores is necessary for a high quality container media.
+Porosity of growing media is affected by its particle size range, size class mixture, particle characteristics, texture, and their changes over time Increasing particle size increases the aeration porosity but water-holding capacity declines. The optimal particle size range varies depending on the material being considered. (For example, the desired particle size for peat moss in growing media is from 0.6-0.8 mm and for pine bark is about 0.5 mm). The internal pores within individual particles also affects the water- and nutrientholding capacities of a component.
+Over time, porosity tends to decrease due to compression, breakage, mixing, and shrinkage. Drainage problems occur from decomposition of materials and siltation caused by irrigation and root growth or as the fine particles settle to the bottom of the container. Pore space becomes filled with roots during seedling growth which decreases aeration porosity. Plants which have to remain in containers for more than one growing season may need a particularly coarse textured material to accommodate roots. Naturally, this will require more frequent watering of seedlings especially in the first season but few tropical species need such long nursery periods.
+Chemical Properties
+The chemical properties which determine suitability of a growing media are primarily: pH, cation-exchange-capacity (CEC), and fertility. If conditions are not favorable chemically, then additives can be used to correct the potting mix. The desired pH of most growing media is slightly acid, ranging from 5. 5-6. 5, but the pH for optimal plant growth is species dependent. When pH levels are not within the desired range, nutrients either become unavailable or toxic and microorganisms in the potting media will be affected. Regardless, pH is easily controlled by chemical additives (e.g. lime or sulfur).
+Cation exchange capacity (CEC) is a measure of a soil or potting media's ability to hold nutrients. A low CEC (<10 meq/100 g in sand) means that nutrients will not be retained, they will was washed out (leached) from the mix during watering. A high CEC (140 meq/100 g) results in nutrients being held to the mix and available to the seedlings. As a result a high CEC medium is able to continually provide nutrients to the seedling. A mixture's CEC cannot be determined outside of a laboratory, but as a general rule, the greater the addition of organic matter or compost the higher the CEC of the mix.
+Management of nutrient supply to seedlings in the nursery is extremely important. Irrespective of the fertility of the individual components which make up the potting mix, the nursery manager must always be prepared to provide any additional nutrients which are required. Some nursery managers prefer a low fertility so they can completely control the nutrient balance for the young seedlings. Initially, low fertility in a growing media may even be desirable during germination because nutrient requirements (except for phosphorus) during the early weeks of seedling growth are minimal. High concentrations of mineral nutrients at this stage can encourage the growth of the fungi responsible for damping-off
+The testing of media through seedling growth trials is always necessary to determine the appropriateness of a potting mix and to determine the type and levels of additional nutrients that must be supplied. This is also important because the presence of substances (e.g. trace elements, heavy metals, phenols, salts) which are phytotoxic (reduce growth or kill plants) to seedlings must be guarded against. Such compounds may occur naturally in some media components.
+<section>Components of potting media</section>
+Potting medias are either composed of a single substrate (unmixed material from a single source) or, more likely, are mixtures of various organic and/or mineral components. Mixtures of various components with complementary physical and chemical properties will produce superior potting medias. Individual potting media components mentioned below are discussed in more detail in Annex I.
+Organic Components
+The desirable characteristics of organic components used in growing media are as follows:
+- a large proportion of micropores to improve water-holding capacity,
+- a good texture which resists compaction,
+- a relatively high CEC to help retain nutrients; and
+- low weight (bulk density) to facilitate transport and handling.
+Sugarcane wastes, coconut husk fiber, and rice hulls (Annex IV), peat moss, sawdust and tree bark (Annex V), are organic components which are commonly used because they have the desirable characteristics either before or after composting. Most organic materials (with the exception of peat moss and rice hulls) benefit from composting prior to their use. Composting improves their physical properties and balances the ratio of carbon to nitrogen in the material.
+Inorganic Components
+Inorganic components are included in potting media to improve the physical characteristics by improving drainage and aeration by increasing the macropores. In some cases the inorganic components are very light weight, such as vermiculite, perlite, pumice. and styrofoam. Sand, however, which is one of the more commonly used components, adds considerable weight to a mixture. If possible, the use of sand should be avoided in order to hold down transport costs.
+<section>Compost</section>
+Increasing organic matter content in potting media is best accomplished through addition of composted organic materials. Use of fresh organic material should generally be avoided because both the growing seedling and the decomposition of the organic matter require nitrogen. As a result, seedling growth is reduced due to competition for nitrogen. It is therefore a good assumption that production of adequate quantities of potting mix will require a composting operation be initiated. A well-managed composting operation can produce a compost with almost all of the properties of a good potting media, i.e. Iightweight, good water-holding capacity, etc. without being prohibitively expensive.
+The composting process has some very basic requirements. There must be adequate moisture, oxygen, and the proper balance of carbon to nitrogen (C/N ratio). These requirements can be easily managed to ensure a mature, uniform product. Further discussion of the chemistry and biology of composting are found in Annex II. Other factors will influence composting and the rate at which it occurs, these are: nutrient supply, particle size, structural strength, frequency of turning (for aeration), acidity, and the size of the compost pile or heap. Through management and forward planning, these factors can be optimized. Important points to consider when planning compost production are listed in Box 2.
+<section>Methods</section>
+The most appropriate method to be used for making compost is dependent upon the following: the type of waste available; the quantity of raw material; available funds, labor, equipment and space; amount of compost needed; and climate or season. Methods will vary according to the amount of material and construction of the heap, the manner by which wastes are placed into the heap, and the frequency materials are turned. Compost heaps can be constructed as either enclosed or free-standing piles, in pits or trenches, or in windrows (elongated piles). A composting unit can be as small as one cubic meter or may contain up to 100 tons of raw material depending on nursery needs.
+Composting is often a task for the less busy times in the nursery when labor is available to collect and process wastes, build piles, and turn the compost. Composting generally needs to be started at least 6 months before it is will be used, though actual time for processing will depend on the mixture, season, and climate. In the tropics, composting time is generally less than in temperate countries because of the higher ambient air temperatures.
+Following are brief descriptions of three commonly practiced methods of comporting: Bangalore, Indore, and Berkeley. The single outstanding difference between methods is the frequency of turnings which affects the rate of decomposition. It is not essential to follow only one method and nursery managers should be encouraged to experiment and be flexible in their approach to composting.
+Bangalore
+The Bangalore method functions aerobically for several days and then becomes anaerobic, because no turning occurs. Although appropriate for both below- and aboveground composting, it is more commonly carried out in pits. After 4 to 5 months the composting process is complete. One drawback with this method is that without turning, the entire contents of the pit do not reach high temperatures and not all pathogens and weed seeds are destroyed. Fly breeding and odor problems are often associated with this method so the top exposed portions must be covered, usually with soil. Material near the outside of the pit should not be used, but transferred and incorporated into the next composting mix.
+Indore
+The Indore composting system relies on aerobic activity although portions of the pile or pit will likely become anaerobic between turnings. This method has better fly control, more rapid and uniform decomposition, and less moisture control problems than with the Bangalore method. During the period of active composting the contents are turned from 1-5 times over a period of 16 months. The longer the intervals between turnings the longer the composting process. Many smaller compost operations use this less labor intensive method.
+Berkeley
+The Berkeley method for composting is named after the University of California at Berkeley where it was developed. It is considered to be the quickest method of achieving finished compost, and it is the method which is likely to be the most effective method for production of either large or small quantities of compost. This method requires frequent turning and mixing of the heap, particularly during the initial stages of decomposition which intensifies the activity of microorganisms. The Berkeley method is normally carried out in above-ground stacks or windrows where air circulation is improved and the pile is accessible for turning. Since turning is frequent, problems associated with odors and flies are minimal. Compost should be ready for maturing within two or three weeks depending on the size of the heap, frequency of turning, initial C/N ratio, and moisture content. Labor requirements are higher with this method than the others, but the shorter composting period reduces
+the space needed for a site. Where large quantities of compost are produced a mechanized system is often used.
+Further information on the basic methods of composting (preparation of raw materials, compost heap construction, management and monitoring, etc.) are given in Annex III.
+Worm Composting
+The use of various species of worms can be used to rapidly and efficiently consume and break down vegetable, human, and animal wastes (See Annex VI). The resulting "vermicompost" has very good peat-like quality with excellent structure, porosity, aeration, drainage, and moisture holding capacity, and it contains a large quantity of 'inorganic nutrients (Edwards and Burrows, 1988).
+<section>Compost production</section>
+There are many questions to be asked and decisions to be made when a nursery starts producing compost for inclusion in its potting mixtures. Perhaps the most important consideration relates to the types and quantities of materials available for composting these will affect, amongst other things, composting operations with respect to area, location, season, and method. This section on compost production presents a brief overview on raw materials, location and physical siting of compost facilities, collection and preparation of materials, and the finishing, mixing, and storage of potting media. As mentioned earlier it is impossible at the present time to balance costs and benefits from the introduction of composting into nursery procedures even though both biological and practical experiences are favoring its use.
+<section>Raw materials</section>
+In theory obtaining material to compost should not be difficult because anything which was once living can be composted. Unfortunately, obtaining a steady supply of homogeneous, uncontaminated, raw organic materials in adequate quantities and at low cost may not be easy. Competition for use of fresh material exists in most agricultural or populated rural areas where it can be used for animal fodder and bedding, fuel for heating and/or cooking, or other compost producers.
+The most important factor to judge a material's "compostability" is its carbon to nitrogen (C/N) ratio (See Annex 11). Table I provides C/N ratios of many organic materials. The optimal range of the C/N ratio for composting is 25-30:1. At C/N ratios above 30, nitrogen is must be added in the form of high nitrogen wastes or fertilizers.
+Sources of organic materials for composting include farms, food processing facilities, industries, wood processing plants, livestock, forests, and water bodies. Available materials will vary regionally, nationally, and locally so that compost pile composition is unique to any particular environment. Nurseries situated near coastal areas may have access to seaweed and fish wastes; those in coffee and tea growing regions may find large quantities of organic wastes from plantations; local wastelands covered with grasses can also provide sources of organic material (if they are not overharvested).
+Table 1 - Nitrogen content and C/N ratio of various materials
+Material
+Nitrogen (% dry wt)
+C/N ratio (wt/wt)
+Animal Wastes
+Urine
+Blood
+Fish scraps
+Slaughterhouse wastes
+Poultry manure
+Sheep manure
+Pig manure
+Horse manure
+Cow manure
+Farmyard manure
+Plant Wastes
+Young hay clippings
+Purslane
+Amaranthus
+Cocksfoot
+Lucerne
+Seaweed
+Cut straw
+Flax waste
+Wheat straw
+Rotted sawdust
+Raw sawdust
+Red clover
+Green rye
+Sugarcane trash
+Fruit wastes
+Wood (pine)
+Lumber mill wastes
+Lettuce
+Cabbage
+Tomato
+Tobacco
+Onion
+Pepper
+Turnip tops
+Buttercup
+Ragwort
+Wheat flour
+Whole carrot
+Mustard
+Potato tops
+Fern
+Oat straw
+Whole turnip
+Timothy
+Sources: Dalzell et. al., 1987; Poincelot, 1975; Liegel and Venator, 1987; BOSTID, 1981;
+Gotaas, 1956
+If a sufficient supply of organic matter is unavailable or if the need to balance the C/N ratio with other vegetable matter exists, a nursery may have to consider raising a crop of some sort providing there is available land nearby. Such crops may provide salable produce which could offset costs and others are grown solely for their vegetative material. Possible species would be Jatropha curcas grown for oil extracted from seeds and providing excellent organic material from the press. Perhaps, Vetiveria zizanioides harvested for the oil content of the roots with vegetative material from the leaves and press. One source suggests growing sunflowers (Helianthus annuus L.) and perennial plants such as Russian comfrey (Symphytum X uplandicum Nym.) or sunn hemp (Crotalaria juncea) to supply an adequate quantity of green material for composting. Considerations in deciding on a crop must examine costs of labor and capital inputs, water and fertilizer requirements, crop yields, and
+the C/N ratio.
+Following are general descriptions of the various sources of materials for composting. More detailed information on a variety of additional compostable materials is presented in Annex IV.
+Agriculture and Agro-lndustrial Wastes
+Surplus or wastes from gardens, farms, plantations, and markets and by-products from the processing of fruits, vegetables, meat, trees, etc. can provide a valuable source of organic matter for inclusion in compost piles (See Box 3). The significant quantities generated and proximity of many industries to rural areas (i.e. nurseries) give these sources great potential.
+Livestock
+A valuable source of high nutrient wastes is farmyard manure. Manure, stable bedding, and urine from all farm animals either alone or mixed with bedding have relatively low C/N ratios ( 15-20) so they are useful for combining with high carbon wastes. Use of straw, sawdust, or woodchips for animal bedding absorbs liquid wastes and produces a valuable compost input. Although composting does destroy pathogens (and weed seeds) found in manure, manure from sickly animals should be avoided. Unfortunately, these materials are sought after by many other compost producers and may either be unavailable or too expensive.
+Water Resources
+Lakes, streams, waterways, and oceans can also provide materials for composting. Water hyacinth (Eicchornia crassipes) is a noxious aquatic plant which can be composted. Seaweed is also a potential source of organic material for comporting. Silt and mud (often used in China for the composting of night soil, water hyacinths, and grass) can be dredged from streams and ponds. A significant accumulation of nutrients and organic matter can be found in dredged material
+Forests or Tree Plantations
+In tropical climates where high nitrogen materials (fresh green crop wastes) compost rapidly, woody material is necessary to balance a compost pile. Areas where the pressure on forests is not too great (i.e. thinning and litter collection can be done without environmental consequences) may be available for woody material collection.
+Weeds are an acceptable material for composting; persistent perennial weed species should have their roots removed and discarded or burned. Plant materials with heavy thorns also should not be included in the compost heap. Materials from mature crops or dead leaves have high C/N ratios. These wastes should be amended prior to composting through mixing with other high nitrogen wastes (e.g. manures or fresh green plant material) or addition of nitrogen fertilizer. Large quantities (more than 20%) of fallen dead leaves should not be included in the compost heap because they slow down decomposition significantly. Larger quantities can be used if they are aged for l -2 years prior to use.
+<section>Quantities</section>
+Determining the amount of compost needed by a nursery for seedling production will take some speculation. It is dependent on the amount of compost used in the potting mix and can vary from just a fraction to 100% of the total mix. The quantity of finished compost needed annually is calculated from the number of seedlings to be produced per year, the size of containers used, giving the total quantity of potting mix needed, and the percentage of compost included in the potting mix (Box 4). If no information is available, a rule of thumb is to base calculations on minimally 75% of the mixture.
+Once the amount of compost needed is known, then the quantity of raw materials required to produce the compost can be estimated. This can be difficult to determine because the volume and weight reduction during composting are of the order of 20-65% and up to 50%, respectively (Poincelot, 1975). The actual reduction will vary depending on such factors as the materials composted, weather conditions during composting, size reduction prior to composting, etc. and will have to be determined with experience. (Keep in mind there is likely some loss of material after final processing and screening as well.) In the beginning, start with conservative loss estimates, assume that volume reduction will be as high as 65% and weight loss as much as 50%. These values can be revised once several batches of compost have been produced. Box 5 presents some example calculations of the raw materials needed for producing the desired quantities of compost.
+<section>Location</section>
+The proximity of a nursery to sources of available organic matter is of extreme importance in determining the location of a compost operation. Once a nursery manager has estimated the quantity of compost and thereby raw materials needed for the nursery, an initial assessment of agriculture crops, agro-industries, and vegetative cover close to the nursery would be the first step toward determining what organic materials are available for potting media production. The manager should then contact farmers, dairies, chicken-raising operations and industries; look around at vegetation growing along the road sides; should it be necessary, determine if a crop for composting will have to be grown at or near the nursery.
+This initial assessment may lead to several conclusions. One may find that in the immediate vicinity of the nursery there is not an adequate supply of useful raw materials to produce the desired quantities of compost. This is likely to occur at larger nurseries. If this is the case, the feasibility of locating compost operations close to a source of material must be examined. Perhaps this would be a centralized facility to serve several nurseries.
+Sources such as agroprocessing industries are ideal as they produce very large quantities of similar wastes year after year making them a dependable source of material. The extensive peat deposits in Indonesia would suit centralization as would the huge mounds of coconut husk in Sri Lanka.
+If a centralized facility is needed, locating near a source minimizes equipment and associated costs of transporting raw materials. Although finished compost must be transported to the nurseries, the costs will be considerably less than transporting larger quantities of raw material. Also it may allow for composting to occur on a large scale, thereby reducing unit costs for production.
+<section>Facility siting</section>
+Once the sources and quantity of compost and raw materials are estimated, one needs to consider whether the nursery or chosen location has enough space to go into compost production. Space must be available for constructing compost heaps and turning them as well as storage of raw materials and/or finished products. All activities associated with composting operations should be placed downwind and away from the main nursery operations or habitation.
+Regardless of whether compost operations are on-site or at a separate location, they should be located at least 25 m down gradient (downhill) from a source of drinking water. Water should be readily available at the site as it will be needed for moisture control of the piles. Additionally, the site should be well-drained so that the bottom of the piles do not become saturated, and the area around the piles muddy. Turning becomes difficult under muddy conditions.
+<section>Material preparation</section>
+Composting should be done preferably during the less busy times in the nursery so that labor is available to collect and process wastes, build piles, and turn the compost. It may take as long as six months to one year to complete the entire cycle from collection of the organic materials to the use of finished compost. The materials used for making compost may not all be available at the same time of year because crops are harvested at different times. This means that the continually available matter such as animal manures and bedding and other seasonal materials may have to be stored until the required quantities are collected. Efforts should be made to minimize decomposition during storage in order to attain the maximum temperatures during composting. Storage of putrescible (subject to partial decomposition of organic matter by microorganisms, producing a foul smelling odor) wastes is difficult because they are prone to anaerobic breakdown and can cause fly breeding
+problems and bad odors. Problems can be minimized if materials are dried and kept cool until needed.
+Processing of material prior to composting generally consists of size reduction. This maximizes the surface area accessible to microbial invasion and provides a structure more conducive to aeration and moisture control, wastes should be chopped or shredded to sizes ranging from 10-150 mm (Golueke, 1992). More resistant woody and bulky wastes should be shredded to no larger than 50 mm. Manual tools used include sickles, machetes, or any knife or chopping implement. A hand-operated chaff cutter can be useful as well as laying materials on a road or surface to allow wheeled vehicles to break up the fragments. Size reduction can be mechanized with locally manufactured power choppers and shredders or factory machinery such as hammermills and shredders. Small, gasoline powered shredders which can process up to 7 m³/hour of raw materials may be appropriate for some nurseries producing less than I million seedlings/year (Liegel and Venator, 1987). Mobility and low maintenance
+requirements are desirable in mechanical equipment.
+<section>Composting process</section>
+Details of the process of compost making are given in Annex II. Although both aerobic and anaerobic processes are available the former are usually favored because they are quicker. However, they are also more labor intensive because they require that the microorganisms responsible for breaking down the organic ingredients in the heap are supplied with oxygen and that the temperature within the heap does not reach 70 °C to kill the thermophilic organisms.
+Having prepared all ingredients the heap is made either from a mixture or in layers of each individual component, this latter method is commonly used when filling compost bins. The temperature is monitored daily and heap management must maintain this between 50 °C and 65 °C. Simultaneously it is essential that the heap becomes neither too wet not too dry because either will retard microorganism activity. Between 50% and 65% moisture is generally recommended, the higher level if the heap is being turned frequently. The process of turning is for aeration so it can be accomplished by merely lifting the heap and dropping it, a method commonly used when mechanical turning is available. If the material is being composted in bins it is not unusual to have the mix shovelled by hand from one bin into the next. This process continues until the temperature ceases to rise. At this stage the compost is virtually ready but usually left in place for a further week, sometimes more. There
+should be no more major microorganism activity once this stage is reached.
+<section>Finishing</section>
+Once compost has been matured, it will require additional processing in the form of shredding and screening. Shredding finished compost breaks up clumps and improves texture so that it is easier to handle for mixing with other potting media components and for filling seedling containers.
+The product should also be screened or sieved prior to use to remove any large clumps, stones, or other debris. If compost (and resulting potting media) is not sieved, problems such as poor aeration and drainage can occur due to silting or excessive large particles. Sieving can be done by hand using screens or with mechanical sieves which can process up to 3-5 m³/hr.
+<section>Mixing</section>
+The mixing of compost with other inorganic or inorganic components (e.g. perlite, sand, vermiculite) can be done either at the time that the media is needed or they can be mixed and stored under cover until use. The individual nursery, knowing the availability of labor and storage space will determine when best to mix its potting media. Care should be taken not to overmix so that the texture of the media is not ruined.
+Mixing can be done by hand in small batches of approximately 0.25 m³ on a clean hard surface with shovels. The components are piled together on top of each other and sprinkled with any amendments (lime, fertilizer, rock phosphate, etc.). The workers move around the pile shovelling the contents from base to the top so it tumbles down the sides of the pile. As the pile is worked around it is thoroughly mixed. The pile should be kept damp during this process by spraying lightly with water to keep the material from becoming hydrophobic. Mechanical concrete mixers can mix batches in volumes of 3-10 m³ and portable cement mixers can handle batches of 0. 1-0.2 m³
+<section>Storage</section>
+Once compost is ready for use or potting media is mixed, it should be stored in a clean, dry area until use. Since the compost should be mature, it will not break down further or emit odors.
+<section>Conclusion</section>
+Developing a potting media for a seedling nursery is a time consuming, but worthwhile venture. As this booklet has stressed, the incorporation of organic matter in potting mixtures should be a goal for all seedling container nurseries. Experience is the best teacher towards achieving a good organic potting media. It requires use of good common sense, trial and error, and patience. Effort is needed to develop a mix with the best physical qualities which provide for good seedling growth.
+Composting will undoubtedly be an essential part of producing a good potting media. The composting process will take time to perfect for individual local conditions, materials, manpower, etc. It is therefore best to start small and simple until expertise has been gained. The production of quantities sufficient for an annual planting program can be initiated with a high degree of certainty of success. As experience is gained in compost and potting media production, the manpower inputs will likely decrease as more efficient ways of operating are discovered. Ability to assess material availability will improve and the composting period adjusted to availability. The goal of composting is to produce a consistent product year after year.
+<section>Annex I - Organic and inorganic potting media components</section>
+Introduction
+As mentioned in the text most work concerning the organic fraction for potting media has been carried out in temperate countries where peat is often the main component. There is an ever growing need to ensure that media for tropical and subtropical forest tree nurseries include a higher proportion of organic matter. In most cases no natural peat is available so alternative components are needed but in the following notes peat has been included for reference by countries fortunate enough to have deposits and for others as a base reference for comparison with locally available materials, this will usually be compost - the manufacture of which is dealt with in subsequent annexes.
+ORGANIC POTTING MEDIA COMPONENTS
+Peat
+Peat moss is a widely used component of container growing media, where it is available and affordable, particularly for raising conifers, the characteristics of it and other major components are listed in Table 2. Sphagnum peat moss (consisting of at least 75% mosses of the genus Sphagnum) has the most suitable physical and chemical properties for a potting medium. Peats generally have the capacity to store large amounts of available water, are extremely light-weight, are mineral poor so they require the addition of fertilizer during seedling growth, have a pH range on average between 4.5 to 6.0, and a relatively high CEC. Although peat alone has been used successfully as a growing media, it generally should not exceed 75% of the mixture and 50% is adequate (Liegel and Venator, 1987).
+Table 2 - Characteristics of various components of growing media
+Medium
+Bulk Density
+Mineral
+CEC (Wt)
+CEC (Vol)
+Component
+(kg/m³)
+pH range
+Nutrients
+Sterility
+(meq/100 g)
+(meq/100 m³)
+Sphagnum peat
+Minimal
+Variable
+Vermiculite
+K-Mg-Ca
+Yes
+Perlite
+None
+Yes
+Pine bark
+Minimal
+Variable
+Source: Landis et al., 1990
+One of peat's most desirable traits is that it allows development of extensive fibrous root systems. In trials where peat and a terrace soil were used to raise Douglas fir (Pseudotsuga menziesli, a species of the western seaboard of USA extensively planted in Europe, particularly UK), the seedlings in a peat substrate produced longer and a higher number of lateral roots than those in mineral soil (Edgren, 1973). It was also found that peat-based growing media allowed seedlings to retain more roots when removed from of the container for transplanting.
+Seedling height and diameter growth in sphagnum peat consistently outperforms that of seedlings grown in topsoil and other media. In the Philippines, container grown Benguet pine (Pinus kesiya Royle ex Gordon) seedlings were more vigorous and taller when grown in pure sphagnum moss than other media containing sawdust or topsoil (Orallo, 1979). Likewise, in Puerto Rico higher rates of height and diameter growth and improved vigor were observed in Caribbean pine (P. caribaea var. hondurensis) seedlings grown in sphagnum moss compared to seedlings grown in vermiculite, cocopeat, and sawdust mixtures (Marrero, 1965).
+Most peats are from temperate, cooler climates so the costs of transportation and importation make its use usually prohibitively expensive in tropical nurseries. One exception occurs in Indonesia where peat is found naturally in Kalimantan. The Central Nurseries Establishment Project there has already established seven nurseries of between six and ten million seedlings annual capacity using a peat and rice husk potting medium (described in an unpublished Nursery Manual prepared by Gatut Supriadi and Ilkka Valli in 1988 for a FINNIDA project in Indonesia). In some countries it may be worth considering importation because peat's light weight (reducing local transport costs) and superior performance (producing better seedlings and reducing the potential for replanting) may prove cost effective assuming the funds and foreign exchange are available.
+Bark and Sawdust
+Composted pine and hardwood barks have proved useful components of growing media for containerized tree seedlings. Bark is particularly useful for increasing air porosity and water-holding capacity of a mixture. The porosity of composted pine bark exceeds 40%, but its available water-capacity less than 10%, so its overall water-holding capacity is not as high as that in peat moss (see Table 3). In most cases, pine bark is blended with sphagnum peat in growing media to increase the CEC, C/N ratio, and water holding capacity. Sand is an inexpensive media ingredient easily obtained, the addition of bark lightens the weight and adds organic matter, but in most situations fertilization is necessary to obtain the required growth of seedlings.
+Table 3 - Chemical and physical properties of bark, pine litter, and peat
+CHEMICAL PROPERTIES
+Elec. Cond.
+Organic
+Nitrogen
+CEC
+Material
+pH H20
+(1/25 in uS)
+Matter (%)
+(% total)
+C/N
+(meq/100g)
+Fresh bark
+Composted bark
+hardwood
+softwood
+Peat
+Pine litter
+PHYSICAL PROPERTIES
+Volume percent water at a tension of
+Volume
+Volume
+easily
+10cm
+50 cm
+100 cm
+(% air)
+avail.
+H20
+Composted Bark
+Peat
+Pine litter
+Composted Bark/Peat
+Source: Modified from Verdonck, 1983
+Sawdust has similar (but inferior) qualities as bark with respect to pH, CEC, C/N ratio, and phytotoxicity and these characteristics improve upon composting. It is important to note that sawdust should only be used as one of several components in growing media, and never as the sole ingredient. This is stressed by Bowen and Chow (1984) from studies in Sabah using sawdust from mixed tropical hardwoods. Further discussion of bark and sawdust use in potting media is discussed in Annex V.
+Pine needles can be composted, but are somewhat resistant to decomposition because of the waxy coating on the outside of needles. They are acidic so should not be included in large quantities and need shredding prior to composting (Minich and Hunt, 1979). Table 3 also includes some chemical and physical characteristics of pine litter.
+Coconut Derived Products
+The use of coconut fiber (husk and dust) in potting medias has proved successful for several species of trees. In Thailand, a cost-effective media to produce high quality seedlings from pulverized coconut husks has been developed (see Annex IV). The material is light, porous, and has an excellent water-holding capacity.
+Compared to peat, coconut fiber dust is found to have a higher salt content, but other physical and chemical properties compare well (Verdonck, 1983). Table 4 compares the physical and chemical properties of fresh and aged coconut husk fiber and peat. Where sand mixtures are used, the addition of finely chopped, air-dried coconut husk will increase the porosity and water-holding capacity (observations have shown that 1 g. of coconut husk can absorb 8 g. of water). (Erwiyono and Goenadi, 1990).
+Table 4 - Physical and chemical properties of coco-fiber dust and husk in comparison with peat
+Property
+Fresh
+Cocofiber dust 3-4 months
+3 - 4 years
+Coconut husk
+Peat
+Bulk density (g/cc)
+Total pore space (%)
+Volume % water at suction of
+10 cm
+50 cm
+100 cm
+Volume % air
+Easily available H2O
+H2O buffering capacity
+pH H2O (1/25)
+EC (us/cm)
+% organic matter
+CaC03 (%)
+Degree of composition
+N (total) (mg/100g)
+NH4- N (mg/100g)
+NO3- N (mg/100g)
+CEC (meq/100g)
+EC = Electrical conductivity
+Sources: Verdonck, 1983 Kiljar, 1991
+Bagasse
+Residues derived from the processing of sugar cane have been used as components of growing media. Both the fibrous portion of sugarcane after extraction of juices known as bagasse and filter muds (the filter cake remaining from the juice settlings) are composted prior to use as growing media. Table 5 summarizes chemical properties of sugarcane filter cake.
+Properties of composted bagasse make it well-suited for use in growing media. When dry, it readily absorbs moisture; it has been said to absorb up to seven times its weight in water (better than peat moss), without becoming too wet (Dobbs, 1982). Its bulk density is low which reduces transport costs. The CEC is relatively high and, nutritionally, it has adequate quantities of calcium and trace elements for use by plants without further addition of amendments. The pH of fresh filter cake is high (around 8-10), but is lowered (to 5.5) by composting and adding acidic fertilizer (e.g. ammonium sulfate) (Liegel and Venator, 1987). In Haiti, use of composted bagasse (70%) with 15% unmilled rice hull and 15% silty-loam with addition of fertilizer has been used (Josiah and Jones, 1992). This has been reported to be a good media for Casuarina (Josiah, 1993).
+Bagasse has been used successfully in Sulawesi, Indonesia (Valli, 1993) where slightly aged bagasse was composted in windrows with I kg/m; urea and turned every 2 weeks using a front-end loader. This was used as a media for growing Cassia siamea seedlings with good growth and a compact root ball while some seedlings grown in uncomposted bagasse performed poorly.
+Table 5 - Chemical composition of filter-press cake residue of sugarcane
+Constituent
+Composition on a dry-weight basis (%)
+Average
+Range
+Nitrogen (N)
+Phosphorus (P2O5)
+Potassium (K2O)
+Calcium (CaO)
+Magnesium (MgO)
+Manganese (MnO2)
+Iron (Fe2O3)
+Boron (B2O3)
+Organic matter
+Source: Liege! and Venator, 1987
+INORGANIC POTTING MEDIA COMPONENTS
+Vermiculite
+Vermiculite is a layered silicate mineral which has been exposed to temperatures of approximately 1,000 °C, this forces the mineral to expand like popping corn along its parallel fracture planes. The result is a sterile, porous material which absorbs large quantities of water readily and dries quickly. Vermiculite is used in potting media mixes to increase their bulk, drainage, and aeration. It is also resistant to settling and compaction during seedling growth.
+Properties of vermiculite which make it a desirable material include its neutral reaction (pH = 7.0) and high buffering capacity; its high water retention capacity; high CEC, and its available quantities of magnesium and potassium which are adequate to supply most plant needs in the seedling stage (see Table 2). Although its pH is too high for raising coniferous seedlings, mixing with other, more acidic components resolves this problem. It has been suggested that vermiculite should not be used with sand because the sand's added weight and a moist environment can cause the vermiculite to compress over time. If vermiculite is used in smaller containers, then smaller sized particles should be used. When purchasing vermiculite it is important to obtain grades which do not contain any water repelling chemicals.
+Sand
+Sand is an almost pure silicate, and commonly used material in growing media mixes. It is usually available locally and is relatively inexpensive. Sand is typically added to a media to increase its porosity, but can also block pores and drainage holes if it contains particle sizes which are too small. Recommendations for optimal particle sizes vary from a uniform size between 2-3 mm to 60% of the particles of size 0.25-1.00 mm, with less than 3% smaller than 0.1 mm or larger than 2 mm. The presence of calcium carbonate, (often present in sand deposits) can raise pH and thus reduce the availability of nutrients (especially phosphorous). Otherwise sand is a nutritionally valueless and chemically non-reactive media component. All sand should be washed and preferably sterilized before blending into the media.
+Perlite
+Perlite is a mineral of volcanic origin which is crushed and expanded using high temperature (up to 1,000 °C). It is light, sterile, rigid, and granular in texture (particle size between 1-3 mm) and holds 3 to 4 times its weight in water (Table 2). It has no buffering capacity, a very low CEC, and virtually no nutrient value. As with vermiculite, the pH is regulated by mixing with acidic materials. It is most useful to increase aeration and moisture retention in potting mixtures. Because it tends to migrate to the surface of the container during irrigation, its use is recommended only as a minor component of growing medias.
+Pumice
+Pumice can be used as a light-weight component of potting medias to add bulk and improve aeration and drainage, much like perlite. It is readily available in areas with young volcanic soils. In Hawaii, pumice has been used in potting medias in large containers for horticulture plants (Landis, 1993).
+Styrofoam
+Styrofoam plastic is a light-weight material which is useful for adding bulk and improving aeration and drainage. If mechanical grinding of old styroblock containers in nurseries can be accomplished, they could be a very useful amendment to potting medias (Venator, 1993). Like perlite it tends to migrate to the surface so it is normally a small component of the mixture.
+<section>Annex II - Chemistry and processes of composting</section>
+The process of composting can be either aerobic or anaerobic and the microorganisms involved may require one or other of these conditions to function or may be able to function under either condition. These latter organisms are normally more efficient under one or other condition. Under normal aerobic conditions organic matter breaks down into a mixture of CO2 and nitrate nitrogen and under anaerobic conditions the product is a mixture of CO2 and methane with ammonia and nitrogen In both cases these products are next processed into proteins, carbohydrates and fats (Gotaas, 19563. A feature of composting is that the life processes of one group of microorganisms will create an environment suited to others (Goluele, 1992). To efficiently make compost these processes must be manipulated to favor microorganisms which will give results appropriate to production needs. Virtually all modern literature favor the aerobic process and this will be given preference in the following
+section.
+Aerobic decomposition (composting) of organic matter begins when the oxygen and moisture content is favorable for growth and reproduction of microorganisms (bacteria, fungi, and actinomycetes) found commonly in organic material The initial activity (at temperatures below 40 °C) is called the mesophilic stage. As composting proceeds heat is generated by the activity of the microorganisms and the temperature rises. Within usually four to six days a thermophilic stage is attained when temperatures rise above 40 °C and stabilize near 60 °C (temperatures above 70 °C kill microorganisms). In the 50°-60 °C stage aggressive microbial activity results in the highest rate of decomposition. A compost management system is needed to prevent temperatures reaching 70 °C and if this is done after several weeks the temperature starts to fall into another mesophilic stage. At this time the organic matter has undergone significant change.
+Carbon and nitrogen are needed by the microorganisms which compost organic material. Carbon is an energy source essential for cell growth. Nitrogen is the major source for proteins needed by microorganisms. A material's carbon and nitrogen content is expressed as the carbon/nitrogen ratio (C/N) on a weight basis. To balance the C/N ratio for composting, a mixture of materials which have high and low ratios are used. Fertilizers may also be used to balance the C/N ratio. The C/N ratio decreases during composting as carbon is lost in the form of carbon dioxide. Table 6 summarizes the optimal conditions for composting.
+For materials (such as rice straw) with very high C/N ratios, the rate of decomposition can be increased through ammoniation. In this process, a source of nitrogen is added to a material with a high C/N ratio in order to lower the ratio and enhance decomposition. Sources of nitrogen include NaOH, NH3 (ammonia), urea, or urine). One method recommends that 3.5 kg NH3/100 kg straw be used to break down lignins within four weeks (Jackson, l 978). The reaction should take place in a contained environment such as a covering of plastic sheeting or in a pit below ground. In rural areas it is recommended that urea be used as a source of nitrogen because it is not pressurized nor a particularly strong solution (Barreveld, 1989). It is commonly available and easy to transport and handle. Its use requires that the environment be relatively hot and moist so that the urea can decompose into ammonia and that urease (an enzyme found in many materials which can be substituted with soybean
+meal). Generally urea should be added in solution (about 5% and 1:1 straw:solution) and again left in a sealed environment. Use of urine for this process requires a ratio of 1:1 urine straw.
+Table 6 - Optimal composting parameters
+Parameter
+Value
+C/N ratio
+25 to 35/1
+Particle size
+10 mm for agitated and forced aeration
+50 mm for windrows and natural aeration
+Moisture content
+50-60% (higher values possible when using bulking agents)
+Air flow
+0.6-1.8 m³ air/day/kg volatile solids during thermophilic stage, or maintain oxygen level at 10-18%
+Temperature
+55-60° C held for 3 days
+Agitation
+No agitation to periodic turning in simple systems; short burst of vigorous agitation in mechanized systems
+pH control
+Normally none necessary
+Heap size
+Any length, 1.5 m high and 2.5 m wide for heaps using natural aeration; with forced aeration, heap size depends on need to avoid overheating
+Source: Dalzell et. al., 1987
+A final stage of ripening or maturing (during which the C/N ratio changes little) may take several months. This is necessary to break down the lignin and cellulose in materials which are most resistant to decomposition. The final C/N ratio should range between 10 and 12 and the time it takes to reach that point depends on the initial C/N ratio of the materials the initial particle size, moisture content, and porosity of the mass during composting. Once the process is completed, compost can be stored in piles (under a protective cover) with no increase in internal temperature and without anaerobic activity. The final product should have a dark earthy color; an earthy, musty smell; and a light, fluffy texture.
+Organisms which decompose organic material need oxygen to function. If the pile lacks oxygen it becomes anaerobic. This decreases the rate of decomposition, the pile starts to ferment, and generate foul, putrid odors. To retain aerobic conditions, compost must be turned (aerated) several times during composting to incorporate fresh air into the pile. This also controls the temperature and helps retain its loose structure and preventing the heap from becoming compacted. The more frequently compost is turned, the higher the rate of decomposition and frequency of turning is normally related to temperature control, as it nears 60 °C turning will be needed.
+Moisture content for successful composting should range from 50-65% (by weight) (Hoitink and Poole, 1980). Below 40%, decomposition is extremely slow because it is too dry for microorganisms to function. Above 60% the material is too wet, air spaces are reduced and the heap becomes anaerobic. A higher moisture content may be maintained if the pile is turned frequently or has a loose structure (maintained with lots of straw and fibrous materials) to enhance aeration (Gotaas, 1956).
+The pH during composting is rarely a concern. Most plant materials added to a compost pile have a pH between 5-7 which is desired for microbial activity. Once decomposition starts, the pH drops slightly as organic acids are generated and then increases during the thermophilic stage to the optimal range of between 6. 5 and 8.5 (Hoitink and Poole, 1980). If the pile becomes anaerobic, the pH drops further as acids are generated from fermentation. Restoring aerobic conditions by turning will reverse this trend. It is not recommended to buffer or add lime to the pile because it results in ammonia generation and a loss of nitrogen. Liming is best added to finished compost or to the growing media if needed.
+Most pathogens and weed seeds are destroyed during thermophilic decomposition. Pathogenic destruction is a most important aspect of this stage, not only the accelerated rates of decomposition. This is of particular importance if compost contains nightsoil or sewage sludge. In order to make sure all pathogens and seeds are exposed to temperatures and microbes capable of killing them, it is necessary to turn the pile at least three times and mix the outside of the pile with the inside.
+Fly breeding can be an unwanted nuisance in a composting operation. If wastes are infested with eggs and/or larvae at the time of collection it must be processed and composted immediately. Frequent turning or insulation with a manure plaster is an effective method of controlling flies because eggs and larva are exposed to fatally high interior temperatures. Burning of dry material piled on the outside of the heap is a method used in India to kill larva which have migrated to the cooler outer layer of the pile (Gotaas, 1956). To prevent larva from migrating into the cooler surrounding soil it may be necessary to locate the heap on a surface which is covered or sealed (e.g. a paved or compacted area). Allowing chickens and fowl to eat the larva also helps control fly populations, however, their presence often needs control as the birds tend to scratch at and scatter piles.
+<section>Annex III - Construction of compost heaps</section>
+Introduction
+This annex provides some general information regarding the assembly of materials, construction and features, and the management of compost piles. Further guidance on composting should be gained by consulting individuals with knowledge and local experience.
+ASSEMBLING AND PROPORTIONING MATERIALS
+There are several ways to assemble raw materials in compost heaps. Materials can either be mixed together in a homogeneous mass before composting or layered in the pile during heap construction. Regardless of the method used, the pile must have the correct C/N ratio and moisture content.
+If using wastes which are high in either carbon or nitrogen then they must be blended to balance the ratio. Use Table I in the main text to become familiar with the C/N ratios of numerous raw materials. Proportioning wastes to obtain the desired C/N ratio (between 25-35) is done by visually estimating their quantity and character. This requires some experimentation and experience, Box 6 provides some guidance to initially estimating the ratios of some mixtures. There is less need to mix wastes if their ratios are between 20 and 30.
+Blending to achieve proper moisture content also applies to wet and dry wastes. Green, fresh vegetation should be spread out in the sun for several days before composting to reduce moisture contents, then stored under cover until needed. Woody and stalky materials, as well as bark and sawdust, must be kept moist in piles or bins and soaked in water for several days before incorporation into the compost pile. The moisture content can be controlled during heap construction by sprinkling with water
+Materials may be assembled in layers in various ways. The common approach is to alternate layers of high and low C/N ratio wastes. Carbon-rich layers are twice as thick as nitrogenous layers. One approach suggests placing 20 cm layers of carbonaceous wastes alternating with 10 cm of nitrogenous materials until the desired height is reached (Poincelot, 1975).
+A coarse textured high carbon waste (stalks, brush, etc.) should be laid as a base layer to a thickness approximately 150-220 mm. Layers can be constructed using individual raw ingredients (proportioning them so all wastes are distributed throughout the pile) that result in a C/N and moisture balanced heap. For example, a pile can be constructed with 100 mm of coarse dry wastes, 75 mm green weeds and leaves, 50 mm manure, and a sprinkling of urine soaked earth/wood ash and repeating this sequence 7-10 times. Limit the depth of any individual plant material to 100 mm or of any manure to 50 mm. Premix wastes with poor aeration quality (e.g. slurries) with wastes which are coarse (e.g. straws, grasses). The addition of a small quantity of fertile soil is often recommended to provide more beneficial organisms to the pile.
+Alternately, batches of properly balanced wastes (straw, grasses, manure) are mixed together with some previously finished compost and soil (and water if it appears too dry) and laid on a pile making a 200 mm layer. Mixed batches are added in 200 mm layers until the desired height is reached.
+A covering of straw, finished compost or soil is recommended for the top of the piles to control fly breeding, shed rain, and insulate against heat loss.
+COMPOST HEAP FEATURES
+There are several features which can be included during heap or pit construction to enhance the composting process. These are structures for aeration and drainage, insulating walls, and protective covers which are discussed below. Whether these features are included is dependent on the available labor, materials, time, and climate.
+Aeration
+Constructing the compost heap on a loose structured base or an elevated grid or platform enhances the air flow through a pile between turnings (Figure 2). To construct a platform, pairs of bricks are laid at 600 mm intervals and covered with brush. If termites are a problem a platform 150 mm off the ground can be built with bricks and a grid of bamboo poles. The bases of the brick columns can be put in buckets kept filled with water to keep termites off the columns.
+To ensure aeration of a heap built directly on the ground, a base can be constructed of drain pipes or shallow trenches ( 150 mm wide by 100 mm deep) spaced at 600 mm intervals and covered with a wire mesh or layer of coarse material such as brush or stalky material. Alternatively a base layer of brush and branches can be used to promote aeration of the pile.
+Air vents can also be built into a pile or pit (see Figure 3). During construction poles are inserted vertically after about 0.5 m of material is laid. When the heap has reached its final height, the pole is then pushed back and forth to make a hole approximately 100 mm in diameter. Pole vents should be shaken several times a week to keep them open. Air vents should not be placed closer than 600 mm to an edge of the heap with a 1.2 m maximum distance between vents. Other methods to enhance aeration between turnings are incorporation of poles or stalks during construction which are removed a few at a time over several days or inclusion of a 10-20 cm diameter perforated metal or wire vent in the heap (Minich and Hunt, 1979). Incorporating stalky material from plants such as Typha (cattails), Phragmites, or bamboo also helps aerate the heap (BOSTID, 1981).
+Drainage
+Good drainage is important for a compost site and for the individual stacks and pits. Conditions can turn anaerobic if water is not drained away from the base of the heap. Pits (which are prone to become anaerobic) generally need to be equipped with drainage channels and are best if lined with cement, bricks, or masonry, on high rainfall sites a roof may be needed. In addition, drainage structures also aid in ventilation of the heap. For stacks above ground where drainage is poor, gutters can be excavated around the base to facilitate flow of water away from the heap.
+Insulation
+This is of interest to subtropical areas such as Nepal, China, and northern India. Organic material is an excellent insulator, but additional insulation is necessary if conditions are cold, windy, or if the heap is smaller than one cubic meter. Insulation allows for a larger volume of the composting mass to reach the highest temperatures. Particularly on small piles, where moisture and heat loss are significant, walls constructed of wooden boards or corrugated metal are recommended.
+More appropriate for larger piles is a 25-50 mm covering of soil, compost, hay, or a mud plaster. A plastic sheet (perforated with 25 mm holes at 150 mm intervals) or mats of woven grass or leaves on top of a heap helps insulate and keep in heat while allowing for air circulation.
+Protection
+A covering or roof constructed over the pile to reduce exposure to direct sun and heavy rains is required in some climates (Figure 4). Direct sun dries out a pile too quickly and excessive rains may water log the pile. A roof should be situated approximately 50150 mm above the top of the heap to allow for ventilation, angled to shed water, and easily disassembled and reassembled to allow for turning of the pile. If mechanized turning is to be used the roof must be sufficiently high to permit access.
+COMPOST HEAP CONSTRUCTION
+The shape and size of a compost heap is dependent on the quantity of waste and the climate. Described below are some types of construction which may be appropriate for nursery compost operations. These are: below ground - pits/trenches, and above ground - bins and windrows. The maximum height of a heap should not exceed 1.5 m to minimize compaction and retain porosity; widths generally do no exceed 2.4 m. Length is determined by the space available and the quantity of wastes to be composted.
+Pits/Trenches
+Composting in pits or trenches tends are needed for the anaerobic process because air circulation is limited. Since excavation is required, below-ground composting is initially more costly (in labor and funds) than other non-mechanized methods. Subsequently pits are cheaper to operate because they are not normally turned as often as above-ground stacks; more frequent turning, however, would keep the pit from becoming anaerobic. The benefits of using pits are that they are better insulated for use in windy or subtropical climates and less space is needed for compost operations as they are turned in place. Pits are not recommended for composting where the water table is high or during the rainy season because of potential drainage problems. A roof or rounding of the top of the heap in a pit may allow composting during rains. !
+The minimum size for a compost pit is about I m³ which can be accommodated by a hole measuring 1.5 x 0.9 x 0.6 m in depth. The deeper the pit, the more likely it will become anaerobic.
+Figure 5 illustrates a typical trench construction of a pit 8 x 3 x 1 m which should accommodate approximately 24 m³ of raw materials producing from 8-15 m³ of finished compost. A lining of concrete or masonry and installation of tiled drainage trenches are optimal. If not lined, then the walls and bottom should be tamped, unlined pits tend to crumble and are often difficult to maintain.
+During filling, compost pits need additional attention to balance the moisture content. Since turning is infrequent, moisture is conserved and care must be taken that the moisture content does not exceed 50%. Trenches can be filled by dividing them into sections and filling each section separately (see Figure 6). The last partition or section is left empty. When turned, wastes are transferred first into the empty or vacated section and then each subsequent section is moved into its vacated neighbor. Completion of two turnings (at week 2 and 5) should produce finished compost in 12-16 weeks under good conditions.
+Bins
+Bins can be constructed to contain compost heaps above ground when smaller quantities are composted. Several compost bin designs are illustrated in Figure 7. Wire mesh or stockade type bins can be easily moved and reconstructed during turning and also allow the system to be mobile. Compost bins in the subtropics should be constructed with solid walls to protect against heat loss since its relatively small size may not provide enough insulation. Good insulating materials for wall construction would be wooden planks, corrugated iron sheets; cinder blocks can also be used but do not function to insulate as well as other materials. The walls are built on at least three sides and the front either left open or equipped with a removable cover. In hot tropical climates insulated sides are not needed so a wire mesh, stockade, or woven fence can be used to contain the pile. Wooden sided bins under a galvanized roof were constructed in Sabah (Bowen and Chow 1984).
+Monitoring of bins may reveal that open-sided bins need frequent irrigation because the sides are vulnerable to drying from exposure to sun and wind. Experience, monitoring, and weather may dictate the need for an insulating blanket or cover on top of a small mass to minimize losses.
+Windrows and Stacks
+Free-standing compost heaps generally are used in production of large quantities of compost. Large quantities are assembled in long windrows the length of which is dependent on space available, the size of the production, and the climate. Assembly of a heap 20 x 2 x I .5 m requires about 80 m' or 20 tons of waste, producing about 6-8 tons of finished compost. During hot summer months, stacks require a minimum size of 2.3-3.8 m³ and in cooler temperatures the minimum size should range from 5.5-8.5 m³ (Gotaas, 19563. For windrows, the height of vertical sides of the heap should be lower during the hot season (approximately 1.2 m) and can be higher in the cool season (up to 1.8 m); if sides are sloped (30 degrees) then the heights should not exceed 1.8 m and 2.1 m in the hot and cool seasons respectively. The width of windrows generally does not exceed 2.5 m, but if a highly mechanized system is used, widths may be as much as 20 feet. The tops of the heaps are typically pointed
+or rounded in wet seasons and in dry seasons may even have a depression on top to intercept rainfall.
+Windrows can be assembled either in layers or, alternatively, if there is available labor, space, and equipment, the (properly balanced) wastes can be premixed before assembling into a homogeneous pile. If turning is to be done infrequently, then the moisture content should not exceed 50%. Turning, as previously described, should incorporate the material near the outside into the inside of the pile. The frequency is dependent on materials, physical characteristics, and the time schedule determined by the nursery manager as to when finished product is needed. The final turning may be included with moving compost to a storage area. Figure 8 shows a layout of a compost system where separate piles are moved and combined during turning events. This may be convenient if there is enough space at the compost site.
+The physical turning of windrows can be done manually or mechanically. Manual turning of relatively large quantities of compost is time consuming and needs significant amounts of labor. Simple technologies for turning exist and include methods that use horse or oxen dozers or plows. Turning by mechanized methods is either done with modified farm tractors, front-end loaders, and bulldozers or with specially designed windrow turners (Golueke, 1981).
+If centralized compost making facilities are to be installed it may be necessary to consider investment in special machinery. Self-propelled, windrow turners have been used where thousands of tons of compost are produced annually. In Kenya, a commercial-scale project composts 5,000 ton/year of tea wastes using a windrow turner. These turn, shred, blend, and aerate windrows simultaneously, types differ predominantly in the way they agitate material and where the pile is reformed (either behind the moving machine or adjacent to the original pile) (Golueke, 1981). Windrow turners can be obtained which operate on varying windrow widths from 3.6-6 m and up to 2.4 m high. These all have a capacity to turn up to 3000 tons/hour, so are generally suited to very large operations. Smaller models turning up to 100 tons/hour are also available. Some benefits other than the ability to work large quantities of waste include that only a single operator is required and no shredding or
+grinding is required prior to windrow assembly.
+COMPOST HEAP MANAGEMENT
+Monitoring
+A compost heap should be monitored periodically to assess the temperature and moisture conditions. These help indicate the health and progress of the heap. Three to seven days after construction the pile should be examined to ensure that the temperature has risen and that the pile is not too wet or dry. Frequency of monitoring can only be determined from experience through initially daily measurements. If turning has to be frequent, daily monitoring may have to continue to ensure optimal interior conditions are maintained.
+The rise in temperature is necessary to kill pathogens. It is also an indication of aerobic microbial activity. Temperature can be monitored by inserting a long thermometer near the center of the mass. If above 60 °C, the pile needs turning and mixing in order to dissipate heat, redistribute high nitrogen wastes, and to aerate it. Alternatively, to assess temperature the insulation or top layers can be peeled back to expose the center of the heap; steam should rise from the pile. (A bad smell is a sign of fermenting and anaerobic conditions.) Another way of testing is to insert a stake of metal or wood about 300-600 mm into the heap and leave it for approximately 10 minutes. Afterwards the portion of the stake which was in the pile should feel very hot, but not too hot to hold and it should also appear moist.
+If temperatures have not increased after the first several days to a week, then the moisture status should be checked to determine whether conditions are too wet or dry or the C/N ratio too high. The structure of the material should be loose and crumbly, not packed and lumpy. A handful which is squeezed should exude small droplets of water (like a damp sponge). If the wastes are too wet, then they will not only appear soggy, but squeezing a handful will readily produce water and be smelly. If this is the case, the pile should be turned and rebuilt with the addition of straw-like materials to absorb additional moisture.
+If moisture does not appear to be the problem, then the addition of nitrogen-rich materials such as fresh green vegetation or manures will likely initiate the temperature increase. If the heap is too small it may not have enough material to generate and retain high temperatures, in this case the pile should be made larger. Monitoring should continue frequently until problems are resolved.
+Turning/Aeration
+Turning of a compost heap restores aerobic conditions and by maintaining the thermophilic conditions speed decomposition. Frequency of turning depends on availability of labor, time until compost is needed, climatic conditions, and the progression of microbial activity within the pile. Turning should occur only during the thermophilic stage. Usually a pile is turned a minimum of three times to ensure that all material has resided inside the pile and been exposed to maximum temperatures. Frequent turning causes a loss of nitrogen, so if a nitrogen-rich compost is desired less turning and a longer composting period is recommended (Minich and Hunt, 1979).
+Turning results in short-term temperature decreases which, in large volume heaps, will recover within hours. The physical turning of the pile requires that the materials on the outside (typically a layer 150 mm thick) be placed to the interior of the pile during reassembly If possible, material is removed in an orderly fashion, keeping those wastes separate which have been near the outside and inside of the pile. The heap is then rebuilt making sure the outer material is placed near the center of the mass. Sometimes separate bins, piles, or pits can be constructed adjacent to each other so wastes can be transferred from one to the other with less time and effort.
+When materials are turned it should be done so that there is more air incorporated into the pile on reassembly. The material should be fluffed up as much as possible during this process. Sprinkling the material with water may be necessary if it appears dry. If wet, dried wastes may be mixed in, keeping in mind the maintenance the proper C/N ratio.
+Piles which have been constructed on platforms for aeration may require less frequent turning due to the increased air flow. During cooler weather turning should be limited because temperature recovery is slow, retarding composting If the pile becomes soaked by rain it should be turned, however, in heavy rains it is better to let the pile become anaerobic instead of water logging the entire pile by turning.
+In trenches, the last section to be filled is turned into the section left empty upon filling (See Figure 6). The material is moved as 150 mm thick layers, then mixed, and watered lightly. Vent holes should be reconstructed as the sections are filled. Gaining access to a pit for compost turning is difficult and awkward. Using of long handled tools and placing boards across the pit to stand on is recommended.
+Maturing and Processing
+After composting has been completed, it is often necessary to allow the composted material to mature or ripen further. This breaks down any remaining waste fragments into
+a humus high in lignin and microbial protein. For nursery use, compost must be fully mature with a C/N ratio below 15. This process may take up to several weeks or months.
+When maturing is complete, the color of the material will be a dark brown to black with a smell both earthy and pleasant. Growth of young plants in the compost to "bioassay" the product can help asses the maturity of the compost and determine whether further composting or maturing is necessary (Chen et. al., 1992).
+As a final step for nursery use, the dried (less than 40% moisture content) finished product should be passed through a wire mesh to provide a homogeneous, fine-grained compost. Any organic fragments not passing through the screen can be composted in the next batch.
+<section>Annex IV - Compost and growing media mixes</section>
+Materials which can be composted or used as components in growing media are too numerous to discuss. Presented here is some miscellaneous information on various materials and Table 7 lists nutrient information for many of the materials described.
+Brewery Wastes
+The spent hops and grains remaining after brewing beer are a good source of nitrogen for inclusion in a compost pile. They generally have a high moisture content (75%) and a low pH (4. 5). In a compost pile, hop waste heat readily and can be used as an activator.
+Cacao Pods
+In Nigeria, a project was undertaken to study the manufacture of compost by crushing and stacking rotting and salvaged pod husks of cacao (Rivoire, 1981). The waste was successfully composted and reached temperatures high enough to destroy the spores of Phytophthora palmivora, a fungus which contaminates the rotten pods. Although, it was found that phosphorus and potassium rapidly leach from the finished compost, it still can be recommended as a source of organic matter for a compost pile.
+Coconut
+In Thailand, a method has been developed for the processing of coconut husk from coir into potting media (Kijkar, 1991). Coir is the fibrous material which covers the inner nut and is made up of both fiber and husk. The fiber is generally used for manufacture of other items, the husk can be processed into potting media.
+Coir can be separated after 60 days of composting, or in two weeks if an inoculant is used to speed decay. Using aged coir also increases the amount of husk recovered during processing; if fresh, only 40% of the husk can be separated.
+Composting of husk in Thailand is done by first laying it in an open area and watering for 24 hours. It is then piled up in alternating 30 cm layers of husk and manure (or nitrogen fertilizer) and the top and sides of the pile insulated with soil, manure, or finished compost.
+Composting lowers the tannin content so seedlings grown in husk media are healthier. Coconut husk has a low nutrition value, so it requires the addition of fertilizer when used for growing seedlings (see Table 4).
+Table 7 - Percentage nutrient composition of various materials
+Materials
+Nitrogen
+Phosphoric Acid
+Potash
+Hay
+vetch
+alfalfa
+red clover
+cowpea
+timothy
+soybean
+salt marsh
+pea forage
+winter rye
+Straw
+millet
+buckwheat
+oats
+barley
+sorghum
+wheat
+corn stalks
+Manure Cow
+fresh
+dried
+urine
+Horse
+fresh
+dried
+urine
+Swine
+fresh
+urine
+Goat and Sheep
+fresh
+dried
+urine
+Chicken
+fresh
+dried
+Duck (fresh)
+Goose (fresh)
+Rabbit (fresh)
+Animal Wastes: Non-manure
+Eggs
+Eggshells
+Hair
+Feathers
+Dried Jellyfish
+Crabs
+fresh
+dried
+Shrimp
+dried heads
+dried waste
+Lobster wastes
+Mussels
+Fish
+dried ground
+sardine
+red snapper
+scrap (fresh)
+starfish
+Oyster shells
+Milk
+Wool wastes
+Silk
+cocoons
+mill wastes
+Felt wastes Leather
+ground
+ash
+Meal
+raw bone
+steam bone
+blood
+cottonseed
+corn fodder
+corn silage
+oats, green fodder
+rapeseed
+gluten meal
+wheat bran
+wheat middlings
+meat meal
+bone tankage
+hoof & horn
+Grain
+barley
+brewers
+corn
+oats
+wheat
+Plant Wastes Apple
+fruit
+leaves
+pomace
+skins (ash)
+Banana
+skins & stalk (ash)
+Beet
+waste
+roots
+Cantaloupe rind (ash)
+Castor bean pomace
+Cattail reeds
+Cocoa shell dust
+Coffee wastes
+(wet)
+(dry)
+Corn, green forage
+Corncobs (ash)
+Cottonseed
+Cottonseed hull (ash)
+Cotton waste (mill)
+Cowpeas, green forage
+Cowpeas, seed
+Cucumber skins, ash
+Field bean, seed
+Field bean, shells
+Garden beans & pods
+Grape
+leaves
+fruit
+Grapefruit skins (ash)
+Lemon
+fruit
+skins (ash)
+Molasses residues
+Nut shells
+Materials
+Nitrogen
+Phosphoric
+Potash
+Acid
+Oak leaves Olive
+pomace
+'waste
+Orange
+fruit
+skins, ash
+Pea pods (ash)
+vines
+Peach leaves
+Peanuts
+kernel
+shells
+shells, ash
+Pear leaves
+Pine needles Potatoes
+tubers
+leaves/stalks/vines
+skins, raw ash
+Prune refuse
+Pumpkin
+fresh
+seeds
+Raspberry leaves
+Rhubarb stems Seaweed
+fresh
+dry
+String beans (ash)
+Sugar wastes
+Sunflower seeds
+Sweet potatoes
+skins (ash)
+Tea
+grounds
+leaves (ash)
+Tobacco
+leaves
+stalks
+stems
+Tomatoes
+fruit
+leaves
+stalks
+Tung oil pomace
+Water lily stems
+Good growth results have been obtained using aged coconut husk in potting media. Pterocarpus macrocarpus seedlings grown in topsoil with regular NPK fertilizer treatments needed 12-18 months in the nursery before they were ready for outplanting. When grown in coconut husk media fertilized with 0.3-0.4 g of Osmocote((TM)) they were ready for outplanting in 3-4 months. Use of Osmocote was found to be cost effective at US$3-4.00/kg when compared to other inexpensive fertilizers (US$0.25/kg) because only one application was needed to produce superior quality seedlings (Kijkar, 1991).
+Growth trials in Indonesia found that cocoa seedlings grew best in a 1:3 coconut husk-sand media rather than a topsoil media. Because husk has been observed to decompose and compress over time, the addition of some sand is recommended to rninimize compaction (Erwiyono, 1990).
+Lignocell((TM)), is a commercially available coconut-derived peat substitute manufactured in Sri Lanka. The product is made from the non-fibrous lignin or the pulpy glue which is left after the fibers have been removed from coir (Dellmore, 1993). It is high in lignin, low in cellulose and degrades very slowly so it is structurally stable, easily wetted, and can hold up to 8 or 9 times its weight in water. It has peat-like qualities (see Table 8) such as low nutrient content, high resistance to decomposition, and it will not shrink in pots. The product is sold in dry bricks so transportation, storage, and handling costs are reduced.
+Table 8 - Properties of wetted Lignocell(TM)
+pH
+Ash (% dry basis)
+EC (us/cm) max
+CEC (meq/100g)
+Total organic matter (wt/wt, % dry)
+Organic carbon (wt/wt, % dry)
+Lignin (wt/wt, % dry)
+Cellulose (wt/wt, % dry)
+C:N ratio
+H2O holding capacity (dry weight)
+8-9X
+Air filled porosity (v/v, %)
+Total pore space (v/v, %)
+Appearance - Earthen, granular and some short fibers
+Color - Light to dark brown
+Source: Lignocell (See Dellmore, 1994)
+Dry bricks of Lignocell can be individually wetted overnight in buckets of water, or in large-scale operations the bricks can be first ground up. Approximately 1500 bricks can be wetted up to a volume of 14-15 m³ using 5-6 m³ of water (Dellmore, 1993). Nutrient fertilizers added to the water before wetting produces a media with a homogeneous distribution of fertilizer. The addition of calcium and magnesium fertilizers (i.e. Chemicult K2025 nutrient powder) has been recommended to provide adequate nutrition (Nelson, 1993)
+Horticultural growth trials using Lignocell alone with bark, vermiculite, sand, and other components have shown it to function as well, if not better, than sphagnum peat particularly because it wets-up quite easily (Starke Ayres, 1993).
+Coffee Pulp
+Coffee pulp often constitutes a waste problem in coffee processing facilities, it is rich in nutrients and organic matter but may compost slowly due to its high moisture content. To manage the high moisture content, the pulp should be allowed to drain, and then mixed with dry plant material and manure and a small amount of soil prior to composting (Dalzell et al., 1987).
+A study found that the best inocula for coffee pulp was the fungus Trichoderma viride which was, unfortunately the only inocula not found naturally in coffee pulp (Tauk, 1985). Table 9 illustrates that results of this composting trial using I m³ piles amended with sand or pumice to reduce compaction and help aeration during composting. It was found that mixing with pumice (8:1 pulp-pumice) accelerated the rate of decomposition.
+Table 9 - Chemical composition of coffee pulp
+Composition
+Fresh pulp
+Pulp
+Pulp + T. viride
+Pulp + T. viride 8:1 pumice
+Total N (%)
+Total P (%)
+Ash (%)
+Organic C (%)
+C/N ratio
+H2O content (%)
+pH
+Source: Tauk, 1985
+Cotton
+Cottonseed meal is an acidic, high nitrogen addition to a compost pile. Cottonseed filter cake is a good livestock feed so it is often unavailable for composting Wastes from cotton gins (burs, stem, and dust) produce compost comparable to well-rotted manure. In Texas, finished compost was obtained in 21 days using cotton wastes and a bacterial inoculant. Composting of cotton mill wastes in India has been done using windrows less than 1.5 m high; turned on alternate days they produced a clean compost in only 20 days. Other textile wastes such as jute and flax residues can also be composted if first soaked to break down fibers.
+An investigation of compost treatments of cottonseed wastes in Egypt showed that they can be composted in 2-3 months without nitrogen treatment, however a better quality compost is produced with addition of nitrogen as urea (Safwat, 1981). Addition of nitrogen (33 kg NH4NO3 or 23 kg urea and 5 kg superphosphate) to one ton piles of cottonseed waste increased interior temperatures to 71 °C compared to 64 °C in unfertilized piles.
+Fruit and Vegetable Wastes
+The residues of fruit juice processing and canning industries are a nutritionally rich additions to compost piles, particularly with the inclusion of their seeds. Generally, these residues are very wet so are susceptible to aeration and compaction problems if not managed correctly (e.g. composted with straw, rice hulls, or sawdust). Citrus wastes are best composted when shredded, mixed with other green matter, and inoculated with nitrogen and bacteria-rich compounds. Citrus oils are not problematic because they are broken down during composting. The skins have higher nutrient concentrations than the whole fruits and nutrient values vary between fruit types, particularly for potash and phosphorus. Banana skins and stalks, rich in phosphoric acid and potash, decompose readily making them a good activator for a compost pile.
+Castor bean pomace remaining after oil is extracted is relatively high in nitrogen, so it is particularly desirable where animal wastes are unavailable. Corncobs need to be shredded prior to composting or they will take years to degrade. If they are left in the open for several months prior to composting, they will be easier to shred. Wastes from grape vineyards consist of vine prunings which are rich in nutrients. Grape wastes tend to heat up rapidly so may require more frequent turning to dissipate heat (Logsdon, 1990). Prunings can be composted alone by cutting (or shredding) into 7.5-15 cm lengths and maintaining a high moisture content (up to 70%). This is necessary because the aeration porosity of the prunings is usually very high. In Israel, composted grape mare is currently being used as a peat substitute in ornamental and vegetable production (Chen et al., 1992). Table 10 presents some characteristics of fresh and composted grape mare. Usually grape mare must be
+dried prior to composting. Addition of 0.25% nitrogen (as urea) increases the rate of composting at all moisture contents (Inbar et al. 1988). Wastes from wine making also include yeasts and bacteria which further enhance the composting process.
+Manure
+Much recent research has been carried out on composting of the solid fraction of cattle manure slurries (separated manure - SM), which are produced in large quantities at dairies and feed lots. When composted it can serve as a peat substitute for container grown plants (Inbar et al., 1993). Further research has shown that after active composting has ceased (approximately 60 days) it needs to mature for an additional 3-4 weeks to stabilize and prevent competition for nitrogen and oxygen by growing seedlings (Chen et al., 1992).
+Composting studies of SM determined that the optimal moisture content for composting is 60-70% and the aeration porosity 65% (Inbar et. al., 1988). Table 10 presents some characteristics of raw and composted separated cattle manures. Based on tests carried out in the study, the authors suggested that some leaching of the compost may be required prior to mixing it with potting media.
+Table 10 - Characteristics of fresh and composted grape mare and cattle manure
+Property
+Grape Marc
+Separated Manure
+(Pure)
+(Composted)
+(Pure)
+(Composted)
+Organic Matter (%)
+Carbon (%)
+Total N (%)
+C/N
+pH
+EC
+NO3 (meq/100g)
+Water content (%)
+Bulk Density (g/cc)
+Source: Inbar et. al., 1988
+Rice Hulls
+Uncomposted rice hulls have been suggested as a substitute for vermiculite in growing media because of their low weight, added bulk, and resistance to decomposition. Their very light weight may require prior grinding of the hulls to improve handling for use in potting mixtures (Liegal and Venator, 1987). Rice hulls can be added to compost as a carbon-rich substance, but will decompose readily only if a high nitrogen source is provided. Nutritionally rice hulls are high in potash and the residue remaining after they are burned is rich in potassium which can be used to supplement potassium-deficient compost.
+In Haiti, a growing medium of 2:1:1 bagasse-rice hulls-alluvial soil has been used in tree seedling nurseries (Liegel and Venator, 1987). During the 1980's in Ecuador, a tree planting program investigated the use of locally obtained materials for composting and incorporation into potting media (Venator et al., 1985). Composting trials with local materials were initiated and seedling production in 120 cm³ containers was based on a potting media consisting of 30-50% high elevation grasses (a well-decomposed thatch) and the remainder either rice hulls, pumice, or wheat hulls. Mixtures containing rice and wheat hulls produced the best media with adequate growth and vigorous root development. Use of rice hulls in higher quantities resulted in a lowered water retention, but their slow decomposition decreased compaction during growth. Wheat hulls tended to decompose more quickly and retain water better, but could result in nitrogen deficiency in the growing seedlings.
+Rice husk compost has been used as a component of potting medium with locally obtained peat for many years in Indonesia. Substrate trials were carried out as part of the Nursery and Plantation Project ATA-267 financed by the Finnish International Development Agency (Valli, 1993). It was recommended that a 9:1 peat-composted rice husk mixture be used with Acacia mangium. Though use of rice husk compost increased seedling growth, at quantities higher than 10% there was a negative impact on root development.
+Composting of fresh rice husks was also carried out at the nursery. Three layers each consisting of 20 cm of rice husk, 10 g/m² urea, and 2 cm chicken litter were piled up on a concrete floor. A farm tractor with a front-end loader was used to pile the mass in a 22. 5 m pile and it was finally covered with a tarp. The pile was turned weekly with the front-end loader and watered regularly to keep it moist. Total volume reduction due to composting was 30% and the material matured in 4 months. Laboratory analysis found the compost to be relatively rich in sulfur.
+One occurrence of complete failure with rice husks as a growing medium for E. urophylla and E. deglupta was encountered in Indonesia (Radjagukguk, 1983). A survival rate of 0% was attributed to extreme fluctuation in moisture regimes and infestation of non-beneficial worms in the media.
+Seaweed
+Seaweed is high in moisture and organic matter, and rich in nitrogen and potassium, as well as trace elements. Nutrient contents vary among different types of seaweed depending on what type of environment they are found. The most desirable type of seaweed are kelps (Laminaria) which have a broad flat "leaf" and stem. Washing seaweed before composting is not recommended because it leaches out minerals, and composting will take care of excess salts.
+Seaweed requires at least a 2-day period of drying prior to composting. Due to its texture material must be mixed equally with other plant materials rich in carbon and cellulose and formed into an open structure with ventilation structures. (Dalzell et al., 1987).
+Slaughterhouse Wastes
+Slaughterhouse wastes generally include blood, unsalable meat, intestines, offal, paunch manure, hoofs and other materials which all have high nitrogen contents. Blood meal (dried blood) is a by-product of slaughterhouse wastes which is commonly used as a feeding supplement, but its high nitrogen and phosphorus content makes it very valuable as a compost activator. Bone meal is another slaughterhouse waste with a high phosphorus content. Feathers are readily decomposed and are useful as an absorbent with high carbon wastes. Fur and hair are less readily composted than feathers and require grinding and high moisture to enhance composting as do hoof and horn meal. As little as 2.7-3.2 kg of hair provide as much nitrogen as 45-90 kg of animal manure. Leather wastes (dust) from leather processing plants are also a good source of nitrogen and phosphorus.
+Wastes from the wool skinning industry (C/N = 12) have been found to produce good quality compost when mixed with low nitrogen materials such as sawdust (flat et al., 1984). This compost was found to have comparable properties to peat in ion exchange, buffering and water holding capacities, and physical properties. Furthermore the skinning sludge-sawdust composts were not found to be phytotoxic to plants, but did have relatively high conductivities.
+Tea Waste
+Tea cuttings and prunings were composted in Malawi to determine their use as a growing media in tea nurseries (Kayange, 1989). When compared to topsoil, the compost had a lower pH and higher quantities of phosphorus and potassium. As a growing media, the compost produced larger tea plants, and little difference in growth was observed whether compost was mixed with topsoil at 1:1 or 3:1. In Kenya, the Finlay Tea Estate has used IBF, Inc. technology to compost instant tea waste with sawdust, wood chips, and flower stems. The compost used in pots in greenhouses has reportedly accelerated growth of seedlings by up to 250% so that maturity is reached within 1 year where previously it took two years for plants to reach maturity (Casey, 1993). The large operation utilizes a modified windrow turner which can be used to turn windrows without the removal of the plastic sheets which are placed on top of windrows during the rainy season.
+Weeds
+Wild sage (Lantana camara var. aculeata) has been investigated to determine its usefulness as a raw material for composting (Bhardwaj and Kanwar, 1991). In India, green matter production estimates suggest the plant can produce on average 15 ton/ha during July-August and 10 ton/ha in September-October. On a dry-weight basis the wild sage contains more than 1.5% potassium and more than 2% nitrogen, but is low in phosphorus. Wild sage with cow dung and/or rock phosphate were composted successfully in only two months, however after 4 months the inorganic nitrogen and available phosphorus levels increased. The best quality compost (at 4 months) was obtained with 20:8:1 wild sage-cow manure-rock phosphate mixture, the C/N ratio was high (2 l .3) after composting was completed suggesting that additional nitrogen may be needed when used as a potting media.
+The Gleichenia polypodioides fern is a weed found in the southern Cape Province of S. Africa (Hodgson, 1980). The fern has a dense root mat which has been utilized as a growth media in horticulture. Clearing of this weed for use as a growing media can help economize the control of this plant.
+In Hawaii, for horticultural use in large pots a potting media using tree ferns and pumice are utilized (Landis, 1993). Likewise in Borneo a potting media using pulverized tree fern stems and sand has been developed by nursery personnel (Josiah and Jones, 1992).
+Water hyacinth is an excellent compost ingredient. If it is found growing in a region, there are likely large quantities available. This is particularly of use in areas where plentiful green plant material is not available. Compost of good quality can be obtained when water hyacinth is shredded and mixed with partially decomposed manure.
+<section>Annex V - Bark and sawdust</section>
+Introduction
+There is a large amount of information available pertaining to the composting of wood products and their use in potting media. This annex presents an overview of some of this published information.
+COMPOSTING
+Bark's high C/N ratio requires it be lowered for composting by addition of nitrogen. Urea or anhydrous ammonia speeds decomposition and raises the pH into the desired range of 6.5-8.5 (pH of fresh bark is 4.0-5.5) (Hoitink and Poole, 1980). Pine and hardwood barks require slightly different conditions (moisture and nitrogen) for optimal composting because of differences in their cellulose content (i.e. readily decomposable carbon) (Hoitink and Poole, 1980). As a result, additional nitrogen is necessary for composting bark with lower cellulose contents (<5%). The recommended nitrogen amendment (urea) for softwood bark is approximately 0.5-0.75% (the lower range is for wet bark) and for hardwood bark it is higher between 1-1.2% (Cappaert et al., 1976a). One source recommends the addition of 0.6-1.0 kg N/m³ to produce finished compost in 6 weeks for pine and 2-3 times that to complete composting in 10 weeks for hardwood species (Self, 1978). In addition to nitrogen, 0.3 kg
+P2O5/m³ (0.4% P as superphosphate) has been recommended to increase composting rates (Hoitink, 1980).
+Fresh bark has a moisture content around 40%, so a thorough wetting is necessary to increase the moisture content (between 50-65%) (Hoitink, 1980). This may take several days because raw bark tends to be hydrophobic. The moisture content also affects the amount of nitrogen needed for composting, so addition of 0.5% N is recommended for fresh bark (40% moisture) and 0.8% N for wetted bark (Cappeart et al., 1975). Bark from younger trees and bark which contains wood wastes also tend to need more nitrogen for composting.
+Sources of additional nitrogen may include piggery and poultry slurries added at a ratio of 1:3 (by volume) slurry-bark mixtures (Verdonck, 1983). Addition of manures can also improve the physical properties over composting bark alone, but only if they do not have excessively high moisture contents (e.g. poultry slurry) which would reduce the porosity of the compost.
+Size reduction prior to composting is accomplished through shredding or hammermilling. Either before or after composting, the bark should be sieved to remove particles larger than 2.5 cm and one source recommends that 25-33% of the bark be less than 0.5 mm in size (Landis et al., 1990). Some barks may not be utilized in growing media due to their texture after processing. For example in South Africa, Eucalyptus bark was reported to resemble coconut coir dust after hammermilling and was unusable in containers less than 90 mm in diameter (Hodgson, 1980).
+The time required for bark to reach the end of active composting is dependent on species, additives and other physical conditions as discussed above. Since use in nurseries require maturity, then one can assume that up to 10 months will be required. If mixed with peat, less mature compost may be used with increasing quantities of peat.
+POTTING MIXES
+When composted, pine bark has a low bulk density, a moderate CEC, significant (but small) quantities of macro- and micronutrients, a desirable pH range, and is easy to handle (see Annex I, Table 2). Raw bark contains toxic levels of volatile monoterpenes which vary between species, age, geographic location, and the season of collection. Composting will reduce levels of monoterpenes to below toxic levels and kill off pathogenic fungi.
+Utilizing pine or hardwood bark as a potting mix provides added protection to seedlings by suppressing some disease causing pathogens. The suppression of pathogens however, differs between hardwood and pine barks. Composted barks of both types suppress Phytophthera and Pythium root rots, but only hardwood bark compost suppresses Rhizoctonia-induced damping-off (Hoitink and Poole, 1980). Inclusion of wood chips in a potting mix will reduce the bark's suppressive capabilities.
+Bark-based medias have been used successfully for a variety of nursery seedling species. Composted pine bark (occasionally mixed with peat) has been used in South Africa in forest nurseries to raise wattle (Acacia spp.), Eucalypt spp., and pines (mostly P. patula) (Donald, 1986), and P. radiata bark has been used in New Zealand (Josiah and Jones, 1992). Seedling establishment trials in Australia used containers filled with a composted, nutrient-rich milled pine wood and bark media mixed with 2 or 4 parts (by volume) fine sand (Dalton, 1987). Four months after outplanting, the seedlings (Eucalyptus fasciculosa, E. condinensis, Banksia burdettii, Grevillea, and Melaleuca elachiophylla) all had doubled in height regardless of the potting media in which they were raised.
+In South Africa, growth comparisons were made of E. grandis, P. patula, and Acacia mearnsii grown in pure composted pine bark and mixtures using the composted bark with worm digested slaughterhouse wastes. The pine bark proved to be the best substrate for E. grandis and A. mearnsii provided that a 3-2- 1 NPK fertilizer was added, and a 2-3-2 fertilizer application was made to P. patula (Donald and Visser, 1989).
+Uncomposted pine bark can be used as a growing medium, but additives are required for successful growth. This may not be practical for all seedling programs because of fresh bark's toxicity to some species of plants. Milled and screened (with no sawdust or wood chips), fresh bark has been used at 3:1:1 (bark-sand-shale) and treated with dolomitic lime, trace elements, and 3.5 kg/m³ nitrogen (Van Landingham, 1978).
+SAWDUST
+Sawdust has also been widely used as a growing media component. Sawdust generally has a high C : N ratio and poor water holding capacity, both of which are improved upon composting (Cull, 1981). It has been observed in South Africa that Eucalyptus sawdust tends to shrink when it dries and can impede drainage. The addition of bark to sawdust can be used to raise the CEC of the media (Hodgson, 1980).
+Australian studies have shown that 3:1 eucalyptus sawdust-bark mixtures give satisfactory results as a medium for raising E. ficifolia and P. radiata seedlings (Hodgson, 1980). Sawdust of a variety of species composted together was studied as a growth medium in the Philippines (Eusebio et al., 1984). Compost was produced in 45 days both with and without inoculation with a mycelial enzyme solution from Lenzites striata, a brown rot fungus. Better growth was obtained using a 1:1 inoculated sawdust-garden soil media compared to a 100% garden soil for Pterocarpus indicus and Paraserianthes falcataria.
+Growth trials in the Philippines using decomposed sawdust medias in poly-bags gave varying results dependent on the species of tree and the mixture of components. Based on average height and diameter growth, decomposed sawdust alone was found to be an acceptable media for the growth of kamachile (Pithecelobium dulce) and kakauate (Gliricidia septum) seedlings. A 1:1:1 humus-decomposed sawdust-coirdust media was also acceptable for kakauate. Another study in the Philippines concluded that decomposed sawdust provided acceptable growth to Benguet pine (Pinus kesiya) although not as good as sphagnum moss or topsoil.
+In Puerto Rico, trials comparing potting medias showed that a 1:1 mixture of vermiculite-mahogany sawdust (aged I year) was an acceptable growing medium for Honduras pine (P. caribaea var. hondurensis) (Marrero, 1965). Seedlings were grown in poly-bags (11.5 x 24.35 cm) filled with media soaked in a 20-20-20 NPK chemical fertilizer and fertilized monthly thereafter. Height growth and average stem diameter were not significantly different (but were slightly less) than trials using sphagnum peat moss. Further experimentation using mahogany sawdust at 100% and 3:1 or 1: I sawdust coconut husk (coco-peat) showed sawdust to be an acceptable media with performance improved by increasing quantities of coco-peat.
+<section>Annex VI - Vermicomposting</section>
+The use of worms for digesting animal and vegetable wastes is an expanding industry for producing potting media. Worms are able to degrade waste products rapidly and efficiently. They produce a fine, peat-like material with good structure, porosity, aeration, drainage, and moisture holding capacity, which contains inorganic nutrients.
+All species of worms require conditions to be aerobic. Optimal temperature for activity is 25-30 °C (Edwards and Burrows, 1988). In general worms are pH tolerant, but they do tend to thrive in more acid conditions. They are also sensitive to ammonia and inorganic salts so some wastes (such as pig and poultry manure) must be first composted slightly and washed. Worms can be bred simply in windrow systems, heaps, or boxes and work best if small quantities of wastes are frequently added to the system in successive layers. Once degradation has been completed worms can be harvested for transfer to other wastes or for use as feed supplements for fish, poultry, and pigs (BOSTID, 1981). Additionally, partial sterilization of the finished product may be desired to kill residual worms, cocoons, insects, and reduce the presence of pathogens (Edwards end Burrows, 1988).
+Two species of worms most suited to tropical climates are Eudrilus eugeniae and Perionyx excavatus. Both species grow extremely rapidly, reproduce prolifically, but are extremely temperature sensitive (Edwards and Burrows, 1988). P. excavatus is easily handled and harvested where the larger sized E. eugeniae is not.
+Overall, nitrate quantities are greater in worm-digested wastes than in the composted wastes where the nitrogen is in the form of ammonia. Inclusion of vermicompost in potting mixes may reduce the need for additional potassium and sulfur and eliminate addition of trace elements and phosphorus (Handreck, 1986). Basal dressings of slow release fertilizers may be necessary and nutrient variability between batches of vermicompost necessitate calculation of fertilizer applications.
+Industrial wastes such as spent mushroom compost, processed potato wastes, paper pulp solids, and brewery wastes are excellent substrates for worm composting and need no modification or dewatering prior to worm inoculation (Edwards, 1988). Pig manure solids are the most productive waste for growing worms. Cattle manures must be separated prior to worm digestion, but do not need prior composting, nor do horse manures. Other substrates which have been studied for vermicompost production include: sheep manure; mixtures of carpet underfelt, lawn clippings, cardboard, goat manure, and domestic wastes, kitchen scraps; and mixtures of cardboard, wheat, maize, lucerne and linseed meals, rice pollard, and oat hulls (Handreck, 1986).
+In S. Africa, several tree species were successfully grown in mixtures of composted pine bark and worm digested abattoir wastes suggesting that vermicompost has potential use in commercial tree nurseries (Donald and Visser, 1989) In this study, addition of unleached vermicompost to a composted pine bark-based growing media was not conducive to survival and good growth for Acacia mearnsii and Pinus patula, but a fertilized 1:1 mixture was sufficient to raise Eucalyptus grandis seedlings
+<section>Glossary of terms</section>
+Activator - added to raw materials to speed up the composting process. This is usually in the form of additional nitrogen (either chemical fertilizer or organic).
+Additives - materials used to improve the chemical composition, physical structure, supply micro-organisms, or reduce nitrogen losses in a compost heap.
+Aerobic - in the presence of air or oxygen.
+Amendments - a material or component added to a growing media to improve its physical or chemical characteristics. Generally does not exceed 10% of the entire mass.
+Ammoniation - the lowering of a C/N ratio through the process of adding a source of nitrogen (ammonia, urea, etc.) to a material with which is difficult to decompose quickly (one with a high C/N ratio).
+Anaerobic - in the absence of air or oxygen.
+Bagasse - the plant residue remaining after the extraction of juices from sugarcane.
+Bulk Density - a ratio of the dried weight to its unit volume of material (g/cc).
+Carbon/Nitrogen Ratio (C/N) - the ratio of carbon to nitrogen by weight in an organic material. This is an important value when composting.
+CEC (Cation Exchange Capacity) - the sum of the exchangeable cations, measured in units called milliequivalent, that a material can adsorb per unit weight or volume - the larger the number, the greater the nutrientholding ability.
+Components - the ingredients or materials which comprise a growing media. A component is usually at least 10% of the media.
+Humus - complex and stable organic matter resulting from the decomposition of plant and animal material.
+Hydrophilic - material which attracts water.
+Inoculant - microorganisms (bacteria, fungi, etc.) added to a compost heap in order to promote composting.
+Macropores - large air-filled pores in material from which water can drain freely and serves to aerate.
+Marc - the residue remaining after a fruit has been pressed.
+Mature - when composting material has broken down completely to form humus.
+Mesophilic - the lower temperature stage in composting prior to and after the thermophilic stage) during which less active decomposition occurs.
+Micropores - the small pores in a media which hold water after gravity has drained excess water from macropores
+Organic Fraction - the portion of a media (or soil) consisting of organic material.
+Phytotoxic - that which is poisonous to plants.
+Pomace - the dry or pulpy residue of material from which a liquid (as juice or oil) has been pressed or extracted.
+Porosity - the percent of total volume not filled with solid particles.
+Potting Mixture/Media - used interchangeably with growing media to describe the artificial soils used in container nursery culture.
+Substrate - any media used in containers in which plants are grown.
+Thermophilic - the stage in composting during which high temperatures (45-70 °C) are reached. This stage is necessary for killing pathogens and weed seeds in compost.
+Wetting Agents - added to a media to increase the ability to absorb water. Often added when components are hydrophilic.
+<section>References</section>
+Barreveld, W.H. 1989. Rural use of lignocellulosic residues. FAO Agriculture Services Bulletin, No. 75. Rome, Italy
+Bhardwaj, K.K.R. and K. Kanwar. 1991. Utilization of wild sage (Lantana camara var aculeata) as a green-manure and raw material for composting. Indian Journal of Agricultural Sciences. 61(12):898-903.
+BOSTID. 1981. Returning wastes to the land. In: Food, fuel, and fertilizer from organic wastes. Washington, D.C. National Academy of Sciences, National Academy Press.
+Bowen, M.R. and Chow, J.Y.F. 1984. Sawdust based composts. Working Paper No. 24, FAO/UNDP-MAL/78/009, Forest Research Center, Sepilok, Malaysia. 8 p.
+Cappaert, I., O. Verdonck, and M. De Boodt. 1975. Composting of hardwood bark. Compost Science 16(3): 12- 15.
+Cappaert, I., O. Verdonck, and M. De Boodt. 1976a. Composting of bark from pulp mills and the use of bark compost as a substrate for plant breeding: I. The effect of chemical parameters on the rate of composting of bark. Compost Science 17(4):6-9.
+Casey, J. 1993. Personal Communication. President, IBF, Inc. San Francisco, CA.
+Chen, Y., Y. Inbar, and Y. Hadar. 1992. Compost residues reduce peat and pesticide use. Biocycle 32(6):48-51.
+Cull, D.C. 1981. Alternatives to peat as container media: organic resources in the UK. Acta Horticulturae 126:69-77.
+Dalton, G. 1987. The effect of potting media on seedling establishment. Australian Horticulture 85(1):20-21.
+Dalzell, H.W., A.J. Biddlestone, K.R. Gary, and K. Thurairajan. 1987. Soil management: compost production and use in tropical and subtropical environments. FAO Soils Bulletin no. 56. Andhra Pradesh, India. Medak Agricultural Center. 193 p.
+Dellmore, D. 1993. Personal Communication. Lignocell, The Woodlands, Texas.
+Dobbs, R. 1982. Growers are praising new potting soil made from sugar cane residue. Southern Florist & Nurseryman 95(33):14-15.
+Donald, D.G.M. 1986. South African nursery practice - the state of the art. South African Forestry Journal 139:36-47.
+Donald, D.G.M. and L.B. Visser. 1989. Vermicompost as a possible growth medium for the production of commercial forest nursery stock. Applied Plant Science 3(2): 110113.
+Edgren, J.W. 1973. Peat proves superior medium for Douglas-fir seedling growth. Tree Planters' Notes 24(2):6-7.
+Edwards, C.A. 1988. Breakdown of animal, vegetable and industrial wastes by earthworms. In: Earthworms in waste and environmental management. C.A. Edwards and E.F. Neuhauser (ed.): 21-31.
+Edwards, C.A. and I. Burrows. 1988. The potential of earthworm composts and plant growth media. In: Earthworms in waste and environmental management. C.A. Edwards and E.F. Neuhauser (ed.): 211-219.
+Erwiyono, R. and D.H. Goenadi. 1990. The potential use of coconut husk material as potting media: growth on cocoa seedlings on coconut husk/sand potting media. Indonesian Journal of Crop Science 5(1):25-34.
+Eusebio, M.A., M.V. Pacho, A.T. Cornejo, and M.J. Quimio Jr. 1984. The fertililzing value of sawdust composted with a brown rot fungus (Lenzites striata (Swartz ex Fries) Fries). Sylvatrop 9(3-4): 101 - 104.
+Goeltenboth, F. 1990. Subsistence agriculture improvement: manual for the humid tropics. Wau Ecology Institute. Wau, Papua New Guinea.
+Golueke, C. G. 1981. Selection and adaptation of a compost system. In: composting theory and practice for city, industry and farm. Edited by the Staff of Compost Science/Land Utilization. Emmaus, PA. The JG Press:76 - 85.
+Golueke, C.G. 1992. Bacteriology of composting. Biocycle 33(1):55-57.
+Gotaas, H.B. 1956. Composting. Sanitary Disposal and Reclamation of Organic Wastes. Monograph Series No. 31. Geneva, Switzerland. World Health Organization. 205 p.
+Handreck, K.A. 1986. Vermicomposts as components of potting media. Biocycle 27(9):58-62.
+Hodgson, T.J. 1980. Growing media for container nurseries: an interim statement. South African Forestry Journal 117:34-36.
+Hoitink, H.A.J. and H.A. Poole. 1980. Factors affecting quality of composts for utilization in container media. HortScience 15(2): 13 - 15.
+Inbar, Y., Y. Chen, Y. Hadar, and O. Verdonck. 1988. Composting of agricultural wastes for their use as a container media: simulation of the composting process. Biological Wastes 26:247-259.
+lnbar, Y., Y. Hadar and Y. Chen. 1993. Recycling of cattle manure: the composting process and characterization of maturity. Journal of Environmental Quality 22:857-863.
+Jackson, M.G. 1978. Treating straw for animal feeding. FAO Animal Production and Health Paper no. 10. Rome, Italy.
+Josiah, S.J. and N. Jones. 1992. Root trainers in seedling production systems for tropical forestry and agroforestry. Land Resources Series No. 4. Washington, D.C.: The World Bank, Asia Technical Department Agriculture Division. 32 p.
+Josiah, S.J. 1993. Containerized Tropical Nursery Practices. Land Resources Series No. 6. Washington, D.C.: The World Bank, Agriculture and Natural Resources Department. 105 p.
+Kayange, C.W. 1989. Nursery tea compost. Quarterly Newsletter Tea Researach Foundation of Central Africa. Mulanje, Malawi. 94:19-20.
+Kijkar, S. 1991. Handbook: Coconut husk as a potting medium. ASEAN-Canada Forest Tree Seed Centre Project, Muak-Lek, Saraburi, Thailand. 14 p.
+Landis, T.D. 1994. Personal Communication. USDA Forest Service. Portland, Oregon.
+Landis, T.D., R.W. Tinus, S.E. McDonald, and J.P. Barnett. 1990. Containers and growing media, Vol. 2, The Container Tree Nursery Manual. Agric. Handbk. 674. Washington, D.C.: USDA Forest Service. 88 p.
+Liegel, L.H. and C.R. Venator. 1987. A technical guide for forest nursery management in the Caribbean and Latin America. General Technical Report S0-67. New Orleans, LA: USDA Forest Service, Southern Forest Experiment Station.
+Logsdon, G. 1990. Composted products in modern agriculture. Biocycle 31(9):66-67.
+Marrero, J. 1965. Potting media for Honduras pine. Research Note ITF-5. Rio Piedras, PR: USDA Forest Service, Institute of Tropical Forestry. 5 p.
+Minnich, J. and M.L. Hunt. 1979. The Rodale Guide to Composting. Emmaus, PA. Rodale Press: 405 p.
+Nelson, W. 1993. Personal communication. Starke Ayres. Pietermaritzburg, South Africa.
+Orallo, C.A. 1979. Height growth and survival of Benguet pine (Pinus insularis Endl.) grown in various potting media. Sylvatrop 4(2)93-96.
+Plat, J.Y., D. Sayag, and L. Andre. 1984. High-rate composting of wool industry wastes. Biocycle 25(2):39-42.
+Poincelot, R.P. 1975. The biochemistry and methodology of composting. Bulletin 754. New Haven, CT: The Connecticut Agricultural Experiment Station. 18 p.
+Radjagukguk, B., Soekotjo, Oemi Hani'in Soeseno, and Santoso. 1983. A comparative study of peats and other media for containerized forest tree seedlings. Acta Horticulturae 150:449-458.
+Rivoire, P. 1981. Experimental recycling of organic matter on a cacao farm. Proceedings, 8th International Cocoa Research Conference: 1981 October 18-23, Cartagena, Colombia: 145-150.
+Safwat, M.S.A. 1981. Composting cottonseed wastes. In: composting - theory and practice for city, industry and farm. Edited by the Staff of Compost Science/Land Utilization, Emmaus, PA. The JG Press: 184- 189.
+Scagel, R.K. and G.A. Davis. 1988. Recommendations and alternative growing media for use in containerized nursery production of conifers: some physical and chemical properties of media and amendments. In: Landis, T.D., tech. coord. Proceedings, combined meeting of the Western Forest Nursery Associations; 1988 August 8-11, Vancouver, B.C. Gen. Tech. Rep. RM-167 Fort Collins, CO: USDA Forest Service, Rocky Mountain Forest and Range Experiment Station. p. 60-65
+Self, R.L. 1978. Pine bark potting mixes, grades and age, disease and fertility problems. Combined Proceedings International Plant Propagator's Society, Boulder, CO. 28:363368.
+Starke Ayres. 1993. Seedling News. Pietermaritzburg, S. Africa.
+Suptiadi, G. and Valli, I. 1988. Nursery Manual ATA 267, Enso-Gietzeit OY Finland. 76p.
+Tauk, S.M. 1985. Use of fungal inocula and pumice for decomposing coffee pulp. Agriculture, Ecosystems and Environment 14:291-298.
+Valli, I. 1993. Personal Communication. Central Nurseries Development Project. Jakarta, Indonesia.
+Van Landingham, R.D. 1978. Pine bark media in container growing at Wight nurseries. International Plant Propagators' Society, Combined Proceedings 28:370-372.
+Venator, C.R. 1993. Personal Communication. Venator Enterprises,. Iowa.
+Venator, C.R., L.H. Liegel, and J.P. Barnett. 1985. Bare-root container production of pines in the American Tropics. In: D.B. South (ed). Proceedings of the International Symposium on Nursery Management Practices for the southern Pines. 1985 4-9 August. Montgomery, Alabama: 172-81
+Verdonck, O. 1983 . Reviewing and evaluation of new materials used as substrates. Acta Horticulturae 150:467-473.
+<section>Distributors of world bank publications</section>
+Prices and credit terms vary from country lo country
+Consult your 101 al distributor before placing allan order.
+ALBANIA
+Adrion Ltd
+Penal Rexhepi Str
+Par 9, Shk. 1, Ap 4
+Tirana
+Tel: (42) 274 19; 22172
+Fax: (42) 274 19
+ARGENTINA
+Oficina del Libro International
+Av Cordoba 1877
+1120 Buenos Aires
+Tel: (1) 815 8156
+Fax (1) 815-8154
+Australia, Fiji Papua New Guinea, Solomon Islands, Vanuatu, and Western Samoa
+D A Information Services
+648 Whitehorse Road
+Milcham 3132
+Victoria
+Tel: (61) 3 9210 7777
+Fax: (61) 3 9210 7788
+URL: hftp:/www dadirect.com au
+Austria
+Gerold and Co
+Graben 31
+A 1011 Wien
+Tel (1) 533 5014-0
+Fax (1) 512-47-3D29
+Bangladesh
+Micro Industries Development
+Assistance Society (MIDAS) House 5,
+Road 16 Dhanmondi R/Area Dhaka 1209
+Tel. 17) 376427
+Fax (2) 8 11188
+Belgium
+Jean De Lannoy
+Av du Roi 702
+1 060 Brussels
+Tel (2) 538 5169
+Fax (2) 538 0841
+Brazil
+Publicacões Tecnicas Internationals
+Ltda.
+Rua Peixolo Gomide, 209
+01409 Sao Paulo, SP
+Tel: (11) 259 6644
+Fax: (11)258-6990
+Canada
+Renoul Publishing Co Ltd.
+1294 Algoma Road
+Ottawa, Ontafio K 18 3W8
+Tel 613 741-4333
+Fax. 613-741 5439
+China
+China Financial,s Economic
+Publishing House
+6, Da Fo Si Dong Jie
+Beijing
+Tel (1) 333 8257
+Fax (1) 401-7365
+Colombia
+Infoenlace Ltda
+Apartado Aereo 34270
+Rogolá D E
+Tel: (1)285-7798
+Far (11 285-2798
+Côte d'Ivoire
+Centre d Edition el de Diffusion
+Africanes (CEDA)
+04B.P.541
+Abidjan 04 Plateau
+Tel 725 24-6510
+Fax: 275-25 0567
+Cyprus
+Center of Applied Research
+Cyprus Co/ege
+6, Diogenes Street, Engomi
+PO Box 2006
+Nicosia
+Tel 244 1730
+Fax: 246 2051
+Czech republic National Information
+Center prodejna, Konvikiska 5 CS - 113 57 Prague I
+Tel (2) 2422 9433
+Fax: (2) 2422 1484
+URL http:/www nis czl/
+Denmark
+SambndsLifferalur
+Rosenoems Allé 11
+OK-1970 Fredenksberg C
+Tel- (31) 351942
+Fax (31) 357822
+Ecuador
+Facultad Lalinoamericana de Ciencias Sociales
+FLASCO SEDE Ecuador Caffe Ulpiano Paer
+118 yAv Patria Quilo, Ecuador
+Tel: (2) 542 714, 542 716:528 200
+Fax: (2) 566139
+Egypt, Arab republic of Al Ahram
+Al Galaa Street
+Cairo
+Tel: (2) 578-6083
+Fax: (7) 578 6833
+The Middle East Observer
+41. Sherif Street
+Cairo
+Tel: (2) 393 9732
+Fax: (2) 393-9732
+Finland
+Akaleemmen Kirjakauppa
+PO Box 23 FIN-00371 Hetsinki
+Tel (0) 12141
+Fax: (0) 121-4441
+URL: http./booknel cultnet fi/aha/
+France
+World Bank Publications 66. avenue
+d'léna 75116 Paris
+Tel (1) 40 59 30 56/57
+Fax (1)40-69-3066
+Germany
+UNO-Verlag
+Poppelsdorfer Allee 55
+53115 Bonn
+Tel: (228) 212940
+Fax: (228)217492
+Greece
+Papasotiriou 8 A
+35, Stournara Sh
+106 82 Athens
+Tel: (1) 364-1826
+Fax (1) 364-8254
+Hong Kong, Macao
+Asia 2000 Ltd
+Sales & Circulation Deparlment
+Seabird House, unit 1101-02
+22-28 Wyndham Street. Central
+Hong Kong
+Tel 852 2530 1403
+Fax- 8522526 1107
+URL- http//www sales@asia2000 com hk
+Hungary
+Foundation for Markel
+Economy
+Dombovari U1 17 19
+H 1 11 7 Budapest
+Tel 361204 2951 or 36 1204 2948
+Fax: 36 1 204 2953
+India
+A/ied Publisher s Ltd
+751 Mount Road
+Madras 600 002
+Tel (44) 852 3938
+Fax: (44) 852 0649
+Indonesia
+Pt Indira Limited
+Jalan Borobodur 20
+PO. Box 181
+Jakarta 10320
+Tel (21) 390 4290
+Far: (21) 421 4289
+Iran
+Kowkab Publishers
+PO Box 19575-511 Teheran
+Tel: (21) 2583723
+Fax: 98 (21) 258 3723
+Ketab
+Sara Co Publishers Khaled Eslamboli
+Ave . 61h Street Kusheh Detafrooz No. 8 Tehran
+Tel 87178I 9 or 8716104
+Fax: 8862479
+Ireland
+Government Supplies Agency Ofig an ISolathair 45
+Harcourt Road Dublin 2
+Tel: (1)461-3111
+Fax: (1) 475 2670
+Israel
+Yozmol Literature Ltd
+PO Box 56055
+Tel Aviv 61560
+Tel (3) 5285 397
+Fax: (3) 5285-397
+ROY
+International PO Box 13056 Tel Aviv 61130
+Tel (3)5461423
+Fax: (3) 5461442
+Paleslinian Authonly/Middle East
+Index Information Services
+PO B 19502 Jerusalem
+Tel: (2) 271219
+ITALY
+Licosa Commissionaria Sansoni SPA
+Via Duca D Calabna 1/1
+Casella Postale 552
+50125 Firenze
+Tel (55) 645 415
+Fax: (55) 641 257
+Jamaica
+Ian Randle Pubishers Ltd
+206 Old Hope Road
+Kingston 6
+Tel: 809-927 2085
+Fax: 809 977 0243
+Japan
+Eastem Book Service
+Hongo 3 Chome
+Bunkyo ku 113
+Tokyo
+Tel (03) 3818 0861
+Fax (03) 3818 0864
+URL: http://www bekkoame or jp/-svt ebs
+Kenya
+Africa Book Service (E A ) Ltd
+Quaran House Mlangano Street
+PO Box 45245
+Nairobi
+Tel (2) 2364 1
+Fax: (2) 330272
+Korea, republic of Daejon Trading Co Ltd
+PO Box 34
+Yeoeida
+Seoul
+Tel (2) 785 1631/4
+Fax: (2) 784-0315
+Malaysia
+University of Malaya Cooperative
+Book shop Limited
+PO Box 1127
+Jalan Panlai Baru
+59700 Kuala Lumpur
+Tel: (3) 756-S000
+Fax: (3) 755 4424
+Mexico infotec
+Aparlado Postal 22-860
+14060 Tlalpan
+Mexico D H
+Tel (5) 606 00 1 1
+Fax: (5) 606-03B6
+Netherlands
+De Lindeboom/lnOr Publikaties
+PO Box 202
+7480 AE Haaksbergen
+Tel (53) 574 0004
+Fax: 153) 572 9296
+Private Mail Bag 93914
+New Market
+Auckland
+Tel (915?4 8119
+Fax (9) 524 8067
+Nigeria
+University Press Limited
+Three Crowns Building Jericho
+Private Mail Bag 5095
+Ibadan
+Tel: (22)41 1356
+Fax: (22) 41-2056
+Norway
+Narvesen Information Center
+Book Department
+PO Box 6l25 Etterstad
+N-0602 Oslo 6
+Tel (22) 57 3300
+Fax: (22) 681901
+PAKISTAN
+Mirza Book Agency
+65 Shahrah e Ouaid-e Azam
+PO Box No 729
+Labore 54000
+Tel (42) 7353601
+Fax (42) 7565283
+Oxford University Press
+5 Bangalore Town
+Sharae Faisal
+PO Box 13033
+Karachi-753S0
+Tel (21) 446307
+Fax (21) 454-7640
+Peru
+Editorial Desarrollo SA
+Apartado 3824
+Lima I
+Tel: (14) 285380
+Fax: (14)28S628
+Philippines
+International Booksource Center Inc
+Suile 720. Cityland 10
+Condominium Tower 2
+HIV dela Costa comer
+Vatero St.
+Makati. Metro Manila
+Tel (2)817-9676
+Fax (2)817 1741
+Poland
+International Publishing Service U1
+Piekna 3 1/37 00-577 Warzawa
+Tel (2) 628 6089
+Fax (2) 621 7255
+Portugal
+Livraria Portugal
+Rua Do Carmo 70 74
+1 200 Lisbon
+Tel (1) 347 4982
+Fax: (1 ) 347 0264
+Romania
+Compani De Librarii Bucuresti SA
+Str Lipscani no 26 sector 3
+Bucharest
+Tel (1) 613 9645
+Fax (1) 312 4000
+Russian federation lsdalelslvo Ves Mir
+9a Kofpachniy Pereufok
+Moscow 101831
+Tel (95) 917 87 49
+Fax: (95) 917 92 59
+Saudi Arabia, Qatar
+Jarir Book Store
+PO Box 3196
+Riyadh 11471
+Tel (1) 477 3140
+Fax (1) 477 2940
+Singapore
+Taiwan Myanmar Brunei Asahgate
+Publishing Asia Pacific Ple Ltd 41 Kaffang
+Pudding Road 104 03 Golden Wheel Building Singapore 349116
+Tel (65) 7415166
+Fax (65) 742 9356
+e-mail ashgale@asianconnect com
+Slovak republic
+Slovart G T G Ltd
+Krupinsk8 4
+PO Box 152
+852 99 Bratislava 5
+Tel (7) 839472
+Fax (7) 83.9485
+South Africa, Botswana
+For single titles
+Oxford University Press
+Southern Africa
+PO Box 1141
+Cape Town 8000
+Tel: (21) 45-72b6
+Fax: (21) 45-7265
+For subscription omens:
+International Subscription Service
+PO Box 41095
+Craighall
+Johannesburg 2024
+Tel (11) 8801448
+Fax (11) 880 6248
+Spain
+Mundi-Prensa Libros. S A Castello 37 28001 Madrid
+Tel: (1) 431-3399
+Fax: (1) 5753998
+http //www isai es/mprensa
+Mundi- Prensa Barcelona
+Consell de Cent 391
+08009 Barcelona
+Tel (3) 488-3009
+Fax (3) 487 7659
+Sri Lanka the maldives
+Lake House Bookshop PO Box 244 100 Sir Chittampalam
+A Gardiner Mawatha Colombo 2
+Tel (1) 32105
+Fax (1) 432104
+Sweden
+Fritzes Customer Service
+Regeringsgalon 12 5 106 47 Stockholm
+Tel: (8) 690 90 90
+Fax: (8) 2147 77
+Wonnergren-Williams AB
+P O Box 1305
+5 17175 Solna
+Tel (8) 705 97 50
+Fax (8) 27-00 71
+Switzerland
+Libraine Payot
+Service Institutional
+Cóles-de Monthenon 30
+1002 Lausanne
+Tel (021)-120 2511
+Fax (021)-311-1393 1393
+Van Dermro Editions Technq
+Ch de Lacurez 41
+CH1807 Blonay
+Tel: (021) 943 2673
+Fax: (021) 943 3505
+Tanzania
+Oxford University Press
+Maktaba Street
+PO Box 5299
+Dar es Salaam
+Tel (51) 29209
+Fax (51) 46822
+Thailand
+Central Books Disiribution
+306 Silom Road
+Bangkok
+Tel (2) 235 5400
+Fax (2) 237 8321
+TRINIDAD & TOBAGO JAM.
+Systematix Studies Unit
+49 Watts Street
+Curepe
+Trinidad West Indies
+Tel 809-662 5654
+Fax: 809 662 5654
+Uganda
+Gustro Ltd
+Madhvani Buiding
+PO Box 9397
+Plol 16/4 Jinja Rd
+Kampala
+Tel/Fax (14)254763
+United Kingdom
+Microinto Ltd
+PO Box 3
+Anon Hampshine GU34 2PG
+England
+Tel (1420)86848
+Fax: (1420)B98b9
+Zambia
+University Bookshop
+Great East Road Campus
+PO. Box 32379
+Lusaka
+Tel: (1) 213221 E d 482
+Zimbabwe
+Longman Zimbabwe (Pie Ltd
+Tourte Road. Ardbennie
+PO Box ST125
+Southerton
+Harare
+Tel: (4)662711
+Fax (4) 662716
