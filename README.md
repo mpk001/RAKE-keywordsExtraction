@@ -1,0 +1,1 @@
+这是一个使用RAKE提取英文句子关键词的项目，运行rake_tutorial.py即可，你可以修改rake_tutorial.py中main函数实现对自己的英文文档关键词提取。
